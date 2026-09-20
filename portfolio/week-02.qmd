@@ -1,8 +1,8 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap Dinilai"
+self_score: "17"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -22,4 +22,66 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 [Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Episode
+
+**Event:** Teman A meminta saya mengganti data tabel karena dirasa kurang bisa dipahami dalam konteks lomba.
+
+| Lapisan |  |
+|---|---|
+| Fact | Seluruh isi tabel dan penjelasannya harus direvisi karena kurang spesifik  |
+| Initial story | "Teman mungkin menganggap isi tabel kurang dapat diandalkan."  |
+| Emotion/body signal | Malu 6/10  |
+| Reactive character | "Pembela" merasa bahwa isi tabel sudah cukup dan tidak perlu direvisi |
+| Desired character | "Pembelajar" yang berusaha menelaah kembali isi tabel apakah benar-benar masih ambigu.  |
+
+initial story: Teman berpendapat bahwa tabel kurang jelas bersamaan dengan berbagai pertanyaan.
+
+## Alternative narratives
+
+1. **Invitation to improve:** pendapat teman sebenarnya demi kebaikan kelompok, karena dapat memengaruhi nilai kelompok pada lomba.
+2. **Constraint hypothehsis:** Kondisi larut malam dan batas waktu yang sudah dekat membuat saya mengantuk dan kurang fokus, tetapi revisi ini bukan dikerjakan saya seorang sehingga masih memungkinkan.
+
+Alternative ke- paling .
+
+## Internal conversation dan agreement
+
+> **Pembela:** "Pendapat teman mungkin benar, tetapi batas waktu pengumpulan semakin dekat dan mengubah hal kecil pada tabel bisa memengaruhi penjelasan detail di bawahnya."" 
+> **Pembelajar:** "Merevisi ini memberi saya pelajaran agar tetap teliti dan menyusun argumen yang lebih konkrit."" 
+> **Saya:** "Saya akan berargumen mengenai titik yang kurang jelas sembari mencoba memikirkan tabel rancangan yang lebih konkrit dan akan memutuskan setelahnya"
+
+**Internal agreement:** "Saya setuju akan merivisi tabel setelah berdiskusi dengan teman saya".
+
+## Evidence tindakan
+
+- Dokumen yang terdapat tabel tersebut.
+- dokumentasi meeting melalui Google Meet 
+
+Mitra A: "Kita butuh angka dan penjelasan yang lebih konkrit dari ini agar sama-sama paham." 
+Saya : Melakukan revisi dengan dibantu teman tersebut.
+
+## Feedback, AI, dan refleksi
+
+Tidak menggunakan AI pada pengerjaan tugas ini, penggunaan AI adalah untuk menanyakan contoh baru yang lebih konkrit.
+
+Next practice: Ketika menerima masukan, saya akan diam mencerna masukannya terlebih dahulu lalu menanyakan alasannya dan meminta bantuannya dalam menilai kembali revisi.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | internal character tertulis sesuai apa adanya |
+| Objective & State | 3 | Reaction cukup jelas |
+| Repertoire, Language & AI | 4 | konsep pause dan clarification digunakan dengan baik |
+| Response & Adaptation | 3 | Berdiskusi dengan teman dalam menyelesaikan masalah |
+| Agreement, Action & Relationship | 4 | Memutuskan mengikuti saran revisi sembari meminta bantuan teman |
+
+**Total:** 17 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
