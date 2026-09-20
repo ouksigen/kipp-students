@@ -2,7 +2,7 @@
 title: "Intra-Self Communication Journal"
 week: 2
 status: "Siap Dinilai"
-self_score: "17"
+self_score: "18"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -72,10 +72,10 @@ Next practice: Ketika menerima masukan, saya akan diam mencerna masukannya terle
 | Person & Character | 3 | internal character tertulis sesuai apa adanya |
 | Objective & State | 3 | Reaction cukup jelas |
 | Repertoire, Language & AI | 4 | konsep pause dan clarification digunakan dengan baik |
-| Response & Adaptation | 3 | Berdiskusi dengan teman dalam menyelesaikan masalah |
+| Response & Adaptation | 4 | Berdiskusi dengan teman dalam menyelesaikan masalah |
 | Agreement, Action & Relationship | 4 | Memutuskan mengikuti saran revisi sembari meminta bantuan teman |
 
-**Total:** 17 / 20
+**Total:** 18 / 20
 
 ::: {.assessor-only}
 ### Assessment dosen
