@@ -69,9 +69,9 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 
 ## III. Lembar Kerja Mahasiswa
 
-**Nama Praktikan:** ___________________________  
-**Nama Mitra Latihan:** _______________________  
-**Tanggal Pelaksanaan:** ______________________  
+**Nama Praktikan:** Rijal Kholis Al-Ausath  
+**Nama Mitra Latihan:** Muhammad Daffa A  
+**Tanggal Pelaksanaan:** 27 September 2026  
 
 ### **BAGIAN A: Catatan Pendengar (Diisi saat Anda menjadi Pendengar)**
 *Tuliskan hasil tangkapan Anda terhadap cerita mitra Anda menggunakan kerangka Tiga Tingkat Mendengarkan:* [3.8]
@@ -79,25 +79,23 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 1. **Tingkat 1 - Kata (Isi Literal Masalah):** [3.8.1]
    *Apa fakta objektif atau kejadian nyata yang diceritakan oleh mitra Anda?* (Hindari generalisasi seperti "selalu" atau "tidak pernah") [2.7.1]
    *Jawab:*
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Dafa merasa PC yang dimilikinya saat ini berspesifikasi bare minimum untuk seorang mahasiswa IT. Saat ini di awal semester performanya masih dirasa cukup, namun Dafa khawatir dan takut jika nanti tugas-tugas besar mulai banyak, PC-nya akan mulai kewalahan.
 
 2. **Tingkat 2 - Makna (Parafrasa Anda):** [3.8.2]
    *Tuliskan kembali kalimat rangkuman/parafrasa yang Anda gunakan di depan mitra untuk mengonfirmasi cerita mereka.*
    *Jawab:*
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   "Alasan kamu mau upgrade PC atau beli laptop baru untuk apa? apakah karena ada projek pribadi atau sekedar ingin saja?"
 
 3. **Tingkat 3 - Pribadi (Tebakan Emosi & Kebutuhan):** [3.8.3]
    *Tuliskan tebakan emosi dan kebutuhan bernilai yang Anda sampaikan secara tentatif.* (Contoh: Cemas karena butuh kepastian; kesal karena butuh penghargaan) [2.7.4, 3.8.3]
    *Jawab:*
-   *   **Perasaan Mitra:** _____________________________________________________________________
-   *   **Kebutuhan/Nilai Mitra:** ______________________________________________________________
+   *   **Perasaan Mitra:** Cemas dan bingung mengambil keputusan
+   *   **Kebutuhan/Nilai Mitra:** Kepastian mengenai tingkat kebutuhan laptop selama kuliah.
 
 4. **Respons Pembicara terhadap "Pertanyaan Emas" Anda:** [3.16]
    *Apa pilihan tindakan yang akhirnya diinginkan oleh mitra Anda? (Hanya ingin didengarkan / dibantu memetakan pilihan / butuh saran)*
    *Jawab:*
-   Mitra memilih: ___________________________________________________________________________
+   Mitra memilih: Meminta saran terkait masalahnya.
 
 ---
 
@@ -107,14 +105,12 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 1. **Momen Kehadiran Paling Berdampak:**
    *Kapan mitra merasa paling didengarkan dan dipahami secara utuh? Tindakan verbal/nonverbal apa dari Anda yang membantunya?*
    *Jawab:*
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Saat saya berhasil memetakan titik masalah mobilitasnya secara presisi ("Mungkin masalahnya nanti jika kamu diajak teman untuk nugas bareng tapi bukan di kos"), Dafa langsung mengonfirmasi dengan antusias: "nah itu dia jal..." karena merasa kekhawatirannya dipahami secara eksplisit.
 
 2. **Momen Asumsi atau "Buru-buru Memperbaiki":**
    *Di titik mana Anda tanpa sengaja membuat asumsi, menyela, memberikan ekspresi menghakimi, atau tampak ingin langsung memberikan solusi?*
    *Jawab:*
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Saya mungkin terlalu cepat menyarankan sebaiknya upgrade PC padahal kami berdua belum sepenuhnya yakin apakah laptop sebenarnya sangat dibutuhkan dalam menjalani perkuliahan kedepannya atau tidak.
 
 ---
 
@@ -124,21 +120,18 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 1. **Refleksi Kebiasaan Otomatis:** [3.18]
    *Apakah di kehidupan nyata Anda lebih sering berusaha langsung "memperbaiki masalah" atau mendengarkan terlebih dahulu? Apa yang Anda rasakan ketika dipaksa "menahan diri" dari memberikan solusi selama latihan ini?*
    *Jawab:*
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Saya cenderung terbiasa mendengarkan masalahnya terlebih dahulu, namun terkadang saya masih terburu-buru berpendapat meskipun belum mengetahui konteks sepenuhnya.
 
 2. **Memahami vs. Menyetujui:** [3.10, 3.18]
    *Bagaimana latihan ini membantu Anda menyadari bahwa Anda bisa memahami dan memvalidasi perasaan seseorang secara mendalam tanpa harus menyetujui seluruh tindakan atau asumsi mereka?*
    *Jawab:*
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Latihan ini mengajarkan saya bahwa memahami kecemasan teman terhadap spesifikasi komputer tidak berarti saya harus menyetujui bahwa ia wajib langsung membeli laptop baru. Saya bisa memvalidasi rasa khawatirnya tanpa harus buru-buru menyetujui keputusan finansialnya.
 
 3. **Komitmen Langkah Pertumbuhan:** [9.1, B.2]
    *Tuliskan satu komitmen perilaku spesifik dan terukur yang akan Anda latih dalam 14 hari ke depan bersama keluarga atau sahabat terdekat Anda!* (Contoh: *"Saya akan menahan diri dari memberikan saran selama 5 menit pertama ketika pasangan/adik saya mulai mengeluh tentang harinya."*) [D.3]
    *Jawab:*
    Dalam 14 hari ke depan, saya berkomitmen untuk:
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Akan mendengarkan sepenuhnya terlebih dahulu untuk mengetahui konteks permasalahan lawan bicara dan tidak terburu-buru memberikan solusi jika tidak diminta.
 
 ---
 
@@ -148,15 +141,15 @@ Gunakan rubrik di bawah ini untuk menilai performa Anda sendiri selama sesi lati
 
 | Dimensi Penilaian | Awal (1) | Berkembang (2) | Cakap (3) | Unggul (4) |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Kehadiran & Menyimak Aktif** [C.2.1] | Menyiapkan bantahan, menyela cerita, atau sibuk melihat gawai/sekitar saat mitra berbicara. | Mendengarkan isi utama, tetapi perhatian sesekali teralih atau tidak fokus pada bahasa tubuh mitra. | Menyimak secara utuh tanpa interupsi, menunjukkan kontak mata yang hangat dan bahasa tubuh yang terbuka. | Menghadirkan ruang hening yang aman, menangkap bahasa nonverbal, dan memberikan tanda penerimaan penuh. |
-| **2. Pemisahan Fakta & Interpretasi** [C.2.2] | Segera membuat kesimpulan sepihak tentang karakter mitra atau buru-buru menyodorkan label negatif. | Menyadari perbedaan fakta dan asumsi, tetapi parafrasa masih tercampur dengan penilaian pribadi. | Mampu merangkum fakta cerita secara jernih dan melakukan parafrasa yang akurat tanpa bumbu asumsi. | Memisahkan fakta objektif dari emosi batin dengan sangat presisi, mengonfirmasikan parafrasa dengan rendah hati. |
-| **3. Pendalaman Rasa Ingin Tahu (Pertanyaan)** [C.2.3] | Mengajukan pertanyaan menuduh ("Kenapa kamu begitu?") atau memberikan interogasi beruntun. | Mengajukan pertanyaan yang berorientasi mengarahkan mitra menuju solusi yang Anda pikirkan. | Mengajukan maksimal 2 pertanyaan terbuka yang tulus membantu mitra mengeksplorasi perasaannya sendiri. | Pertanyaan yang diajukan membuka lapis pemahaman baru bagi Pembicara tentang masalahnya sendiri secara sukarela. |
-| **4. Validasi Emosi & Otonomi** [C.2.5] | Mengabaikan perasaan mitra, meremehkannya ("gitu aja sedih"), atau langsung menjejalkan solusi sepihak. | Menamai emosi mitra secara umum tetapi buru-buru beralih ke agenda penyelesaian. | Memvalidasi emosi mitra secara tentatif dan menanyakan jenis bantuan yang diinginkan di akhir sesi. | Validasi emosi terasa sangat hangat dan tulus; menghormati penuh otonomi mitra untuk menolak atau menerima saran. |
+| **1. Kehadiran & Menyimak Aktif** [C.2.1] | Menyiapkan bantahan, menyela cerita, atau sibuk melihat gawai/sekitar saat mitra berbicara. | Mendengarkan isi utama, tetapi perhatian sesekali teralih atau tidak fokus pada bahasa tubuh mitra. | Menyimak secara utuh tanpa interupsi, menunjukkan kontak mata yang hangat dan bahasa tubuh yang terbuka. $\checkmark$| Menghadirkan ruang hening yang aman, menangkap bahasa nonverbal, dan memberikan tanda penerimaan penuh. |
+| **2. Pemisahan Fakta & Interpretasi** [C.2.2] | Segera membuat kesimpulan sepihak tentang karakter mitra atau buru-buru menyodorkan label negatif. | Menyadari perbedaan fakta dan asumsi, tetapi parafrasa masih tercampur dengan penilaian pribadi. | Mampu merangkum fakta cerita secara jernih dan melakukan parafrasa yang akurat tanpa bumbu asumsi. $\checkmark$ | Memisahkan fakta objektif dari emosi batin dengan sangat presisi, mengonfirmasikan parafrasa dengan rendah hati. |
+| **3. Pendalaman Rasa Ingin Tahu (Pertanyaan)** [C.2.3] | Mengajukan pertanyaan menuduh ("Kenapa kamu begitu?") atau memberikan interogasi beruntun. | Mengajukan pertanyaan yang berorientasi mengarahkan mitra menuju solusi yang Anda pikirkan. | Mengajukan maksimal 2 pertanyaan terbuka yang tulus membantu mitra mengeksplorasi perasaannya sendiri. $\checkmark$ | Pertanyaan yang diajukan membuka lapis pemahaman baru bagi Pembicara tentang masalahnya sendiri secara sukarela. |
+| **4. Validasi Emosi & Otonomi** [C.2.5] | Mengabaikan perasaan mitra, meremehkannya ("gitu aja sedih"), atau langsung menjejalkan solusi sepihak. | Menamai emosi mitra secara umum tetapi buru-buru beralih ke agenda penyelesaian. | Memvalidasi emosi mitra secara tentatif dan menanyakan jenis bantuan yang diinginkan di akhir sesi. $\checkmark$ | Validasi emosi terasa sangat hangat dan tulus; menghormati penuh otonomi mitra untuk menolak atau menerima saran. |
 
 ### **Penghitungan Nilai Evaluasi Diri:**
 $$\text{Nilai Akhir} = \left( \frac{\text{Total Skor Keempat Dimensi}}{16} \right) \times 100$$
-*   *Skor Anda:* ______ / 16
-*   *Nilai Konversi:* ______ (Skala 100)
+*   *Skor Anda:* 13 / 16
+*   *Nilai Konversi:* 81 (Skala 100)
 
 ---
 *Simpan dokumen panduan, catatan umpan balik, dan jurnal refleksi ini sebagai salah satu **Bukti Portofolio Pembelajaran** Anda untuk Bagian I.* [1.12, B.1]

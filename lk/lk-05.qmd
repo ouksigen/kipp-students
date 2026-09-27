@@ -42,10 +42,10 @@ Jika narasumber mengalami kebuntuan selama wawancara, gunakan jenis pertanyaan b
 ## 📝 FASE 2: LEMBAR PENGERJAAN MAHASISWA
 
 ### 👥 1. Profil Narasumber (Disamarkan Demi Privasi)
-*   **Nama Samaran:** 
-*   **Peran/Pekerjaan Nyata:** 
-*   **Domain Hubungan:** Rekan Kerja / Pelanggan / Rekan Mahasiswa *(Coret yang tidak perlu)*
-*   **Konteks Lingkungan:** *(Misal: Kantin Kampus, Kelompok Proyek Kelas, Administrasi Jurusan)*
+*   **Nama Samaran:** MD
+*   **Peran/Pekerjaan Nyata:** Mahasiswa ITB
+*   **Domain Hubungan:** Rekan Mahasiswa *(Coret yang tidak perlu)*
+*   **Konteks Lingkungan:** *Kampus ITB Ganesha, kuliah kelas sore*
 
 ---
 
@@ -53,23 +53,33 @@ Jika narasumber mengalami kebuntuan selama wawancara, gunakan jenis pertanyaan b
 
 #### **Pertanyaan 1: Kejadian Nyata & Contoh Konkret**
 *   *Tuliskan pertanyaan Anda & contoh kasus nyata yang diceritakan narasumber:*
-    > 
+    > Pertanyaan: "Boleh cerita pengalaman konkretmu pas dapat jadwal kuliah maraton dari jam 13.00 sampai 18.00? Gimana persisnya cara kamu ngatur waktu buat sholat Ashar di antara transisi kelas itu?"
+    
+    Jawaban Narasumber: Hari di mana ada jadwal berturut-turut dari jam 13.00 sampai 18.00 (seperti kelas Arsitektur Komputer, Jaringan Komputer, dan Pengembangan Basis Data) adalah hari yang sangat melelahkan. Apalagi tidak diberikan waktu sholat secara eksplisit di jadwal. Akibatnya, kita terpaksa harus 'membolos' atau datang terlambat di salah satu kelas entah di awal jam Jarkom atau awal jam PBD hanya untuk mengejar sholat Ashar.
 
 #### **Pertanyaan 2: Dampak Nyata & Beban Masalah**
 *   *Tuliskan dampak langsung dari masalah tersebut terhadap pekerjaan, waktu, atau perasaan mereka:*
-    > 
+    > Pertanyaan: "Mengapa situasi terburu-buru di jam transisi itu jadi masalah buatmu? Apa dampaknya ke ibadah atau fokus belajarmu?"
+
+    Jawaban Narasumber: Situasi terburu-buru saat ibadah karena kita merasa 'mencuri waktu' atau terlambat masuk kelas membuat sholat menjadi tidak tenang dan tergesa-gesa. Selain itu, ada beban mental karena tertinggal materi di menit-menit awal perkuliahan berikutnya.
 
 #### **Pertanyaan 3: Pemetaan Pihak Terdampak**
 *   *Siapa saja pribadi dan peran yang ikut terganggu oleh peristiwa ini?*
-    > 
+    > Pertanyaan: "Selain kamu sendiri, siapa lagi yang ikut kena imbas dari tidak adanya jeda sholat ini?"
+    
+    Jawaban Narasumber: Tentu diri sendiri, teman-teman sekelas yang beragama Islam, serta dosen yang mengajar. Dosen jadi terdampak karena harus merelakan beberapa mahasiswanya tidak ada di kelas pada awal jam kuliah demi menunaikan sholat.
 
 #### **Pertanyaan 4: Gambaran Keadaan yang Lebih Baik (Hasil Akhir, Bukan Fitur)**
 *   *Bagaimana situasi ideal yang diharapkan? Ingat: Fokus pada KEMAMPUAN narasumber, bukan teknologi digitalnya.*
-    > 
+    > Pertanyaan: "Kalau situasi ini bisa diperbaiki, seperti apa jadwal atau kondisi ideal yang kamu harapkan?"
+    
+    Jawaban Narasumber: Jadwal yang ideal adalah adanya selang waktu (jedabuffer) sekitar 30 menit khusus untuk sholat. Misalnya, selesai kelas Arsikom jam 15.00, maka kelas Jarkom baru dimulai jam 15.30. Meskipun waktu pulang bergeser jadi jam 18.30, menurut saya jauh lebih baik pulang sedikit lebih malam daripada harus sholat terburu-buru.
 
 #### **Pertanyaan 5: Batasan & Kendala Lapangan**
 *   *Apa saja kendala nyata dari segi waktu, biaya, kebijakan, atau kemampuan yang membatasi solusi mereka?*
-    > 
+    > Pertanyaan: "Menurut pandanganmu, apa kendala dari pihak kampus yang bikin jeda waktu sholat ini sulit diberikan?"
+    
+    Jawaban Narasumber: Hal ini terjadi kemungkinan karena padatnya jadwal kurikulum serta ketimpangan antara jumlah mahasiswa dan ketersediaan ruang kelas yang terbatas di kampus ITB Ganesha.
 
 ---
 
@@ -87,19 +97,19 @@ Gunakan formula terstruktur dari buku ajar berikut untuk menyusun masalah narasu
 
 ### ✍️ Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)
 *Susun draf pertama Anda setelah selesai mewawancarai narasumber:*
-> 
+> Mahasiswa Muslim STI ITB mengalami ketergesa-gesaan saat menunaikan ibadah dan terpaksa melewatkan menit-menit awal perkuliahan ketika menjalani jadwal kuliah maraton sore (13.00–18.00) tanpa jeda sholat resmi, sehingga ibadah menjadi tidak tenang dan dosen kehilangan kehadiran mahasiswa di awal kelas. Ia membutuhkan kejelasan alur dan kepastian jeda waktu transisi yang cukup untuk ibadah di antara jam kuliah, dengan mempertimbangkan kepadatan jadwal perkuliahan dan keterbatasan ruang kelas di ITB Ganesha.
 
 ### 🔄 Draft 2: Pernyataan Masalah Terkonfirmasi (Setelah Konfirmasi)
 *Bacakan draf pertama Anda kepada narasumber, minta masukan mereka ("Apakah rumusan ini menggambarkan situasi Anda?"), dan tulis perbaikannya di bawah ini berdasarkan koreksi narasumber:*
-> 
+> Mahasiswa Muslim STI ITB mengalami kekhusyukan ibadah yang terganggu serta harus mengorbankan kehadiran awal jam kuliah ketika menjalani perkuliahan sore berturut-turut tanpa jeda waktu ibadah, sehingga tertinggal materi kuliah dan merasa bersalah kepada dosen pengajar. Ia membutuhkan jadwal perkuliahan dengan jeda transisi resmi (minimal 30 menit) untuk ibadah, meskipun harus menyetujui konsekuensi jam pulang yang lebih lambat, dengan mempertimbangkan keterbatasan fasilitas ruangan dan kepadatan jadwal akademik kampus.
 
 ---
 
 ## 🎯 FASE 4: REFLEKSI INTRAPRIBADI
 Tuliskan refleksi singkat Anda (100–150 kata) mengenai proses wawancara ini:
-1. *Seberapa cepat Anda menahan ego untuk tidak langsung menawarkan solusi teknologi di awal percakapan?*
-2. *Asumsi awal apa yang Anda miliki yang ternyata terbukti keliru atau berubah setelah mendengarkan penjelasan narasumber secara utuh?*
-3. *Janji atau langkah kecil apa yang harus segera Anda tepati untuk menjaga kepercayaan profesional dengan narasumber ini?*
+1. *Seberapa cepat Anda menahan ego untuk tidak langsung menawarkan solusi teknologi di awal percakapan?* Awalnya saya berpikiran untuk solusi dengan cara perwakilan harus menyampaikan kendala ini ke pihak kampus, namun saya menahan diri sepenuhnya karena yakin masalahnya tidak se-simpel perubahan jadwal. 
+2. *Asumsi awal apa yang Anda miliki yang ternyata terbukti keliru atau berubah setelah mendengarkan penjelasan narasumber secara utuh?* Asumsi awal saya adalah mahasiswa pasti menolak jika jam kuliah selesai lebih malam. Ternyata setelah didengar, narasumber justru lebih memilih pulang pukul 18.30 daripada harus sholat terburu-buru dan membolos awal kelas. Kebutuhan utamanya adalah ketenangan ibadah, bukan sekadar pulang cepat.
+3. *Janji atau langkah kecil apa yang harus segera Anda tepati untuk menjaga kepercayaan profesional dengan narasumber ini?* yaitu dengan berani meminta izin diberikan waktu sholat ketika ada jadwal kelas yang tanpa jeda seperti kasus tadi.
 
 > **Jurnal Refleksi:**
 > 
@@ -111,9 +121,9 @@ Evaluasi lembar kerja Anda secara jujur menggunakan kriteria rubrik Bab 5 beriku
 
 | Kriteria Evaluasi | ⭐ Belum Tampak (Skor < 60) | ⭐⭐ Mulai Berkembang (Skor 60-79) | ⭐⭐⭐ Cakap / Unggul (Skor 80-100) | Skor Mandiri |
 | :--- | :--- | :--- | :--- | :--- |
-| **Kualitas Mendengarkan** | Langsung menyodorkan solusi tanpa menanyakan konteks atau mengonfirmasi masalah. | Menangkap isi masalah secara umum, namun melompati kendala atau pihak yang terdampak. | Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh. | |
-| **Ketepatan Rumusan Masalah** | Rumusan masalah masih berupa usulan solusi teknis (misal: "Memerlukan aplikasi database"). | Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi ke narasumber. | Berpusat pada pribadi, menggunakan fakta teramati, terikat konteks yang jelas, bebas solusi, dan telah terkonfirmasi. | |
-| **Etika & Penjagaan Privasi** | Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber. | Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif. | Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati. | |
-| **Keandalan & Hubungan** | Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber. | Menyatakan batas secara umum namun tindak lanjutnya masih mengambang. | Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya. | |
+| **Kualitas Mendengarkan** | Langsung menyodorkan solusi tanpa menanyakan konteks atau mengonfirmasi masalah. | Menangkap isi masalah secara umum, namun melompati kendala atau pihak yang terdampak. | Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh. | 90 |
+| **Ketepatan Rumusan Masalah** | Rumusan masalah masih berupa usulan solusi teknis (misal: "Memerlukan aplikasi database"). | Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi ke narasumber. | Berpusat pada pribadi, menggunakan fakta teramati, terikat konteks yang jelas, bebas solusi, dan telah terkonfirmasi. | 90 |
+| **Etika & Penjagaan Privasi** | Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber. | Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif. | Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati. | 85 |
+| **Keandalan & Hubungan** | Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber. | Menyatakan batas secara umum namun tindak lanjutnya masih mengambang. | Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya. | 85 |
 
 *Simpan lembar kerja ini, catatan log wawancara, dan rekaman (jika ada izin) sebagai **Artefak Portofolio Bab 5** Anda.*
