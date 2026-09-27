@@ -18,10 +18,10 @@ Dalam tugas ini, Anda ditantang untuk melatih **kelenturan register dan alih rag
 ---
 
 ## **B. Identitas Mahasiswa**
-*   **Nama Lengkap:** ______________________________________
-*   **NIM:** ______________________________________
-*   **Program Studi:** ______________________________________
-*   **Tanggal Pengisian:** ______________________________________
+*   **Nama Lengkap:** Rijal Kholis Al-Ausath
+*   **NIM:** 18225047
+*   **Program Studi:** Sistem dan Teknologi Informasi
+*   **Tanggal Pengisian:** 27 September 2026
 
 ---
 
@@ -30,21 +30,21 @@ Sebelum membagikan gagasan Anda, Anda harus mengupas kulit jargon untuk menemuka
 
 1. **Konsep Teknis yang Dipilih:**
    *(Contoh: Enkripsi Kunci Publik, Inflasi Moneter, Replikasi Database, Fotosintesis, dll.)*
-   *Jawab:*
+   *Jawab:*Dark Patterns (Pola Gelap Antarmuka Pengguna / Manipulasi UX)
    
 2. **Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah):**
    *(Tuliskan definisi asli lengkap dengan jargon teknisnya)*
-   *Jawab:*
+   *Jawab:* Dark patterns mengacu pada desain antarmuka pengguna (UI) yang dirancang untuk mendorong pengguna melakukan tindakan yang tidak mereka inginkan atau bahkan merugikan mereka, tanpa menyadarinya. Teknik ini dimanfaatkan oleh pengembang untuk mengarahkan perilaku pengguna. Pengguna diarahkan melakukan pembelian produk, langganan layanan, atau pengumpulan data pribadi mereka. Cara yang digunakan, yaitu dengan berfokus pada kelemahan psikologis pengguna. Dark patterns bukanlah kecelakaan desain, melainkan strategi yang secara sadar diterapkan untuk mengoptimalkan keuntungan, meski sering kali merugikan penggunanya. Istilah dark patterns pertama kali diperkenalkan oleh Harry Brignull, seorang ahli pengalaman pengguna (UX), pada 2010
    
 3. **Daftar Jargon Teknis & Artian Sederhananya:**
    *Identifikasi minimal 3 istilah rumit dari definisi di atas dan terjemahkan maknanya secara mandiri.*
-   *   **Jargon 1:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 2:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 3:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
+   *   **Jargon 1:** `User Interface (UI) / User Experience (UX)` $\rightarrow$ Arti Sederhana: Tampilan dan alur kemudahan saat kita memakai sebuah aplikasi atau situs web.
+   *   **Jargon 2:** `Cognitive Bias (Bias Kognitif)` $\rightarrow$ Arti Sederhana: Kekeliruan logis atau kecenderungan pikiran manusia untuk mengambil jalan pintas saat berpikir.
+   *   **Jargon 3:** `Manipulative Architecture` $\rightarrow$ Arti Sederhana: tata letak, warna, atau tombol yang sengaja dipasang untuk menjebak mata dan tindakan pengguna.
 
 4. **Kebenaran Inti (*Marrow of the Message*):**
    *(Tuliskan 1 kalimat sangat sederhana yang merangkum apa sebenarnya esensi atau manfaat utama dari konsep ini bagi kehidupan manusia)*
-   *Jawab:*
+   *Jawab:*Trik atau jebakan tersembunyi pada tampilan aplikasi yang memanipulasi pikiran kita agar kita secara tidak sadar membeli barang, mendaftar layanan, atau menyerahkan data pribadi tanpa persetujuan yang jujur.
    
 ---
 
@@ -54,31 +54,31 @@ Sekarang, bawa kebenaran inti di atas menggunakan "kendaraan" bahasa yang sesuai
 ### **1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)**
 *   **Karakteristik Pendengar:** Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.
 *   **Strategi:** Gunakan **analogi fisik atau cerita** yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).
-*   *Draf Terjemahan Anda:*
+*   *Draf Terjemahan Anda:*Pernahkah kamu melihat iklan gim yang interaktif (iklan yang dapat dimainkan? ) beberapa detik pertama iklannya memang bisa dimainkan, tetapi beberapa saat kemudian layar berpindah ke tempat pengunduhan Gim tersebut. Kamu yang sedang memainkan iklan tidak sadar jika kamu menyentuh iklan tersebut dan bukan lagi Gim nya.
    
    
 ### **2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)**
 *   **Karakteristik Pendengar:** Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.
 *   **Strategi:** Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.
-*   *Draf Terjemahan Anda:*
+*   *Draf Terjemahan Anda:*Kamu pernah gak lagi main gim terus muncul iklan yang katanya bisa dicoba dipencet-pencet? Awalnya emang bisa dimainin, tapi pas lagi asyik ngetap, tiba-tiba layarnya langsung pindah sendiri ke Play Store/App Store. Itu tuh bukan kamu yang salah pencet, tapi emang Dark Pattern dari desainer iklannya. Mereka bikin jebakan biar jari mu tanpa sadar nge-klik iklannya.
    
    
 ### **3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)**
 *   **Karakteristik Pendengar:** Rekan sejawat yang menuntut efisiensi, akurasi tinggi, serta pembuktian logis atau matematis.
 *   **Strategi:** Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.
-*   *Draf Terjemahan Anda:*
+*   *Draf Terjemahan Anda:*Dalam perancangan UI/UX, praktik ini mengacu pada Dark Patterns yang memanfaatkan Cognitive Bias dan arsitektur manipulatif. Pengembang sengaja memanipulasi heuristik navigasi dan area sentuh (hitbox) pada antarmuka iklan interaktif, sehingga mengarahkan user input secara paksa ke Store URI tanpa informed consent untuk mendongkrak metrik konversi (conversion rate).
    
    
 ### **4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)**
 *   **Karakteristik Pendengar:** Berorientasi pada hasil, efisiensi alokasi sumber daya (waktu, tenaga, biaya), manajemen risiko, dan dampak terhadap tujuan organisasi.
 *   **Strategi:** Tekankan **nilai tambah (*value proposition*)**, biaya (*cost*), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.
-*   *Draf Terjemahan Anda:*
+*   *Draf Terjemahan Anda:*Meskipun penerapan Dark Patterns pada antarmuka ini bisa mendongkrak angka klik iklan secara drastis dalam jangka pendek, dampak jangka panjangnya sangat berisiko bagi bisnis. Hal ini merusak kepercayaan pengguna (brand trust), menyebabkan angka bounce rate tinggi dari pengguna yang merasa tertipu, serta berisiko mendapat penalti dari platform penyedia iklan.
    
    
 ### **5. Ragam Bahasa: Publik Umum (Masyarakat Luas)**
 *   **Karakteristik Pendengar:** Masyarakat heterogen yang ingin mengetahui apa dampak langsung atau tidak langsung dari teknologi/konsep ini bagi keselamatan, kemaslahatan, dompet, atau kehidupan sehari-hari mereka.
 *   **Strategi:** Hubungkan konsep dengan nilai-nilai sosial, keadilan, keamanan, kemudahan hidup, dan gunakan bahasa yang inklusif serta mudah dipahami seketika.
-*   *Draf Terjemahan Anda:*
+*   *Draf Terjemahan Anda:*Pernahkah Anda mendapati layar HP tiba-tiba berpindah ke halaman pengunduhan aplikasi saat sedang mencoba iklan permainan? Hal ini bukanlah kesalahan atau ketidaktelitian Anda, melainkan hasil dari trik desain digital (Dark Patterns) yang sengaja membingungkan pengguna. Paham akan hal ini penting agar kita terhindar dari pengunduhan tak disengaja yang dapat merugikan kuota atau keamanan data.
    
    
 
@@ -88,14 +88,14 @@ Sekarang, bawa kebenaran inti di atas menggunakan "kendaraan" bahasa yang sesuai
 *Evaluasi diri Anda setelah melakukan proses alih ragam bahasa di atas.*
 
 1. **Ragam bahasa mana yang paling sulit Anda buat? Mengapa?**
-   *Jawab:*
+   *Jawab:*Ragam bahasa untuk anak-anak adalah yang paling menantang. Sebagai mahasiswa teknologi, saya terbiasa menjelaskan fungsi sistem dengan istilah teknis. Menjelaskan logika manipulasi sistem tanpa menggunakan jargon memaksa saya mencari pengalaman riil yang sangat akrab di dunia mereka, seperti iklan gim interaktif yang jebakan.
    
 2. **Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?**
-   *Jawab:*
+   *Jawab:*Proses ini menyadarkan saya bahwa ilmu Sistem dan Teknologi Informasi tidak berdiri di ruang hampa yang hanya berisi baris kode dan arsitektur data. Keilmuan ini berdampak langsung pada perilaku manusia. Jika desainer atau pengembang teknologi tidak memiliki kesadaran etis, teknologi dapat dengan mudah disalahgunakan menjadi alat manipulasi massal melalui Dark Patterns.
    
 3. **Catatan Penggunaan AI Kopilot (Jika Ada):**
    *Jika Anda menggunakan AI untuk menguji kelenturan bahasa Anda (misal: meminta AI berperan sebagai anak berusia 10 tahun untuk mengkritik draf Anda), tuliskan instruksi/prompt yang Anda gunakan dan umpan balik berharga apa yang diberikan AI.*
-   *Jawab:*
+   *Jawab:*Saya menyusun sendiri penjelasan ragam bahasa Anak-Anak berdasarkan fenomena iklan gim interaktif yang manipulatif. Kemudian, saya menggunakan AI dengan prompt: "Saya sudah membuat penjelasan ragam anak-anak dengan kalimat sendiri. Tolong bantu sesuaikan draf serta refleksi agar selaras dan konsisten dengan contoh tersebut." AI membantu menjaga konsistensi benang merah di semua ragam bahasa
    
 
 ---
@@ -105,11 +105,11 @@ Gunakan rubrik ini untuk menguji kualitas draf Anda sebelum dimasukkan ke dalam 
 
 | Kriteria | Skor 4 (Sangat Baik) | Skor 3 (Baik) | Skor 2 (Cukup) | Skor 1 (Kurang) | Skor Mandiri |
 | :--- | :--- | :--- | :--- | :--- | :---: |
-| **Keutuhan Makna** *(Fidelity)* | Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa. | Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak. | Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa. | Makna inti rusak atau berubah total di berbagai ragam bahasa. | |
-| **Kelenturan Register** *(Code-switching)* | Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing. | Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens. | Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan). | Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama. | |
-| **Kualitas Analogi & Penjelasan** | Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika. | Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya. | Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens. | Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik). | |
-| **Kedalaman Refleksi** | Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas. | Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut. | Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda. | Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat). | |
-| **Total Skor (Maksimal 16)** | | | | | **___ / 16** |
+| **Keutuhan Makna** *(Fidelity)* | Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa. | Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak. | Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa. | Makna inti rusak atau berubah total di berbagai ragam bahasa. |4 |
+| **Kelenturan Register** *(Code-switching)* | Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing. | Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens. | Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan). | Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama. |4 |
+| **Kualitas Analogi & Penjelasan** | Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika. | Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya. | Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens. | Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik). |4 |
+| **Kedalaman Refleksi** | Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas. | Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut. | Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda. | Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat). |3 |
+| **Total Skor (Maksimal 16)** | | | | | **15 / 16** |
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Character Map"
 week: 1
 status: "Siap Dinilai"
-self_score: "19"
+self_score: "18"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
@@ -77,10 +77,10 @@ Tidak menggunakan AI
 | Person & Character | 3 | Profesional sebagai staf dengan secara langsung menanyakan hal belum dipahami. |
 | Objective & State | 4 | Dengan langsung berusaha menghindari miskomunikasi dan tidak bertele-tele. |
 | Repertoire, Language & AI | 4 | Menggunakan bahasa yang sopan, mudah dimengerti, dan dengan konteks yang jelas |
-| Response & Adaptation | 4 | Saya mengakui bisa lebih baik lagi dan berani bertanya di luar rapat agar bisa lebih siap. |
+| Response & Adaptation | 3 | Saya mengakui bisa lebih baik lagi dan berani bertanya di luar rapat agar bisa lebih siap. |
 | Agreement, Action & Relationship | 4 | Saya dan rekan-rekan tidak mempermasalahkan ketidakpahaman saya terhadap tugas yang diberikan dan langsung direspon dengan jelas. |
 
-**Total:** 19 / 20
+**Total:** 18 / 20
 
 ::: {.assessor-only}
 ### Assessment dosen
