@@ -18,13 +18,7 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 - Evidence listening dan response.
 - Analisis relationship state sebelum dan sesudah.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
-
-## Kompetensi target
-
-Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+---
 
 ## Konteks performance
 
@@ -43,7 +37,7 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 ::: {.evidence-block}
 ### Sesi 1: Saya sebagai Pembicara, Dafa sebagai Pendengar
 
-> **Saya:** "Jadi gini daf, aku nih orangnya suka banget nunda - nunda pekerjaan, terutama tugas kuliah 🙈🙈🙈 Sebenarnya alasannya karena aku merasa bisa selesaiin tugas tepat waktu. Masalahnya kadang nundanya ga bermanfaat, misalnya main catur online sampai jam 12 malam (ini real btw)"  
+> **Saya:** "Jadi gini daf, aku nih orangnya suka banget nunda - nunda pekerjaan, terutama tugas kuliah, Sebenarnya alasannya karena aku merasa bisa selesaiin tugas tepat waktu. Masalahnya kadang nundanya ga bermanfaat, misalnya main catur online sampai jam 12 malam (ini real btw)"  
 > **Dafa:** "Biasanya nundanya itu paling sering muncul di tugas yang kayak gimana? Atau ada momen tertentu yang bikin kamu akhirnya nunda?"  
 > **Saya:** "Tugas yang deadline nya lama, atau lagi males aja"  
 > **Dafa:** *"Jadi kalau aku tangkep, sebenernya bukan soal kamu gak sanggup ngerjain, tapi karena deadline yang masih jauh bikin otakmu mikir 'masih ada waktu', ditambah pas lagi males, akhirnya waktu itu malah kepake buat hal yang gak penting kayak main catur. Bener gitu?"*  
@@ -57,16 +51,21 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 > **Dafa:** "bentar. Eh sebelum lanjut, boleh kasih feedback jujur gak soal aku dengerin kamu tadi? 1) Di bagian mana kamu ngerasa aku beneran hadir dan bikin kamu ngerasa didengar? 2) Ada gak momen aku kelihatan berasumsi sendiri atau kayak buru-buru mau kasih solusi?"
 
 [**Link Bukti Google Drive**](https://drive.google.com/file/d/1pwO1vjOwkEzGd5iw818XXRfC6lcaf-TK/view?usp=sharing){target="_blank"}
+
 ---
 
 ### Sesi 2: Dafa sebagai Pembicara, Saya sebagai Pendengar
 
 > **Dafa:** "karena pc ku yang sekarang speknya bare minimum banget pc untuk mahasiswa it, aku merasa sekarang masih cukup karena masih awal semester, tpi aku takut ketika sudah lagi banyak banyaknya tugas besar. pc ku mulai kewalahan"  
 > **Saya (Pertanyaan Eksplorasi):** *"Alasan kamu mau upgrade PC atau beli laptop baru untuk apa? apakah karena ada projek pribadi atau sekedar ingin saja?"*  
-> **Dafa:** "nah itu dia Saya. aku tu awalnya mau beli laptop sebelum mulai kuliah..."  
-> **Saya (Pemetaan Masalah):** "Mungkin masalahnya nanti jika kamu diajak teman untuk nugas bareng tapi bukan di kos."  
-> **Dafa:** "nah itu dia Saya..."  
-> **Saya (Saran Terburu-buru):** *"Kalau saran dari aku sebaiknya kamu upgrade PC aja dulu..."*
+> **Dafa:** "nah itu dia Jal. aku tu awalnya mau beli laptop sebelum mulai kuliah..."  
+> **Saya (Pemetaan Masalah):** *"Mungkin masalahnya nanti jika kamu diajak teman untuk nugas bareng tapi bukan di kos."*  
+> **Dafa:** "nah itu dia Jal..."  
+> **Saya (Saran Terburu-buru):** *"Kalau saran dari aku sebaiknya kamu upgrade PC aja dulu..."*  
+> **Saya (Repair):** *"Eh bentar, sorry Daf, aku tadi terlalu cepat ngasih saran padahal belum dengerin penuh kebutuhanmu. Kalau menurutmu sendiri, seberapa sering ke depannya kamu bakal butuh nugas bareng di luar kos?"*  
+> **Dafa (Boundary & Request):** "Nah itu dia, sebenernya bakal sering ada kerja kelompok di kampus/kafe. Jadi aku butuh perangkat yang fleksibel buat mobilitas tinggi, tapi anggarannya terbatas. Aku cuma butuh kejelasan prioritas aja sih mana yang lebih urgen."  
+> **Saya (Paraphrase & Validasi):** *"Berarti kebutuhan utamamu sebenernya di mobilitas buat kerja kelompok ya, bukan cuma performa PC tinggi di kamar. Jadi laptop menengah bakal lebih menjawab masalah mobilitas itu dibanding upgrade PC."*  
+> **Dafa:** "Iya bener banget Jal, makasih ya, sekarang bayangannya jadi jauh lebih jelas."
 :::
 
 ---
@@ -75,12 +74,12 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 
 | Elemen | Evidence dan analisis |
 |---|---|
-| **Person & character** | Memahami karakter masing-masing: Saya yang menyadari kebiasaan menunda tugas karena merasa mampu mengejar *deadline*, serta Dafa yang cemas dan bingung mengambil keputusan terkait spesifikasi PC *bare minimum*. |
-| **Objective & state** | Membawa percakapan dari sekadar keluhan menjadi pendalaman masalah yang bermakna, mengeksplorasi kebutuhan Dafa akan kepastian tingkat kebutuhan laptop selama perkuliahan. |
-| **Repertoire & language** | Penggunaan Tiga Tingkat Mendengarkan: menangkap fakta spesifikasi PC, mengajukan pertanyaan eksplorasi (*"Alasan kamu mau upgrade PC atau beli laptop baru untuk apa?..."*), serta mengenali emosi cemas dan kebutuhan kepastian. |
-| **Response & adaptation** | Pendengar berusaha menyimak terlebih dahulu, namun diakui masih ada kecenderungan terburu-buru berpendapat/menyarankan upgrade PC sebelum betul-betul mengetahui konteks kebutuhan secara penuh. |
-| **Agreement/action** | Dafa memilih untuk meminta saran (sesuai Pertanyaan Emas), dan Saya membantu memberikan pertimbangan arah keputusan prioritas *hardware*. |
-| **Relationship outcome** | Hubungan persahabatan menjadi lebih terbuka dan saling mendukung karena kekhawatiran dipahami secara eksplisit. |
+| **Person & character** | Memahami karakter masing-masing: Saya yang menyadari kebiasaan menunda tugas karena merasa mampu mengejar *deadline*, serta Dafa yang cemas dan bingung mengambil keputusan terkait spesifikasi perangkat. |
+| **Objective & state** | Membawa percakapan dari sekadar keluhan perangkat menjadi pendalaman masalah yang bermakna, mengeksplorasi kebutuhan Dafa akan kepastian tingkat kebutuhan laptop selama perkuliahan. |
+| **Analisis Listening** | **Tingkat Menyimak:** Mampu memetakan fakta spesifikasi PC dan mendeteksi kecemasan Dafa. **Momen Asumsi:** Sempat terburu-buru menyarankan upgrade PC sebelum menggali frekuensi mobilitas Dafa secara utuh. |
+| **Boundary & Request** | **Boundary:** Dafa menetapkan batasan anggaran dan kebutuhan nyata—tidak membutuhkan perangkat *high-end* mahal jika kebutuhan utamanya adalah mobilitas perkuliahan. **Request:** Dafa menggunakan Pertanyaan Emas/meminta kejelasan arah prioritas. |
+| **Repair & Adaptation** | **Repair:** Saya melakukan pemulihan (*repair*) dengan sadar memotong saran prematur (*"Eh bentar, sorry Daf..."*) lalu mengembalikan otonomi keputusan kepada Dafa melalui pertanyaan eksplorasi ulang. |
+| **Relationship Outcome** | Kecemasan Dafa mengenai ketertinggalan tugas berkurang karena berhasil memetakan prioritas (mobilitas vs performa). Hubungan persahabatan menjadi lebih terbuka dan saling percaya tanpa ada paksaan sudut pandang. |
 
 ---
 
@@ -97,8 +96,8 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 ## Feedback dan tindak lanjut
 
 **Feedback yang diterima (dari Dafa kepada Jal):**
-1. *Momen Kehadiran:* Saat saya berhasil memetakan titik masalah mobilitasnya secara presisi (*"Mungkin masalahnya nanti jika kamu diajak teman untuk nugas bareng tapi bukan di kos"*), Teman antusias mengonfirmasi (*"nah itu dia jal..."*) karena merasa kekhawatirannya dipahami secara eksplisit.
-2. *Momen Asumsi:* Saya terlalu cepat menyarankan sebaiknya upgrade PC padahal keduanya belum sepenuhnya yakin apakah laptop sebenarnya sangat dibutuhkan dalam perkuliahan ke depannya.
+1. *Momen Kehadiran:* Saat saya berhasil memetakan titik masalah mobilitasnya secara presisi (*"Mungkin masalahnya nanti jika kamu diajak teman untuk nugas bareng tapi bukan di kos"*), Dafa antusias mengonfirmasi (*"nah itu dia jal..."*) karena merasa kekhawatirannya dipahami secara eksplisit.
+2. *Momen Asumsi:* Saya terlalu cepat menyarankan sebaiknya upgrade PC padahal keduanya belum fully yakin apakah laptop sebenarnya sangat dibutuhkan dalam perkuliahan ke depannya.
 
 **Adaptation/replay:** 
 Pada interaksi mendatang, saya akan mendengarkan secara utuh terlebih dahulu agar memperoleh konteks permasalahan secara utuh sebelum menyampaikan pandangan.
@@ -112,12 +111,13 @@ Dalam 14 hari ke depan, berkomitmen untuk mendengarkan sepenuhnya terlebih dahul
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| **Kehadiran & Menyimak Aktif** | 3 | Menyimak secara utuh tanpa interupsi, kontak mata hangat dan terbuka (Cakap). |
-| **Pemisahan Fakta & Interpretasi** | 3 | Mampu merangkum fakta cerita PC bare minimum secara jernih tanpa asumsi liar (Cakap). |
-| **Pendalaman Rasa Ingin Tahu** | 3 | Mengajukan pertanyaan terbuka yang tulus untuk mengeplorasi alasan upgrade/laptop (Cakap). |
-| **Validasi Emosi & Otonomi** | 4 | Memvalidasi emosi cemas/bingung, kebutuhan kepastian, dan menanyakan jenis bantuan melalui Pertanyaan Emas (Unggul). |
- 
-**Total:** 17 / 20
+| **Person & Character** | 3 | Mengidentifikasi kebiasaan menunda (Jal) dan kecemasan perangkat (Dafa) secara jujur. |
+| **Objective & State** | 3 | Menjawab ganjalan emosional awal hingga mencapai kejelasan arah keputusan. |
+| **Repertoire, Language & AI** | 3 | Menggunakan *active listening*, eksplorasi terbuka, serta refleksi penggunaan AI. |
+| **Response & Adaptation** | 4 | Melakukan *repair* secara spontan saat menyadari saran terburu-buru dan memvalidasi emosi Dafa. |
+| **Agreement, Action & Relationship** | 4 | Menyepakati tindak lanjut, meminta *feedback* jujur, serta mempererat keterbukaan relasi. |
+
+**Total:** 17 / 20 - Lanjut
 
 ::: {.assessor-only}
 ### Assessment dosen

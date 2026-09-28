@@ -103,7 +103,7 @@ MD menyetujui rumusan ini karena secara akurat menggambarkan dilema yang dialami
 | **Person & character** | Memahami peran MD sebagai mahasiswa yang harus menyeimbangkan kewajiban akademis dan ibadah di tengah keterbatasan fasilitas/jadwal kampus. |
 | **Objective & state** | Berhasil mengubah pemahaman awal dari sekadar "keinginan pulang cepat" menjadi "kebutuhan akan ketenangan ibadah dan keutuhan kehadiran di kelas". |
 | **Repertoire & language** | Menggunakan pertanyaan terbuka (*open-ended discovery questions*) dan teknik *paraphrasing* santai tanpa mendikte jawaban narasumber. |
-| **Response & adaptation** | Menahan diri untuk tidak langsung menawarkan solusi mengubah jadwal |
+| **Response & adaptation** | Menahan diri untuk tidak langsung menawarkan solusi teknis atau mengubah jadwal sebelum mendengarkan seluruh argumentasi narasumber. |
 | **Agreement/action** | Mencapai kesepakatan (*shared agreement*) pada rumusan pernyataan masalah yang telah dibacakan ulang dan dikonfirmasi oleh MD. |
 | **Relationship outcome** | Menjaga kepercayaan rekan sejawat dengan mendengarkan keluh kesahnya secara jujur. |
 
@@ -123,7 +123,7 @@ MD menyetujui rumusan ini karena secara akurat menggambarkan dilema yang dialami
 ## Feedback dan tindak lanjut
 
 **Feedback yang diterima:** 
-> *"Pernyataan masalahnya udah pas banget mewakili apa yang kita rasain pas kuliah sore. Kita kemungkinan gak masalah pulang sedikit lebih sore asal dikasih jeda sholat yang jelas daripada harus bolos-bolos awal kelas."* .
+> *"Pernyataan masalahnya udah pas banget mewakili apa yang kita rasain pas kuliah sore. Kita kemungkinan gak masalah pulang sedikit lebih sore asal dikasih jeda sholat yang jelas daripada harus bolos-bolos awal kelas."*
 
 **Adaptation/replay:** 
 Mengubah rumusan *problem statement* yang tadinya fokus pada "keinginan mempercepat kelas" menjadi fokus pada "penyediaan jeda transisi resmi walau jam pulang bergeser".
@@ -137,13 +137,13 @@ Membawa *shared problem statement* ini sebagai bahan masukan konkret ke forum ev
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| **Person & Character** | 4 | Mengidentifikasi kebutuhan dan dilema narasumber secara jujur tanpa stereotyping. |
-| **Objective & State** | 4 | Mengubah asumsi awal menjadi *shared problem statement* yang dikonfirmasi narasumber. |
-| **Repertoire, Language & AI** | 4 | Menggunakan pertanyaan terbuka; menolak usulan AI yang tidak rasional (seperti aplikasi pengingat sholat). |
-| **Response & Adaptation** | 3 | Berhasil menahan ego solusi teknis setelah mendengarkan penjelasan utuh narasumber. |
-| **Agreement, Action & Relationship** | 3 | Pernyataan masalah disepakati bersama; langkah tindak lanjut ke forum prodi terdefinisi. |
+| **Person & Character** | 4 | Mengidentifikasi peran, kebutuhan, dan dilema narasumber (MD) secara objektif tanpa melakukan *stereotyping*. |
+| **Objective & State** | 4 | Berhasil mengubah asumsi awal menjadi *shared problem statement* yang disepakati dan dikonfirmasi langsung oleh narasumber. |
+| **Repertoire, Language & AI** | 4 | Menggunakan pertanyaan *discovery* terbuka secara mandiri serta menolak usulan AI yang tidak rasional (seperti aplikasi pengingat sholat). |
+| **Response & Adaptation** | 3 | Mampu menahan ego solusi teknis dan beradaptasi setelah mendengarkan penjelasan utuh mengenai kendala narasumber. |
+| **Agreement, Action & Relationship** | 3 | Pernyataan masalah (*shared problem statement*) disepakati bersama dan langkah tindak lanjut ke forum prodi terdefinisi dengan jelas. |
 
-**Total:** 18 / 20
+**Total:** 18 / 20 - Lanjut
 
 ::: {.assessor-only}
 ### Assessment dosen

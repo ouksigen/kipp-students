@@ -2,7 +2,7 @@
 title: "Character Map"
 week: 1
 status: "Siap Dinilai"
-self_score: "18"
+self_score: "16"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
@@ -26,61 +26,82 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 
 | Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
 |---|---|---|---|---|
-| Intra-Self — Pemimpin diri sendiri |Diri sendiri ketika mengalami penurunan motivasi belajar  |Merefleksikan kembali tujuan dan cita-cita pribadi  |Refleksi "Bagaimana komitmen dan tujuanku dahulu ketika berjuang masuk ITB "  |Terus-terusan mengandalkan refleksi dan motivasi membuat perkembangan diri kurang konsisten, harus lebih disiplin dan tidak bergantung motivasi  |
-| Family/Friends — Sahabat Pendengar |Teman/Sahabat bagi berbagai orang dengan latar berbeda  |Menjadi pendengar yang solutif dan dapat dipercaya  |Merespon dengan bijak bukan sekedar menyenangkan hati, "Lain kali mungkin sebaiknya kamu begini saja, kalau boleh tahu kenapa kamu memutuskan bertindak seperti itu?"  |Menyakiti perasaan teman dan kurang objektif, harus bisa mengolah informasi dengan bijak dan hati-hati dimulai dari mendengarkan dengan baik  |
-| Work/Academic — Anggota kelompok tugas kuliah |Teman satu kelompok  |Bertanggung jawab pada tugas dan menyampaikan pendapat  |Mendengarkan pendapat teman dan mengusulkan ide tanpa menyalahkan argumen lain, "Menurutku idenya bagus, tapi kurang memungkinkan, bagaimana kalau begini?"  |Mendominasi percakapan atau sebaliknya, harus bisa mengajak semua teman satu kelompok berdiskusi dengan seimbang dan sehat  |
-| Community — Staf di UKM GAMAIS ITB |Staf desain departemen GCorp  |Menyepakati ketentuan tugas yang dibagikan oleh ketua kepada staf  |Bertanya dan berpendapat pada spesifikasi tugas dari program kerja, "Apakah untuk proyek ini hanya perlu membuat katalog produk saja atau perlu poster "  |Terkesan keras kepala, harus bisa menjelaskan dengan baik dan menyesuaikan lawan bicara  |
-| Public — Pengguna media sosial |Pengguna aktif Instagram  |Menanggapi konten yang beredar dengan bijak  |Berpikir dua kali sebelum menuliskan komentar, "Apakah komentarku akan menyakiti perasaan orang lain?"  |Terburu-buru dalam berkomentar, harus selalu berpikir bijak dalam menanggapi konten yang beredar dengan memastikan kebenaran dan mengedepankan etika  |
+| Intra-Self — Pemimpin diri sendiri | Diri sendiri ketika mengalami penurunan motivasi belajar | Merefleksikan kembali tujuan dan cita-cita pribadi | Refleksi internal: *"Bagaimana komitmen dan tujuanku dahulu ketika berjuang masuk ITB?"* | Terus-terusan mengandalkan motivasi tanpa aksi nyata; latihan dengan membangun kedisiplinan rutin. |
+| Family/Friends — Sahabat Pendengar | Teman/Sahabat bagi berbagai orang dengan latar berbeda | Menjadi pendengar yang solutif dan dapat dipercaya | Perhatian & solutif: *"Lain kali mungkin sebaiknya kamu begini saja, kalau boleh tahu kenapa kamu memutuskan bertindak seperti itu?"* | Menyakiti perasaan teman atau kurang objektif; latihan mengolah informasi dengan empati dan kehati-hatian. |
+| Work/Academic — Anggota kelompok tugas kuliah | Teman satu kelompok diskusi | Bertanggung jawab pada tugas dan menyampaikan pendapat | Diskusi kolegial: *"Menurutku idenya bagus, tapi kurang memungkinkan, bagaimana kalau begini?"* | Mendominasi percakapan atau terlalu pasif; latihan mengajak semua anggota berdiskusi secara seimbang. |
+| Community — Staf di UKM GAMAIS ITB | Staf desain departemen GCorp | Menyepakati ketentuan tugas yang dibagikan oleh ketua kepada staf | Konfirmasi operasional: *"Apakah untuk proyek ini hanya perlu membuat katalog produk saja atau perlu poster?"* | Terkesan kaku/keras kepala; latihan menjelaskan ide dengan jelas dan menyesuaikan gaya bicara. |
+| Public — Pengguna media sosial | Pengguna aktif Instagram | Menanggapi konten yang beredar dengan bijak | Reflektif publik: *"Apakah komentarku akan menyakiti perasaan orang lain?"* | Terburu-buru berkomentar; latihan memverifikasi kebenaran informasi dan mengedepankan etika komunikasi. |
+
+## Contoh perubahan bahasa (Language shift)
+
+Berikut perbandingan perubahan ragam bahasa (*language shift*) saat berpindah *character* dalam konteks memberikan masukan/pertanyaan:
+
+- **Sebagai Staf UKM (Ragam Formal & Operasional):**  
+  > *"Apakah untuk proyek ini hanya perlu membuat katalog produk saja atau perlu poster?"*  
+  *(Menggunakan kosa kata lugas, to the point, berorientasi pada kejelasan instruksi kerja).*
+- **Sebagai Sahabat (Ragam Informal & Empatis):**  
+  > *"Lain kali mungkin sebaiknya kamu begini saja, kalau boleh tahu kenapa kamu memutuskan bertindak seperti itu?"*  
+  *(Menggunakan kosa kata santai, mengedepankan nada empati dan eksplorasi perasaan).*
 
 ## Konteks performance
 
 **Tanggal dan setting:** 15 September 2026, Rapat rutin GCorp GAMAIS ITB di salah satu ruangan area Masjid Salman.
 
-**Persons dan relationship:** Mitra A dan B.
+**Persons dan relationship:** Saya (Staf Desain) dengan Mitra A (Penanggung Jawab Proyek) dan Mitra B (Rekan Anggota Proyek).
 
-**Objective dan initial state:** State awal: Saya tidak hadir pada rapat rutin pekan sebelumnya, sehingga kurang paham mengenai tugas desain yang ditugaskan kepada saya. Objektifnya: Mengonfirmasi desain apa saja yang harus saya buat pada event sekarang.
+**Objective dan initial state:** 
+- **State awal:** Saya tidak hadir pada rapat rutin pekan sebelumnya, sehingga timbul keraguan (*uncertainty*) terkait ruang lingkup tugas desain.
+- **Objektif:** Mengonfirmasi secara tepat jenis dan jumlah pasokan desain yang wajib diselesaikan untuk event running saat ini.
 
 ## Evidence
 
 ::: {.evidence-block}
-**Ringkasan kejadian percakapan pada waktu rapat:**
-Kondisi sedang berada di tengah-tengah waktu rapat. Ketika tidak ada yang berbicara, saya bertanya kepada penanggung jawab proyek, "Aku kan waktu itu tidak ikut rapat, mau konfirmasi untuk desain katalog apakah dibuat mirip dengan katalog pada proyek sebelumnya?"."Iya, kurang lebih seperti itu saja" jawab mitra A."Oke, lalu selain katalog apakah perlu desain yang lain juga, misalnya poster?, karena di mastersheet aku hanya diminta membuat katalog saja" saya lanjut bertanya."Sepertinya iya" jawab mitra A. "Kalau menurutku perlu, karena untuk mempromosikan produknya nanti" mitra B berpendapat. "Oke, terima kasih" sahut saya setelah kebingungan terjawab.
+**Transkrip / Ringkasan Kejadian Percakapan Saat Rapat:**
+
+Kondisi sedang berada di tengah-tengah waktu rapat. Ketika ada jeda pembicaraan, saya bertanya kepada penanggung jawab proyek:
+
+- **Saya:** *"Aku kan waktu itu tidak ikut rapat, mau konfirmasi untuk desain katalog apakah dibuat mirip dengan katalog pada proyek sebelumnya?"*
+- **Mitra A:** *"Iya, kurang lebih seperti itu saja."*
+- **Saya:** *"Oke, lalu selain katalog apakah perlu desain yang lain juga, misalnya poster? Karena di mastersheet aku hanya diminta membuat katalog saja."*
+- **Mitra A:** *"Sepertinya iya."*
+- **Mitra B:** *"Kalau menurutku perlu, karena untuk mempromosikan produknya nanti."*
+- **Saya:** *"Oke, terima kasih."* *(setelah kebingungan dan spesifikasi tugas terjawab).*
 :::
 
 ## Analisis komunikasi
 
 | Elemen | Evidence dan analisis |
 |---|---|
-| Person & character | Sebagai staf, saya berusaha meminimalisir terjadinya kesalahan karena miskomunikasi. |
-| Objective & state | Saya fokus menyelesaikan kebingungan saya sendiri tanpa menyalahkan siapapun. |
-| Repertoire & language | Mengonfirmasi tugas dengan bertanya kembali apakah perlu desain, karena pada dokumen saya hanya diminta membuat katalog. |
-| Response & adaptation | Mitra A menjawab dengan pasti dan tidak menyalahkan ketidakhadiran saya di rapat sebelumnya, mitra B memperkuat alasan kebutuhan desain lain. |
-| Agreement/action | Saya setuju memiliki tugas desain selain katalog. |
-| Relationship outcome | Kebingungan terjawab dan miskomunikasi dapat dihindari, membuat kolaborasi kami lebih maksimal. |
+| Person & character | Sebagai **Staf Desain**, saya memosisikan diri secara profesional untuk meminimalisir risiko miskomunikasi akibat ketidakhadiran rapat sebelumnya. |
+| Objective & state | Berfokus mengubah *state* dari bingung menjadi jelas, dengan langsung menanyakan poin krusial tanpa menyalahkan siapapun atas ketidakhadiran saya. |
+| Repertoire & language | Menggunakan ragam bertanya santun dan spesifik dengan merujuk pada dokumen master: *"karena di mastersheet aku hanya diminta..."* |
+| Response & adaptation | Merespons tanggapan langsung Mitra A (*"Iya, kurang lebih..."*) dan masukan Mitra B (*"Kalau menurutku perlu..."*) dengan mendengarkan hingga tuntas sebelum mengonfirmasi persetujuan. |
+| Agreement/action | Menyepakati tambahan tugas pembuatan poster berdasarkan argumen Mitra B mengenai kebutuhan promosi produk. |
+| Relationship outcome | Kebingungan teratasi, alur kerja desain menjadi pasti, dan hubungan kerja sama tetap harmonis tanpa gesekan. |
 
 ## Penggunaan AI
 
-Tidak menggunakan AI
+Penggunaan AI sangat minimal, yaitu hanya untuk menyesuaikan self assesment
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Mitra A menjawab langsung ke intinya.
+**Feedback yang diterima:** Mitra A dan Mitra B memberikan kepastian tugas secara langsung setelah ditanya.
 
-**Adaptation/replay:** Saya akan mencoba mengonfirmasi kebingungan di luar rapat agar lebih siap dalam mengikuti rapat rutin selanjutnya.
+**Adaptation/replay:** Ke depannya, saya akan mendahului konfirmasi kebingungan via pesan pribadi sebelum rapat rutin agar partisipasi saat rapat bisa lebih proaktif.
 
-**Next practice:** Tidak menunda bertanya saat ada yang kurang dimengerti.
+**Next practice:** Tidak menunda bertanya atau mengonfirmasi *mastersheet* saat ada spesifikasi yang belum jelas.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 3 | Profesional sebagai staf dengan secara langsung menanyakan hal belum dipahami. |
-| Objective & State | 4 | Dengan langsung berusaha menghindari miskomunikasi dan tidak bertele-tele. |
-| Repertoire, Language & AI | 4 | Menggunakan bahasa yang sopan, mudah dimengerti, dan dengan konteks yang jelas |
-| Response & Adaptation | 3 | Saya mengakui bisa lebih baik lagi dan berani bertanya di luar rapat agar bisa lebih siap. |
-| Agreement, Action & Relationship | 4 | Saya dan rekan-rekan tidak mempermasalahkan ketidakpahaman saya terhadap tugas yang diberikan dan langsung direspon dengan jelas. |
+| Person & Character | 3 | Menunjukkan karakter staf yang bertanggung jawab dengan mengonfirmasi tugas secara langsung. |
+| Objective & State | 3 | Berhasil mengubah *uncertain state* menjadi *clear state* fokus pada penyelesaian tugas. |
+| Repertoire, Language & AI | 3 | Menggunakan bahasa sopan dan tepat sasaran tanpa bantuan AI. |
+| Response & Adaptation | 3 | Mengadaptasi respons mitra (A & B) secara langsung untuk memperjelas cakupan kerja. |
+| Agreement, Action & Relationship | 4 | Terjadi kesepakatan (*agreement*) tugas desain baru dan hubungan kerja tetap harmonis. |
 
-**Total:** 18 / 20
+**Total:** 16 / 20 - Kompeten
 
 ::: {.assessor-only}
 ### Assessment dosen

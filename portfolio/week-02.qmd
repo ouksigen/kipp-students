@@ -26,56 +26,54 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
 **Event:** Teman A meminta saya mengganti data tabel karena dirasa kurang bisa dipahami dalam konteks lomba.
 
-| Lapisan |  |
+| Lapisan | Deskripsi |
 |---|---|
-| Fact | Seluruh isi tabel dan penjelasannya harus direvisi karena kurang spesifik  |
-| Initial story | "Teman mungkin menganggap isi tabel kurang dapat diandalkan."  |
-| Emotion/body signal | Malu 6/10  |
-| Reactive character | "Pembela" merasa bahwa isi tabel sudah cukup dan tidak perlu direvisi |
-| Desired character | "Pembelajar" yang berusaha menelaah kembali isi tabel apakah benar-benar masih ambigu.  |
-
-initial story: Teman berpendapat bahwa tabel kurang jelas bersamaan dengan berbagai pertanyaan.
+| Fact | Seluruh isi tabel dan penjelasannya harus direvisi karena kurang spesifik. |
+| Initial story | *"Teman berpendapat bahwa tabel kurang jelas bersamaan dengan berbagai pertanyaan; teman mungkin menganggap isi tabel kurang dapat diandalkan."* |
+| Emotion/body signal | Malu (skala 6/10) |
+| Reactive character | **"Pembela"**: merasa bahwa isi tabel sudah cukup dan tidak perlu direvisi. |
+| Desired character | **"Pembelajar"**: berusaha menelaah kembali isi tabel apakah benar-benar masih ambigu. |
 
 ## Alternative narratives
 
-1. **Invitation to improve:** pendapat teman sebenarnya demi kebaikan kelompok, karena dapat memengaruhi nilai kelompok pada lomba.
-2. **Constraint hypothehsis:** Kondisi larut malam dan batas waktu yang sudah dekat membuat saya mengantuk dan kurang fokus, tetapi revisi ini bukan dikerjakan saya seorang sehingga masih memungkinkan.
-
-Alternative ke- paling .
+1. **Invitation to improve:** Pendapat teman sebenarnya demi kebaikan kelompok, karena dapat memengaruhi nilai kelompok pada lomba.
+2. **Constraint hypothesis:** Kondisi larut malam dan batas waktu yang sudah dekat membuat saya mengantuk dan kurang fokus, tetapi revisi ini bukan dikerjakan saya seorang sehingga masih sangat memungkinkan.
 
 ## Internal conversation dan agreement
 
-> **Pembela:** "Pendapat teman mungkin benar, tetapi batas waktu pengumpulan semakin dekat dan mengubah hal kecil pada tabel bisa memengaruhi penjelasan detail di bawahnya."" 
-> **Pembelajar:** "Merevisi ini memberi saya pelajaran agar tetap teliti dan menyusun argumen yang lebih konkrit."" 
-> **Saya:** "Saya akan berargumen mengenai titik yang kurang jelas sembari mencoba memikirkan tabel rancangan yang lebih konkrit dan akan memutuskan setelahnya"
+> **Pembela:** "Pendapat teman mungkin benar, tetapi batas waktu pengumpulan semakin dekat dan mengubah hal kecil pada tabel bisa memengaruhi penjelasan detail di bawahnya."
+> 
+> **Pembelajar:** "Merevisi ini memberi saya pelajaran agar tetap teliti dan menyusun argumen yang lebih konkret."
+> 
+> **Saya:** "Saya akan berargumen mengenai titik yang kurang jelas sembari mencoba memikirkan tabel rancangan yang lebih konkret dan akan memutuskan setelahnya."
 
-**Internal agreement:** "Saya setuju akan merivisi tabel setelah berdiskusi dengan teman saya".
+**Internal agreement:** "Saya setuju akan merevisi tabel setelah berdiskusi dengan teman saya."
 
 ## Evidence tindakan
 
-- Dokumen yang terdapat tabel tersebut.
-- dokumentasi meeting melalui Google Meet 
+- **Dokumen pendukung:** Dokumen kerja yang memuat tabel hasil revisi.
+- **Dokumentasi koordinasi:** Diskusi melalui Google Meet bersama mitra.
 
-Mitra A: "Kita butuh angka dan penjelasan yang lebih konkrit dari ini agar sama-sama paham." 
-Saya : Melakukan revisi dengan dibantu teman tersebut.
+> **Mitra A:** *"Kita butuh angka dan penjelasan yang lebih konkret dari ini agar sama-sama paham."*  
+> **Saya:** Melakukan revisi tabel secara langsung dengan dibantu oleh teman tersebut.
 
 ## Feedback, AI, dan refleksi
 
-Tidak menggunakan AI pada pengerjaan tugas ini, penggunaan AI adalah untuk menanyakan contoh baru yang lebih konkrit.
+Tidak menggunakan AI pada pengerjaan utama tugas ini; penggunaan AI hanya sebatas menanyakan contoh situasi baru yang lebih konkret sebagai pembanding.
 
-Next practice: Ketika menerima masukan, saya akan diam mencerna masukannya terlebih dahulu lalu menanyakan alasannya dan meminta bantuannya dalam menilai kembali revisi.
+**Next practice:** Ketika menerima masukan, saya akan mengambil jeda (*pause*) untuk mencerna masukannya terlebih dahulu, lalu menanyakan alasannya serta meminta bantuannya dalam menilai kembali hasil revisi.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 3 | internal character tertulis sesuai apa adanya |
-| Objective & State | 3 | Reaction cukup jelas |
-| Repertoire, Language & AI | 3 | konsep pause dan clarification digunakan dengan baik |
-| Response & Adaptation | 4 | Berdiskusi dengan teman dalam menyelesaikan masalah |
-| Agreement, Action & Relationship | 4 | Memutuskan mengikuti saran revisi sembari meminta bantuan teman |
+| Person & Character | 3 | Berhasil mengidentifikasi pergeseran karakter internal dari *Pembela* (reaktif) menjadi *Pembelajar* (reflektif). |
+| Objective & State | 3 | Mampu mengelola emosi malu (6/10) serta mengarahkan *initial story* defensif menjadi objektif perbaikan tabel. |
+| Repertoire, Language & AI | 3 | Menggunakan dialog internal berbasis klarifikasi dan menerapkan konsep *pause* tanpa ketergantungan pada AI. |
+| Response & Adaptation | 4 | Beradaptasi secara terbuka dengan merespons masukan Mitra A dan bersedia merevisi rancangan tabel bersama. |
+| Agreement, Action & Relationship | 4 | Mencapai *internal agreement* yang jelas dan ditindaklanjuti dengan aksi pengerjaan revisi tabel di Google Meet. |
 
-**Total:** 17 / 20
+**Total:** 17 / 20 - Lanjut
 
 ::: {.assessor-only}
 ### Assessment dosen

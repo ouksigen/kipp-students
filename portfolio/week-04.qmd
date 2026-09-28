@@ -111,7 +111,7 @@ Selanjutnya, saya menggunakan AI untuk membantu menyelaraskan draf lainnya agar 
 
 ## Penggunaan AI
 
-- **Alat dan peran AI:** Gemini digunakan sebagai *sparrring partner* untuk menguji kelenturan register dan menyelaraskan konsistensi pesan antar-audiens.
+- **Alat dan peran AI:** Gemini digunakan sebagai *sparring partner* untuk menguji kelenturan register dan menyelaraskan konsistensi pesan antar-audiens.
 - **Prompt penting:** 
   > *"Saya sudah membuat penjelasan ragam anak-anak dengan kalimat sendiri berbasis iklan gim interaktif yang mengalihkan layar. Tolong bantu pastikan agar ragam lainnya sudah sesuai."*
 - **Bagian output yang diubah/ditolak:** Draf awal AI untuk ragam anak-anak **ditolak sepenuhnya** karena bahasanya masih kaku dan terlalu akademis. Saya menggantinya dengan draf buatan sendiri yang menggunakan contoh iklan gim interaktif.
@@ -137,13 +137,13 @@ Berlatih menyampaikan dampak risiko teknologi dan etika keilmuan STI kepada pema
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| **Person & Character** | 4 | Kelima audiens dibedakan secara tegas berdasarkan konteks, karakter, dan kebutuhan informasinya. |
-| **Objective & State** | 4 | Kebenaran inti (*core meaning*) terkait manipulasi antarmuka iklan terjaga utuh di kelima versi. |
-| **Repertoire, Language & AI** | 4 | Draf , terutama bahasa untuk anak-anak disusun mandiri, AI digunakan secara bijak untuk menyelaraskan register bahasa lainnya. |
-| **Response & Adaptation** | 3 | Mampu merespons feedback teknis dari teman sejurusan dengan memperjelas batasan etika desain. |
-| **Agreement, Action & Relationship** | 3 | Setiap versi memiliki tujuan komunikasi dan relevansi tindakan yang jelas bagi audiensnya. |
+| **Person & Character** | 4 | Kelima audiens dibedakan secara tegas berdasarkan tingkat pemahaman teknis, konteks, dan kebutuhan informasinya. |
+| **Objective & State** | 4 | Berhasil menjaga kebenaran inti (*core meaning*) terkait manipulasi antarmuka iklan *Dark Patterns* secara konsisten di kelima versi. |
+| **Repertoire, Language & AI** | 4 | Menyusun draf terjemahan secara mandiri (terutama ragam anak-anak) dan menggunakan AI secara bijak hanya untuk menyelaraskan konsistensi register. |
+| **Response & Adaptation** | 3 | Mampu merespons masukan teknis dari teman sejurusan dengan memperjelas batasan etika desain UI/UX. |
+| **Agreement, Action & Relationship** | 3 | Setiap versi terjemahan memiliki tujuan komunikasi yang relevan dan mendorong pemahaman yang selaras bagi audiensnya. |
 
-**Total:** 18 / 20
+**Total:** 18 / 20 - Lanjut
 
 ::: {.assessor-only}
 ### Assessment dosen
