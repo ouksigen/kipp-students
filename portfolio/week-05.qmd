@@ -2,7 +2,7 @@
 title: "Professional Discovery Interview"
 week: 5
 status: "Siap Dinilai"
-self_score: "18"
+self_score: "19"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement."
 categories: [Professional, Discovery]
@@ -35,21 +35,6 @@ Saya berasumsi bahwa mahasiswa yang mengambil jadwal perkuliahan maraton sore (1
 
 ---
 
-## Potongan transcript
-
-> **Saya:** "Boleh cerita pengalaman konkretmu pas dapat jadwal kuliah maraton dari jam 13.00 sampai 18.00? Gimana persisnya cara kamu ngatur waktu buat sholat Ashar di antara transisi kelas itu?"  
-> **MD:** "Hari di mana kita ada jadwal dari jam 1 sampe jam 6 adalah hari yang sangat melelahkan, apalagi kita tidak dikasih waktu sholat secara eksplisit di jadwal. Jadi kita harus membolos salah satu kelas, antara awal jam Jarkom atau awal jam PBD."  
-> **Saya:** "Mengapa situasi terburu-buru itu jadi masalah buatmu? Apa dampaknya ke ibadah atau fokus kelas?"  
-> **MD:** "Situasi terburu-buru saat ibadah karena kita membolos kelas membuat sholat kita menjadi terburu-buru."  
-> **Saya:** "Siapa saja yang ikut terdampak oleh kondisi ini?"  
-> **MD:** "Pihak terdampak tentu diri kita dan temen yang beragama sama, dan juga dosen yang mengajar karena dia harus merelakan beberapa muridnya bolos demi sholat."  
-> **Saya:** "Kalau situasi ini bisa diperbaiki, jadwal ideal seperti apa yang kamu harapkan?"  
-> **MD:** "Sebenarnya jadwal yang ideal adalah kita diberi selang waktu 30 menit di jadwal untuk sholat. Misal selesai Arsikom jam 3, maka mulai Jarkom jam 3.30. Waktu pulang menjadi 18.30. Menurut saya lebih baik pulangnya dimundurin daripada sholat terburu-buru."  
-> **Saya:** "Apa kendala dari kampus yang bikin jeda ini susah diberikan?"  
-> **MD:** "Itu mungkin terjadi karena padatnya jadwal dan timpangnya jumlah mahasiswa dan kelas yang tersedia di ITB Ganesha."
-
----
-
 ## Pembaruan pembacaan
 
 Asumsi awal saya bahwa *"mahasiswa pasti menolak jika jam kuliah selesai lebih malam"* ternyata **keliru**. Evidence dari wawancara menunjukkan bahwa kebutuhan mendasar narasumber adalah **ketenangan ibadah dan kepastian hadir utuh di kelas**, bukan sekadar pulang cepat. MD secara eksplisit menyatakan lebih memilih jam pulang bergeser ke pukul 18.30 asal diberikan jeda waktu transisi yang cukup (30 menit).
@@ -77,6 +62,23 @@ MD menyetujui rumusan ini karena secara akurat menggambarkan dilema yang dialami
 ## Evidence
 
 ::: {.evidence-block}
+### Potongan Transkrip Percakapan Wawancara Discovery
+
+- **Saya:** *"Boleh cerita pengalaman konkretmu pas dapat jadwal kuliah maraton dari jam 13.00 sampai 18.00? Gimana persisnya cara kamu ngatur waktu buat sholat Ashar di antara transisi kelas itu?"*
+- **MD:** *"Hari di mana kita ada jadwal kuliah nonstop dari jam 1 siang sampai jam 6 sore itu jujur hari yang sangat melelahkan. Apalagi kita tidak dikasih alokasi waktu sholat secara eksplisit di dalam jadwal resmi. Jadi dampaknya, kita terpaksa harus 'membolos' atau mengorbankan salah satu kelas, entah itu datang terlambat di awal jam Jarkom atau keluar lebih awal di jam PBD demi sholat Ashar."*
+- **Saya:** *"Mengapa situasi terburu-buru di jam transisi itu jadi masalah besar buatmu? Apa dampaknya ke kualitas ibadah atau fokus belajarmu di kelas?"*
+- **MD:** *"Situasi terburu-buru saat ibadah karena merasa 'menolong waktu' dari kelas itu bikin sholat kita jadi gak khusyuk dan tergesa-gesa. Di sisi lain, pas masuk kelas kita juga kehilangan fokus karena ketinggalan penjelasan materi di 15-20 menit pertama."*
+- **Saya:** *"Selain mahasiswa itu sendiri, siapa lagi menurutmu yang ikut terdampak oleh kondisi transisi yang mepet ini?"*
+- **MD:** *"Pihak yang terdampak tentu diri kita sendiri, teman-teman lain yang beragama Islam, dan juga dosen yang mengajar. Dosen jadi terganggu alur mengajarnya karena harus merelakan beberapa muridnya bolos atau keluar-masuk kelas demi sholat Ashar."*
+- **Saya:** *"Kalau situasi ini bisa diperbaiki, alur atau jadwal ideal seperti apa yang sebenarnya kamu harapkan?"*
+- **MD:** *"Sebenarnya jadwal yang ideal adalah kita diberi selang waktu transisi resmi sekitar 30 menit di jadwal khusus untuk sholat. Contohnya kalau Arsikom selesai jam 3 sore, maka Jarkom baru mulai jam 3.30 sore. Konsekuensinya waktu pulang memang bergeser jadi jam 18.30. Tapi menurut saya, jauh lebih baik waktu pulangnya dimundurin sedikit daripada harus sholat terburu-buru dan bolos kelas."*
+- **Saya:** *"Menurut pandanganmu, apa kendala atau batasan dari pihak kampus yang bikin jeda waktu transisi ini sulit diberikan?"*
+- **MD:** *"Itu mungkin terjadi karena padatnya kurikulum jadwal perkuliahan dan timpangnya jumlah mahasiswa dibanding kapasitas ruangan kelas yang tersedia di ITB Ganesha."*
+- **Saya (Konfirmasi Shared Problem Statement):** *"Berarti kalau aku rangkum masalah utamanya: Mahasiswa Muslim STI ITB butuh jeda transisi resmi minimal 30 menit untuk sholat dengan tenang dan hadir utuh di kelas, meskipun harus pulang lebih lambat sampai 18.30. Apakah rumusan masalah ini udah pas mewakili perasaanmu?"*
+- **MD:** *"Iya Jal, tepat banget! Pernyataan itu udah pas banget mewakili dilema yang kita rasain pas kuliah sore."*
+
+---
+
 ### Ringkasan Hasil Wawancara Discovery
 
 1. **Problem Impact:** 
@@ -89,7 +91,6 @@ MD menyetujui rumusan ini karena secara akurat menggambarkan dilema yang dialami
 3. **Shared Problem Statement:**
    - *MD berpendapat bahwa jadwal kelas yang tanpa jeda bisa membuat tidak khusyuk saat beribadah.*
 
-[**Link Bukti Google Drive**](https://drive.google.com/file/d/17TOa0reXH7KJ6VeuyZqboqoKhkYk0rFy/view?usp=sharing){target="_blank"}
 
 *Kontribusi Pribadi:* Merancang 5 pertanyaan discovery bebas-solusi, memandu jalannya wawancara tanpa melakukan *leading questions*, serta menyusun dan mengonfirmasi *shared problem statement* bersama narasumber.
 :::
@@ -139,11 +140,11 @@ Membawa *shared problem statement* ini sebagai bahan masukan konkret ke forum ev
 |---|---:|---|
 | **Person & Character** | 4 | Mengidentifikasi peran, kebutuhan, dan dilema narasumber (MD) secara objektif tanpa melakukan *stereotyping*. |
 | **Objective & State** | 4 | Berhasil mengubah asumsi awal menjadi *shared problem statement* yang disepakati dan dikonfirmasi langsung oleh narasumber. |
-| **Repertoire, Language & AI** | 4 | Menggunakan pertanyaan *discovery* terbuka secara mandiri serta menolak usulan AI yang tidak rasional (seperti aplikasi pengingat sholat). |
-| **Response & Adaptation** | 3 | Mampu menahan ego solusi teknis dan beradaptasi setelah mendengarkan penjelasan utuh mengenai kendala narasumber. |
+| **Repertoire, Language & AI** | 4 | Menggunakan pertanyaan *discovery* terbuka secara mandiri serta menolak usulan AI yang tidak rasional. |
+| **Response & Adaptation** | 4 | Mampu menahan ego solusi teknis dan beradaptasi penuh setelah mendengarkan penjelasan utuh narasumber. |
 | **Agreement, Action & Relationship** | 3 | Pernyataan masalah (*shared problem statement*) disepakati bersama dan langkah tindak lanjut ke forum prodi terdefinisi dengan jelas. |
 
-**Total:** 18 / 20 - Lanjut
+**Total:** 19 / 20 - Lanjut
 
 ::: {.assessor-only}
 ### Assessment dosen

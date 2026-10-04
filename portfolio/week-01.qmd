@@ -2,7 +2,7 @@
 title: "Character Map"
 week: 1
 status: "Siap Dinilai"
-self_score: "16"
+self_score: "18"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
@@ -56,16 +56,16 @@ Berikut perbandingan perubahan ragam bahasa (*language shift*) saat berpindah *c
 ## Evidence
 
 ::: {.evidence-block}
-**Transkrip / Ringkasan Kejadian Percakapan Saat Rapat:**
+**Transkrip Lengkap Percakapan Saat Rapat Operational:**
 
-Kondisi sedang berada di tengah-tengah waktu rapat. Ketika ada jeda pembicaraan, saya bertanya kepada penanggung jawab proyek:
+*Kondisi rapat sedang berlangsung di mana tim sedang membahas progres divisi teknis dan publikasi. Saat memasuki sesi jeda diskusi antardivisi, Saya memotong momen secara santun untuk mengonfirmasi detail tugas.*
 
-- **Saya:** *"Aku kan waktu itu tidak ikut rapat, mau konfirmasi untuk desain katalog apakah dibuat mirip dengan katalog pada proyek sebelumnya?"*
-- **Mitra A:** *"Iya, kurang lebih seperti itu saja."*
-- **Saya:** *"Oke, lalu selain katalog apakah perlu desain yang lain juga, misalnya poster? Karena di mastersheet aku hanya diminta membuat katalog saja."*
-- **Mitra A:** *"Sepertinya iya."*
-- **Mitra B:** *"Kalau menurutku perlu, karena untuk mempromosikan produknya nanti."*
-- **Saya:** *"Oke, terima kasih."* *(setelah kebingungan dan spesifikasi tugas terjawab).*
+- **Saya:** *"Permisi teman-teman, mau menyela sebentar. Aku kan minggu lalu berhalangan hadir di rapat rutin, jadi mau konfirmasi ulang terkait tugas desain. Untuk katalog produk, apakah acuannya dibuat mirip dengan gaya visual katalog di proyek bulan lalu?"*
+- **Mitra A (PJ Proyek):** *"Iya Jal, kurang lebih format dan layout utamanya sama persis seperti itu aja, tinggal sesuaikan aset gambar terbarunya."*
+- **Saya:** *"Oke siap, dipahami. Lalu selain katalog produk, apakah ada kebutuhan luaran desain lain yang harus aku kerjakan juga, misalnya poster feed Instagram? Soalnya kalau aku cek di mastersheet, porsi tugas atas namaku baru tercantum pembuatan katalog saja."*
+- **Mitra A (PJ Proyek):** *"Emm, sepertinya iya butuh poster juga sih untuk publikasi umum..."*
+- **Mitra B (Rekan Tim):** *"Kalau dari sudut pandang publikasi menurutku wajib ada poster sih, Jal. Soalnya kalau cuma katalog, jangkauan promosi di feed bakal kurang narik perhatian orang yang cuma lewat."*
+- **Saya:** *"Oh begitu, masuk akal banget argumennya. Oke, berarti aku update mastersheet-nya ya, selain katalog aku juga sepakat untuk pegang pembuatan poster promosi. Terima kasih banyak penjelasannya Mitra A dan Mitra B!"*
 :::
 
 ## Analisis komunikasi
@@ -95,13 +95,13 @@ Penggunaan AI sangat minimal, yaitu hanya untuk menyesuaikan self assesment buka
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 3 | Menunjukkan karakter staf yang bertanggung jawab dengan mengonfirmasi tugas secara langsung. |
-| Objective & State | 3 | Berhasil mengubah *uncertain state* menjadi *clear state* fokus pada penyelesaian tugas. |
-| Repertoire, Language & AI | 3 | Menggunakan bahasa sopan dan tepat sasaran tanpa bantuan AI. |
-| Response & Adaptation | 3 | Mengadaptasi respons mitra (A & B) secara langsung untuk memperjelas cakupan kerja. |
-| Agreement, Action & Relationship | 4 | Terjadi kesepakatan (*agreement*) tugas desain baru dan hubungan kerja tetap harmonis. |
+| Person & Character | 4 | Menunjukkan karakter staf profesional yang proaktif mengonfirmasi kejelasan tugas tanpa menyalahkan situasi ketidakhadiran. |
+| Objective & State | 3 | Berhasil mengubah *uncertain state* menjadi *clear state* dengan fokus terarah pada penyelesaian cakupan kerja. |
+| Repertoire, Language & AI | 3 | Menggunakan ragam bahasa formal-operasional yang presisi dan santun merujuk dokumen resmi (*mastersheet*). |
+| Response & Adaptation | 4 | Secara aktif mendengarkan masukan Mitra A dan Mitra B, serta langsung mengadaptasi usulan pembuatan poster promosi. |
+| Agreement, Action & Relationship | 4 | Terjadi kesepakatan (*agreement*) tugas desain baru yang tercatat jelas, menjaga hubungan kerja tetap harmonis. |
 
-**Total:** 16 / 20 - Kompeten
+**Total:** 18 / 20 - Lanjut
 
 ::: {.assessor-only}
 ### Assessment dosen

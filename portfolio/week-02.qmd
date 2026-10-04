@@ -2,7 +2,7 @@
 title: "Intra-Self Communication Journal"
 week: 2
 status: "Siap Dinilai"
-self_score: "17"
+self_score: "18"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -49,17 +49,24 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
 **Internal agreement:** "Saya setuju akan merevisi tabel setelah berdiskusi dengan teman saya."
 
-## Evidence tindakan
+## Evidence
 
-- **Dokumen pendukung:** Dokumen kerja yang memuat tabel hasil revisi.
-- **Dokumentasi koordinasi:** Diskusi melalui Google Meet bersama mitra.
+::: {.evidence-block}
+**Transkrip Percakapan Eksternal (Diskusi Google Meet Diskusi Lomba):**
 
-> **Mitra A:** *"Kita butuh angka dan penjelasan yang lebih konkret dari ini agar sama-sama paham."*  
-> **Saya:** Melakukan revisi tabel secara langsung dengan dibantu oleh teman tersebut.
+*Diskusi berlangsung malam hari via Google Meet saat me-review berkas lomba bersama.*
+
+- **Mitra A:** *"Jal, kalau aku perhatiin tabel bagian hasil analisis ini, angkanya masih terlalu umum. Kita butuh angka kuantitatif dan penjelasan kontekstual yang lebih konkret dari ini agar juri dan kita sendiri sama-sama paham alurnya."*
+- **Saya (Internal Pause & Switch Character):** *(Mengambil jeda 3 detik, menahan karakter Pembela yang bersuara internal "Tapi kan ini udah cukup detail...", lalu mengaktifkan karakter Pembelajar).*
+- **Saya (Respon Eksternal):** *"Oalah, begitu ya. Boleh diperjelas gak di bagian variabel mana yang menurutmu paling ambigu atau butuh penambahan data?"*
+- **Mitra A:** *"Terutama di kolom estimasi dampak dan metrik keberhasilan ini sih. Kalau cuma ditulis 'meningkat', terkesan spekulatif. Harus ada angka persentase atau acuan parameternya."*
+- **Saya:** *"Oke, paham poinmu. Masukan yang bagus banget buat memperkuat argumen lomba kita. Yuk kita revisi bareng tabelnya sekarang, aku buka dokumennya dan kamu bisa bantu beri masukan angkanya langsung."*
+- **Mitra A:** *"Sip, mantap Jal! Aku bantu breakdown parameternya ya."*
+:::
 
 ## Feedback, AI, dan refleksi
 
-Tidak menggunakan AI pada pengerjaan utama tugas ini; penggunaan AI hanya sebatas menanyakan contoh situasi baru yang lebih konkret sebagai pembanding.
+Penggunaan AI hanya sebatas menanyakan contoh situasi baru yang lebih konkret sebagai pembanding dan parafrase untuk membantu pengerjaan tugas ini.
 
 **Next practice:** Ketika menerima masukan, saya akan mengambil jeda (*pause*) untuk mencerna masukannya terlebih dahulu, lalu menanyakan alasannya serta meminta bantuannya dalam menilai kembali hasil revisi.
 
@@ -67,13 +74,13 @@ Tidak menggunakan AI pada pengerjaan utama tugas ini; penggunaan AI hanya sebata
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 3 | Berhasil mengidentifikasi pergeseran karakter internal dari *Pembela* (reaktif) menjadi *Pembelajar* (reflektif). |
-| Objective & State | 3 | Mampu mengelola emosi malu (6/10) serta mengarahkan *initial story* defensif menjadi objektif perbaikan tabel. |
-| Repertoire, Language & AI | 3 | Menggunakan dialog internal berbasis klarifikasi dan menerapkan konsep *pause* tanpa ketergantungan pada AI. |
-| Response & Adaptation | 4 | Beradaptasi secara terbuka dengan merespons masukan Mitra A dan bersedia merevisi rancangan tabel bersama. |
-| Agreement, Action & Relationship | 4 | Mencapai *internal agreement* yang jelas dan ditindaklanjuti dengan aksi pengerjaan revisi tabel di Google Meet. |
+| Person & Character | 4 | Berhasil memetakan dan secara sadar mengendalikan pergeseran karakter internal dari *Pembela* (reaktif) menuju *Pembelajar* (reflektif). |
+| Objective & State | 3 | Mampu mengelola emosi malu (6/10) serta mengarahkan *initial story* defensif menjadi objektif perbaikan kualitas tabel. |
+| Repertoire, Language & AI | 3 | Menggunakan dialog internal berbasis klarifikasi dan menerapkan konsep *pause* sebelum merespons tanpa ketergantungan AI. |
+| Response & Adaptation | 4 | Beradaptasi secara terbuka dengan merespons masukan Mitra A secara positif dan bersedia merevisi rancangan tabel bersama. |
+| Agreement, Action & Relationship | 4 | Mencapai *internal agreement* yang kuat dan ditindaklanjuti dengan pengerjaan revisi tabel secara langsung di Google Meet. |
 
-**Total:** 17 / 20 - Lanjut
+**Total:** 18 / 20 - Lanjut
 
 ::: {.assessor-only}
 ### Assessment dosen
