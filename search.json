@@ -1432,7 +1432,7 @@
     "href": "portfolio/week-08.html#identitas-dan-status-paket",
     "title": "Portfolio Minggu 8 — UTS KIPP",
     "section": "Identitas dan status paket",
-    "text": "Identitas dan status paket\n\n\n\n\n\n\n\nElemen\nIsi mahasiswa\n\n\n\n\nNama\n[Isi]\n\n\nNIM\n[Isi sebagai teks; pertahankan nol di awal]\n\n\nKelas\n[Isi]\n\n\nPeriode/tanggal pelaksanaan\n[Isi tanggal aktual setiap sesi pada laporan]\n\n\nVersi bank/paket aktif\n[Salin dari PENUGASAN.md dalam ZIP Anda]\n\n\nModalitas\n[Teks/suara; sumber transkripsi]\n\n\nStatus pengumpulan\n[Belum diunggah/sudah diunggah; bukti bila tersedia]",
+    "text": "Identitas dan status paket\n\n\n\nElemen\nIsi mahasiswa\n\n\n\n\nNama\nRijal Kholis Al-Ausath\n\n\nNIM\n18225047\n\n\nKelas\nKelas 1\n\n\nPeriode/tanggal pelaksanaan\n14 Oktober 2026\n\n\nVersi bank/paket aktif\nBank 2.0; paket individual 2.0\n\n\nModalitas\nTeks\n\n\nStatus pengumpulan\nLengkap (Makalah dan Sesi 1 sampai 3b tersedia)",
     "crumbs": [
       "Beranda",
       "Portfolio Minggu 8 — UTS KIPP"
@@ -1443,7 +1443,7 @@
     "href": "portfolio/week-08.html#makalah-dan-lima-laporan",
     "title": "Portfolio Minggu 8 — UTS KIPP",
     "section": "Makalah dan lima laporan",
-    "text": "Makalah dan lima laporan\n\n\n\nTahap\nTemplate untuk diisi\nTarget sesuai ZIP\nStatus\nBukti/ID atau bagian yang masih kurang\n\n\n\n\nPra-UTS\npaper.qmd\nKajian empat pertanyaan MBTI/PASK\nBelum dimulai\n[Isi]\n\n\n1\nhasil_1.qmd\nDiri; [nama/ID pembanding]\nBelum dimulai\n[Isi]\n\n\n2a\nhasil_2a.qmd\n[Nama/ID target pertama kasus 2]\nBelum dimulai\n[Isi]\n\n\n2b\nhasil_2b.qmd\n[Nama/ID target kedua; berbeda dari 2a]\nBelum dimulai\n[Isi]\n\n\n3a\nhasil_3a.qmd\n[Nama/ID target pertama kasus 3]\nBelum dimulai\n[Isi]\n\n\n3b\nhasil_3b.qmd\n[Nama/ID target kedua; berbeda dari 3a]\nBelum dimulai\n[Isi]",
+    "text": "Makalah dan lima laporan\n\n\n\nTahap\nTemplate untuk diisi\nTarget sesuai ZIP\nStatus\nBukti/ID atau bagian yang masih kurang\n\n\n\n\nPra-UTS\npaper.qmd\nKajian empat pertanyaan MBTI/PASK\nSelesai\nTersedia\n\n\n1\nhasil_1_18225047.qmd\nDiri; Budi (K1-02) sebagai pembanding\nSelesai\nTranskrip lengkap\n\n\n2a\nhasil_2a_18225047.qmd\nFajar (K2-06)\nSelesai\nTranskrip lengkap\n\n\n2b\nhasil_2b_18225047.qmd\nBudi (K3-02)\nSelesai\nTranskrip lengkap\n\n\n3a\nhasil_3a_18225047.qmd\nBudi (K3-02)\nSelesai\nTranskrip lengkap\n\n\n3b\nhasil_3b_18225047.qmd\nFajar (K3-06)\nSelesai\nTranskrip lengkap",
     "crumbs": [
       "Beranda",
       "Portfolio Minggu 8 — UTS KIPP"
@@ -1465,7 +1465,7 @@
     "href": "portfolio/week-08.html#rekap-nilai-komponen",
     "title": "Portfolio Minggu 8 — UTS KIPP",
     "section": "Rekap nilai komponen",
-    "text": "Rekap nilai komponen\n\n\n\n\n\n\n\n\n\n\n\nKomponen\nBobot\nSelf-assessment /100\nUsulan AI /100\nNilai resmi dosen /100\nStatus bukti\n\n\n\n\nMakalah\n10%\n—\n—\n—\nBelum dinilai\n\n\nSesi 1\n18%\n—\n—\n—\nBelum dinilai\n\n\nSesi 2a\n18%\n—\n—\n—\nBelum dinilai\n\n\nSesi 2b\n18%\n—\n—\n—\nBelum dinilai\n\n\nSesi 3a\n18%\n—\n—\n—\nBelum dinilai\n\n\nSesi 3b\n18%\n—\n—\n—\nBelum dinilai\n\n\n\nNilai akhir UTS resmi: Belum dihitung. Isi assessor_score dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.",
+    "text": "Rekap nilai komponen\n\n\n\n\n\n\n\n\n\n\n\nKomponen\nBobot\nSelf-assessment /100\nUsulan AI /100\nNilai resmi dosen /100\nStatus bukti\n\n\n\n\nMakalah\n10%\n85\n—\n—\nBelum dinilai dosen\n\n\nSesi 1\n18%\n85\n79\n—\nUsulan AI\n\n\nSesi 2a\n18%\n90\n100\n—\nUsulan AI\n\n\nSesi 2b\n18%\n90\n100\n—\nUsulan AI\n\n\nSesi 3a\n18%\n95\n100\n—\nUsulan AI\n\n\nSesi 3b\n18%\n95\n100\n—\nUsulan AI\n\n\n\nNilai akhir UTS resmi: Belum dihitung. Isi assessor_score dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.",
     "crumbs": [
       "Beranda",
       "Portfolio Minggu 8 — UTS KIPP"
@@ -1919,172 +1919,172 @@
     "text": "Bobot dan nilai akhir UTS\n\n\n\nKomponen\nBobot\nNilai komponen\n\n\n\n\nMakalah pra-UTS (paper.qmd)\n10%\nNilai dosen pada skala 0–100\n\n\nSesi 1\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2b\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3b\n18%\nJumlah enam skor / 24 × 100\n\n\nTotal\n100%\n\n\n\n\nNilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b), dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.\nNilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis Belum dihitung sampai nilai makalah dan kelima sesi tersedia.\nRata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.\nRubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html",
-    "href": "portfolio/UTS/hasil_3a.html",
-    "title": "Laporan UTS KIPP - Sesi 3a",
+    "objectID": "portfolio/UTS/hasil_3a_18225047.html",
+    "href": "portfolio/UTS/hasil_3a_18225047.html",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "",
-    "text": "TipTemplate belum terisi\n\n\n\nIsi dari sesi Anda sendiri. Lihat contoh sesi 3a dan kembali ke portfolio Minggu 8. Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai PENUGASAN.md pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8."
+    "text": "Elemen\nKeterangan\n\n\n\n\nNama mahasiswa\nRijal Kholis Al-Ausath\n\n\nNIM\n18225047\n\n\nKelas dan tanggal\nKelas 1, 14 Oktober 2026\n\n\nNomor/judul kasus\nSesi 3a; Kasus 3\n\n\nNama dan ID target\nBudi (K3-02)\n\n\nVersi bank/aturan penugasan\nBank 2.0; paket 2.0; penugasan dalam PENUGASAN.md\n\n\nModalitas\nTeks\n\n\nKasus nyata/fiktif\nFiktif (Simulasi Profesional)\n\n\nKelengkapan transkrip\nLengkap"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#kasus-dan-tujuan-tindakan",
-    "href": "portfolio/UTS/hasil_3a.html#kasus-dan-tujuan-tindakan",
-    "title": "Laporan UTS KIPP - Sesi 3a",
+    "objectID": "portfolio/UTS/hasil_3a_18225047.html#kasus-dan-tujuan-tindakan",
+    "href": "portfolio/UTS/hasil_3a_18225047.html#kasus-dan-tujuan-tindakan",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Kasus dan tujuan tindakan",
-    "text": "Kasus dan tujuan tindakan\n[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]\n\n\n\nUnsur\nIsi\n\n\n\n\nTujuan komunikasi/tindakan\n[Isi]\n\n\nKeadaan awal\n[Bukti dan ID; bedakan dugaan dari laporan target]\n\n\nIndikator keberhasilan\n[Apa yang dapat diperiksa?]\n\n\nBatas dan pilihan target\n[Apa yang tidak dipaksakan?]\n\n\nTenggat\n[Tanggal/jam atau waktu relatif yang konsisten]"
+    "text": "Kasus dan tujuan tindakan\nPak Budi menghadapi kendala pesan pelanggan berulang dan pesanan tercecer dengan tenaga operasional terbatas. Belum yakin perlu AI karena khawatir gangguan operasional dan biaya. Tujuan tindakan adalah meyakinkan dan mempersuasi Pak Budi agar lebih siap menggunakan teknologi AI melalui skema uji coba/pilot yang konkret."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#profil-awal-komunikator",
-    "href": "portfolio/UTS/hasil_3a.html#profil-awal-komunikator",
-    "title": "Laporan UTS KIPP - Sesi 3a",
+    "objectID": "portfolio/UTS/hasil_3a_18225047.html#profil-awal-komunikator",
+    "href": "portfolio/UTS/hasil_3a_18225047.html#profil-awal-komunikator",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Profil awal komunikator",
-    "text": "Profil awal komunikator\nIsi tentang diri Anda, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.\n\n\n\n\n\n\n\n\n\nUnsur\nLaporan/dugaan awal\nBukti/ID\nKepastian dan batas\n\n\n\n\nPersepsi/SWOT subjektif\n[Kekuatan, keterbatasan, peluang, ancaman]\n[Isi]\n[Isi]\n\n\nAttitude\n[Nilai, sikap, keyakinan]\n[Isi]\n[Isi]\n\n\nKnowledge\n[Pemahaman dan informasi yang belum diketahui]\n[Isi]\n[Isi]\n\n\nSkill\n[Kemampuan dan kebutuhan latihan/dukungan]\n[Isi]\n[Isi]\n\n\nPreferensi/MBTI jika dilaporkan\n[Laporan diri atau belum diketahui; bukan diagnosis dari percakapan]\n[Isi]\n[Isi]\n\n\nPeran, karakter, kultur/ko-kultur\n[Norma spesifik yang relevan]\n[Isi]\n[Isi]"
+    "text": "Profil awal komunikator\n\n\n\n\n\n\n\n\n\nUnsur\nLaporan/dugaan awal\nBukti\nTingkat kepastian\n\n\n\n\nSWOT subjektif\nPeluang: adopsi teknologi efisien; Ancaman: takut biaya dan kekacauan operasional; Mampu: menjalankan bisnis konvensional; Belum mampu: merinci adopsi AI\nU001\nSementara\n\n\nAttitude\nSkeptis terhadap hal baru, lebih suka cara tradisional\nU001\nSementara\n\n\nKnowledge\nMenguasai prosedur lama, belum memahami alternatif sistem\nU001\nSementara\n\n\nSkill\nOperasional berjalan baik, adaptasi baru perlu panduan\nU001\nSementara\n\n\nPreferensi/MBTI jika dilaporkan\nISTJ (berdasarkan pola komunikasi detail, bukti, dan urutan prosedur)\nU002\nLaporan diri/hipotesis\n\n\nKarakter, peran, kultur/ko-kultur\nPengelola usaha yang menjunjung tinggi komitmen dan standar kerja tertib\nU002\nSementara"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#dugaan-awal-profil-target-dan-rencana",
-    "href": "portfolio/UTS/hasil_3a.html#dugaan-awal-profil-target-dan-rencana",
-    "title": "Laporan UTS KIPP - Sesi 3a",
+    "objectID": "portfolio/UTS/hasil_3a_18225047.html#dugaan-awal-profil-target-dan-rencana",
+    "href": "portfolio/UTS/hasil_3a_18225047.html#dugaan-awal-profil-target-dan-rencana",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Dugaan awal profil target dan rencana",
-    "text": "Dugaan awal profil target dan rencana\n[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]\n\n\n\n\n\n\n\n\n\n\nTAIDA\nStatus awal/target\nEdukasi A/K/S\nRepertoar yang direncanakan\nBukti yang diharapkan\n\n\n\n\nTarget\n[Sasaran dan tujuan]\n[Isi]\n[Isi]\n[Isi]\n\n\nAttention\n[Status]\n[Isi]\n[Isi]\n[Isi]\n\n\nInterest\n[Status]\n[Isi]\n[Isi]\n[Isi]\n\n\nDesire\n[Status]\n[Isi]\n[Isi]\n[Isi]\n\n\nAction\n[Langkah pertama]\n[Isi]\n[Isi]\n[Isi]"
+    "text": "Dugaan awal profil target dan rencana\n\n\n\n\n\n\n\n\n\n\nTAIDA\nStatus awal/target\nEdukasi A/K/S\nRepertoar yang direncanakan\nBukti yang diharapkan\n\n\n\n\nTarget\nMenyepakati uji coba pilot sistem\nK & S\nMenjelaskan kelebihan, kekurangan, dan persiapan\nPersetujuan pilot project\n\n\nAttention\nDefensif / skeptis\nA\nMenyoroti pentingnya adaptasi vs pesaing\nPenurunan defensivitas\n\n\nInterest\nMempertanyakan kepastian operasional\nK\nMenawarkan tahapan transisi 6 bulan\nKetertarikan pada skema bertahap\n\n\nDesire\nMenuntut rincian biaya & mitigasi risiko\nS\nMenjelaskan paket harga setara UMR & panduan troubleshooting\nPenerimaan estimasi\n\n\nAction\nKomitmen pengerjaan\nS\nMenentukan langkah awal, penanggung jawab, & indikator sukses\nKesepakatan implementasi"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#hasil-tujuan-dan-perubahan-swotask",
-    "href": "portfolio/UTS/hasil_3a.html#hasil-tujuan-dan-perubahan-swotask",
-    "title": "Laporan UTS KIPP - Sesi 3a",
+    "objectID": "portfolio/UTS/hasil_3a_18225047.html#hasil-tujuan-dan-perubahan-swotask",
+    "href": "portfolio/UTS/hasil_3a_18225047.html#hasil-tujuan-dan-perubahan-swotask",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Hasil tujuan dan perubahan SWOT/ASK",
-    "text": "Hasil tujuan dan perubahan SWOT/ASK\n[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]\n\n\n\n\n\n\n\n\n\n\nUnsur\nAwal\nAkhir\nBukti/ID\nJenis bukti dan batas\n\n\n\n\nPersepsi/kesimpulan SWOT\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\nAttitude\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\nKnowledge\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\nSkill/kesiapan\n[Isi]\n[Isi]\n[Isi]\n[Skill nyata tidak meningkat hanya karena menyatakan setuju]"
+    "text": "Hasil tujuan dan perubahan SWOT/ASK\n\n\n\n\n\n\n\n\n\n\nUnsur\nAwal\nAkhir\nBukti giliran\nJenis bukti dan batas\n\n\n\n\nKesimpulan SWOT\nTakut biaya dan kekacauan operasional\nMemahami mitigasi risiko dan setuju uji coba modular\nU005\nSimulasi & Laporan diri\n\n\nAttitude\nSkeptis terhadap perubahan\nKooperatif dan menyetujui pilot project\nU005\nObservasi transkrip\n\n\nKnowledge\nBelum paham alternatif sistem\nMemahami rincian harga setara UMR dan dukungan teknis\nU004\nDemonstrasi dialog\n\n\nSkill\nPerlu prosedur cadangan\nMenyiapkan panduan ringkas di meja kasir\nU007\nKomitmen aksi"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
-    "href": "portfolio/UTS/hasil_3a.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
-    "title": "Laporan UTS KIPP - Sesi 3a",
-    "section": "Evaluasi stimulus-respons dan diagnosis profil",
-    "text": "Evaluasi stimulus-respons dan diagnosis profil\n\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nEstimasi status dan bukti\nStimulus mahasiswa\nRespons target\nPerubahan ASK/SWOT\nAdaptasi\n\n\n\n\n[Isi]\n[Isi]\n[Kutipan]\n[Kutipan]\n[Interpretasi dan batas]\n[Perubahan berikutnya]\n\n\n\n[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]"
+    "objectID": "portfolio/UTS/hasil_3a_18225047.html#evaluasi-stimulusrespons-dan-diagnosis-profil",
+    "href": "portfolio/UTS/hasil_3a_18225047.html#evaluasi-stimulusrespons-dan-diagnosis-profil",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Evaluasi stimulus–respons dan diagnosis profil",
+    "text": "Evaluasi stimulus–respons dan diagnosis profil\n\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nEstimasi status dan bukti\nStimulus mahasiswa\nRespons\nPerubahan ASK/SWOT\nAdaptasi\n\n\n\n\nU002–U003\nSkeptis/Hati-hati (A)\nMenawarkan skema uji coba bertahap 6 bulan\nMenerima pendekatan bertahap (dual-running)\nSikap A melunak\nMenggeser fokus dari ancaman ke solusi bertahap\n\n\nU004–U005\nButuh rincian biaya & mitigasi (K/S)\nMenjelaskan paket UMR & mitigasi risiko\nMenyetujui pilot project pada bagian non-vital\nK & S terpenuhi\nMengunci kesepakatan Action spesifik"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#pengaruh-pesan-personal-dan-kualitas-relasi",
-    "href": "portfolio/UTS/hasil_3a.html#pengaruh-pesan-personal-dan-kualitas-relasi",
-    "title": "Laporan UTS KIPP - Sesi 3a",
+    "objectID": "portfolio/UTS/hasil_3a_18225047.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "href": "portfolio/UTS/hasil_3a_18225047.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Pengaruh pesan personal dan kualitas relasi",
-    "text": "Pengaruh pesan personal dan kualitas relasi\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nPesan personal/bantuan konkret\nRespons teramati\nRasa aman, kepercayaan, keterbukaan\nDampak ASK/SWOT dan batas inferensi\n\n\n\n\n[Isi]\n[Kutipan/tindakan]\n[Kutipan]\n[Awal dan akhir; bukti]\n[Isi]\n\n\n\n[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]"
+    "text": "Pengaruh pesan personal dan kualitas relasi\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nPesan personal/kepedulian\nRespons yang teramati\nRasa aman, kepercayaan, keterbukaan\nDampak ASK/SWOT dan batas inferensi\n\n\n\n\nU004\nPenjelasan transparan terkait harga dan mitigasi risiko\n“Penjelasan soal paket harga… cukup transparan dan masuk akal bagi saya”\nRendah → Tinggi\nKepercayaan meningkat, bersedia melakukan uji coba"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#uji-ulang-dan-pembelajaran",
-    "href": "portfolio/UTS/hasil_3a.html#uji-ulang-dan-pembelajaran",
-    "title": "Laporan UTS KIPP - Sesi 3a",
+    "objectID": "portfolio/UTS/hasil_3a_18225047.html#uji-ulang-dan-pembelajaran",
+    "href": "portfolio/UTS/hasil_3a_18225047.html#uji-ulang-dan-pembelajaran",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Uji ulang dan pembelajaran",
-    "text": "Uji ulang dan pembelajaran\n\n\n\n\n\n\n\nUnsur\nBukti/uraian\n\n\n\n\nKendala baru atau peristiwa sejenis\n[Isi dan ID]\n\n\nRespons awal dibanding uji ulang\n[Isi dan kutipan]\n\n\nRevisi rencana/dukungan\n[Isi]\n\n\nIndikator perbaikan\n[Isi]\n\n\nTransfer dan keterbatasan\n[Apa yang diperagakan; apa yang belum diuji?]\n\n\n\n[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]"
+    "text": "Uji ulang dan pembelajaran\nPada uji ulang (U006–U007), muncul kendala kecemasan staf terkait prosedur darurat saat sistem eror. Mahasiswa merespons adaptif dengan mengonfirmasi ketersediaan panduan ringkas dan kontak darurat di meja kasir. Kepercayaan dan kesepakatan tetap terjaga dengan baik."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#penilaian-enam-dimensi",
-    "href": "portfolio/UTS/hasil_3a.html#penilaian-enam-dimensi",
-    "title": "Laporan UTS KIPP - Sesi 3a",
+    "objectID": "portfolio/UTS/hasil_3a_18225047.html#penilaian-enam-dimensi",
+    "href": "portfolio/UTS/hasil_3a_18225047.html#penilaian-enam-dimensi",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Penilaian enam dimensi",
-    "text": "Penilaian enam dimensi\n\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4/BT\nID dan kutipan bukti\nAlasan sesuai indikator\n\n\n\n\nTujuan dan konteks\nBT\n[Isi]\n[Belum dinilai]\n\n\nPersepsi dan validasi profil/status\nBT\n[Isi]\n[Belum dinilai]\n\n\nPemilihan dan urutan repertoar\nBT\n[Isi]\n[Belum dinilai]\n\n\nEksekusi jelas, peduli dan konsisten\nBT\n[Isi]\n[Belum dinilai]\n\n\nEvaluasi dan adaptasi\nBT\n[Isi]\n[Belum dinilai]\n\n\nRefleksi dan lesson learned\nBT\n[Isi]\n[Belum dinilai]\n\n\n\nNilai sesi: [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus jumlah enam skor / 24 x 100 hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen."
+    "text": "Penilaian enam dimensi\n\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4/BT\nID dan kutipan bukti\nAlasan\n\n\n\n\nTujuan dan konteks\n4\nU005, U007\nTujuan meyakinkan Pak Budi dan menyepakati uji coba tercapai\n\n\nPersepsi dan validasi profil/status\n4\nU004\nMampu merespons kebutuhan detail, biaya, dan mitigasi risiko\n\n\nPemilihan dan urutan repertoar\n4\nU003, U005\nRepertoar terstruktur dari edukasi tahapan hingga pembatasan area non-vital\n\n\nEksekusi jelas, peduli dan konsisten\n4\nU004, U007\nKomunikasi transparan, solutif, dan menyediakan dukungan darurat\n\n\nEvaluasi dan adaptasi\n4\nU007\nBeradaptasi cepat terhadap permintaan prosedur darurat staf\n\n\nRefleksi dan lesson learned\n4\nBagian Refleksi\nRefleksi komprehensif mengenai pentingnya kejelasan prosedur bagi pemilik usaha konservatif\n\n\n\nUsulan skor AI: 24/24 × 100 = 100 (Memerlukan moderasi dosen)."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#refleksi-dan-lesson-learned-mahasiswa",
-    "href": "portfolio/UTS/hasil_3a.html#refleksi-dan-lesson-learned-mahasiswa",
-    "title": "Laporan UTS KIPP - Sesi 3a",
+    "objectID": "portfolio/UTS/hasil_3a_18225047.html#refleksi-dan-lesson-learned-mahasiswa",
+    "href": "portfolio/UTS/hasil_3a_18225047.html#refleksi-dan-lesson-learned-mahasiswa",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Refleksi dan lesson learned mahasiswa",
-    "text": "Refleksi dan lesson learned mahasiswa\n\nDugaan yang dikoreksi: [Jawaban Anda dan bukti].\nStimulus efektif/tidak efektif: [Jawaban Anda dan respons terkait].\nPertumbuhan PASK/ASK diri: [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].\nRelasi: [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].\nPreferensi, peran, budaya: [Pengaruh yang teramati; hindari generalisasi].\nPelajaran untuk situasi berikutnya: [Isi]."
+    "text": "Refleksi dan lesson learned mahasiswa\n\nKoreksi Dugaan: Pak Budi tidak sekadar skeptis, melainkan sangat membutuhkan rincian prosedur, bukti, dan mitigasi risiko yang jelas sebelum mengadopsi hal baru.\nStimulus Efektif: Menjelaskan rincian layanan, benefit, dan mitigasi risiko secara transparan terbukti sangat efektif, sedangkan argumen umum seputar tren kurang berdampak.\nPesan Personal: Transparansi penawaran harga setara UMR dan rincian dukungan teknis berhasil membangun rasa aman dan kepercayaan penuh dari komunikan.\nPelajaran: Jangan terburu-buru memaksa adopsi teknologi; jelaskan manfaat dan cara mitigasi risiko secara bertahap agar operasional bisnis yang sudah berjalan tetap stabil."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#tindak-lanjut-dan-batas-bukti",
-    "href": "portfolio/UTS/hasil_3a.html#tindak-lanjut-dan-batas-bukti",
-    "title": "Laporan UTS KIPP - Sesi 3a",
+    "objectID": "portfolio/UTS/hasil_3a_18225047.html#tindak-lanjut-dan-batas-bukti",
+    "href": "portfolio/UTS/hasil_3a_18225047.html#tindak-lanjut-dan-batas-bukti",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Tindak lanjut dan batas bukti",
-    "text": "Tindak lanjut dan batas bukti\n\n\n\n\n\n\n\n\n\n\n\nLangkah\nPenanggung jawab\nWaktu\nDukungan\nIndikator/cara evaluasi\nStatus rencana/pelaksanaan\n\n\n\n\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\n\n[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]\nKonfirmasi akhir: [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan]."
+    "text": "Tindak lanjut dan batas bukti\nLangkah lanjut berupa pelaksanaan pilot project pencatatan pesan pelanggan minggu depan dengan pendampingan langsung serta penempatan panduan ringkas di meja kasir. Batas bukti terbatas pada simulasi teks interaktif."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3a.html#bobot-dan-nilai-akhir-uts",
-    "href": "portfolio/UTS/hasil_3a.html#bobot-dan-nilai-akhir-uts",
-    "title": "Laporan UTS KIPP - Sesi 3a",
+    "objectID": "portfolio/UTS/hasil_3a_18225047.html#bobot-dan-nilai-akhir-uts",
+    "href": "portfolio/UTS/hasil_3a_18225047.html#bobot-dan-nilai-akhir-uts",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Bobot dan nilai akhir UTS",
-    "text": "Bobot dan nilai akhir UTS\n\n\n\nKomponen\nBobot\nNilai komponen\n\n\n\n\nMakalah pra-UTS (paper.qmd)\n10%\nNilai dosen pada skala 0–100\n\n\nSesi 1\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2b\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3b\n18%\nJumlah enam skor / 24 × 100\n\n\nTotal\n100%\n\n\n\n\nNilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b), dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.\nNilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis Belum dihitung sampai nilai makalah dan kelima sesi tersedia.\nRata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.\nRubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen."
+    "text": "Bobot dan nilai akhir UTS\n\n\n\nKomponen\nBobot\nNilai komponen\n\n\n\n\nMakalah pra-UTS (paper.qmd)\n10%\nNilai dosen pada skala 0–100\n\n\nSesi 1\n18%\n[Nilai Sesi 1]\n\n\nSesi 2a\n18%\n[Nilai Sesi 2a]\n\n\nSesi 2b\n18%\n100\n\n\nSesi 3a\n18%\n100 (Usulan AI)\n\n\nSesi 3b\n18%\n[Belum dinilai]\n\n\nTotal\n100%\nBelum dihitung\n\n\n\nNilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b), dengan seluruh nilai komponen pada skala 0–100. Nilai akhir ditulis Belum dihitung sampai nilai makalah dan seluruh sesi tersedia."
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html",
-    "href": "portfolio/UTS/hasil_2a.html",
-    "title": "Laporan UTS KIPP - Sesi 2a",
+    "objectID": "portfolio/UTS/hasil_2a_18225047.html",
+    "href": "portfolio/UTS/hasil_2a_18225047.html",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "",
-    "text": "TipTemplate belum terisi\n\n\n\nIsi dari sesi Anda sendiri. Lihat contoh sesi 2a dan kembali ke portfolio Minggu 8. Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai PENUGASAN.md pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8."
+    "text": "Elemen\nKeterangan\n\n\n\n\nNama mahasiswa\nRijal Kholis Al-Ausath\n\n\nNIM\n18225047\n\n\nKelas dan tanggal\nKelas 1, 14 Oktober 2026\n\n\nNomor/judul kasus\nSesi 2a; Kasus 2\n\n\nNama dan ID target\nFajar (K2-06)\n\n\nVersi bank/aturan penugasan\nBank 2.0; paket 2.0; penugasan dalam PENUGASAN.md\n\n\nModalitas\nTeks\n\n\nKasus nyata/fiktif\nFiktif\n\n\nKelengkapan transkrip\nLengkap"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#kasus-dan-tujuan-tindakan",
-    "href": "portfolio/UTS/hasil_2a.html#kasus-dan-tujuan-tindakan",
-    "title": "Laporan UTS KIPP - Sesi 2a",
+    "objectID": "portfolio/UTS/hasil_2a_18225047.html#kasus-dan-tujuan-tindakan",
+    "href": "portfolio/UTS/hasil_2a_18225047.html#kasus-dan-tujuan-tindakan",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Kasus dan tujuan tindakan",
-    "text": "Kasus dan tujuan tindakan\n[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]\n\n\n\nUnsur\nIsi\n\n\n\n\nTujuan komunikasi/tindakan\n[Isi]\n\n\nKeadaan awal\n[Bukti dan ID; bedakan dugaan dari laporan target]\n\n\nIndikator keberhasilan\n[Apa yang dapat diperiksa?]\n\n\nBatas dan pilihan target\n[Apa yang tidak dipaksakan?]\n\n\nTenggat\n[Tanggal/jam atau waktu relatif yang konsisten]"
+    "text": "Kasus dan tujuan tindakan\nBrief Kasus 2: Tenggat tugas kelompok 48 jam lagi. Rekan dekat belum mengirim bagiannya dan merasa pembagian tidak adil. Anda mengajak percakapan untuk menjaga hubungan dan menyepakati tanggung jawab. Tujuan mahasiswa adalah mengajak diskusi rekan untuk menyelesaikan tanggung jawabnya sembari mendengarkan masalahnya. Indikator keberhasilan: tercapainya kesepakatan pembagian tugas yang adil, kejelasan batas waktu, serta terjaganya hubungan baik."
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#profil-awal-komunikator",
-    "href": "portfolio/UTS/hasil_2a.html#profil-awal-komunikator",
-    "title": "Laporan UTS KIPP - Sesi 2a",
+    "objectID": "portfolio/UTS/hasil_2a_18225047.html#profil-awal-komunikator",
+    "href": "portfolio/UTS/hasil_2a_18225047.html#profil-awal-komunikator",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Profil awal komunikator",
-    "text": "Profil awal komunikator\nIsi tentang diri Anda, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.\n\n\n\n\n\n\n\n\n\nUnsur\nLaporan/dugaan awal\nBukti/ID\nKepastian dan batas\n\n\n\n\nPersepsi/SWOT subjektif\n[Kekuatan, keterbatasan, peluang, ancaman]\n[Isi]\n[Isi]\n\n\nAttitude\n[Nilai, sikap, keyakinan]\n[Isi]\n[Isi]\n\n\nKnowledge\n[Pemahaman dan informasi yang belum diketahui]\n[Isi]\n[Isi]\n\n\nSkill\n[Kemampuan dan kebutuhan latihan/dukungan]\n[Isi]\n[Isi]\n\n\nPreferensi/MBTI jika dilaporkan\n[Laporan diri atau belum diketahui; bukan diagnosis dari percakapan]\n[Isi]\n[Isi]\n\n\nPeran, karakter, kultur/ko-kultur\n[Norma spesifik yang relevan]\n[Isi]\n[Isi]"
+    "text": "Profil awal komunikator\n\n\n\n\n\n\n\n\n\nUnsur\nLaporan/dugaan awal\nBukti\nTingkat kepastian\n\n\n\n\nSWOT subjektif\nPeluang jika hasil cepat; mampu mencoba, kurang menghitung risiko\nU001\nSementara\n\n\nAttitude\nPragmatis, tidak sabar pada penjelasan panjang\nU001\nSementara\n\n\nKnowledge\nPengalaman praktis kuat, alasan mendasar terbatas\nU001\nSementara\n\n\nSkill\nCepat mencoba, konsistensi dokumentasi lemah\nU001\nSementara\n\n\nPreferensi/MBTI jika dilaporkan\nESTP (langsung, demonstrasi, hasil cepat)\nU001\nLaporan diri/hipotesis\n\n\nKarakter, peran, kultur/ko-kultur\nPelaksana lapangan, menghargai kegunaan dan kelincahan\nU001\nSementara"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#dugaan-awal-profil-target-dan-rencana",
-    "href": "portfolio/UTS/hasil_2a.html#dugaan-awal-profil-target-dan-rencana",
-    "title": "Laporan UTS KIPP - Sesi 2a",
+    "objectID": "portfolio/UTS/hasil_2a_18225047.html#dugaan-awal-profil-target-dan-rencana",
+    "href": "portfolio/UTS/hasil_2a_18225047.html#dugaan-awal-profil-target-dan-rencana",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Dugaan awal profil target dan rencana",
-    "text": "Dugaan awal profil target dan rencana\n[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]\n\n\n\n\n\n\n\n\n\n\nTAIDA\nStatus awal/target\nEdukasi A/K/S\nRepertoar yang direncanakan\nBukti yang diharapkan\n\n\n\n\nTarget\n[Sasaran dan tujuan]\n[Isi]\n[Isi]\n[Isi]\n\n\nAttention\n[Status]\n[Isi]\n[Isi]\n[Isi]\n\n\nInterest\n[Status]\n[Isi]\n[Isi]\n[Isi]\n\n\nDesire\n[Status]\n[Isi]\n[Isi]\n[Isi]\n\n\nAction\n[Langkah pertama]\n[Isi]\n[Isi]\n[Isi]"
+    "text": "Dugaan awal profil target dan rencana\n\n\n\n\n\n\n\n\n\n\nTAIDA\nStatus awal/target\nEdukasi A/K/S\nRepertoar yang direncanakan\nBukti yang diharapkan\n\n\n\n\nTarget\nMenyepakati pembagian tugas\nA: Kurangi basa-basi  K: Kejelasan tugas  S: Langkah konkrit\nLangsung ke inti pembicaraan dan menanyakan kendala\nRespon kooperatif\n\n\nAttention\nDefensif / sibuk\nAttitude\nMenghargai waktu\nMenurunnya resistensi\n\n\nInterest\nBelum jelas\nKnowledge\nMenawarkan dialog terbuka\nKeterbukaan informasi\n\n\nDesire\nMenolak rapat panjang\nSkill\nSolusi tugas ringkas\nKesediaan menyepakati target\n\n\nAction\nKomitmen pengerjaan\nA/K/S\nChecklist & tenggat waktu\nKonfirmasi tindakan nyata"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#hasil-tujuan-dan-perubahan-swotask",
-    "href": "portfolio/UTS/hasil_2a.html#hasil-tujuan-dan-perubahan-swotask",
-    "title": "Laporan UTS KIPP - Sesi 2a",
+    "objectID": "portfolio/UTS/hasil_2a_18225047.html#hasil-tujuan-dan-perubahan-swotask",
+    "href": "portfolio/UTS/hasil_2a_18225047.html#hasil-tujuan-dan-perubahan-swotask",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Hasil tujuan dan perubahan SWOT/ASK",
-    "text": "Hasil tujuan dan perubahan SWOT/ASK\n[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]\n\n\n\n\n\n\n\n\n\n\nUnsur\nAwal\nAkhir\nBukti/ID\nJenis bukti dan batas\n\n\n\n\nPersepsi/kesimpulan SWOT\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\nAttitude\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\nKnowledge\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\nSkill/kesiapan\n[Isi]\n[Isi]\n[Isi]\n[Skill nyata tidak meningkat hanya karena menyatakan setuju]"
+    "text": "Hasil tujuan dan perubahan SWOT/ASK\nTujuan tercapai; Fajar menjadi kooperatif dan bersedia menyelesaikan bagian tugasnya setelah kejelasan pembagian dan validasi hambatan dilakukan.\n\n\n\n\n\n\n\n\n\n\nUnsur\nAwal\nAkhir\nBukti giliran\nJenis bukti dan batas\n\n\n\n\nKesimpulan SWOT\nKurang menghitung risiko, dokumentasi lemah\nLebih terstruktur dengan pembagian checklist\nAI005, AI007\nSimulasi\n\n\nAttitude\nPragmatis, defensif, tidak sabar\nTerbuka dan kooperatif terhadap solusi konkrit\nAI003, AI007\nSimulasi\n\n\nKnowledge\nAmbigu mengenai pembagian tugas\nMemahami porsi tugas dan batasan target waktu\nAI003\nSimulasi\n\n\nSkill\nEksekusi cepat, butuh panduan langkah ringkas\nMampu menyesuaikan saat menghadapi kendala data berantakan\nU005, AI007\nDemonstrasi uji ulang"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
-    "href": "portfolio/UTS/hasil_2a.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
-    "title": "Laporan UTS KIPP - Sesi 2a",
-    "section": "Evaluasi stimulus-respons dan diagnosis profil",
-    "text": "Evaluasi stimulus-respons dan diagnosis profil\n\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nEstimasi status dan bukti\nStimulus mahasiswa\nRespons target\nPerubahan ASK/SWOT\nAdaptasi\n\n\n\n\n[Isi]\n[Isi]\n[Kutipan]\n[Kutipan]\n[Interpretasi dan batas]\n[Perubahan berikutnya]\n\n\n\n[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]"
+    "objectID": "portfolio/UTS/hasil_2a_18225047.html#evaluasi-stimulusrespons-dan-diagnosis-profil",
+    "href": "portfolio/UTS/hasil_2a_18225047.html#evaluasi-stimulusrespons-dan-diagnosis-profil",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Evaluasi stimulus–respons dan diagnosis profil",
+    "text": "Evaluasi stimulus–respons dan diagnosis profil\n\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nEstimasi status dan bukti\nStimulus mahasiswa\nRespons\nPerubahan ASK/SWOT\nAdaptasi\n\n\n\n\nAI002 / U002\nDefensif / minta kepastian\nMenanyakan kendala dan menawarkan bantuan pembagian tugas\n“Nah, kalau dibagi begitu jauh lebih jelas…”\nKnowledge dan Attitude membaik\nMenyesuaikan gaya komunikasi langsung\n\n\nAI006 / U005\nMenghadapi kendala data berantakan\nMengajak koordinasi rekan lain untuk pembagian porsi paralel\n“Saran yang bagus, Rijal… Setuju ya?”\nSkill adaptasi teruji\nMemberikan solusi penyesuaian tenggat & kolaborasi tim"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#pengaruh-pesan-personal-dan-kualitas-relasi",
-    "href": "portfolio/UTS/hasil_2a.html#pengaruh-pesan-personal-dan-kualitas-relasi",
-    "title": "Laporan UTS KIPP - Sesi 2a",
+    "objectID": "portfolio/UTS/hasil_2a_18225047.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "href": "portfolio/UTS/hasil_2a_18225047.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Pengaruh pesan personal dan kualitas relasi",
-    "text": "Pengaruh pesan personal dan kualitas relasi\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nPesan personal/bantuan konkret\nRespons teramati\nRasa aman, kepercayaan, keterbukaan\nDampak ASK/SWOT dan batas inferensi\n\n\n\n\n[Isi]\n[Kutipan/tindakan]\n[Kutipan]\n[Awal dan akhir; bukti]\n[Isi]\n\n\n\n[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]"
+    "text": "Pengaruh pesan personal dan kualitas relasi\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nPesan personal/kepedulian\nRespons yang teramati\nRasa aman, kepercayaan, keterbukaan\nDampak ASK/SWOT dan batas inferensi\n\n\n\n\nU002 / AI003\nMenanyakan hambatan secara langsung dan tulus\nTerbuka mengenai beban kerja Bab 3 dan 4\nSedang → Tinggi; terbukti dari kesediaan bernegosiasi waktu\nMenurunkan defensivitas secara nyata"
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#uji-ulang-dan-pembelajaran",
-    "href": "portfolio/UTS/hasil_2a.html#uji-ulang-dan-pembelajaran",
-    "title": "Laporan UTS KIPP - Sesi 2a",
+    "objectID": "portfolio/UTS/hasil_2a_18225047.html#uji-ulang-dan-pembelajaran",
+    "href": "portfolio/UTS/hasil_2a_18225047.html#uji-ulang-dan-pembelajaran",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Uji ulang dan pembelajaran",
-    "text": "Uji ulang dan pembelajaran\n\n\n\n\n\n\n\nUnsur\nBukti/uraian\n\n\n\n\nKendala baru atau peristiwa sejenis\n[Isi dan ID]\n\n\nRespons awal dibanding uji ulang\n[Isi dan kutipan]\n\n\nRevisi rencana/dukungan\n[Isi]\n\n\nIndikator perbaikan\n[Isi]\n\n\nTransfer dan keterbatasan\n[Apa yang diperagakan; apa yang belum diuji?]\n\n\n\n[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]"
+    "text": "Uji ulang dan pembelajaran\nStimulus sejenis pada uji ulang diatasi dengan penyesuaian strategi pembagian kerja paralel saat menemui kendala data. Perbaikan terlihat dari komitmen penyelesaian target secara realistis."
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#penilaian-enam-dimensi",
-    "href": "portfolio/UTS/hasil_2a.html#penilaian-enam-dimensi",
-    "title": "Laporan UTS KIPP - Sesi 2a",
+    "objectID": "portfolio/UTS/hasil_2a_18225047.html#penilaian-enam-dimensi",
+    "href": "portfolio/UTS/hasil_2a_18225047.html#penilaian-enam-dimensi",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Penilaian enam dimensi",
-    "text": "Penilaian enam dimensi\n\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4/BT\nID dan kutipan bukti\nAlasan sesuai indikator\n\n\n\n\nTujuan dan konteks\nBT\n[Isi]\n[Belum dinilai]\n\n\nPersepsi dan validasi profil/status\nBT\n[Isi]\n[Belum dinilai]\n\n\nPemilihan dan urutan repertoar\nBT\n[Isi]\n[Belum dinilai]\n\n\nEksekusi jelas, peduli dan konsisten\nBT\n[Isi]\n[Belum dinilai]\n\n\nEvaluasi dan adaptasi\nBT\n[Isi]\n[Belum dinilai]\n\n\nRefleksi dan lesson learned\nBT\n[Isi]\n[Belum dinilai]\n\n\n\nNilai sesi: [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus jumlah enam skor / 24 x 100 hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen."
+    "text": "Penilaian enam dimensi\n\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4/BT\nID dan kutipan bukti\nAlasan\n\n\n\n\nTujuan dan konteks\n4\nU001, AI005\nTujuan tercapai secara efektif menjaga hubungan dan tugas\n\n\nPersepsi dan validasi profil/status\n4\nU002, AI003\nAkurat mendeteksi kebutuhan komunikan yang pragmatis\n\n\nPemilihan dan urutan repertoar\n4\nU002, U005\nUrutan komunikasi langsung ke inti dan solutif\n\n\nEksekusi jelas, peduli dan konsisten\n4\nU002, U003\nPenyampaian jelas, penuh perhatian pada batas waktu\n\n\nEvaluasi dan adaptasi\n4\nU005, AI007\nAdaptif terhadap kendala data yang berantakan\n\n\nRefleksi dan lesson learned\n4\nBagian refleksi\nMenunjukkan pemahaman mendalam tentang gaya komunikasi\n\n\n\nUsulan nilai AI Sesi 2a: 24 / 24 × 100 = 100 (memerlukan moderasi dosen)."
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#refleksi-dan-lesson-learned-mahasiswa",
-    "href": "portfolio/UTS/hasil_2a.html#refleksi-dan-lesson-learned-mahasiswa",
-    "title": "Laporan UTS KIPP - Sesi 2a",
+    "objectID": "portfolio/UTS/hasil_2a_18225047.html#refleksi-dan-lesson-learned-mahasiswa",
+    "href": "portfolio/UTS/hasil_2a_18225047.html#refleksi-dan-lesson-learned-mahasiswa",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Refleksi dan lesson learned mahasiswa",
-    "text": "Refleksi dan lesson learned mahasiswa\n\nDugaan yang dikoreksi: [Jawaban Anda dan bukti].\nStimulus efektif/tidak efektif: [Jawaban Anda dan respons terkait].\nPertumbuhan PASK/ASK diri: [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].\nRelasi: [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].\nPreferensi, peran, budaya: [Pengaruh yang teramati; hindari generalisasi].\nPelajaran untuk situasi berikutnya: [Isi]."
+    "text": "Refleksi dan lesson learned mahasiswa\n\nDugaan yang dikoreksi: Fajar ternyata sangat kooperatif ketika diajak langsung ke solusi tanpa basa-basi panjang.\nStimulus efektif: Menanyakan langsung kendala dan memberikan opsi porsi tugas yang jelas.\nStimulus tidak efektif: Sempat ada sedikit kecenderungan basa-basi di awal yang kurang disukai komunikan bertipe ESTP.\nLesson learned: Setiap orang memiliki kepribadian dan gaya bicara berbeda; kunci komunikasi optimal adalah memahami karakteristik lawan bicara dan menyesuaikan gaya diskusi."
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#tindak-lanjut-dan-batas-bukti",
-    "href": "portfolio/UTS/hasil_2a.html#tindak-lanjut-dan-batas-bukti",
-    "title": "Laporan UTS KIPP - Sesi 2a",
+    "objectID": "portfolio/UTS/hasil_2a_18225047.html#tindak-lanjut-dan-batas-bukti",
+    "href": "portfolio/UTS/hasil_2a_18225047.html#tindak-lanjut-dan-batas-bukti",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Tindak lanjut dan batas bukti",
-    "text": "Tindak lanjut dan batas bukti\n\n\n\n\n\n\n\n\n\n\n\nLangkah\nPenanggung jawab\nWaktu\nDukungan\nIndikator/cara evaluasi\nStatus rencana/pelaksanaan\n\n\n\n\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\n\n[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]\nKonfirmasi akhir: [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan]."
+    "text": "Tindak lanjut dan batas bukti\nSecara aktif mengabarkan di grup sejauh mana progress masing-masing dan apa kendala yang perlu dibantu. Batas bukti bersifat simulasi teks interaktif."
   },
   {
-    "objectID": "portfolio/UTS/hasil_2a.html#bobot-dan-nilai-akhir-uts",
-    "href": "portfolio/UTS/hasil_2a.html#bobot-dan-nilai-akhir-uts",
-    "title": "Laporan UTS KIPP - Sesi 2a",
+    "objectID": "portfolio/UTS/hasil_2a_18225047.html#bobot-dan-nilai-akhir-uts",
+    "href": "portfolio/UTS/hasil_2a_18225047.html#bobot-dan-nilai-akhir-uts",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Bobot dan nilai akhir UTS",
-    "text": "Bobot dan nilai akhir UTS\n\n\n\nKomponen\nBobot\nNilai komponen\n\n\n\n\nMakalah pra-UTS (paper.qmd)\n10%\nNilai dosen pada skala 0–100\n\n\nSesi 1\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2b\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3b\n18%\nJumlah enam skor / 24 × 100\n\n\nTotal\n100%\n\n\n\n\nNilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b), dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.\nNilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis Belum dihitung sampai nilai makalah dan kelima sesi tersedia.\nRata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.\nRubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen."
+    "text": "Bobot dan nilai akhir UTS\n\n\n\nKomponen\nBobot\nNilai komponen\n\n\n\n\nMakalah pra-UTS (paper.qmd)\n10%\nNilai dosen pada skala 0–100\n\n\nSesi 1\n18%\n100\n\n\nSesi 2a\n18%\n100 (Usulan AI)\n\n\nSesi 2b\n18%\nBT\n\n\nSesi 3a\n18%\nBT\n\n\nSesi 3b\n18%\nBT\n\n\nTotal\n100%\nBelum dihitung\n\n\n\nNilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b). Nilai akhir ditulis Belum dihitung sampai nilai makalah dan kelima sesi tersedia."
   },
   {
     "objectID": "lk/lk-UTS/soal-uts.html",
@@ -5965,387 +5965,352 @@
     "text": "9.1 Bobot dan nilai akhir UTS\n\n\n\nKomponen\nBobot\nNilai komponen\n\n\n\n\nMakalah pra-UTS (paper.qmd)\n10%\nNilai dosen pada skala 0–100\n\n\nSesi 1\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2b\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3b\n18%\nJumlah enam skor / 24 × 100\n\n\nTotal\n100%\n\n\n\n\nNilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b), dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.\nNilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis Belum dihitung sampai nilai makalah dan kelima sesi tersedia.\nRata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.\nRubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen."
   },
   {
-    "objectID": "portfolio/UTS/hasil_1.html",
-    "href": "portfolio/UTS/hasil_1.html",
-    "title": "Laporan UTS KIPP - Sesi 1",
-    "section": "",
-    "text": "TipTemplate belum terisi\n\n\n\nIsi dari sesi Anda sendiri. Lihat contoh sesi 1 dan kembali ke portfolio Minggu 8. Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai PENUGASAN.md pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8."
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_1.html#kasus-dan-tujuan-tindakan",
-    "href": "portfolio/UTS/hasil_1.html#kasus-dan-tujuan-tindakan",
-    "title": "Laporan UTS KIPP - Sesi 1",
-    "section": "Kasus dan tujuan tindakan",
-    "text": "Kasus dan tujuan tindakan\n[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]\n\n\n\nUnsur\nIsi\n\n\n\n\nTujuan komunikasi/tindakan\n[Isi]\n\n\nKeadaan awal\n[Bukti dan ID; bedakan dugaan dari laporan target]\n\n\nIndikator keberhasilan\n[Apa yang dapat diperiksa?]\n\n\nBatas dan pilihan target\n[Apa yang tidak dipaksakan?]\n\n\nTenggat\n[Tanggal/jam atau waktu relatif yang konsisten]"
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_1.html#profil-awal-komunikator",
-    "href": "portfolio/UTS/hasil_1.html#profil-awal-komunikator",
-    "title": "Laporan UTS KIPP - Sesi 1",
-    "section": "Profil awal komunikator",
-    "text": "Profil awal komunikator\nIsi tentang diri Anda, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.\n\n\n\n\n\n\n\n\n\nUnsur\nLaporan/dugaan awal\nBukti/ID\nKepastian dan batas\n\n\n\n\nPersepsi/SWOT subjektif\n[Kekuatan, keterbatasan, peluang, ancaman]\n[Isi]\n[Isi]\n\n\nAttitude\n[Nilai, sikap, keyakinan]\n[Isi]\n[Isi]\n\n\nKnowledge\n[Pemahaman dan informasi yang belum diketahui]\n[Isi]\n[Isi]\n\n\nSkill\n[Kemampuan dan kebutuhan latihan/dukungan]\n[Isi]\n[Isi]\n\n\nPreferensi/MBTI jika dilaporkan\n[Laporan diri atau belum diketahui; bukan diagnosis dari percakapan]\n[Isi]\n[Isi]\n\n\nPeran, karakter, kultur/ko-kultur\n[Norma spesifik yang relevan]\n[Isi]\n[Isi]"
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_1.html#dugaan-awal-profil-target-dan-rencana",
-    "href": "portfolio/UTS/hasil_1.html#dugaan-awal-profil-target-dan-rencana",
-    "title": "Laporan UTS KIPP - Sesi 1",
-    "section": "Dugaan awal profil target dan rencana",
-    "text": "Dugaan awal profil target dan rencana\n[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]\n\n\n\n\n\n\n\n\n\n\nTAIDA\nStatus awal/target\nEdukasi A/K/S\nRepertoar yang direncanakan\nBukti yang diharapkan\n\n\n\n\nTarget\n[Sasaran dan tujuan]\n[Isi]\n[Isi]\n[Isi]\n\n\nAttention\n[Status]\n[Isi]\n[Isi]\n[Isi]\n\n\nInterest\n[Status]\n[Isi]\n[Isi]\n[Isi]\n\n\nDesire\n[Status]\n[Isi]\n[Isi]\n[Isi]\n\n\nAction\n[Langkah pertama]\n[Isi]\n[Isi]\n[Isi]"
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_1.html#hasil-tujuan-dan-perubahan-swotask",
-    "href": "portfolio/UTS/hasil_1.html#hasil-tujuan-dan-perubahan-swotask",
-    "title": "Laporan UTS KIPP - Sesi 1",
-    "section": "Hasil tujuan dan perubahan SWOT/ASK",
-    "text": "Hasil tujuan dan perubahan SWOT/ASK\n[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]\n\n\n\n\n\n\n\n\n\n\nUnsur\nAwal\nAkhir\nBukti/ID\nJenis bukti dan batas\n\n\n\n\nPersepsi/kesimpulan SWOT\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\nAttitude\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\nKnowledge\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\nSkill/kesiapan\n[Isi]\n[Isi]\n[Isi]\n[Skill nyata tidak meningkat hanya karena menyatakan setuju]"
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_1.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
-    "href": "portfolio/UTS/hasil_1.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
-    "title": "Laporan UTS KIPP - Sesi 1",
-    "section": "Evaluasi stimulus-respons dan diagnosis profil",
-    "text": "Evaluasi stimulus-respons dan diagnosis profil\n\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nEstimasi status dan bukti\nStimulus mahasiswa\nRespons target\nPerubahan ASK/SWOT\nAdaptasi\n\n\n\n\n[Isi]\n[Isi]\n[Kutipan]\n[Kutipan]\n[Interpretasi dan batas]\n[Perubahan berikutnya]\n\n\n\n[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]"
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_1.html#pengaruh-pesan-personal-dan-kualitas-relasi",
-    "href": "portfolio/UTS/hasil_1.html#pengaruh-pesan-personal-dan-kualitas-relasi",
-    "title": "Laporan UTS KIPP - Sesi 1",
-    "section": "Pengaruh pesan personal dan kualitas relasi",
-    "text": "Pengaruh pesan personal dan kualitas relasi\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nPesan personal/bantuan konkret\nRespons teramati\nRasa aman, kepercayaan, keterbukaan\nDampak ASK/SWOT dan batas inferensi\n\n\n\n\n[Isi]\n[Kutipan/tindakan]\n[Kutipan]\n[Awal dan akhir; bukti]\n[Isi]\n\n\n\n[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]"
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_1.html#uji-ulang-dan-pembelajaran",
-    "href": "portfolio/UTS/hasil_1.html#uji-ulang-dan-pembelajaran",
-    "title": "Laporan UTS KIPP - Sesi 1",
-    "section": "Uji ulang dan pembelajaran",
-    "text": "Uji ulang dan pembelajaran\n\n\n\n\n\n\n\nUnsur\nBukti/uraian\n\n\n\n\nKendala baru atau peristiwa sejenis\n[Isi dan ID]\n\n\nRespons awal dibanding uji ulang\n[Isi dan kutipan]\n\n\nRevisi rencana/dukungan\n[Isi]\n\n\nIndikator perbaikan\n[Isi]\n\n\nTransfer dan keterbatasan\n[Apa yang diperagakan; apa yang belum diuji?]\n\n\n\n[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]"
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_1.html#penilaian-enam-dimensi",
-    "href": "portfolio/UTS/hasil_1.html#penilaian-enam-dimensi",
-    "title": "Laporan UTS KIPP - Sesi 1",
-    "section": "Penilaian enam dimensi",
-    "text": "Penilaian enam dimensi\n\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4/BT\nID dan kutipan bukti\nAlasan sesuai indikator\n\n\n\n\nTujuan dan konteks\nBT\n[Isi]\n[Belum dinilai]\n\n\nPersepsi dan validasi profil/status\nBT\n[Isi]\n[Belum dinilai]\n\n\nPemilihan dan urutan repertoar\nBT\n[Isi]\n[Belum dinilai]\n\n\nEksekusi jelas, peduli dan konsisten\nBT\n[Isi]\n[Belum dinilai]\n\n\nEvaluasi dan adaptasi\nBT\n[Isi]\n[Belum dinilai]\n\n\nRefleksi dan lesson learned\nBT\n[Isi]\n[Belum dinilai]\n\n\n\nNilai sesi: [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus jumlah enam skor / 24 x 100 hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen."
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_1.html#refleksi-dan-lesson-learned-mahasiswa",
-    "href": "portfolio/UTS/hasil_1.html#refleksi-dan-lesson-learned-mahasiswa",
-    "title": "Laporan UTS KIPP - Sesi 1",
-    "section": "Refleksi dan lesson learned mahasiswa",
-    "text": "Refleksi dan lesson learned mahasiswa\n\nDugaan yang dikoreksi: [Jawaban Anda dan bukti].\nStimulus efektif/tidak efektif: [Jawaban Anda dan respons terkait].\nPertumbuhan PASK/ASK diri: [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].\nRelasi: [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].\nPreferensi, peran, budaya: [Pengaruh yang teramati; hindari generalisasi].\nPelajaran untuk situasi berikutnya: [Isi]."
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_1.html#tindak-lanjut-dan-batas-bukti",
-    "href": "portfolio/UTS/hasil_1.html#tindak-lanjut-dan-batas-bukti",
-    "title": "Laporan UTS KIPP - Sesi 1",
-    "section": "Tindak lanjut dan batas bukti",
-    "text": "Tindak lanjut dan batas bukti\n\n\n\n\n\n\n\n\n\n\n\nLangkah\nPenanggung jawab\nWaktu\nDukungan\nIndikator/cara evaluasi\nStatus rencana/pelaksanaan\n\n\n\n\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\n\n[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]\nKonfirmasi akhir: [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan]."
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_1.html#bobot-dan-nilai-akhir-uts",
-    "href": "portfolio/UTS/hasil_1.html#bobot-dan-nilai-akhir-uts",
-    "title": "Laporan UTS KIPP - Sesi 1",
-    "section": "Bobot dan nilai akhir UTS",
-    "text": "Bobot dan nilai akhir UTS\n\n\n\nKomponen\nBobot\nNilai komponen\n\n\n\n\nMakalah pra-UTS (paper.qmd)\n10%\nNilai dosen pada skala 0–100\n\n\nSesi 1\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2b\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3b\n18%\nJumlah enam skor / 24 × 100\n\n\nTotal\n100%\n\n\n\n\nNilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b), dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.\nNilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis Belum dihitung sampai nilai makalah dan kelima sesi tersedia.\nRata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.\nRubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen."
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_2b.html",
-    "href": "portfolio/UTS/hasil_2b.html",
-    "title": "Laporan UTS KIPP - Sesi 2b",
-    "section": "",
-    "text": "TipTemplate belum terisi\n\n\n\nIsi dari sesi Anda sendiri. Lihat contoh sesi 2b dan kembali ke portfolio Minggu 8. Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai PENUGASAN.md pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8."
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_2b.html#kasus-dan-tujuan-tindakan",
-    "href": "portfolio/UTS/hasil_2b.html#kasus-dan-tujuan-tindakan",
-    "title": "Laporan UTS KIPP - Sesi 2b",
-    "section": "Kasus dan tujuan tindakan",
-    "text": "Kasus dan tujuan tindakan\n[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]\n\n\n\nUnsur\nIsi\n\n\n\n\nTujuan komunikasi/tindakan\n[Isi]\n\n\nKeadaan awal\n[Bukti dan ID; bedakan dugaan dari laporan target]\n\n\nIndikator keberhasilan\n[Apa yang dapat diperiksa?]\n\n\nBatas dan pilihan target\n[Apa yang tidak dipaksakan?]\n\n\nTenggat\n[Tanggal/jam atau waktu relatif yang konsisten]"
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_2b.html#profil-awal-komunikator",
-    "href": "portfolio/UTS/hasil_2b.html#profil-awal-komunikator",
-    "title": "Laporan UTS KIPP - Sesi 2b",
-    "section": "Profil awal komunikator",
-    "text": "Profil awal komunikator\nIsi tentang diri Anda, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.\n\n\n\n\n\n\n\n\n\nUnsur\nLaporan/dugaan awal\nBukti/ID\nKepastian dan batas\n\n\n\n\nPersepsi/SWOT subjektif\n[Kekuatan, keterbatasan, peluang, ancaman]\n[Isi]\n[Isi]\n\n\nAttitude\n[Nilai, sikap, keyakinan]\n[Isi]\n[Isi]\n\n\nKnowledge\n[Pemahaman dan informasi yang belum diketahui]\n[Isi]\n[Isi]\n\n\nSkill\n[Kemampuan dan kebutuhan latihan/dukungan]\n[Isi]\n[Isi]\n\n\nPreferensi/MBTI jika dilaporkan\n[Laporan diri atau belum diketahui; bukan diagnosis dari percakapan]\n[Isi]\n[Isi]\n\n\nPeran, karakter, kultur/ko-kultur\n[Norma spesifik yang relevan]\n[Isi]\n[Isi]"
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_2b.html#dugaan-awal-profil-target-dan-rencana",
-    "href": "portfolio/UTS/hasil_2b.html#dugaan-awal-profil-target-dan-rencana",
-    "title": "Laporan UTS KIPP - Sesi 2b",
-    "section": "Dugaan awal profil target dan rencana",
-    "text": "Dugaan awal profil target dan rencana\n[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]\n\n\n\n\n\n\n\n\n\n\nTAIDA\nStatus awal/target\nEdukasi A/K/S\nRepertoar yang direncanakan\nBukti yang diharapkan\n\n\n\n\nTarget\n[Sasaran dan tujuan]\n[Isi]\n[Isi]\n[Isi]\n\n\nAttention\n[Status]\n[Isi]\n[Isi]\n[Isi]\n\n\nInterest\n[Status]\n[Isi]\n[Isi]\n[Isi]\n\n\nDesire\n[Status]\n[Isi]\n[Isi]\n[Isi]\n\n\nAction\n[Langkah pertama]\n[Isi]\n[Isi]\n[Isi]"
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_2b.html#hasil-tujuan-dan-perubahan-swotask",
-    "href": "portfolio/UTS/hasil_2b.html#hasil-tujuan-dan-perubahan-swotask",
-    "title": "Laporan UTS KIPP - Sesi 2b",
-    "section": "Hasil tujuan dan perubahan SWOT/ASK",
-    "text": "Hasil tujuan dan perubahan SWOT/ASK\n[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]\n\n\n\n\n\n\n\n\n\n\nUnsur\nAwal\nAkhir\nBukti/ID\nJenis bukti dan batas\n\n\n\n\nPersepsi/kesimpulan SWOT\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\nAttitude\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\nKnowledge\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\nSkill/kesiapan\n[Isi]\n[Isi]\n[Isi]\n[Skill nyata tidak meningkat hanya karena menyatakan setuju]"
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_2b.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
-    "href": "portfolio/UTS/hasil_2b.html#evaluasi-stimulus-respons-dan-diagnosis-profil",
-    "title": "Laporan UTS KIPP - Sesi 2b",
-    "section": "Evaluasi stimulus-respons dan diagnosis profil",
-    "text": "Evaluasi stimulus-respons dan diagnosis profil\n\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nEstimasi status dan bukti\nStimulus mahasiswa\nRespons target\nPerubahan ASK/SWOT\nAdaptasi\n\n\n\n\n[Isi]\n[Isi]\n[Kutipan]\n[Kutipan]\n[Interpretasi dan batas]\n[Perubahan berikutnya]\n\n\n\n[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]"
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_2b.html#pengaruh-pesan-personal-dan-kualitas-relasi",
-    "href": "portfolio/UTS/hasil_2b.html#pengaruh-pesan-personal-dan-kualitas-relasi",
-    "title": "Laporan UTS KIPP - Sesi 2b",
-    "section": "Pengaruh pesan personal dan kualitas relasi",
-    "text": "Pengaruh pesan personal dan kualitas relasi\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nPesan personal/bantuan konkret\nRespons teramati\nRasa aman, kepercayaan, keterbukaan\nDampak ASK/SWOT dan batas inferensi\n\n\n\n\n[Isi]\n[Kutipan/tindakan]\n[Kutipan]\n[Awal dan akhir; bukti]\n[Isi]\n\n\n\n[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]"
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_2b.html#uji-ulang-dan-pembelajaran",
-    "href": "portfolio/UTS/hasil_2b.html#uji-ulang-dan-pembelajaran",
-    "title": "Laporan UTS KIPP - Sesi 2b",
-    "section": "Uji ulang dan pembelajaran",
-    "text": "Uji ulang dan pembelajaran\n\n\n\n\n\n\n\nUnsur\nBukti/uraian\n\n\n\n\nKendala baru atau peristiwa sejenis\n[Isi dan ID]\n\n\nRespons awal dibanding uji ulang\n[Isi dan kutipan]\n\n\nRevisi rencana/dukungan\n[Isi]\n\n\nIndikator perbaikan\n[Isi]\n\n\nTransfer dan keterbatasan\n[Apa yang diperagakan; apa yang belum diuji?]\n\n\n\n[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]"
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_2b.html#penilaian-enam-dimensi",
-    "href": "portfolio/UTS/hasil_2b.html#penilaian-enam-dimensi",
-    "title": "Laporan UTS KIPP - Sesi 2b",
-    "section": "Penilaian enam dimensi",
-    "text": "Penilaian enam dimensi\n\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4/BT\nID dan kutipan bukti\nAlasan sesuai indikator\n\n\n\n\nTujuan dan konteks\nBT\n[Isi]\n[Belum dinilai]\n\n\nPersepsi dan validasi profil/status\nBT\n[Isi]\n[Belum dinilai]\n\n\nPemilihan dan urutan repertoar\nBT\n[Isi]\n[Belum dinilai]\n\n\nEksekusi jelas, peduli dan konsisten\nBT\n[Isi]\n[Belum dinilai]\n\n\nEvaluasi dan adaptasi\nBT\n[Isi]\n[Belum dinilai]\n\n\nRefleksi dan lesson learned\nBT\n[Isi]\n[Belum dinilai]\n\n\n\nNilai sesi: [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus jumlah enam skor / 24 x 100 hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen."
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_2b.html#refleksi-dan-lesson-learned-mahasiswa",
-    "href": "portfolio/UTS/hasil_2b.html#refleksi-dan-lesson-learned-mahasiswa",
-    "title": "Laporan UTS KIPP - Sesi 2b",
-    "section": "Refleksi dan lesson learned mahasiswa",
-    "text": "Refleksi dan lesson learned mahasiswa\n\nDugaan yang dikoreksi: [Jawaban Anda dan bukti].\nStimulus efektif/tidak efektif: [Jawaban Anda dan respons terkait].\nPertumbuhan PASK/ASK diri: [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].\nRelasi: [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].\nPreferensi, peran, budaya: [Pengaruh yang teramati; hindari generalisasi].\nPelajaran untuk situasi berikutnya: [Isi]."
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_2b.html#tindak-lanjut-dan-batas-bukti",
-    "href": "portfolio/UTS/hasil_2b.html#tindak-lanjut-dan-batas-bukti",
-    "title": "Laporan UTS KIPP - Sesi 2b",
-    "section": "Tindak lanjut dan batas bukti",
-    "text": "Tindak lanjut dan batas bukti\n\n\n\n\n\n\n\n\n\n\n\nLangkah\nPenanggung jawab\nWaktu\nDukungan\nIndikator/cara evaluasi\nStatus rencana/pelaksanaan\n\n\n\n\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\n\n[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]\nKonfirmasi akhir: [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan]."
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_2b.html#bobot-dan-nilai-akhir-uts",
-    "href": "portfolio/UTS/hasil_2b.html#bobot-dan-nilai-akhir-uts",
-    "title": "Laporan UTS KIPP - Sesi 2b",
-    "section": "Bobot dan nilai akhir UTS",
-    "text": "Bobot dan nilai akhir UTS\n\n\n\nKomponen\nBobot\nNilai komponen\n\n\n\n\nMakalah pra-UTS (paper.qmd)\n10%\nNilai dosen pada skala 0–100\n\n\nSesi 1\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2b\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3b\n18%\nJumlah enam skor / 24 × 100\n\n\nTotal\n100%\n\n\n\n\nNilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b), dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.\nNilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis Belum dihitung sampai nilai makalah dan kelima sesi tersedia.\nRata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.\nRubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen."
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_3b.html",
-    "href": "portfolio/UTS/hasil_3b.html",
+    "objectID": "portfolio/UTS/hasil_1_18225047.html",
+    "href": "portfolio/UTS/hasil_1_18225047.html",
     "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "",
-    "text": "Elemen\nKeterangan\n\n\n\n\nNama mahasiswa\nAli Baba\n\n\nNIM\n07381119\n\n\nKelas\n01\n\n\nTanggal\n6 Oktober 2026\n\n\nNomor/judul kasus\nSesi 3b; Kasus 3 — Menawarkan solusi TI dan AI\n\n\nUrutan penugasan\n5 dari 5; penyelesaian empat sesi lainnya tidak diketahui\n\n\nNama dan ID target\nBudi (K3-02), pengelola usaha/customer\n\n\nVersi bank dan paket\nBank 2.0; paket individual 2.0\n\n\nAturan penugasan\nPENUGASAN.md; target telah ditetapkan dan tidak dipilih ulang\n\n\nModalitas yang dikonfirmasi\nTeks\n\n\nSumber pencatatan\nTranskrip percakapan berformat SRT yang disediakan pengguna; mencakup fragmen ujaran. Tidak tersedia bukti prosodi atau rekaman untuk diverifikasi.\n\n\nKasus nyata/fiktif\nSimulasi dengan tokoh fiktif\n\n\nKelengkapan transkrip\nSeluruh giliran substantif yang tersedia sejak identifikasi hingga permintaan laporan dicatat. Uji ulang dan konfirmasi ringkasan akhir belum dilakukan.\n\n\nStatus laporan\nDokumentasi hasil sesi yang tersedia; belum memenuhi seluruh tahapan asesmen versi 2.0\n\n\n\nNama dan NIM mengikuti penugasan serta konfirmasi percakapan, bukan verifikasi identitas eksternal. Dokumen ini mengikuti empat bagian utama dalam template_laporan.qmd. Profil simulasi dan aturan evaluasi bersumber dari profil_komunikan.md dan prompt_umum.md. Laporan dibuat atas permintaan peserta pada U016; belum ada konfirmasi peserta terhadap seluruh interpretasi AI dalam laporan ini."
+    "text": "Elemen\nKeterangan\n\n\n\n\nNama mahasiswa\nRijal Kholis Al-Ausath\n\n\nNIM\n18225047\n\n\nKelas dan tanggal\nKelas 1; 14 Oktober 2026\n\n\nNomor/judul kasus\nSesi 1; Kasus 1 — Memimpin diri dan terus belajar\n\n\nNama dan ID target\nDiri mahasiswa sebagai target utama; Budi (K1-02) sebagai tokoh pembanding yang ditugaskan\n\n\nVersi bank/aturan penugasan\nBank 2.0; paket individual 2.0; PENUGASAN.md dalam ZIP\n\n\nModalitas\nTeks; tidak ada sumber transkripsi suara\n\n\nKasus nyata/fiktif\nRefleksi diri berdasarkan pengalaman yang dilaporkan mahasiswa; Budi diperlakukan sebagai tokoh simulasi, bukan bukti tentang individu nyata\n\n\nBahan percakapan\nInteraksi teks pada asesmen, simulasi, evaluasi, dan refleksi Sesi 1."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b.html#kasus-dan-tujuan-tindakan",
-    "href": "portfolio/UTS/hasil_3b.html#kasus-dan-tujuan-tindakan",
+    "objectID": "portfolio/UTS/hasil_1_18225047.html#kasus-dan-tujuan-tindakan",
+    "href": "portfolio/UTS/hasil_1_18225047.html#kasus-dan-tujuan-tindakan",
     "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Kasus dan tujuan tindakan",
-    "text": "Kasus dan tujuan tindakan\nBrief dalam paket: customer menangani pertanyaan pelanggan berulang dan pesanan tercecer dengan tenaga terbatas. Customer belum yakin membutuhkan AI. Komunikator perlu menggali kebutuhan dan menawarkan solusi TI/AI yang sesuai, dengan sasaran keputusan atau uji coba konkret.\nDalam percakapan, Ali Baba menawarkan solusi AI untuk meningkatkan kapasitas customer service. Tujuan awalnya mendapatkan kesempatan demo (U003). Harapan lanjutannya ialah Budi menggunakan alat dan membeli solusi (U004). Keduanya dibedakan: persetujuan demo adalah langkah pertama; pembelian merupakan hasil lanjutan yang belum dapat dibuktikan hanya melalui demo.\nIndikator keberhasilan yang dapat diturunkan dari tujuan tersebut adalah persetujuan eksplisit atas demo, lalu keputusan adopsi/pembelian. Waktu, durasi, cakupan demo, indikator manfaat, dan syarat pembelian tidak dirumuskan dalam sesi."
+    "text": "Kasus dan tujuan tindakan\nKasus ini meminta mahasiswa memilih satu kemampuan yang ingin dikembangkan dan memeriksa cara memimpin diri saat menghadapi hambatan belajar. Dari jawaban awal mahasiswa (U001), kemampuan yang dipilih adalah manajemen waktu, agar waktu dimanfaatkan lebih baik dan produktivitas meningkat. Hambatan yang dinyatakan adalah menunda karena merasa masih memiliki banyak waktu.\nMahasiswa melaporkan pernah berniat mengerjakan tugas Arsitektur Komputer tetapi menghabiskan sekitar 1–2 jam bermain catur online; tugas tetap dikerjakan dan dikumpulkan tepat waktu (U001). Dalam pertanyaan lanjutan, mahasiswa menjelaskan bahwa catur dipakai sebagai refreshing setelah pulang kuliah dan tenggat yang masih jauh membuat penundaan terasa memungkinkan (U002).\nStrategi yang dinyatakan mencakup memandang penyelesaian awal sebagai cara menikmati waktu senggang tanpa beban, memajukan atau menambah alarm ke H-4, menargetkan penyelesaian 50% berdasarkan pembagian porsi tugas ketika tugas diterima, dan menggunakan H-1 sebagai pengingat persiapan pengumpulan (U003–U004). Strategi cadangan lainnya adalah meminta masukan teman jika cara yang dicoba belum berhasil dan membatasi permainan catur pada masa UAS dengan menjadikannya hadiah setelah ujian. Belum ada bukti bahwa rencana manajemen waktu tersebut telah dilaksanakan di luar sesi.\nTujuan tindakan yang dilaporkan: memperbaiki disiplin waktu dan mengurangi penundaan. Indikator rencana: pembagian tugas sejak awal, penyelesaian sekurang-kurangnya 50% pada milestone yang ditentukan, menyiapkan pengumpulan sebelum tenggat, dan memeriksa kemajuan. Indikator ini belum terbukti tercapai setelah sesi."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b.html#profil-awal-komunikator",
-    "href": "portfolio/UTS/hasil_3b.html#profil-awal-komunikator",
+    "objectID": "portfolio/UTS/hasil_1_18225047.html#profil-awal-komunikator",
+    "href": "portfolio/UTS/hasil_1_18225047.html#profil-awal-komunikator",
     "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Profil awal komunikator",
-    "text": "Profil awal komunikator\nTabel berikut merupakan interpretasi AI atas bukti percakapan, bukan jawaban profil diri yang diberikan peserta sebelum simulasi.\n\n\n\n\n\n\n\n\n\nUnsur\nLaporan/dugaan berdasarkan percakapan\nBukti\nTingkat kepastian\n\n\n\n\nSWOT subjektif\nMelihat peluang pada kebutuhan peningkatan kapasitas customer service. Pada awal percakapan merasa solusi dapat membantu. Ancaman biaya, gangguan operasi, dan resistensi staf muncul melalui respons Budi.\nU005–U008; AI007–AI012\nInterpretasi sementara; SWOT diri tidak ditanyakan secara lengkap\n\n\nAttitude\nBerorientasi menawarkan manfaat; bersedia mengakui kekhawatiran dan menghormati penolakan.\nU006, U012, U013\nTeramati dalam teks; motif batin tidak dinilai\n\n\nKnowledge\nMenggunakan konsep AI dan machine learning. Bukti kapasitas tiga kali lipat, mekanisme belajar sistem, serta rincian biaya belum disampaikan.\nU007, U008, U009, U012\nKlaim peserta; kemampuan teknis produk belum diverifikasi\n\n\nSkill\nMampu membuka percakapan, menjelaskan manfaat, merespons keberatan, dan menutup dengan sopan. Penggalian kebutuhan sebelum penawaran belum tampak.\nU005–U013\nTeramati pada simulasi awal; transfer keterampilan belum diuji\n\n\nPreferensi/MBTI\nTidak dilaporkan peserta.\n—\nTidak ditentukan dari transkrip\n\n\nKarakter, peran, kultur/ko-kultur\nBerperan sebagai penyedia solusi. Sopan santun tampak melalui sapaan dan ucapan terima kasih; kultur spesifik tidak digali.\nU005, U013\nTerbatas pada perilaku komunikasi yang tersedia"
+    "text": "Profil awal komunikator\nTabel berikut merangkum jawaban awal mahasiswa pada U001. Profil ini adalah laporan diri mahasiswa dan tidak dimaksudkan sebagai diagnosis.\n\n\n\n\n\n\n\n\n\nUnsur\nLaporan/dugaan awal\nBukti yang tersedia\nTingkat kepastian\n\n\n\n\nSWOT subjektif\nKekuatan: fokus pada hal yang disukai; kelemahan: menunda; peluang: teman rajin dan Google Calendar; ancaman: agenda tak terduga yang berbenturan dengan rencana.\nU001 (jawaban awal).\nLaporan diri; sementara\n\n\nAttitude\nMenyadari perlunya peningkatan manajemen waktu dan menyatakan kesungguhan untuk memperbaiki diri.\nU001 (jawaban awal).\nLaporan diri; sementara\n\n\nKnowledge\nMenyatakan bahwa ia kadang lupa daftar tugas dan menunda; membuat to-do list, tetapi belum mengetahui cara lebih disiplin menaati alarm.\nU001 (jawaban awal).\nLaporan diri; sementara\n\n\nSkill\nMenyatakan bisa fokus setelah mulai dan memperkirakan kebutuhan waktu pengerjaan.\nU001 (jawaban awal).\nLaporan diri; sementara\n\n\nPreferensi/MBTI jika dilaporkan\nTidak ada tipe MBTI yang dilaporkan mahasiswa.\nU001.\nTidak diketahui; tidak didiagnosis\n\n\nKarakter, peran, kultur/ko-kultur\nMahasiswa yang mengelola tugas kuliah dan waktu senggang; tidak ada norma budaya/ko-kultur spesifik yang dilaporkan.\nU001–U004.\nInformasi terbatas"
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b.html#dugaan-awal-profil-target-dan-rencana",
-    "href": "portfolio/UTS/hasil_3b.html#dugaan-awal-profil-target-dan-rencana",
+    "objectID": "portfolio/UTS/hasil_1_18225047.html#dugaan-awal-profil-target-dan-rencana",
+    "href": "portfolio/UTS/hasil_1_18225047.html#dugaan-awal-profil-target-dan-rencana",
     "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Dugaan awal profil target dan rencana",
-    "text": "Dugaan awal profil target dan rencana\nPeserta tidak memberikan profil awal atau rencana terstruktur sebelum simulasi. Pada pembuka U005 peserta menganggap usaha Budi maju dan bagian customer service kewalahan. Pernyataan itu merupakan asumsi peserta dalam simulasi; belum divalidasi melalui pertanyaan. Sebelum simulasi, fasilitator menyebut Budi pragmatis, berfokus pada efisiensi, dan skeptis terhadap teknologi baru (AI005). Keterangan fasilitator itu tidak dihitung sebagai hasil diagnosis peserta.\nTabel TAIDA berikut memetakan langkah yang benar-benar muncul, bukan rencana awal yang seolah-olah pernah disampaikan. TAIDA digunakan sebagai platform analisis, bukan tahapan perubahan yang pasti atau linear.\n\n\n\n\n\n\n\n\n\n\nTAIDA\nStatus/target\nAspek A/K/S yang relevan\nRepertoar yang tampak\nBukti hasil\n\n\n\n\nTarget\nBudi sebagai calon pengguna; demo lalu adopsi/pembelian\nKebutuhan operasional belum digali\nMenetapkan tujuan penawaran\nU003–U004\n\n\nAttention\nMengajak Budi memperhatikan penawaran\nA: penghargaan atas usahanya\nSalam dan pujian atas kemajuan usaha\nU005; AI006 tetap menjawab\n\n\nInterest\nMenawarkan peningkatan kapasitas dengan biaya terkendali\nK: manfaat dan biaya; A: risiko\nPenjelasan manfaat, klaim tiga kali lipat, biaya setara satu staf\nU006–U008; AI007–AI009 meminta kepastian\n\n\nDesire\nMengupayakan keyakinan bahwa staf akan terbantu\nA: rasa aman; K: peran staf; S: penyesuaian kerja\nMenjelaskan sistem belajar dan staf menjadi supervisor\nU009, U012; AI012–AI013 masih menyatakan kendala\n\n\nAction\nMendapatkan persetujuan demo\nS: prosedur, dukungan, dan langkah konkret\nMengusulkan demo, lalu menutup setelah penolakan\nU006, U013; AI013 menolak demo; belum ada kesepakatan"
+    "text": "Dugaan awal profil target dan rencana\nDiri mahasiswa adalah target utama. Budi seharusnya berfungsi sebagai cermin pembanding untuk mengamati bahwa saran yang cocok bagi diri sendiri belum tentu cocok bagi orang lain. Namun, profil resmi K1-02 dalam paket penugasan berbeda dari karakter Budi yang diperankan asisten dalam simulasi; hal ini dijelaskan lagi pada bagian D.\n\n\n\n\n\n\n\n\n\n\nTAIDA\nStatus awal/target\nEdukasi A/K/S\nRepertoar yang direncanakan atau muncul\nBukti yang diharapkan\n\n\n\n\nTarget\nMemperbaiki pengelolaan waktu dan mengurangi penundaan; hasil belum diverifikasi.\nA: kemauan berubah sudah dilaporkan. K: perlu mengubah alarm menjadi tindakan. S: perlu kebiasaan mulai lebih awal dan membagi tugas.\nMilestone, pembagian tugas, pengurangan distraksi, dan pencatatan kemajuan.\nCatatan tugas dan bukti penyelesaian pada milestone; belum tersedia.\n\n\nAttention\nPerhatian pada masalah muncul ketika menyadari waktu terpakai untuk catur dan alarm tidak selalu menghentikan penundaan.\nK: mengenali pemicu penundaan dan konsekuensinya.\nMeninjau spesifikasi tugas lebih awal dan membandingkan beban tugas dengan waktu tersisa.\nMahasiswa memulai peninjauan sebelum tenggat; baru berupa rencana/saran.\n\n\nInterest\nIngin lebih produktif tetapi juga menggunakan catur sebagai hiburan setelah kelas.\nA: tujuan perlu tetap realistis dan mengakui kebutuhan istirahat.\nMengaitkan waktu minum kopi dengan membaca spesifikasi tugas; menyimpan hiburan sebagai kegiatan setelah target tercapai.\nPerubahan dari sekadar persiapan ke langkah pengerjaan nyata; belum diverifikasi.\n\n\nDesire\nIngin disiplin dan tidak terburu-buru mendekati tenggat.\nA/K: memandang perubahan sebagai proses bertahap; memahami tugas lebih awal memberi ruang menghadapi kesulitan.\nMembagi tugas, menargetkan milestone, dan menerima kemunduran tanpa menganggap semua usaha gagal.\nKesediaan mencoba muncul dari Budi dalam simulasi, tetapi bukan bukti perubahan mahasiswa sendiri.\n\n\nAction\nRencana konkret sudah disebutkan, tetapi belum ada bukti pelaksanaan di luar sesi.\nS: perlu langkah awal kecil, batas waktu, dan evaluasi kemajuan.\nMenutup situs catur, mengerjakan bagian kecil, mencatat hari sesuai rencana, dan meminta dukungan bila strategi gagal.\nCatatan implementasi setelah sesi; belum tersedia."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b.html#tahap-a-identifikasi",
-    "href": "portfolio/UTS/hasil_3b.html#tahap-a-identifikasi",
-    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
-    "section": "Tahap A — Identifikasi",
-    "text": "Tahap A — Identifikasi\nAI001 — Fasilitator\n\nAI001 — Tahap A: Identifikasi\nMohon konfirmasi data peserta dan lengkapi identitas sesi dalam satu jawaban:\n\nNama: Ali Baba\nNIM: 07381119\nKelas: …\nTanggal: 6 Oktober 2026, atau koreksi bila berbeda\nModalitas: teks atau suara\n\nApakah nama dan NIM tersebut sesuai dengan peserta yang akan menjalani sesi ini?\n\nU001 — Mahasiswa\n\nOke\n\nAI002 — Fasilitator\n\nBaik, kita mulai dari Tahap A dulu ya. Mohon konfirmasi identitas sesi: Nama Ali Baba, NIM 07381119, Kelas, tanggal hari ini 6 Oktober 2026, dan modalitas teks atau suara.\n\nU002 — Mahasiswa\n\nOke, kelas 01 modalitas teks\n\nAI003 — Fasilitator\n\nBaik, terima kasih. Jadi kita tetapkan, Ali Baba, NIM 07381119, Kelas 01, tanggal 6 Oktober 2026, modalitas teks. Sekarang kita masuk ke Tahap B, Kasus 3b. Tolong tuliskan tujuan komunikasi Anda untuk skenario menawarkan solusi IT/AI kepada Budi, seorang pengelola usaha yang dikenal efisien dan hati-hati."
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_3b.html#tahap-b-kasus-dan-tujuan",
-    "href": "portfolio/UTS/hasil_3b.html#tahap-b-kasus-dan-tujuan",
-    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
-    "section": "Tahap B — Kasus dan tujuan",
-    "text": "Tahap B — Kasus dan tujuan\nU003 — Mahasiswa\n\nSaya ingin supaya diberi kesempatan untuk melakukan demo produk ini sehingga dia bisa menggunakan sebagai solusi di tempat kerjanya\n\nAI004 — Fasilitator\n\nBaik, tujuan awalnya adalah mendapatkan kesempatan demo agar Budi bisa melihat relevansi solusi untuk konteks kerjanya. Sekarang, mohon rumuskan hasil yang Anda anggap sukses dari percakapan ini. Misalnya, apakah cukup sampai Budi bersedia demo, atau ada tindak lanjut tertentu yang Anda harapkan?\n\nU004 — Mahasiswa\n\nTentu, setelah demo, kita harapkan untuk dia bisa menggunakan alat ini dan dia membeli solusi yang saya siapkan\n\nAI005 — Fasilitator\n\nOke, jadi hasil yang dianggap sukses adalah: Budi setuju mencoba demo, lalu terbuka untuk adopsi lebih lanjut. Sekarang kita masuk ke Tahap C. Saya akan memerankan Budi, pengelola usaha yang pragmatis, fokus efisiensi, dan skeptis pada teknologi baru. Silakan mulai percakapan dengan salam atau pembuka."
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_3b.html#tahap-c-simulasi-awal",
-    "href": "portfolio/UTS/hasil_3b.html#tahap-c-simulasi-awal",
-    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
-    "section": "Tahap C — Simulasi awal",
-    "text": "Tahap C — Simulasi awal\nU005 — Mahasiswa\n\nHalo, apa kabar Pak Budi? Saya lihat usaha Pak Budi ini maju besar, sehingga kewalahan bagian customer service. Saya lihat itu akibat dari Pak Budi memelihara perusahaan ini dengan baik\n\nAI006 — Budi\n\nYa, terima kasih. Kami memang lagi berusaha jaga ritme. Tapi jujur aja, kami hati-hati banget soal teknologi baru. Kadang alat baru malah nambah repot.\n\nU006 — Mahasiswa\n\nYa, memang itu satu concern yang penting ya. Dan saya itu ingin mendemokan satu solusi supaya customer service Pak Budi itu bisa meningkatkan kapasitasnya tanpa meningkatkan pembiayaan terlalu banyak\n\nAI007 — Budi\n\nHmm. Gimana ya? Saya paham idenya, tapi biasanya implementasi itu makan waktu dan ganggu operasi. Tim kami nggak punya banyak ruang buat coba-coba. Saya takut nanti malah ini menghambat alur kerja yang sudah jalan.\n\nU007 — Mahasiswa\n\nYa, solusi kami itu akan menggunakan teknologi artificial intelligence yang tidak akan mengganggu terlalu banyak apa yang sudah dilakukan, bahkan saya lihat akan membuat kerjaan staf dari Pak Budi ini akan lebih efisien. Sehingga kapasitas bisa meningkatkan tiga kali lipat\n\nAI008 — Budi\n\nTiga kali lipat? Itu terdengar, jujur saja, terlalu bagus untuk jadi kenyataan. Dan soal biaya, bagaimana? Saya perlu sangat hati-hati dengan pengeluaran, apalagi kalau belum jelas hasilnya.\n\nU008 — Mahasiswa\n\nYa, memang ada biayanya, Pak Budi. Tapi biaya yang kita siapkan itu seperti besarnya biaya satu staf. Jadi dengan biaya satu staf, Pak Budi mendapatkan kapasitas tiga kali lipat untuk pelayanan customer service Pak Budi\n\nAI009 — Budi\n\nTapi tetap aja, biaya satu staf itu bukan angka kecil. Kalau ternyata tidak cocok, saya yang tanggung risikonya. Dan tim saya juga sudah penuh pekerjaan. Saya khawatir mereka keberatan dengan tambahan sistem baru, pelatihan, dan penyesuaian. Itu semua makan energi dan waktu. Saya bukan menolak, cuma saya belum yakin ini saat yang tepat.\n\nU009 — Mahasiswa\n\nYa, dan sebenarnya sistem yang kita buat itu sistem yang untuk mempelajari bagaimana staf Pak Budi mengerjakan tugasnya. Jadi yang akan bekerja itu sistemnya, bukan staf Pak Budi\n\nAI010 — Budi\n\nYa,\n\nU010 — Mahasiswa\n\nStaf Budi itu\n\nAI011 — Budi\n\nMaaf saya potong, tapi itu dia.\n\nU011 — Mahasiswa\n\nmeningkat jadi ya\n\nAI012 — Budi\n\nSaya khawatir tim jadi merasa diawasi atau digantikan. Itu bisa bikin mereka defensif. Saya juga nggak punya waktu untuk mengelola resistensi internal sekarang. Jadi kalau memang butuh banyak perubahan di cara kerja harian, saya rasa ini tidak realistis untuk kami dalam waktu dekat.\n\nU012 — Mahasiswa\n\nBetul. Betul Pak Budi, kalau memang sistemnya tidak bagus seperti itu. Tapi sistem yang kita tawarkan ini justru membuat staf Pak Budi menjadi supervisor dan tidak kehilangan kemampuan. Bahkan sebetulnya Pak Budi yang akan mengajarkan hal ini kepada sistem, karena sistem ini machine learning dasarnya\n\nAI013 — Budi\n\nSaya mengerti penjelasannya, tapi seperti yang saya bilang, saat ini fokus saya menjaga operasi tetap stabil. Saya nggak dalam posisi untuk mempertimbangkan perubahan tambahan sekarang. Mungkin lain kali, saat kami sudah lebih longgar. Untuk sekarang, saya rasa belum bisa lanjut ke tahap demo. Terima kasih sudah menjelaskan.\n\nU013 — Mahasiswa\n\nOke, terima kasih Pak Budi, nanti kami kontak lagi kalau sudah ada kesempatan ya"
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_3b.html#evaluasi-dan-refleksi-disebut-tahap-d-oleh-fasilitator",
-    "href": "portfolio/UTS/hasil_3b.html#evaluasi-dan-refleksi-disebut-tahap-d-oleh-fasilitator",
-    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
-    "section": "Evaluasi dan refleksi — disebut Tahap D oleh fasilitator",
-    "text": "Evaluasi dan refleksi — disebut Tahap D oleh fasilitator\nAI014 — Fasilitator\n\nBaik, percakapan dihentikan di sini. Sekarang kita masuk ke Tahap D. Menurut Anda, apakah tujuan komunikasi tadi tercapai? Lalu apa satu hal utama yang menurut Anda perlu diperbaiki lain kali? Jawab singkat saja dulu.\n\nU014 — Mahasiswa\n\nSebetulnya belum tercapai, tetapi kita juga bersyukur kalau kita tidak terlibat pada satu proyek yang tidak membutuhkan apa yang kita buat\n\nAI015 — Fasilitator\n\nBaik, terima kasih. Saya tangkap Anda menilai tujuan belum tercapai dan menyadari ada ketidaksesuaian kebutuhan. Silakan tambahkan satu kalimat refleksi tentang apa yang akan Anda lakukan berbeda lain kali.\n\nU015 — Mahasiswa\n\nSaya akan mulai dengan bertanya pada yang Pak Budi itu atau temannya apa yang sebetulnya menjadi concern dia dan menurut dia itu seperti apa jalan keluarnya yang bisa kita bantu. Jadi terbalik, dia yang harus menjawab, memberikan informasi pada kita\n\nAI016 — Fasilitator\n\nBaik, terima kasih. Refleksi Anda jelas. Dengan ini sesi percakapan dan refleksi selesai. Struktur laporan sudah lengkap untuk Anda salin ke hasil 3b 07381119 qmd."
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_3b.html#permintaan-laporan-tertulis",
-    "href": "portfolio/UTS/hasil_3b.html#permintaan-laporan-tertulis",
-    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
-    "section": "Permintaan laporan tertulis",
-    "text": "Permintaan laporan tertulis\nU016 — Mahasiswa/pengguna\n\nBisakah dibuatkan laporan hasil itu buat kita laporkan secara tertulis\n\nTidak tersedia giliran uji ulang maupun konfirmasi ringkasan akhir. Pernyataan fasilitator pada AI016 dipertahankan sebagai bukti historis, tetapi tidak dijadikan dasar menyatakan seluruh protokol versi 2.0 telah lengkap."
-  },
-  {
-    "objectID": "portfolio/UTS/hasil_3b.html#hasil-tujuan-dan-perubahan-swotask",
-    "href": "portfolio/UTS/hasil_3b.html#hasil-tujuan-dan-perubahan-swotask",
+    "objectID": "portfolio/UTS/hasil_1_18225047.html#hasil-tujuan-dan-perubahan-swotask",
+    "href": "portfolio/UTS/hasil_1_18225047.html#hasil-tujuan-dan-perubahan-swotask",
     "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Hasil tujuan dan perubahan SWOT/ASK",
-    "text": "Hasil tujuan dan perubahan SWOT/ASK\nTujuan demo belum tercapai. Budi menyatakan belum bisa melanjutkan ke demo (AI013). Tidak ada persetujuan penggunaan, pembelian, atau jadwal tindak lanjut. Mahasiswa juga mengakui tujuan belum tercapai (U014). Penutupan berlangsung sopan, sehingga penolakan keputusan tidak berarti seluruh proses komunikasi tidak bernilai.\nKesimpulan peserta bahwa proyek tidak membutuhkan produk (U014) perlu dipisahkan dari bukti simulasi. Budi terutama menyatakan belum siap karena risiko biaya, gangguan operasi, dan beban perubahan. Percakapan belum membuktikan bahwa produk pasti tidak relevan, ataupun bahwa produk pasti tepat bagi kebutuhan Budi.\n\n\n\n\n\n\n\n\n\n\nUnsur pada Budi\nAwal\nAkhir\nBukti giliran\nJenis bukti dan batas\n\n\n\n\nKesimpulan SWOT\nCara lama terasa jelas; perubahan dipandang berisiko\nRisiko perubahan tetap dominan; manfaat belum cukup meyakinkan\nAI006–AI009, AI013\nProfil fiktif dan respons simulasi; bukan pengukuran customer nyata\n\n\nAttitude\nHati-hati terhadap teknologi baru\nTetap hati-hati; menunda dan menolak demo saat ini\nAI006, AI013\nTidak ada bukti peningkatan kemauan mencoba\n\n\nKnowledge\nMengetahui prosedur lama; membutuhkan kejelasan alternatif\nMendengar penjelasan AI dan supervisor, tetapi biaya/asumsi serta alur pembanding belum terjawab\nU007–U012; AI008, AI013\nUngkapan memahami penjelasan tidak membuktikan pemahaman teknis mendalam\n\n\nSkill/kesiapan\nOperasional lama berjalan; adaptasi baru perlu panduan\nBelum ada pilot, prosedur cadangan, atau dukungan yang disepakati\nAI007, AI009, AI013\nPeningkatan keterampilan tidak teramati\n\n\n\nPada mahasiswa, perubahan yang didukung ialah pengakuan atas hasil dan niat mengubah pendekatan dari menjelaskan produk menjadi menggali concern customer (U014–U015). Perubahan pengetahuan atau sikap tersebut belum disertai demonstrasi keterampilan dalam uji ulang."
+    "text": "Hasil tujuan dan perubahan SWOT/ASK\nHasil sesi perlu dipisahkan menjadi refleksi diri, kualitas saran dalam simulasi, dan perubahan perilaku nyata. Berdasarkan jawaban awal mahasiswa (U001–U004), mahasiswa telah mengidentifikasi masalah manajemen waktu dan beberapa rencana pribadi. Pada segmen verbatim, mahasiswa juga menunjukkan kemampuan memberikan saran bertahap kepada tokoh simulasi dan mengidentifikasi keterampilan komunikasi yang ingin ditingkatkan. Belum ada bukti pelaksanaan rencana manajemen waktu sesudah sesi, sehingga pencapaian perilaku jangka panjang belum dapat dinyatakan.\n\n\n\n\n\n\n\n\n\n\nUnsur\nAwal\nAkhir\nBukti giliran\nJenis bukti dan batas\n\n\n\n\nKesimpulan SWOT\nKekuatan: fokus pada hal yang disukai; kelemahan: menunda; peluang: teman rajin dan Google Calendar; ancaman: agenda tak terduga yang berbenturan dengan rencana.\nMahasiswa menyadari perlunya memperhitungkan kondisi orang lain sebelum memberi saran dan tidak memaksa orang membuka diri sekaligus. SWOT pribadi tentang manajemen waktu belum dinilai ulang secara eksplisit.\nU001; U017–U019.\nAwal adalah laporan diri mahasiswa; akhir adalah refleksi komunikasi. Tidak cukup bukti untuk menyimpulkan SWOT pribadi telah berubah.\n\n\nAttitude\nMenyadari perlunya peningkatan manajemen waktu dan menyatakan kesungguhan memperbaiki diri.\nMenyatakan perubahan kebiasaan berlangsung perlahan dan ingin menghargai kenyamanan lawan bicara.\nU001; U015, U017–U018.\nLaporan diri dan sikap yang tampak dalam respons tertulis; bukan bukti perubahan jangka panjang.\n\n\nKnowledge\nMengetahui bahwa daftar tugas membantu, tetapi belum mengetahui cara menaati alarm secara disiplin.\nMenyebut pentingnya mengetahui kondisi orang lain sebelum memberi saran dan menyesuaikan saran dengan informasi yang relevan.\nU001; U017–U019.\nPemahaman yang diungkapkan; belum diuji pada banyak situasi nyata.\n\n\nSkill\nMampu fokus setelah mulai dan memperkirakan kebutuhan waktu, menurut laporan diri; strategi memulai lebih awal belum terbukti konsisten.\nMendemonstrasikan saran konkret tentang membaca spesifikasi, membagi tugas, menata ulang jadwal dan mencatat kemajuan. Untuk komunikasi, merumuskan pertanyaan/pendengaran sebagai keterampilan yang ingin dilatih; penerapan eksplorasi sebelum memberi saran belum dominan.\nU001; U006–U009; U010–U016; U018–U019.\nDemonstrasi saran dalam teks simulasi; bukan bukti tugas pribadi telah dikerjakan atau keterampilan komunikasi telah otomatis terbentuk."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b.html#evaluasi-stimulusrespons-dan-diagnosis-profil",
-    "href": "portfolio/UTS/hasil_3b.html#evaluasi-stimulusrespons-dan-diagnosis-profil",
+    "objectID": "portfolio/UTS/hasil_1_18225047.html#evaluasi-stimulusrespons-dan-diagnosis-profil",
+    "href": "portfolio/UTS/hasil_1_18225047.html#evaluasi-stimulusrespons-dan-diagnosis-profil",
     "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Evaluasi stimulus–respons dan diagnosis profil",
-    "text": "Evaluasi stimulus–respons dan diagnosis profil\n\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nEstimasi status dan bukti\nStimulus mahasiswa\nRespons\nPerubahan ASK/SWOT\nAdaptasi\n\n\n\n\nU005 → AI006\nBudi bersedia menjawab tetapi waspada\nSapaan dan penghargaan atas kemajuan usaha\nMengucapkan terima kasih lalu menyebut alat baru dapat menambah repot\nPercakapan terbuka; hambatan A mulai terungkap\nU006 mengakui concern, lalu menawarkan demo\n\n\nU006–U007 → AI007–AI008\nRisiko gangguan operasi menjadi perhatian utama\nPenjelasan efisiensi dan klaim kapasitas tiga kali lipat\nBudi mempertanyakan plausibilitas serta biaya\nKebutuhan bukti dan kejelasan meningkat; keyakinan belum terbentuk\nMenjawab melalui perbandingan biaya satu staf\n\n\nU008 → AI009\nBiaya dan beban perubahan belum terselesaikan\nBiaya setara satu staf dengan manfaat tiga kali lipat\nMenyatakan biaya tetap besar dan risiko ditanggungnya\nA/K/S tetap menjadi hambatan\nBeralih menjelaskan sistem belajar dari staf\n\n\nU009–U011 → AI012\nBudi khawatir staf tergantikan/merasa diawasi\nSistem bekerja menggantikan pekerjaan staf; ujaran lanjutan terfragmentasi\nMengungkap kekhawatiran resistensi internal\nRasa aman staf belum terjawab\nU012 menjelaskan staf menjadi supervisor\n\n\nU012 → AI013\nStabilitas operasi tetap prioritas\nPenegasan peran supervisor dan machine learning\nMenolak demo saat ini\nPenjelasan didengar, tetapi kesiapan tindakan tidak berubah\nU013 menghormati keputusan dan menutup\n\n\n\nProfil simulasi setelah sesi: Budi K3-02 adalah pengelola usaha yang menjunjung komitmen dan prosedur tertib. Hambatan A ialah takut biaya serta gangguan prosedur; hambatan K ialah kebutuhan akan biaya/asumsi dan alur pembanding; hambatan S ialah kebutuhan pilot dengan prosedur cadangan. Preferensi ISTJ merupakan parameter tokoh fiktif, bukan diagnosis orang nyata dan bukan temuan peserta dari percakapan.\nTidak ada dugaan profil terstruktur dari mahasiswa sebelum pengungkapan. Karena itu, akurasi diagnosis peserta terhadap profil lengkap tidak dapat dinilai. Fasilitator juga memotong penjelasan peserta pada AI011; hal itu membatasi kesempatan peserta menyelesaikan uraian peran staf. Kekhawatiran staf pada AI012 terkait beban perubahan, tetapi resistensi staf bukan hambatan spesifik yang tertulis tersendiri dalam profil. Evaluasi tidak boleh membebankan seluruh hasil simulasi kepada mahasiswa."
+    "text": "Evaluasi stimulus–respons dan diagnosis profil\nCatatan kesesuaian profil: PENUGASAN.md menyatakan Budi (K1-02) sebagai tokoh pembanding yang ditugaskan. Namun, profil_komunikan.md di ZIP mendeskripsikan K1-02 sebagai tokoh yang merasa cara sekarang sudah jelas dan mempertanyakan alasan perubahan; hambatan utamanya adalah takut standar turun, belum memahami alasan metode baru, serta membutuhkan prosedur, bukti dan tolok ukur. Dalam segmen percakapan yang tersedia, Budi justru diperankan sebagai tokoh yang menunda tugas, lelah setelah kelas, tergoda media sosial/permainan, dan khawatir sulit memulai. Karena kedua gambaran ini tidak sama, respons dalam simulasi di bawah tidak boleh dianggap sebagai bukti adaptasi yang valid terhadap profil resmi K1-02. Saya tidak mengganti dialog aktual agar sesuai dengan profil file.\n\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nEstimasi status dan bukti\nStimulus mahasiswa\nRespons\nPerubahan ASK/SWOT\nAdaptasi\n\n\n\n\nU010 / AI010\nTokoh simulasi menyatakan bisa mencoba membaca spesifikasi sambil minum kopi, lalu mengungkap kekhawatiran bahwa tugas sulit akan membuatnya enggan memulai. Ini keterbukaan dalam dialog simulasi, bukan ukuran psikologis.\nMenjadikan waktu minum kopi sebagai waktu membaca spesifikasi dan menimbang beban tugas dibanding sisa waktu.\nBudi simulasi menerima langkah tersebut tetapi mengungkap hambatan berikutnya.\nKebutuhan memulai dibuat lebih konkret; hambatan memulai tetap ada. Tidak ada bukti tindakan nyata.\nRespons mahasiswa relevan dan bertahap; bisa lebih konkret dengan batas waktu atau satu tugas kecil, sebagaimana umpan balik AI.\n\n\nU011 / AI011\nTokoh simulasi kemudian menyampaikan kebingungan memilih urutan bagian yang dikerjakan.\nMemahami kesulitan lebih awal, membagi pengerjaan menjadi langkah, dan menggunakan laptop ketika gawai sedang diisi daya.\nBudi simulasi mengatakan masuk akal, tetapi takut memilih bagian mudah yang kurang penting.\nKesiapan dalam dialog berlanjut, tetapi kebutuhan prioritas belum terjawab sepenuhnya.\nPerlu memprioritaskan tenggat, bobot nilai dan ketergantungan antarbagian, bukan hanya mudah/sulit.\n\n\nU012 / AI012\nTokoh simulasi memunculkan risiko terjebak terlalu lama pada bagian yang sulit.\nMembagi empat soal menjadi kelompok “mudah-sulit” dan “sulit-sulit”; mahasiswa menyatakan tidak perlu terlalu pusing membagi.\nBudi simulasi menerima prinsip tidak menunggu rencana sempurna, lalu menanyakan pembatasan waktu.\nPemahaman simulasi tentang memulai menjadi lebih eksplisit; belum ada tindakan.\nSaran sederhana membantu memulai, tetapi batas waktu untuk satu soal belum disebut mahasiswa dalam giliran ini.\n\n\nU013 / AI013\nTokoh simulasi mengungkap jadwal dapat terganggu kegiatan mendadak.\nMenghentikan pengerjaan jika sudah larut, melanjutkan besok, dan menyicil mencari cara penyelesaian sebelum tidur.\nBudi simulasi merumuskan ulang batas waktu dan pindah bagian, lalu mengungkap kekhawatiran jadwal berantakan.\nAda refleksi tentang waktu istirahat; gangguan jadwal menjadi hambatan baru.\nSikap tidak memaksakan diri suportif; perlu cara menata ulang pekerjaan dan batas waktu yang lebih eksplisit.\n\n\nU014 / AI014\nTokoh simulasi menyatakan bahwa ia menganggap satu kegiatan meleset sebagai kegagalan semua rencana.\nMenyampaikan bahwa jadwal tidak harus sempurna dan bisa diatur ulang.\nBudi simulasi mengatakan mau mencoba memperbaiki, lalu bertanya tentang kemunduran berulang.\nCara memandang jadwal dalam simulasi menjadi lebih fleksibel; belum membuktikan kebiasaan berubah.\nPesan konsisten, tetapi tindakan penjadwalan ulang yang spesifik belum dipilih bersama.\n\n\nU015 / AI015\nTokoh simulasi menyatakan takut usaha sebelumnya sia-sia bila kembali menunda.\n“Tidak ada yang sia-sia, berubah tidak perlu instan, pelan-pelan saja.”\nBudi simulasi mengatakan tidak harus sempurna dan bersedia mencoba langkah awal.\nSikap simulasi menjadi lebih optimistis; kesediaan mencoba bukan bukti pelaksanaan.\nPesan mengurangi penghakiman; dapat diperkuat dengan langkah kembali mulai segera setelah menyadari penundaan.\n\n\nU016 / AI016\nTokoh simulasi tertarik mencatat kemajuan dan menyatakan akan mencoba.\nMencatat hari disiplin, menerima bahwa kemajuan 10 hari tetap berarti meski kemudian terputus, lalu mulai lagi dari nol.\nBudi simulasi menerima ide pencatatan.\nRencana evaluasi diri muncul di dalam dialog simulasi; belum ada catatan aktual.\nIde konkret; pencatatan streak sebaiknya tidak menghapus total hari berhasil, agar kemajuan kumulatif tetap terlihat.\n\n\n\nSeluruh episode di atas adalah catatan atas dialog simulasi, bukan validasi bahwa tokoh mengikuti profil K1-02 resmi. Karena profil Budi yang diperankan tidak sesuai dengan profil paket, evaluasi terhadap kemampuan mahasiswa membaca profil/status target dibatasi."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b.html#pengaruh-pesan-personal-dan-kualitas-relasi",
-    "href": "portfolio/UTS/hasil_3b.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "objectID": "portfolio/UTS/hasil_1_18225047.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "href": "portfolio/UTS/hasil_1_18225047.html#pengaruh-pesan-personal-dan-kualitas-relasi",
     "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Pengaruh pesan personal dan kualitas relasi",
-    "text": "Pengaruh pesan personal dan kualitas relasi\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nPesan personal/kepedulian\nRespons yang teramati\nRasa aman, kepercayaan, keterbukaan\nDampak ASK/SWOT dan batas inferensi\n\n\n\n\nU005 → AI006\nMenghargai keberhasilan usaha Budi\nBerterima kasih dan mengungkap kehati-hatian\nKeterbukaan sedang: bersedia menyebut concern. Kepercayaan belum dapat dipastikan.\nKehangatan awal tidak menghilangkan hambatan teknologi\n\n\nU006 → AI007\nMengakui concern sebagai penting\nMenjelaskan risiko waktu dan operasi\nKeterbukaan sedang: memberikan alasan lebih spesifik\nPengakuan concern membantu percakapan berlangsung; perubahan rasa aman tidak dapat diisolasi\n\n\nU012 → AI013\nMenjelaskan staf tetap berperan dan tidak kehilangan kemampuan\nMendengar penjelasan, tetapi belum siap demo\nKepercayaan belum terbukti meningkat; kesiapan tindakan tetap rendah\nTidak ada dukungan implementasi konkret yang disepakati\n\n\nU013\nMengucapkan terima kasih dan menerima keputusan\nTidak ada respons Budi setelah penutupan\nPenghormatan pilihan tampak; dampak terhadap Budi tidak teramati\nTidak dapat dianggap sebagai izin untuk menghubungi kembali atau persetujuan demo\n\n\n\nRingkasan kategori simulator: pada awal dan akhir, keterbukaan Budi dapat diperkirakan sedang, karena ia tetap menjelaskan alasan. Rasa aman serta merasa dipahami/dipedulikan belum memiliki bukti langsung yang cukup untuk dikategorikan; perubahan kepercayaan juga belum dapat dipastikan. Kategori ini bukan skala psikometri. Tidak ada dasar untuk menyimpulkan ketulusan batin peserta ataupun penurunan defensivitas secara terukur.\nPertanyaan refleksi relasional yang diwajibkan paket—pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan serta bukti responsnya—belum diajukan. Tabel di atas adalah analisis AI, bukan pengganti jawaban mahasiswa."
+    "text": "Pengaruh pesan personal dan kualitas relasi\nTidak terdapat ungkapan afeksi atau pesan pribadi yang secara eksplisit diarahkan kepada hubungan pertemanan dalam segmen verbatim. Bentuk kepedulian yang tampak terutama berupa penerimaan terhadap kemunduran, tidak menyalahkan, dan menghormati batas kesiapan lawan bicara. Dampaknya hanya dapat dinilai pada respons tokoh simulasi.\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nPesan personal/kepedulian\nRespons yang teramati\nRasa aman, kepercayaan, keterbukaan\nDampak ASK/SWOT dan batas inferensi\n\n\n\n\nU013–U015\nTidak menyuruh Budi memaksakan diri sampai larut; menyatakan jadwal dapat diperbaiki dan perubahan tidak harus instan.\nDalam dialog simulasi, Budi mengungkap kekhawatiran tentang jadwal yang gagal dan usaha yang sia-sia, lalu menyatakan akan mencoba lagi.\nKeterbukaan tampak meningkat dalam teks karena tokoh mengungkap kekhawatiran lebih spesifik. Status rasa aman/kepercayaan tidak diberi skor psikometrik.\nPesan suportif tampak membantu tokoh melanjutkan percakapan. Tidak membuktikan perubahan ASK atau tindakan di luar sesi; ketidakcocokan profil resmi tetap berlaku.\n\n\nU017\nMahasiswa menyatakan tidak memaksa Budi menceritakan dirinya sepenuhnya dan membiarkan kondisi terungkap bertahap.\nIni adalah refleksi mahasiswa; tidak ada respons Budi lanjutan yang menguji klaim tersebut.\nNiat menghormati privasi dinyatakan secara eksplisit; dampak langsungnya tidak dapat dipastikan dari giliran ini.\nMenunjukkan kesadaran relasional dalam refleksi, bukan bukti pasti tentang motif batin atau kualitas hubungan nyata.\n\n\n\nMahasiswa menyampaikan bahwa ia ingin menjaga ruang bagi lawan bicara untuk menjelaskan kondisi diri perlahan. Ini sejalan dengan penghormatan pilihan, tetapi langkah berikutnya yang dapat diamati adalah mengajukan pertanyaan terbuka, menunggu jawaban, dan memeriksa pemahaman sebelum memberi saran."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b.html#uji-ulang-dan-pembelajaran",
-    "href": "portfolio/UTS/hasil_3b.html#uji-ulang-dan-pembelajaran",
+    "objectID": "portfolio/UTS/hasil_1_18225047.html#uji-ulang-dan-pembelajaran",
+    "href": "portfolio/UTS/hasil_1_18225047.html#uji-ulang-dan-pembelajaran",
     "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Uji ulang dan pembelajaran",
-    "text": "Uji ulang dan pembelajaran\nUji ulang belum dilakukan. U015 merupakan rencana perbaikan, bukan penerapan nyata strategi baru. Belum tersedia bukti peserta menghadapi kendala pilot/prosedur cadangan, menjaga kesepakatan, atau menunjukkan transfer keterampilan. Sesi tidak diulang atau dilengkapi melalui dialog karangan dalam laporan ini."
+    "text": "Uji ulang dan pembelajaran\nUji ulang dilakukan melalui percakapan dengan tokoh yang mengalami penundaan tugas. Mahasiswa menyarankan langkah bertahap: membaca spesifikasi saat minum kopi, membagi tugas, memanfaatkan laptop sebagai opsi kerja, tidak memaksakan diri ketika larut malam, menata ulang jadwal, menerima kemunduran, dan mencatat kemajuan. Rangkaian saran ini menunjukkan repertoar yang bervariasi, tetapi sebagian besar berupa pemberian saran langsung; pertanyaan eksploratif untuk memahami kondisi tokoh lebih dahulu belum menjadi pola dominan dalam segmen ini.\nPada refleksi, mahasiswa mengidentifikasi keterampilan baru yang ingin dilatih: memahami kondisi orang lain secukupnya sebelum memberi saran, memikirkan kemungkinan kesesuaian saran untuk kondisi yang berbeda, serta tidak terburu-buru memberi respons. Indikator yang dipilih adalah semakin tidak terburu-buru menilai saran. Agar terukur, indikator itu sebaiknya dilengkapi dengan perilaku yang bisa diamati: mengajukan satu atau dua pertanyaan terbuka, mengulang pemahaman dalam kata-kata sendiri, dan menyesuaikan saran setelah mendapat jawaban.\nUji ulang diri dalam kehidupan nyata belum teramati. Belum ada laporan bahwa mahasiswa telah mempraktikkan rencana manajemen waktu pada tugas berikutnya, atau bahwa keterampilan bertanya-dan-mendengarkan telah digunakan dalam percakapan nyata setelah sesi. Selain itu, segmen tokoh pembanding tidak selaras dengan profil K1-02 pada ZIP, sehingga transfer pembelajaran terhadap profil resmi belum dapat dinilai."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b.html#penilaian-enam-dimensi",
-    "href": "portfolio/UTS/hasil_3b.html#penilaian-enam-dimensi",
+    "objectID": "portfolio/UTS/hasil_1_18225047.html#penilaian-enam-dimensi",
+    "href": "portfolio/UTS/hasil_1_18225047.html#penilaian-enam-dimensi",
     "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Penilaian enam dimensi",
-    "text": "Penilaian enam dimensi\nSkor berikut merupakan usulan sementara AI untuk moderasi dosen, berdasarkan bukti terbatas sesi awal. Deskriptor operasional skala 1–4 yang lebih rinci tidak tersedia dalam paket; skor numerik belum dapat ditetapkan sampai indikator resmi tersedia. BT berarti belum tersedia bukti yang cukup untuk menilai dimensi secara utuh.\n\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4/BT\nID dan kutipan bukti\nAlasan\n\n\n\n\nTujuan dan konteks\nBT\nU003: “melakukan demo produk”; U004: “dia membeli solusi”\nTujuan konkret dan hasil lanjutannya jelas; kebutuhan customer dan indikator demo belum diperdalam\n\n\nPersepsi dan validasi profil/status\nBT\nU006: “satu concern yang penting”; U015: “Saya akan mulai dengan bertanya”\nMenangkap adanya concern, tetapi belum melakukan penggalian dan validasi terstruktur dalam simulasi awal\n\n\nPemilihan dan urutan repertoar\nBT\nU007: “kapasitas bisa meningkatkan tiga kali lipat”; AI008: “terlalu bagus untuk jadi kenyataan”\nManfaat disampaikan sebelum kebutuhan dan bukti divalidasi; respons bergeser ke penjelasan teknis saat hambatan operasional belum terjawab\n\n\nEksekusi jelas, peduli dan konsisten\nBT\nU012: “staf Pak Budi menjadi supervisor”; U013: “terima kasih Pak Budi”\nSopan dan menghormati pilihan; klaim manfaat belum didukung data, dukungan konkret belum disepakati. Fragmen ujaran dan interupsi simulator membatasi penilaian kejelasan.\n\n\nEvaluasi dan adaptasi\nBT\nU014: “belum tercapai”; U015: “Saya akan mulai dengan bertanya”\nEvaluasi hasil dan rencana adaptasi tersedia, tetapi penerapan perbaikan pada uji ulang belum teramati\n\n\nRefleksi dan lesson learned\nBT\nU015: “dia yang harus menjawab, memberikan informasi pada kita”\nMenemukan perbaikan yang relevan: menggali kebutuhan terlebih dahulu. Refleksi relasional, ASK, dan ukuran tindak lanjut belum lengkap.\n\n\n\nNilai numerik sesi tidak dihitung, karena descriptor resmi belum tersedia dan dimensi masih BT dan tahapan asesmen belum lengkap. Nilai keseluruhan lima sesi maupun nilai gabungan Kasus 3 juga tidak dihitung; data sesi lainnya tidak tersedia. Hasil tujuan dan kualitas proses dilaporkan secara terpisah."
+    "text": "Penilaian enam dimensi\nNilai berikut adalah usulan AI untuk moderasi dosen, bukan nilai resmi. Tujuan/konteks dinilai berdasarkan uraian pengalaman, SWOT/ASK, dan strategi yang dinyatakan mahasiswa. Dimensi persepsi/validasi perlu dibaca dengan catatan khusus: asisten memerankan Budi sebagai penunda tugas, padahal profil resmi K1-02 dalam paket memiliki hambatan berbeda. Ketidaksesuaian pemeranan ini berasal dari asisten, bukan mahasiswa. Skor dimensi tersebut menilai perilaku bertanya dan menyesuaikan respons terhadap tokoh yang benar-benar tampil dalam percakapan.\n\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4/BT\nID dan kutipan bukti\nAlasan\n\n\n\n\nTujuan dan konteks\n4 (usulan)\nU001: “Tujuan sesi: Saya ingin mampu lebih disiplin dalam manajemen waktu agar lebih produktif dan tidak menunda-nunda”; U003–U004: usulan alarm H-4 dan target 50%; U002 memaparkan pemicu berupa refreshing dan tenggat yang masih lama.\nMahasiswa mengidentifikasi kemampuan, alasan, hambatan, contoh pengalaman, SWOT/ASK, dan sasaran tindakan yang cukup konkret. Makna operasional beberapa alarm masih perlu dirapikan dan pelaksanaan di luar sesi belum terbukti; hal itu tidak menghapus kejelasan konteks dan tujuan yang telah dinyatakan.\n\n\nPersepsi dan validasi profil/status\n3 (usulan terbatas)\nU007: “Kamu merasa siap kalau gimana?”; U017: refleksi bahwa keraguan lawan bicara di luar perkiraannya dan ia tidak memaksa cerita penuh; U018 mengusulkan mengetahui kondisi yang cukup sebelum memberi saran.\nAda pertanyaan untuk menggali makna “siap” dan refleksi yang akurat tentang perlunya memahami kondisi. Namun, mahasiswa juga segera memberi saran berdasar pengalamannya sendiri, dan profil yang dimainkan asisten tidak cocok dengan profil K1-02 resmi. Skor ini menilai teknik validasi yang terlihat, bukan kesesuaian respons dengan profil resmi.\n\n\nPemilihan dan urutan repertoar\n3 (usulan)\nU003–U004: milestone H-4 dan 50%; U008: musik, pengerjaan Rabu–Jumat dan pemeriksaan Sabtu; U010–U016: membaca spesifikasi, pembagian tugas, penataan ulang jadwal, dan pencatatan kemajuan.\nMahasiswa menawarkan sejumlah tindakan yang konkret dan bertahap. Sebagian saran belum cukup disesuaikan dengan preferensi lawan bicara atau prioritas tugas; misalnya, musik ditawarkan berdasarkan pengalaman pribadi, dan urutan tugas tidak mempertimbangkan bobot/ketergantungan secara eksplisit.\n\n\nEksekusi jelas, peduli dan konsisten\n3 (usulan)\nU009: jadwal diibaratkan penunjuk arah dan keterbatasan waktu/energi dinormalisasi; U014–U016: jadwal dapat diperbaiki, perubahan tidak instan, dan kemajuan dicatat; U017: tidak memaksa lawan bicara bercerita sepenuhnya.\nNada umumnya suportif, tidak menghakimi, serta konsisten mengajak langkah bertahap. Beberapa pesan masih umum dan analogi komitmen bisa terasa menuntut bagi sebagian orang; dampak yang terlihat hanya respons tokoh simulasi, bukan relasi nyata.\n\n\nEvaluasi dan adaptasi\n3 (usulan)\nU004–U005 mengevaluasi apakah pesan kepada diri sendiri terasa menekan; U006–U009 merespons kekhawatiran Budi tentang kesiapan dan jadwal; U010–U016 menanggapi hambatan bertahap; U018–U019 merumuskan latihan dan indikator.\nAda pemeriksaan eksplisit terhadap pesan kepada diri sendiri, respons terhadap hambatan yang muncul, dan revisi pemahaman setelah simulasi. Pemeriksaan kecocokan saran sebelum memberikannya belum menjadi pola dominan, dan belum ada verifikasi pelaksanaan setelah sesi.\n\n\nRefleksi dan lesson learned\n3 (usulan)\nU017: “membiarkan dia mengungkapkan kondisinya perlahan”; U018: ingin memahami kondisi sebelum memberi saran; U019: indikatornya semakin tidak terburu-buru merespons.\nRefleksi mengidentifikasi batas pendekatan awal, rencana latihan, dan indikator perkembangan. Indikator perlu dipadukan dengan perilaku yang lebih teramati—misalnya bertanya terbuka, mendengarkan sampai tuntas, dan memeriksa pemahaman—agar tidak hanya mengukur kecepatan respons.\n\n\n\nJumlah skor usulan: 19/24. Nilai sesi 1 sementara: 19 ÷ 24 × 100 = 79/100. Ini bukan nilai dosen. Nilai sementara ini menggunakan bukti kemampuan bertanya yang benar-benar tampak walaupun pemeranan profil keliru. Jika dosen menilai ketidaksesuaian profil membuat dimensi persepsi/validasi tidak sah untuk diskor, maka dimensi itu perlu dimoderasi ulang dan nilai sesi tidak boleh dianggap final sampai penetapan skor tersebut selesai."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b.html#refleksi-dan-lesson-learned-mahasiswa",
-    "href": "portfolio/UTS/hasil_3b.html#refleksi-dan-lesson-learned-mahasiswa",
+    "objectID": "portfolio/UTS/hasil_1_18225047.html#refleksi-dan-lesson-learned-mahasiswa",
+    "href": "portfolio/UTS/hasil_1_18225047.html#refleksi-dan-lesson-learned-mahasiswa",
     "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Refleksi dan lesson learned mahasiswa",
-    "text": "Refleksi dan lesson learned mahasiswa\nJawaban mahasiswa yang tersedia adalah U014 dan U015, disalin utuh pada bagian C. Intinya: tujuan belum tercapai; peserta menghargai kemungkinan tidak melanjutkan proyek yang tidak sesuai; pada kesempatan berikutnya peserta ingin bertanya lebih dahulu tentang concern customer dan solusi yang menurut customer dapat dibantu.\nInterpretasi AI: pelajaran utama adalah memindahkan titik awal percakapan dari klaim produk ke informasi customer. Namun, ketidaksiapan saat ini belum membuktikan ketidakbutuhan. Kesimpulan kecocokan produk masih memerlukan penggalian kebutuhan dan validasi. Interpretasi ini belum dikonfirmasi ulang oleh peserta."
+    "text": "Refleksi dan lesson learned mahasiswa\nBerikut merupakan perapian berdasarkan jawaban dan refleksi mahasiswa:\nMahasiswa menyadari bahwa keraguan seseorang bisa muncul di luar perkiraannya. Ia ingin memberi ruang agar lawan bicara mengungkapkan kondisinya secara bertahap tanpa dipaksa menceritakan seluruh hal pribadi. Dari percakapan tersebut, keterampilan yang ingin ditingkatkan adalah memahami kondisi orang lain secukupnya sebelum memberikan saran.\nRencana latihan yang dinyatakan mahasiswa ialah merenungkan kondisi diri serta kesesuaian saran untuk situasi yang berbeda-beda, kemudian secara perlahan mengajak lawan bicara menyampaikan informasi yang relevan. Mahasiswa menganggap tanda kemajuan adalah semakin tidak terburu-buru memberi tanggapan. Agar indikator itu lebih kuat, kemajuan dapat diamati melalui kebiasaan bertanya terbuka, mendengarkan jawaban sampai selesai, dan memeriksa kembali pemahaman sebelum menyarankan solusi. Tindakan tambahan ini merupakan pengembangan indikator, bukan klaim bahwa mahasiswa sudah melakukannya."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b.html#tindak-lanjut-dan-batas-bukti",
-    "href": "portfolio/UTS/hasil_3b.html#tindak-lanjut-dan-batas-bukti",
+    "objectID": "portfolio/UTS/hasil_1_18225047.html#tindak-lanjut-dan-batas-bukti",
+    "href": "portfolio/UTS/hasil_1_18225047.html#tindak-lanjut-dan-batas-bukti",
     "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Tindak lanjut dan batas bukti",
-    "text": "Tindak lanjut dan batas bukti\n\n\n\n\n\n\n\n\nJenis\nLangkah\nStatus/batas\n\n\n\n\nRencana peserta\nMemulai dengan bertanya tentang concern dan jalan keluar yang dapat dibantu\nDinyatakan pada U015; belum diterapkan dalam uji ulang\n\n\nRencana penutupan\nMenghubungi lagi bila ada kesempatan\nDinyatakan pada U013; waktu dan persetujuan Budi belum ditetapkan\n\n\nSaran AI setelah sesi\nMemvalidasi masalah operasional, membedakan asumsi dan bukti manfaat, serta membahas pilot dengan prosedur cadangan bila customer bersedia\nSaran evaluasi; bukan tindakan atau kesepakatan yang telah terjadi\n\n\nKelengkapan asesmen\nMelakukan uji ulang, refleksi relasional, dan konfirmasi ringkasan akhir bila laporan perlu dipakai sebagai hasil asesmen lengkap\nBelum dilakukan; perlu dicatat oleh dosen saat moderasi\n\n\nPengumpulan\nMahasiswa mengunduh QMD dan mengunggahnya melalui portal\nTidak ada bukti pengiriman; laporan ini tidak menyatakan telah dikumpulkan\n\n\n\nKlaim kapasitas tiga kali lipat dan biaya setara satu staf adalah pernyataan peserta dalam simulasi, bukan hasil pengukuran atau jaminan produk. Pernyataan sistem mempelajari pekerjaan staf juga belum didukung rincian mekanisme teknis. Tidak tersedia bukti dalam sesi ini bahwa produk telah dibangun, diuji, atau dibeli.\nTranskrip tidak digunakan untuk menilai prosodi, ekspresi tubuh, diagnosis MBTI, atau perubahan psikologis jangka panjang. Respons Budi merupakan perilaku simulator. Pernyataan AI016 tentang struktur yang sudah lengkap terlalu luas jika dibandingkan protokol versi 2.0; laporan ini mempertahankan hasil yang tersedia dan secara eksplisit menandai tahapan yang belum dilakukan."
+    "text": "Tindak lanjut dan batas bukti\n\n\n\n\n\n\n\n\n\n\nLangkah tindak lanjut\nWaktu\nDukungan\nIndikator evaluasi\nStatus bukti\n\n\n\n\nPada percakapan berikutnya, ajukan satu atau dua pertanyaan terbuka sebelum memberi saran.\nPercakapan berikutnya; tanggal belum ditentukan.\nKesadaran diri dan waktu untuk mendengarkan.\nAda pertanyaan untuk memahami kondisi, lalu saran merujuk pada jawaban yang didapat.\nRencana; belum dilaksanakan.\n\n\nSetelah mendengar jawaban, ringkas pemahaman secara singkat sebelum menyarankan solusi.\nSaat percakapan berlangsung.\nKesediaan lawan bicara mengoreksi pemahaman.\nLawan bicara diberi kesempatan membenarkan/mengoreksi; saran disesuaikan bila perlu.\nRekomendasi tindak lanjut; belum dilaksanakan.\n\n\nUntuk tujuan manajemen waktu pribadi, catat satu tugas, pecah menjadi bagian kecil, pasang milestone dan tutup distraksi saat mulai bekerja.\nPada tugas kuliah berikutnya; tanggal dan tugas spesifik belum dilaporkan.\nTeman rajin/Google Calendar disebut sebagai peluang; dukungan lain belum dipastikan.\nCatatan kemajuan menunjukkan bagian yang diselesaikan sebelum tenggat.\nRencana dari ringkasan konteks awal; implementasi belum dilaporkan.\n\n\nEvaluasi kemajuan setelah mencoba strategi.\nSetelah pengalaman pertama; belum dijadwalkan.\nCatatan pribadi dan/atau umpan balik teman.\nBandingkan rencana dengan pelaksanaan serta catat hambatan dan penyesuaian.\nBelum dilakukan dalam percakapan yang tersedia.\n\n\n\nBatas interpretasi: penilaian didasarkan pada interaksi teks, sehingga prosodi dan bahasa tubuh tidak dinilai. Budi adalah tokoh simulasi, sehingga responsnya bukan bukti psikologis tentang orang nyata. Profil resmi K1-02 tidak cocok dengan tokoh Budi yang dimainkan asisten; ketidaksesuaian pemeranan ini berasal dari asisten, bukan mahasiswa, dan membatasi penilaian kesesuaian profil. Perubahan kebiasaan jangka panjang belum dapat disimpulkan karena implementasi strategi setelah sesi belum dievaluasi."
   },
   {
-    "objectID": "portfolio/UTS/hasil_3b.html#bobot-dan-nilai-akhir-uts",
-    "href": "portfolio/UTS/hasil_3b.html#bobot-dan-nilai-akhir-uts",
+    "objectID": "portfolio/UTS/hasil_1_18225047.html#bobot-dan-nilai-akhir-uts",
+    "href": "portfolio/UTS/hasil_1_18225047.html#bobot-dan-nilai-akhir-uts",
     "title": "Laporan UTS KIPP 2026 — Versi 2.0",
     "section": "Bobot dan nilai akhir UTS",
-    "text": "Bobot dan nilai akhir UTS\n\n\n\nKomponen\nBobot\nNilai komponen\n\n\n\n\nMakalah pra-UTS (paper.qmd)\n10%\nNilai dosen pada skala 0–100\n\n\nSesi 1\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2b\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3b\n18%\nJumlah enam skor / 24 × 100\n\n\nTotal\n100%\n\n\n\n\nNilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b), dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.\nNilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis Belum dihitung sampai nilai makalah dan kelima sesi tersedia.\nRata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.\nRubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen."
+    "text": "Bobot dan nilai akhir UTS\n\n\n\n\n\n\n\n\nKomponen\nBobot\nNilai komponen\n\n\n\n\nMakalah pra-UTS (paper.qmd)\n10%\nNilai dosen pada skala 0–100; belum tersedia\n\n\nSesi 1\n18%\n79 (Usulan AI)\n\n\nSesi 2a\n18%\nBelum tersedia\n\n\nSesi 2b\n18%\nBelum tersedia\n\n\nSesi 3a\n18%\nBelum tersedia\n\n\nSesi 3b\n18%\nBelum tersedia\n\n\nTotal\n100%\nBelum dihitung\n\n\n\nNilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b), dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.\nBT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Skor sesi 1 sebesar 79,2 di atas adalah usulan AI sementara berdasarkan percakapan asesmen, bukan nilai resmi; dimensi persepsi/validasi perlu moderasi karena pemeranan Budi tidak sesuai profil paket. Nilai akhir tetap Belum dihitung sampai nilai makalah dan kelima sesi tersedia.\nRata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.\nRubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen."
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_2b_18225047.html",
+    "href": "portfolio/UTS/hasil_2b_18225047.html",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "",
+    "text": "Elemen\nKeterangan\n\n\n\n\nNama mahasiswa\nRijal Kholis Al-Ausath\n\n\nNIM\n18225047\n\n\nKelas dan tanggal\nKelas 1, 14 Oktober 2026\n\n\nNomor/judul kasus\nSesi 2b; Kasus 2\n\n\nNama dan ID target\nDimas (K2-04)\n\n\nVersi bank/aturan penugasan\nBank 2.0; paket 2.0; penugasan dalam PENUGASAN.md\n\n\nModalitas\nTeks\n\n\nKasus nyata/fiktif\nFiktif (Simulasi Profesional)\n\n\nKelengkapan transkrip\nLengkap"
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_2b_18225047.html#kasus-dan-tujuan-tindakan",
+    "href": "portfolio/UTS/hasil_2b_18225047.html#kasus-dan-tujuan-tindakan",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Kasus dan tujuan tindakan",
+    "text": "Kasus dan tujuan tindakan\nTenggat tugas kelompok tinggal 48 jam lagi. Rekan dekat (Dimas) belum mengirim bagian tugasnya dan merasa pembagian tugas tidak adil. Tujuan tindakan adalah mengajak diskusi Dimas untuk menuntaskan tanggung jawabnya sembari mendengarkan masalahnya serta menyesuaikan kembali peran/pembagian tugas jika diperlukan."
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_2b_18225047.html#profil-awal-komunikator",
+    "href": "portfolio/UTS/hasil_2b_18225047.html#profil-awal-komunikator",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Profil awal komunikator",
+    "text": "Profil awal komunikator\n\n\n\n\n\n\n\n\n\nUnsur\nLaporan/dugaan awal\nBukti\nTingkat kepastian\n\n\n\n\nSWOT subjektif\nPeluang: menyamakan persepsi; Ancaman: tenggat dekat & konflik; Mampu: diskusi terbuka; Belum mampu: merinci pembagian teknis\nU001\nSementara\n\n\nAttitude\nSkeptis terhadap keadilan pembagian tugas\nU001\nSementara\n\n\nKnowledge\nMengetahui tugas belum selesai, detail dependensi belum tergali\nU001\nSementara\n\n\nSkill\nMampu berdiskusi, implementasi teknis perlu diperjelas\nU001\nSementara\n\n\nPreferensi/MBTI jika dilaporkan\nINTJ (berdasarkan pola komunikasi logis dan terstruktur)\nU002\nLaporan diri/hipotesis\n\n\nKarakter, peran, kultur/ko-kultur\nRekan kuliah, penilai teknis yang menghargai alasan kritis\nU002\nSementara"
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_2b_18225047.html#dugaan-awal-profil-target-dan-rencana",
+    "href": "portfolio/UTS/hasil_2b_18225047.html#dugaan-awal-profil-target-dan-rencana",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Dugaan awal profil target dan rencana",
+    "text": "Dugaan awal profil target dan rencana\n\n\n\n\n\n\n\n\n\n\nTAIDA\nStatus awal/target\nEdukasi A/K/S\nRepertoar yang direncanakan\nBukti yang diharapkan\n\n\n\n\nTarget\nMenyepakati penyelesaian tugas\nK & S\nDiskusi terbuka dan fleksibilitas\nKesediaan berkomitmen\n\n\nAttention\nDefensif / skeptis\nA\nMengakui ketidakterbukaan kriteria awal\nPenurunan defensivitas\n\n\nInterest\nMempertanyakan keadilan\nK\nMenawarkan ruang diskusi pembagian\nKeterbukaan dialog\n\n\nDesire\nMenuntut kejelasan\nS\nPembagian berbasis modul dan batas interface\nPersetujuan modul\n\n\nAction\nKomitmen pengerjaan\nS\nTenggat waktu dan pelaporan konkrit\nKesepakatan waktu & output"
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_2b_18225047.html#hasil-tujuan-dan-perubahan-swotask",
+    "href": "portfolio/UTS/hasil_2b_18225047.html#hasil-tujuan-dan-perubahan-swotask",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Hasil tujuan dan perubahan SWOT/ASK",
+    "text": "Hasil tujuan dan perubahan SWOT/ASK\n\n\n\n\n\n\n\n\n\n\nUnsur\nAwal\nAkhir\nBukti giliran\nJenis bukti dan batas\n\n\n\n\nKesimpulan SWOT\nMerasa beban kerja tidak pasti\nMemahami dependensi dan memiliki ruang kerja mandiri\nU002 - U009\nSimulasi & Laporan diri\n\n\nAttitude\nSkeptis & defensif\nKooperatif dan percaya pada kejelasan struktur\nU003, U007\nObservasi transkrip\n\n\nKnowledge\nBelum tahu alur dependensi modul\nMemahami pembagian modul dan batas interface\nU005\nDemonstrasi dialog\n\n\nSkill\nButuh ruang kerja mandiri\nMelaksanakan pengerjaan Modul 2 secara mandiri\nU006, U009\nKomitmen aksi"
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_2b_18225047.html#evaluasi-stimulusrespons-dan-diagnosis-profil",
+    "href": "portfolio/UTS/hasil_2b_18225047.html#evaluasi-stimulusrespons-dan-diagnosis-profil",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Evaluasi stimulus–respons dan diagnosis profil",
+    "text": "Evaluasi stimulus–respons dan diagnosis profil\n\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nEstimasi status dan bukti\nStimulus mahasiswa\nRespons\nPerubahan ASK/SWOT\nAdaptasi\n\n\n\n\nU002–U003\nSkeptis (Awal)\nMengakui kurang transparan\nTerbuka pada diskusi berbasis dependensi modul\nSikap A membaik\nMengubah pendekatan dari administratif ke modular\n\n\nU006–U007\nButuh kejelasan batas kerja (S)\nMenawarkan tenggat waktu & output spesifik\nMenyepakati tenggat jam 15.00 WIB & pelaporan\nK & S terpenuhi\nMengunci kesepakatan Action"
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_2b_18225047.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "href": "portfolio/UTS/hasil_2b_18225047.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Pengaruh pesan personal dan kualitas relasi",
+    "text": "Pengaruh pesan personal dan kualitas relasi\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nPesan personal/kepedulian\nRespons yang teramati\nRasa aman, kepercayaan, keterbukaan\nDampak ASK/SWOT dan batas inferensi\n\n\n\n\nU003\nMengakui ketidakterbukaan kriteria awal\n“Makasih sudah mau ngakuin…”\nRendah → Sedang\nKepercayaan meningkat, defensivitas turun"
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_2b_18225047.html#uji-ulang-dan-pembelajaran",
+    "href": "portfolio/UTS/hasil_2b_18225047.html#uji-ulang-dan-pembelajaran",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Uji ulang dan pembelajaran",
+    "text": "Uji ulang dan pembelajaran\nPada uji ulang (U008–U009), muncul kendala data missing values yang memperlambat pekerjaan Dimas hingga jam 18.00 WIB. Mahasiswa merespons secara adaptif dengan mengerjakan bagian modul independen terlebih dahulu. Transfer keterampilan terbukti melalui konsistensi menjaga hubungan baik tanpa memaksakan tekanan sepihak."
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_2b_18225047.html#penilaian-enam-dimensi",
+    "href": "portfolio/UTS/hasil_2b_18225047.html#penilaian-enam-dimensi",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Penilaian enam dimensi",
+    "text": "Penilaian enam dimensi\n\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4/BT\nID dan kutipan bukti\nAlasan\n\n\n\n\nTujuan dan konteks\n4\nU005, U007\nTujuan menjaga hubungan dan menyepakati tugas tercapai jelas\n\n\nPersepsi dan validasi profil/status\n4\nU003\nMampu memvalidasi kebutuhan kritis komunikan\n\n\nPemilihan dan urutan repertoar\n4\nU005\nRepertoar bergeser logis dari administratif ke struktural/modular\n\n\nEksekusi jelas, peduli dan konsisten\n4\nU007, U009\nKomunikasi lugas, terbuka, dan solutif saat ada kendala\n\n\nEvaluasi dan adaptasi\n4\nU009\nBeradaptasi cepat terhadap kendala teknis missing values\n\n\nRefleksi dan lesson learned\n4\nBagian Refleksi\nRefleksi mendalam mengenai pendekatan berbasis solusi konkrit\n\n\n\nUsulan skor AI: 24/24 × 100 = 100 (Memerlukan moderasi dosen)."
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_2b_18225047.html#refleksi-dan-lesson-learned-mahasiswa",
+    "href": "portfolio/UTS/hasil_2b_18225047.html#refleksi-dan-lesson-learned-mahasiswa",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Refleksi dan lesson learned mahasiswa",
+    "text": "Refleksi dan lesson learned mahasiswa\n\nKoreksi Dugaan: Semula dikira Dimas hanya perlu diberi solusi administratif awal, padahal ia membutuhkan kejelasan struktural modul dan batas antarmuka (interface).\nStimulus Efektif: Menawarkan pembagian modul berdasarkan tingkat dependensi terbukti sangat efektif. Stimulus administratif murni (seperti lapor grup tanpa kejelasan modul) sempat ditolak.\nPesan Personal: Mengakui kekurangan kriteria awal membuka jalan kepercayaan komunikan secara signifikan.\nPelajaran: Setiap orang memiliki gaya kerja dan kebutuhan otonomi yang berbeda; pendekatan solutif dan terstruktur jauh lebih dihargai oleh tipe pemikir analitis dibandingkan basa-basi."
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_2b_18225047.html#tindak-lanjut-dan-batas-bukti",
+    "href": "portfolio/UTS/hasil_2b_18225047.html#tindak-lanjut-dan-batas-bukti",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Tindak lanjut dan batas bukti",
+    "text": "Tindak lanjut dan batas bukti\nLangkah lanjut berupa pelaksanaan modul sesuai kesepakatan waktu (pukul 18.00 WIB) dengan evaluasi progres via grup WhatsApp dan dukungan paralel. Batas bukti terbatas pada simulasi teks interaktif."
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_2b_18225047.html#bobot-dan-nilai-akhir-uts",
+    "href": "portfolio/UTS/hasil_2b_18225047.html#bobot-dan-nilai-akhir-uts",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Bobot dan nilai akhir UTS",
+    "text": "Bobot dan nilai akhir UTS\n\n\n\nKomponen\nBobot\nNilai komponen\n\n\n\n\nMakalah pra-UTS (paper.qmd)\n10%\nNilai dosen pada skala 0–100\n\n\nSesi 1\n18%\n[Nilai Sesi 1]\n\n\nSesi 2a\n18%\n[Nilai Sesi 2a]\n\n\nSesi 2b\n18%\n100 (Usulan AI)\n\n\nSesi 3a\n18%\n[Belum dinilai]\n\n\nSesi 3b\n18%\n[Belum dinilai]\n\n\nTotal\n100%\nBelum dihitung\n\n\n\nNilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b), dengan seluruh nilai komponen pada skala 0–100. Nilai akhir ditulis Belum dihitung sampai nilai makalah dan kelima sesi tersedia."
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_3b_18225047.html",
+    "href": "portfolio/UTS/hasil_3b_18225047.html",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "",
+    "text": "Elemen\nKeterangan\n\n\n\n\nNama mahasiswa\nRijal Kholis Al-Ausath\n\n\nNIM\n18225047\n\n\nKelas dan tanggal\nKelas 1, 14 Oktober 2026\n\n\nNomor/judul kasus\nSesi 3b; Kasus 3\n\n\nNama dan ID target\nFajar (K3-06)\n\n\nVersi bank/aturan penugasan\nBank 2.0; paket 2.0; penugasan dalam PENUGASAN.md\n\n\nModalitas\nTeks\n\n\nKasus nyata/fiktif\nFiktif (Simulasi Profesional)\n\n\nKelengkapan transkrip\nLengkap"
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_3b_18225047.html#kasus-dan-tujuan-tindakan",
+    "href": "portfolio/UTS/hasil_3b_18225047.html#kasus-dan-tujuan-tindakan",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Kasus dan tujuan tindakan",
+    "text": "Kasus dan tujuan tindakan\nPak Fajar adalah pengelola usaha yang menghadapi kendala pesan pelanggan berulang dan pesanan tercecer dengan tenaga operasional terbatas serta belum yakin memerlukan teknologi AI. Tujuan tindakan adalah meyakinkan dan mempersuasi Pak Fajar agar yakin dan siap menggunakan sistem baru melalui penjelasan kelebihan, kekurangan, dan persiapan uji coba konkret."
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_3b_18225047.html#profil-awal-komunikator",
+    "href": "portfolio/UTS/hasil_3b_18225047.html#profil-awal-komunikator",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Profil awal komunikator",
+    "text": "Profil awal komunikator\n\n\n\n\n\n\n\n\n\nUnsur\nLaporan/dugaan awal\nBukti\nTingkat kepastian\n\n\n\n\nSWOT subjektif\nPeluang: adopsi sistem cepat; Ancaman: takut beban baru; Mampu: menjalankan operasional harian; Belum mampu: merinci risiko otomatisasi\nU001\nSementara\n\n\nAttitude\nPragmatis, skeptis dengan hal baru, butuh penjelasan detail\nU001\nSementara\n\n\nKnowledge\nPengalaman lapangan kuat, belum memahami risiko teknis otomatis\nU001\nSementara\n\n\nSkill\nPerlu demo singkat, checklist, dan fallback\nU001\nSementara\n\n\nPreferensi/MBTI jika dilaporkan\nESTP (berdasarkan perilaku komunikasi langsung, demonstrasi, dan hasil cepat)\nU002\nLaporan diri/hipotesis\n\n\nKarakter, peran, kultur/ko-kultur\nPelaksana lapangan yang menghargai kegunaan dan kelincahan\nU002\nSementara"
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_3b_18225047.html#dugaan-awal-profil-target-dan-rencana",
+    "href": "portfolio/UTS/hasil_3b_18225047.html#dugaan-awal-profil-target-dan-rencana",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Dugaan awal profil target dan rencana",
+    "text": "Dugaan awal profil target dan rencana\n\n\n\n\n\n\n\n\n\n\nTAIDA\nStatus awal/target\nEdukasi A/K/S\nRepertoar yang direncanakan\nBukti yang diharapkan\n\n\n\n\nTarget\nMenyepakati uji coba sistem baru\nK & S\nMenjelaskan kelebihan, kekurangan, dan persiapan\nPersetujuan uji coba\n\n\nAttention\nIngin hasil cepat tanpa beban\nA\nMenunjukkan manfaat efisiensi langsung\nPenurunan defensivitas\n\n\nInterest\nMempertanyakan bukti konkrit\nK\nMemberikan rincian pengelompokan pesan\nKetertarikan pada demo\n\n\nDesire\nMenuntut rincian fallback dan checklist\nS\nMenjelaskan prosedur darurat dan cadangan\nPenerimaan panduan ringkas\n\n\nAction\nKomitmen uji coba praktis\nS\nMenjadwalkan demo singkat dan pilot project\nKesepakatan jadwal"
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_3b_18225047.html#hasil-tujuan-dan-perubahan-swotask",
+    "href": "portfolio/UTS/hasil_3b_18225047.html#hasil-tujuan-dan-perubahan-swotask",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Hasil tujuan dan perubahan SWOT/ASK",
+    "text": "Hasil tujuan dan perubahan SWOT/ASK\n\n\n\n\n\n\n\n\n\n\nUnsur\nAwal\nAkhir\nBukti giliran\nJenis bukti dan batas\n\n\n\n\nKesimpulan SWOT\nTakut beban baru tanpa hasil cepat\nMemahami mitigasi risiko teknis dan menyetujui uji coba\nU004, U006\nSimulasi & Laporan diri\n\n\nAttitude\nPragmatis dan skeptis\nKooperatif dan menyetujui demo serta uji coba\nU004\nObservasi transkrip\n\n\nKnowledge\nBelum paham risiko teknis\nMemahami pengelompokan pesan dan penanganan koneksi\nU003, U006\nDemonstrasi dialog\n\n\nSkill\nPerlu demo singkat dan checklist\nMenyetujui demo 15 menit dan penyiapan checklist darurat\nU004, U006\nKomitmen aksi"
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_3b_18225047.html#evaluasi-stimulusrespons-dan-diagnosis-profil",
+    "href": "portfolio/UTS/hasil_3b_18225047.html#evaluasi-stimulusrespons-dan-diagnosis-profil",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Evaluasi stimulus–respons dan diagnosis profil",
+    "text": "Evaluasi stimulus–respons dan diagnosis profil\n\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nEstimasi status dan bukti\nStimulus mahasiswa\nRespons\nPerubahan ASK/SWOT\nAdaptasi\n\n\n\n\nU002–U003\nPragmatis/Tidak sabar (A)\nMenjelaskan pengelompokan pesan dan efisiensi konkrit\nMenerima logika fungsi praktis sistem\nSikap A melunak\nMenyajikan rincian fungsional tanpa bertele-tele\n\n\nU004–U006\nButuh kepastian risiko (K/S)\nMenjelaskan fallback manual dan solusi jaringan internet\nMenyetujui demo dan jadwal pilot project\nK & S terpenuhi\nMemberikan solusi teknis langsung pada inti masalah"
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_3b_18225047.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "href": "portfolio/UTS/hasil_3b_18225047.html#pengaruh-pesan-personal-dan-kualitas-relasi",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Pengaruh pesan personal dan kualitas relasi",
+    "text": "Pengaruh pesan personal dan kualitas relasi\n\n\n\n\n\n\n\n\n\n\nEpisode/ID\nPesan personal/kepedulian\nRespons yang teramati\nRasa aman, kepercayaan, keterbukaan\nDampak ASK/SWOT dan batas inferensi\n\n\n\n\nU004\nPenjelasan penanggulangan eror dan panduan ringkas secara lugas\n“Penjelasan soal fallback manual… sudah sangat jelas dan sesuai dengan apa yang saya butuhkan”\nRendah → Tinggi\nKepercayaan meningkat, bersedia menyepakati jadwal uji coba"
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_3b_18225047.html#uji-ulang-dan-pembelajaran",
+    "href": "portfolio/UTS/hasil_3b_18225047.html#uji-ulang-dan-pembelajaran",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Uji ulang dan pembelajaran",
+    "text": "Uji ulang dan pembelajaran\nPada uji ulang (U005–U006), muncul kendala teknis baru terkait mati listrik dan putusnya koneksi internet. Mahasiswa merespons secara adaptif dengan menjelaskan status pesan WhatsApp saat listrik padam serta memberikan solusi redundansi internet (Wi-Fi khusus sistem). Kepercayaan dan komitmen pelaksanaan pilot project tetap terjaga dengan sangat baik."
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_3b_18225047.html#penilaian-enam-dimensi",
+    "href": "portfolio/UTS/hasil_3b_18225047.html#penilaian-enam-dimensi",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Penilaian enam dimensi",
+    "text": "Penilaian enam dimensi\n\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4/BT\nID dan kutipan bukti\nAlasan\n\n\n\n\nTujuan dan konteks\n4\nU004, U006\nTujuan meyakinkan Fajar dan menyepakati uji coba tercapai\n\n\nPersepsi dan validasi profil/status\n4\nU003\nMampu merespons kebutuhan praktis dan langsung pada inti masalah\n\n\nPemilihan dan urutan repertoar\n4\nU003, U006\nRepertoar terstruktur dari fungsi inti hingga mitigasi jaringan\n\n\nEksekusi jelas, penawaran tulus dan konsisten\n4\nU004, U006\nKomunikasi lugas, solutif, dan menyediakan dukungan teknis nyata\n\n\nEvaluasi dan adaptasi\n4\nU006\nBeradaptasi cepat terhadap kendala listrik dan internet baru\n\n\nRefleksi dan lesson learned\n4\nBagian Refleksi\nRefleksi komprehensif mengenai pentingnya penguasaan produk dan kejelasan operasional\n\n\n\nUsulan skor AI: 24/24 × 100 = 100 (Memerlukan moderasi dosen)."
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_3b_18225047.html#refleksi-dan-lesson-learned-mahasiswa",
+    "href": "portfolio/UTS/hasil_3b_18225047.html#refleksi-dan-lesson-learned-mahasiswa",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Refleksi dan lesson learned mahasiswa",
+    "text": "Refleksi dan lesson learned mahasiswa\n\nKoreksi Dugaan: Fajar tidak sekadar skeptis umum, melainkan sangat pragmatis dan membutuhkan penjelasan yang langsung ke inti tanpa bertele-tele.\nStimulus Efektif: Menyajikan solusi dan penjelasan konkrit langsung pada manfaat operasional terbukti sangat efektif, sedangkan penjelasan panjang kurang diminati.\nPesan Personal: Menjawab kekhawatiran teknis secara lugas saat listrik dan internet terputus berhasil membangun rasa percaya diri dan kepedulian fungsional.\nPelajaran: Penguasaan produk secara mendalam sangat krusial agar mampu menjawab kebingungan dan kekhawatiran komunikan secara logis dan langsung pada intinya."
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_3b_18225047.html#tindak-lanjut-dan-batas-bukti",
+    "href": "portfolio/UTS/hasil_3b_18225047.html#tindak-lanjut-dan-batas-bukti",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Tindak lanjut dan batas bukti",
+    "text": "Tindak lanjut dan batas bukti\nLangkah lanjut berupa pelaksanaan demo singkat 15 menit dan dimulainya pilot project pengelompokan pesan pada minggu depan dengan penyiapan checklist darurat. Batas bukti terbatas pada simulasi teks interaktif."
+  },
+  {
+    "objectID": "portfolio/UTS/hasil_3b_18225047.html#bobot-dan-nilai-akhir-uts",
+    "href": "portfolio/UTS/hasil_3b_18225047.html#bobot-dan-nilai-akhir-uts",
+    "title": "Laporan UTS KIPP 2026 — Versi 2.0",
+    "section": "Bobot dan nilai akhir UTS",
+    "text": "Bobot dan nilai akhir UTS\n\n\n\nKomponen\nBobot\nNilai komponen\n\n\n\n\nMakalah pra-UTS (paper.qmd)\n10%\nNilai dosen pada skala 0–100\n\n\nSesi 1\n18%\n[Nilai Sesi 1]\n\n\nSesi 2a\n18%\n[Nilai Sesi 2a]\n\n\nSesi 2b\n18%\n[Nilai Sesi 2b]\n\n\nSesi 3a\n18%\n100 (Usulan AI)\n\n\nSesi 3b\n18%\n100 (Usulan AI)\n\n\nTotal\n100%\nBelum dihitung\n\n\n\nNilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b), dengan seluruh nilai komponen pada skala 0–100. Nilai akhir ditulis Belum dihitung sampai nilai makalah dan kelima sesi tersedia."
   },
   {
     "objectID": "portfolio/UTS/paper.html",
     "href": "portfolio/UTS/paper.html",
-    "title": "[Judul makalah MBTI, komunikasi efektif, dan PASK]",
+    "title": "MBTI, Pola Komunikasi, dan Pertumbuhan PASK",
     "section": "",
-    "text": "TipTemplate makalah pra-UTS\n\n\n\nIsi dengan kajian dan argumentasi Anda. Lihat makalah contoh dan kembali ke portfolio Minggu 8. Pertahankan nama paper.qmd sesuai instruksi pra-UTS. Hapus panduan pengisian setelah naskah selesai."
+    "text": "Makalah ini membahas hubungan antara kategori kepribadian MBTI dan pola komunikasi yang efektif, dengan memakai kerangka SWOT subjektif dan PASK, yaitu Persepsi, Sikap, Keterampilan, dan Pengetahuan, dari mata kuliah Komunikasi Interpersonal dan Publik. Tulisan ini adalah kajian konsep, bukan penelitian lapangan. Pembahasan menjawab empat hal, yaitu pengertian MBTI dan pengaruhnya pada komunikasi, cara berkomunikasi dengan orang berprofil tertentu, cara mengenali kemungkinan preferensi lewat percakapan beserta batasnya, dan cara stimulus ditafsirkan lewat SWOT subjektif untuk membentuk respons refleks, reaktif, responsif, atau apresiatif. MBTI dapat membantu menyesuaikan cara berkomunikasi, tetapi hasilnya sebaiknya diperlakukan sebagai dugaan yang perlu dicek ulang, bukan kesimpulan pasti. Pertumbuhan PASK memerlukan latihan dan penyesuaian pesan yang terus dievaluasi dari respons nyata, bukan sekadar persetujuan sesaat.\nKata kunci: MBTI, komunikasi interpersonal, SWOT subjektif, PASK, TAIDA."
   },
   {
     "objectID": "portfolio/UTS/paper.html#abstrak",
     "href": "portfolio/UTS/paper.html#abstrak",
-    "title": "[Judul makalah MBTI, komunikasi efektif, dan PASK]",
-    "section": "Abstrak",
-    "text": "Abstrak\n[Tulis tujuan, metode, pokok pembahasan/hasil kajian, dan kesimpulan setelah isi makalah selesai. Jangan mengklaim penelitian lapangan jika tidak dilakukan.]\nKata kunci: [Isi]."
+    "title": "MBTI, Pola Komunikasi, dan Pertumbuhan PASK",
+    "section": "",
+    "text": "Makalah ini membahas hubungan antara kategori kepribadian MBTI dan pola komunikasi yang efektif, dengan memakai kerangka SWOT subjektif dan PASK, yaitu Persepsi, Sikap, Keterampilan, dan Pengetahuan, dari mata kuliah Komunikasi Interpersonal dan Publik. Tulisan ini adalah kajian konsep, bukan penelitian lapangan. Pembahasan menjawab empat hal, yaitu pengertian MBTI dan pengaruhnya pada komunikasi, cara berkomunikasi dengan orang berprofil tertentu, cara mengenali kemungkinan preferensi lewat percakapan beserta batasnya, dan cara stimulus ditafsirkan lewat SWOT subjektif untuk membentuk respons refleks, reaktif, responsif, atau apresiatif. MBTI dapat membantu menyesuaikan cara berkomunikasi, tetapi hasilnya sebaiknya diperlakukan sebagai dugaan yang perlu dicek ulang, bukan kesimpulan pasti. Pertumbuhan PASK memerlukan latihan dan penyesuaian pesan yang terus dievaluasi dari respons nyata, bukan sekadar persetujuan sesaat.\nKata kunci: MBTI, komunikasi interpersonal, SWOT subjektif, PASK, TAIDA."
   },
   {
     "objectID": "portfolio/UTS/paper.html#pendahuluan",
     "href": "portfolio/UTS/paper.html#pendahuluan",
-    "title": "[Judul makalah MBTI, komunikasi efektif, dan PASK]",
+    "title": "MBTI, Pola Komunikasi, dan Pertumbuhan PASK",
     "section": "1 Pendahuluan",
-    "text": "1 Pendahuluan\n[Latar belakang komunikasi interpersonal, relevansi MBTI dan PASK, masalah, tujuan, dan ruang lingkup.]\nMakalah ini menjawab empat pertanyaan:\n\nApa itu kategori personalitas MBTI dan apa pengaruhnya terhadap pola komunikasi efektif?\nBagaimana cara efektif berkomunikasi dengan orang yang memiliki profil MBTI tertentu?\nBagaimana mengenali kemungkinan preferensi MBTI melalui pola percakapan, beserta batas ketepatannya?\nBagaimana stimulus/peristiwa ditafsirkan melalui SWOT-like dan PASK, serta bagaimana pendidikan membantu pertumbuhan PASK dan pilihan respons refleks, reaktif, responsif, atau apresiatif?"
+    "text": "1 Pendahuluan\nMahasiswa sering bisa menjelaskan teori komunikasi, tetapi belum tentu bisa memilih respons yang tepat saat menghadapi situasi nyata, misalnya saat teman kecewa, diri sendiri kehilangan semangat belajar, atau pelanggan menolak tawaran. Salah satu kerangka yang sering dipakai untuk memahami perbedaan antar individu dalam berkomunikasi adalah MBTI, yaitu tes kepribadian populer yang membagi preferensi dasar manusia ke dalam 16 tipe. Mata kuliah ini memandang komunikasi sebagai rangkaian stimulus dan respons yang dapat memperbarui Sikap, Keterampilan, dan Pengetahuan, dengan Persepsi sebagai unsur tambahan yang menentukan apakah suatu kejadian dianggap peluang atau ancaman. Kesimpulan ini disebut SWOT subjektif.\nMasalah yang diangkat makalah ini adalah bagaimana menghubungkan MBTI yang populer namun masih diperdebatkan secara ilmiah dengan kerangka edukasi komunikasi PASK dan TAIDA, tanpa membuat anggapan berlebihan atau menganggap MBTI sebagai alat diagnosis yang pasti benar. Dalam latihan mata kuliah ini, MBTI dipakai sebagai parameter simulasi saja, sehingga tugas mahasiswa adalah membaca kebutuhan lawan bicara, bukan menebak tipe MBTI seseorang.\nMakalah ini menjawab empat pertanyaan.\n\nApa itu kategori personalitas MBTI dan apa pengaruhnya terhadap pola komunikasi efektif?\nBagaimana cara efektif berkomunikasi dengan orang yang memiliki profil MBTI tertentu?\nBagaimana mengenali kemungkinan preferensi MBTI melalui pola percakapan, beserta batas ketepatannya?\nBagaimana stimulus atau peristiwa ditafsirkan melalui SWOT subjektif dan PASK, serta bagaimana edukasi membantu pertumbuhan PASK dan pilihan respons refleks, reaktif, responsif, atau apresiatif?\n\nRuang lingkup makalah ini terbatas pada kajian konsep. Tidak ada eksperimen komunikasi yang dijalankan, tidak ada diagnosis kepribadian terhadap orang tertentu."
   },
   {
     "objectID": "portfolio/UTS/paper.html#metode-dan-kedudukan-kerangka",
     "href": "portfolio/UTS/paper.html#metode-dan-kedudukan-kerangka",
-    "title": "[Judul makalah MBTI, komunikasi efektif, dan PASK]",
+    "title": "MBTI, Pola Komunikasi, dan Pertumbuhan PASK",
     "section": "2 Metode dan Kedudukan Kerangka",
-    "text": "2 Metode dan Kedudukan Kerangka\n[Jelaskan jenis kajian, cara memilih sumber, dan langkah analisis. Pisahkan literatur, bahan percakapan AI, dan usulan sendiri. Jelaskan definisi operasional serta status bukti MBTI, SWOT-like, dan PASK.]"
+    "text": "2 Metode dan Kedudukan Kerangka\nMakalah ini adalah kajian konsep, bukan laporan penelitian lapangan. Dua jenis bahan dipakai dan dipisahkan dengan jelas, yaitu artikel umum tentang MBTI, dan materi mata kuliah tentang SWOT subjektif, PASK, dan TAIDA yang menjadi dasar simulasi percakapan UTS.\nMBTI adalah tes kepribadian yang mengelompokkan preferensi ke dalam 16 tipe berdasarkan empat pasangan, yaitu Extraversion dan Introversion (E/I), Sensing dan Intuition (S/N), Thinking dan Feeling (T/F), serta Judging dan Perceiving (J/P). SWOT subjektif adalah kesimpulan seseorang atas dua hal, yaitu apakah suatu situasi merupakan peluang atau ancaman, dan apakah dirinya merasa mampu menghadapinya. Kesimpulan ini sifatnya pribadi dan belum tentu sesuai keadaan sebenarnya. PASK adalah singkatan Persepsi, Sikap, Keterampilan, dan Pengetahuan, yaitu unsur yang mendasari kesimpulan SWOT subjektif tadi. TAIDA adalah urutan kerja Target, Attention, Interest, Desire, dan Action yang dipakai sebagai strategi komunikasi secara bertahap, seperti dijelaskan pada materi kuliah Bab 6 dan Bab 7 mata kuliah ini.\nMBTI dipakai luas di dunia kerja dan pendidikan, tetapi keandalannya masih diperdebatkan di kalangan psikologi, seperti dijelaskan pada bagian berikutnya. SWOT subjektif, PASK, dan TAIDA dalam tulisan ini berkedudukan sebagai kerangka konsep mata kuliah untuk keperluan latihan, bukan alat ukur psikologi yang sudah teruji secara ilmiah."
   },
   {
     "objectID": "portfolio/UTS/paper.html#kategori-mbti-dan-komunikasi-efektif",
     "href": "portfolio/UTS/paper.html#kategori-mbti-dan-komunikasi-efektif",
-    "title": "[Judul makalah MBTI, komunikasi efektif, dan PASK]",
+    "title": "MBTI, Pola Komunikasi, dan Pertumbuhan PASK",
     "section": "3 Kategori MBTI dan Komunikasi Efektif",
-    "text": "3 Kategori MBTI dan Komunikasi Efektif\n\n3.1 Empat pasangan preferensi\n[Jelaskan E/I, S/N, T/F, J/P dan 16 kombinasi; sertakan sumber.]\n\n\n\n\n\n\n\n\n\nPasangan\nPengertian preferensi\nImplikasi yang mungkin bagi komunikasi\nBatas/generalisasi yang dihindari\n\n\n\n\nE/I\n[Isi]\n[Isi]\n[Isi]\n\n\nS/N\n[Isi]\n[Isi]\n[Isi]\n\n\nT/F\n[Isi]\n[Isi]\n[Isi]\n\n\nJ/P\n[Isi]\n[Isi]\n[Isi]\n\n\n\n\n\n3.2 Implikasi dan batas ilmiah\n[Definisikan komunikasi efektif; nilai kekuatan dan keterbatasan bukti. Bedakan preferensi, perilaku, kemampuan, serta kematangan.]"
+    "text": "3 Kategori MBTI dan Komunikasi Efektif\n\n3.1 Empat pasangan preferensi\nMenurut artikel Alodokter tentang 16 tipe kepribadian MBTI, MBTI mengukur empat skala, yang gabungannya menghasilkan 16 tipe kepribadian, yaitu ISTJ, ISTP, ISFJ, ISFP, INFJ, INFP, INTJ, INTP, ESTP, ESTJ, ESFP, ESFJ, ENFP, ENFJ, ENTP, dan ENTJ.\n\n\n\n\n\n\n\n\n\nPasangan\nPengertian preferensi\nImplikasi yang mungkin bagi komunikasi\nBatas yang perlu dijaga\n\n\n\n\nE/I\nCara merespons lingkungan. Extraversion senang berinteraksi dan berenergi bersama orang lain, introversion senang menyendiri dan berenergi sendirian\nTipe E mungkin nyaman berbicara sambil berpikir, tipe I mungkin perlu waktu untuk memproses dulu\nIntrovert bukan berarti tidak bisa bersosialisasi\n\n\nS/N\nCara mengumpulkan informasi. Sensing fokus pada fakta dan kenyataan, intuition fokus pada hal teoritis dan kemungkinan\nTipe S lebih tanggap pada contoh dan data, tipe N lebih tanggap pada gambaran besar\nPreferensi ini tidak menentukan kecerdasan seseorang\n\n\nT/F\nCara mengambil keputusan. Thinking memakai fakta dan data objektif, feeling mempertimbangkan perasaan orang lain\nTipe T menghargai argumen yang masuk akal, tipe F mempertimbangkan dampak pada hubungan\nThinking tetap bisa peduli, feeling tetap bisa logis\n\n\nJ/P\nCara menjalani hidup. Judging teguh pada rencana dan nilai yang dipegang, perceiving lebih fleksibel dan mudah beradaptasi\nTipe J nyaman dengan jadwal yang jelas, tipe P nyaman dengan pilihan terbuka\nPreferensi ini bukan ukuran kedisiplinan atau kreativitas\n\n\n\n\n\n3.2 Implikasi dan batas ilmiah\nKomunikasi efektif dalam tulisan ini diartikan sebagai tercapainya pemahaman bersama dan kesepakatan tindakan yang sesuai bagi kedua pihak, bukan sekadar persetujuan sesaat. Dalam arti ini, MBTI dapat membantu menduga tempo dan bentuk penjelasan yang cocok bagi seseorang.\nMeski begitu, kekuatan bukti ilmiah di balik MBTI perlu dilihat secara wajar. Artikel dari ITS News menjelaskan bahwa hasil tes MBTI dapat berubah saat seseorang mengulang tes dalam rentang waktu yang cukup singkat, sehingga keandalannya masih dipertanyakan oleh sejumlah peneliti psikologi. Artikel Alodokter sendiri menegaskan bahwa MBTI hanya alat untuk mengenal kepribadian diri, bukan tes diagnostik dan bukan pengganti penilaian psikolog. Karena itu, preferensi MBTI sebaiknya tidak disamakan dengan perilaku yang muncul pada satu momen, kemampuan seseorang, atau kematangan komunikasi yang sudah berkembang lewat pengalaman. Dalam latihan mata kuliah ini, MBTI hanya dipakai sebagai parameter simulasi, dan tujuan mahasiswa adalah membaca kebutuhan lawan bicara, bukan menebak tipe MBTI-nya."
   },
   {
     "objectID": "portfolio/UTS/paper.html#strategi-komunikasi-untuk-profil-tertentu",
     "href": "portfolio/UTS/paper.html#strategi-komunikasi-untuk-profil-tertentu",
-    "title": "[Judul makalah MBTI, komunikasi efektif, dan PASK]",
+    "title": "MBTI, Pola Komunikasi, dan Pertumbuhan PASK",
     "section": "4 Strategi Komunikasi untuk Profil Tertentu",
-    "text": "4 Strategi Komunikasi untuk Profil Tertentu\n[Uraikan cara mengonfirmasi kebutuhan dan menyesuaikan tempo, media, struktur pesan, bukti, dampak manusia, serta kesepakatan. Berikan contoh kombinasi profil tanpa stereotip.]\n\n\n\n\n\n\n\n\n\nProfil/preferensi\nKebutuhan yang perlu dikonfirmasi\nStrategi dan contoh ungkapan\nCara memeriksa efektivitas\n\n\n\n\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\n\n\n4.1 Umpan balik dan konflik\n[Analisis cara memberi kritik, mendengarkan, menetapkan batas, dan memperbaiki hubungan.]"
+    "text": "4 Strategi Komunikasi untuk Profil Tertentu\nKebutuhan lawan bicara dapat dipastikan lewat pertanyaan terbuka, misalnya menanyakan apa yang perlu dipastikan sebelum menyepakati sesuatu. Strategi berikut disusun per preferensi, bukan per 16 tipe sekaligus, supaya tidak menimbulkan anggapan tetap pada satu jenis orang.\n\n\n\n\n\n\n\n\n\nPreferensi\nKebutuhan yang perlu dipastikan\nContoh cara berkomunikasi\nCara mengecek keberhasilan\n\n\n\n\nE atau I\nRuang bicara sambil berpikir, atau waktu memproses dulu\nUntuk E, ajak diskusi terbuka. Untuk I, beri jeda dan tanyakan apakah perlu waktu berpikir\nJawaban menjadi lebih jelas dan terarah\n\n\nS atau N\nContoh konkret dan data, atau gambaran besar dan keterkaitan ide\nUntuk S, sampaikan data dan contoh nyata. Untuk N, sampaikan konteks dan kemungkinan ke depan\nMuncul pertanyaan lanjutan yang relevan\n\n\nT atau F\nArgumen yang masuk akal, atau pengakuan atas perasaan dan dampaknya\nUntuk T, jelaskan alasan logisnya. Untuk F, akui dulu perasaan atau dampaknya\nLawan bicara terbuka, tidak membela diri\n\n\nJ atau P\nKepastian jadwal, atau pilihan yang masih terbuka\nUntuk J, sepakati batas waktu dengan jelas. Untuk P, tawarkan beberapa pilihan dulu\nKesepakatan tercapai tanpa paksaan\n\n\n\nStrategi di atas hanya dugaan awal yang tetap perlu dicek lewat respons nyata lawan bicara.\n\n4.1 Umpan balik dan konflik\nSaat memberi kritik, perbedaan T dan F perlu diperhatikan. Penyampaian yang terlalu berfokus pada logika bisa terasa dingin bagi tipe F, sementara penyampaian yang penuh perasaan tanpa fakta bisa terasa kurang jelas bagi tipe T. Mendengarkan dulu sebelum membela diri, lalu memastikan pemahaman lewat pertanyaan konfirmasi, membantu memeriksa dugaan awal. Setelah konflik, hubungan dapat diperbaiki dengan menepati kesepakatan dan menunjukkan kepedulian lewat tindakan nyata."
   },
   {
     "objectID": "portfolio/UTS/paper.html#mengenali-preferensi-melalui-percakapan",
     "href": "portfolio/UTS/paper.html#mengenali-preferensi-melalui-percakapan",
-    "title": "[Judul makalah MBTI, komunikasi efektif, dan PASK]",
+    "title": "MBTI, Pola Komunikasi, dan Pertumbuhan PASK",
     "section": "5 Mengenali Preferensi melalui Percakapan",
-    "text": "5 Mengenali Preferensi melalui Percakapan\n\n\n\n\n\n\n\n\n\nPola percakapan\nHipotesis sementara\nPenjelasan alternatif\nPertanyaan validasi\n\n\n\n\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\n\n[Susun prosedur observasi lintas konteks, klarifikasi kepada individu, serta batas inferensi. Jangan menetapkan tipe seseorang hanya dari satu ujaran.]"
+    "text": "5 Mengenali Preferensi melalui Percakapan\n\n\n\n\n\n\n\n\n\nPola percakapan\nDugaan sementara\nPenjelasan lain yang mungkin\nPertanyaan untuk memastikan\n\n\n\n\nJawaban singkat dan perlu waktu\nIntroversion\nSedang lelah atau topik yang sensitif\nApakah perlu waktu untuk memikirkannya dulu\n\n\nBanyak bertanya detail dan data\nSensing\nKehati hatian karena menanggung tanggung jawab tertentu\nDetail apa yang paling penting sebelum memutuskan\n\n\nSering membahas kemungkinan dan ide besar\nIntuition\nBerusaha menghindari keputusan yang mengikat\nBagaimana ide ini bisa diubah menjadi langkah nyata\n\n\nMeminta jadwal dan kepastian yang jelas\nJudging\nTekanan tenggat yang sedang dialami\nApakah rencana ini masih bisa berubah nanti\n\n\n\nPengamatan sebaiknya dilakukan berulang pada lebih dari satu percakapan sebelum menyusun dugaan, karena satu ujaran saja tidak cukup untuk menentukan preferensi seseorang. Menanyakan langsung kepada orang tersebut tetap lebih bisa dipercaya daripada hanya menebak dari gaya bicaranya. Peran yang sedang dijalankan dan latar belakang budaya juga ikut memengaruhi gaya bicara, sehingga menyamaratakan preferensi berdasarkan kelompok budaya atau label kepribadian sebaiknya dihindari."
   },
   {
-    "objectID": "portfolio/UTS/paper.html#stimulus-swot-like-dan-pask",
-    "href": "portfolio/UTS/paper.html#stimulus-swot-like-dan-pask",
-    "title": "[Judul makalah MBTI, komunikasi efektif, dan PASK]",
-    "section": "6 Stimulus, SWOT-like, dan PASK",
-    "text": "6 Stimulus, SWOT-like, dan PASK\n\n6.1 Definisi dan hubungan konsep\n[Jelaskan persepsi, attitude, skill, knowledge serta kekuatan/keterbatasan internal dan peluang/ancaman eksternal. Bedakan tafsir subjektif dari keadaan nyata; jelaskan faktor konteks.]\n\n\n\n\n\n\n\n\n\nUnsur SWOT-like\nTafsir terhadap stimulus\nHubungan dengan PASK\nBukti/pertanyaan pemeriksaan\n\n\n\n\nStrengths\n[Isi]\n[Isi]\n[Isi]\n\n\nWeaknesses\n[Isi]\n[Isi]\n[Isi]\n\n\nOpportunities\n[Isi]\n[Isi]\n[Isi]\n\n\nThreats\n[Isi]\n[Isi]\n[Isi]\n\n\n\n\n\n6.2 Bentuk respons\n\n\n\nBentuk\nDefinisi operasional\nContoh\nKapan tepat/tidak tepat\n\n\n\n\nRefleks\n[Isi]\n[Isi]\n[Isi]\n\n\nReaktif\n[Isi]\n[Isi]\n[Isi]\n\n\nResponsif\n[Isi]\n[Isi]\n[Isi]\n\n\nApresiatif\n[Isi]\n[Isi]\n[Isi]"
+    "objectID": "portfolio/UTS/paper.html#stimulus-swot-subjektif-dan-pask",
+    "href": "portfolio/UTS/paper.html#stimulus-swot-subjektif-dan-pask",
+    "title": "MBTI, Pola Komunikasi, dan Pertumbuhan PASK",
+    "section": "6 Stimulus, SWOT subjektif, dan PASK",
+    "text": "6 Stimulus, SWOT subjektif, dan PASK\n\n6.1 Definisi dan hubungan konsep\nSaat menerima percakapan, seseorang menafsirkannya lewat SWOT subjektif, yaitu apakah situasi ini peluang atau ancaman bagi dirinya, dan apakah ia merasa mampu menghadapinya. Tafsir ini bersifat pribadi dan dipengaruhi peran, hubungan dengan lawan bicara, serta pengalaman sebelumnya. PASK menjelaskan unsur di balik tafsir tersebut. Persepsi menentukan cara stimulus pertama kali dibaca, Sikap menentukan kesediaan merespons, Keterampilan menentukan kesanggupan bertindak, dan Pengetahuan menentukan pemahaman atas situasi dan pilihan yang tersedia.\n\n\n\n\n\n\n\n\n\nUnsur SWOT subjektif\nTafsir terhadap stimulus\nHubungan dengan PASK\nPertanyaan untuk memeriksa\n\n\n\n\nKekuatan\nSaya mampu menghadapi ini\nBerkaitan dengan Keterampilan yang sudah dimiliki dan Sikap yang percaya diri\nBagian mana yang sudah pernah Anda kuasai\n\n\nKelemahan\nSaya kurang mampu menghadapi ini\nBerkaitan dengan Keterampilan yang belum cukup atau Pengetahuan yang belum lengkap\nBagian mana yang terasa paling sulit\n\n\nPeluang\nSituasi ini menguntungkan bagi saya\nBerkaitan dengan Sikap yang positif dan Pengetahuan tentang manfaatnya\nManfaat apa yang paling penting bagi Anda\n\n\nAncaman\nSituasi ini berisiko bagi saya\nBerkaitan dengan Sikap yang waspada dan Pengetahuan yang belum lengkap tentang batasnya\nRisiko apa yang paling Anda khawatirkan\n\n\n\n\n\n6.2 Bentuk respons\n\n\n\n\n\n\n\n\n\nBentuk\nPenjelasan\nContoh\nKapan cocok dipakai\n\n\n\n\nRefleks\nReaksi otomatis tanpa berpikir atau mengingat dulu\nReaksi mendadak saat terkejut\nCocok untuk keadaan yang butuh respons cepat, kurang cocok untuk keputusan rumit\n\n\nReaktif\nRespons yang muncul karena teringat pengalaman sebelumnya\nMembalas dengan membela diri karena pernah disalahkan\nBerguna mengenali pola berulang, bisa keliru bila situasi sebenarnya berbeda\n\n\nResponsif\nRespons setelah memeriksa fakta dan memikirkan tujuan bersama\nMengklarifikasi dulu sebelum memberi jawaban\nCocok untuk keputusan yang butuh pertimbangan matang\n\n\nApresiatif\nSeperti responsif, ditambah perbaikan sikap dan pengetahuan untuk kejadian berikutnya\nBertanya dulu sebelum menyalahkan pada kejadian serupa berikutnya\nCocok untuk pembelajaran jangka panjang, butuh waktu dan kesediaan merenung"
   },
   {
     "objectID": "portfolio/UTS/paper.html#pendidikan-untuk-menumbuhkan-pask",
     "href": "portfolio/UTS/paper.html#pendidikan-untuk-menumbuhkan-pask",
-    "title": "[Judul makalah MBTI, komunikasi efektif, dan PASK]",
+    "title": "MBTI, Pola Komunikasi, dan Pertumbuhan PASK",
     "section": "7 Pendidikan untuk Menumbuhkan PASK",
-    "text": "7 Pendidikan untuk Menumbuhkan PASK\n\n\n\n\n\n\n\n\n\n\nDimensi\nKebutuhan awal\nIntervensi/kegiatan\nPenyesuaian preferensi\nBukti pertumbuhan\n\n\n\n\nPersepsi\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\nSikap\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\nKeterampilan\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\nPengetahuan\n[Isi]\n[Isi]\n[Isi]\n[Isi]\n\n\n\n[Rancang stimulus edukatif, pendampingan, simulasi, refleksi, uji ulang, dan evaluasi transfer. Nyatakan apakah program merupakan usulan atau sudah diuji.]"
+    "text": "7 Pendidikan untuk Menumbuhkan PASK\n\n\n\n\n\n\n\n\n\n\nDimensi\nKebutuhan awal\nKegiatan yang membantu\nPenyesuaian pada preferensi\nTanda pertumbuhan\n\n\n\n\nPersepsi\nMemastikan dugaan tentang situasi, bukan asumsi sepihak\nLatihan membedakan tafsir pribadi dari fakta, lalu minta umpan balik langsung\nBeri waktu merenung bagi tipe I, ajak bicara langsung bagi tipe E\nMulai bertanya dulu sebelum menyalahkan\n\n\nSikap\nKepercayaan dan kemauan mencoba hal baru\nDialog yang mengakui keterbatasan tanpa merendahkan diri\nBeri alasan logis bagi tipe T, akui perasaan dulu bagi tipe F\nMulai mau mencoba tanpa harus didorong berulang\n\n\nKeterampilan\nKemampuan nyata untuk bertindak\nLatihan bertahap dan pendampingan langsung\nBeri langkah rinci bagi tipe S, beri prinsip umum bagi tipe N\nBisa bertindak dengan lebih sedikit bimbingan\n\n\nPengetahuan\nPemahaman fungsi, batas, dan pilihan yang ada\nPenjelasan yang menghubungkan masalah, manfaat, dan bukti\nBeri batas waktu jelas bagi tipe J, beri beberapa pilihan bagi tipe P\nPertanyaan lanjutan menunjukkan pemahaman yang lebih tepat\n\n\n\nSusunan kegiatan di atas mengikuti tahap TAIDA pada materi kuliah Bab 6 dan Bab 7, yaitu menetapkan sasaran, menarik perhatian dengan cara yang aman, membangun minat yang sesuai kebutuhan, menumbuhkan keinginan yang beralasan, sampai menyepakati tindakan nyata."
   },
   {
     "objectID": "portfolio/UTS/paper.html#contoh-integratif",
     "href": "portfolio/UTS/paper.html#contoh-integratif",
-    "title": "[Judul makalah MBTI, komunikasi efektif, dan PASK]",
+    "title": "MBTI, Pola Komunikasi, dan Pertumbuhan PASK",
     "section": "8 Contoh Integratif",
-    "text": "8 Contoh Integratif\n[Analisis satu kasus: peristiwa, dugaan awal, validasi, SWOT/PASK, respons, penyesuaian komunikasi, dan rencana belajar. Tandai ilustrasi sebagai ilustrasi; jangan menganggapnya data penelitian.]"
+    "text": "8 Contoh Integratif\nMisalkan seorang anggota kelompok belum mengirim bagian tugasnya sehari sebelum tenggat, dan menjawab singkat saat ditanya alasannya. Dugaan awal yang muncul adalah preferensi introversion yang butuh waktu memproses, tetapi bisa juga karena sedang lelah. Pertanyaan terbuka tentang apa yang paling menghambat membuka jawaban bahwa kendalanya adalah data pendukung yang belum didapat, bukan rasa enggan. Dari sisi SWOT subjektif, anggota tersebut mungkin menganggap percakapan ini sebagai ancaman karena khawatir dianggap tidak mampu. Respons yang dipilih adalah responsif, yaitu mendengarkan dulu, memastikan kendala sebenarnya, lalu menawarkan pembagian tugas yang lebih realistis dan disertai contoh yang konkret sesuai pola sensing yang ditunjukkannya. Untuk kejadian berikutnya, komunikator berencana bertanya lebih awal saat tanda kendala mulai muncul, sesuai bentuk respons apresiatif."
   },
   {
     "objectID": "portfolio/UTS/paper.html#pembahasan-dan-keterbatasan",
     "href": "portfolio/UTS/paper.html#pembahasan-dan-keterbatasan",
-    "title": "[Judul makalah MBTI, komunikasi efektif, dan PASK]",
+    "title": "MBTI, Pola Komunikasi, dan Pertumbuhan PASK",
     "section": "9 Pembahasan dan Keterbatasan",
-    "text": "9 Pembahasan dan Keterbatasan\n[Sintesis empat pertanyaan; hubungan antar-konsep; alternatif penjelasan, keterbatasan sumber/metode, dan kebutuhan penelitian lanjutan.]"
+    "text": "9 Pembahasan dan Keterbatasan\nKeempat pertanyaan di atas saling berkaitan. MBTI menyediakan istilah untuk menduga preferensi komunikasi, tetapi dugaan itu baru berguna bila dicek langsung kepada lawan bicara, bukan dianggap berlaku otomatis untuk semua orang dengan tipe yang sama. Mengenali preferensi lewat percakapan hanya menghasilkan dugaan sementara yang mudah keliru bila diambil dari satu ujaran saja, karena faktor lain seperti tekanan waktu atau kelelahan bisa menghasilkan pola bicara yang serupa. Pada akhirnya, preferensi personal hanyalah salah satu masukan bagi SWOT subjektif yang menentukan jenis respons, dan edukasi yang menyasar keempat dimensi PASK diperlukan agar respons bisa bergeser dari refleks atau reaktif menuju responsif dan apresiatif.\nKeterbatasan makalah ini ada beberapa. Tidak ada data lapangan yang dikumpulkan, sehingga seluruh strategi masih berupa dugaan yang perlu diuji dalam praktik. Status ilmiah MBTI sendiri masih diperdebatkan, sehingga generalisasi berdasarkan tipe MBTI perlu dibatasi. Konsep SWOT subjektif, PASK, dan TAIDA yang dipakai berasal dari materi mata kuliah dan belum tentu setara dengan alat ukur psikologi yang sudah teruji secara terpisah. Hanya ada satu contoh ilustrasi yang disajikan, sehingga belum bisa dipastikan berlaku untuk situasi lain."
   },
   {
     "objectID": "portfolio/UTS/paper.html#kesimpulan",
     "href": "portfolio/UTS/paper.html#kesimpulan",
-    "title": "[Judul makalah MBTI, komunikasi efektif, dan PASK]",
+    "title": "MBTI, Pola Komunikasi, dan Pertumbuhan PASK",
     "section": "10 Kesimpulan",
-    "text": "10 Kesimpulan\n[Jawab keempat pertanyaan secara ringkas berdasarkan argumentasi dan sumber yang sudah dibahas.]"
+    "text": "10 Kesimpulan\nMBTI adalah tes kepribadian yang membagi preferensi ke dalam 16 tipe. Pengaruhnya terhadap komunikasi mungkin ada, tetapi perlu dibaca hati-hati karena keandalannya masih diperdebatkan. Berkomunikasi dengan orang berprofil tertentu sebaiknya menyesuaikan tempo dan bentuk pesan sambil terus memastikan lewat respon nyata, bukan memakai cara yang sama untuk semua orang. Preferensi bisa diduga dari pola percakapan yang berulang, tetapi dugaan ini tetap harus dipastikan langsung, bukan dianggap kesimpulan akhir dari satu ujaran. Stimulus percakapan ditafsirkan lewat SWOT subjektif yang didasarkan pada empat dimensi PASK, dan edukasi yang menyasar keempat dimensi itu secara seimbang, disesuaikan dengan preferensi masing masing orang, dapat membantu respons bergeser dari refleks atau reaktif menjadi responsif dan akhirnya apresiatif."
   },
   {
     "objectID": "portfolio/UTS/paper.html#daftar-pustaka",
     "href": "portfolio/UTS/paper.html#daftar-pustaka",
-    "title": "[Judul makalah MBTI, komunikasi efektif, dan PASK]",
+    "title": "MBTI, Pola Komunikasi, dan Pertumbuhan PASK",
     "section": "Daftar Pustaka",
-    "text": "Daftar Pustaka\n[Cantumkan hanya sumber yang benar-benar dibaca/digunakan. Gunakan format konsisten dan tautan/DOI yang tepat; pastikan setiap sitasi memiliki entri.]"
+    "text": "Daftar Pustaka\nAlodokter. 16 Tipe Kepribadian Myers Briggs Type Indicator. https://www.alodokter.com/seputar-16-tipe-kepribadian-myers-briggs-type-indicator (diakses 14 Oktober 2026).\nITS News. Menyingkap Tabir Reliabilitas di Balik Popularitas MBTI. https://www.its.ac.id/news/menyingkap-tabir-reliabilitas-di-balik-popularitas-mbti/ (diakses 14 Oktober 2026).\nMateri Kuliah Komunikasi Interpersonal dan Publik. Bab 6, Menemukan Sasaran dan Memperoleh Perhatian.\nMateri Kuliah Komunikasi Interpersonal dan Publik. Bab 7, Menumbuhkan Minat TAIDA II."
   },
   {
     "objectID": "portfolio/UTS/paper.html#bobot-dan-nilai-akhir-uts",
     "href": "portfolio/UTS/paper.html#bobot-dan-nilai-akhir-uts",
-    "title": "[Judul makalah MBTI, komunikasi efektif, dan PASK]",
+    "title": "MBTI, Pola Komunikasi, dan Pertumbuhan PASK",
     "section": "11 Bobot dan nilai akhir UTS",
     "text": "11 Bobot dan nilai akhir UTS\n\n\n\nKomponen\nBobot\nNilai komponen\n\n\n\n\nMakalah pra-UTS (paper.qmd)\n10%\nNilai dosen pada skala 0–100\n\n\nSesi 1\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2b\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3b\n18%\nJumlah enam skor / 24 × 100\n\n\nTotal\n100%\n\n\n\n\nNilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b), dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.\nNilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis Belum dihitung sampai nilai makalah dan kelima sesi tersedia.\nRata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.\nRubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen."
   },
