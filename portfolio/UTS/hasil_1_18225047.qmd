@@ -1,0 +1,451 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 1 — Kasus 1"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Rijal Kholis Al-Ausath |
+| NIM | 18225047 |
+| Kelas dan tanggal | Kelas 1; 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1; Kasus 1 — Memimpin diri dan terus belajar |
+| Nama dan ID target | Diri mahasiswa sebagai target utama; Budi (K1-02) sebagai tokoh pembanding yang ditugaskan |
+| Versi bank/aturan penugasan | Bank 2.0; paket individual 2.0; `PENUGASAN.md` dalam ZIP |
+| Modalitas | Teks; tidak ada sumber transkripsi suara |
+| Kasus nyata/fiktif | Refleksi diri berdasarkan pengalaman yang dilaporkan mahasiswa; Budi diperlakukan sebagai tokoh simulasi, bukan bukti tentang individu nyata |
+| Bahan percakapan | Interaksi teks pada asesmen, simulasi, evaluasi, dan refleksi Sesi 1. |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Kasus ini meminta mahasiswa memilih satu kemampuan yang ingin dikembangkan dan memeriksa cara memimpin diri saat menghadapi hambatan belajar. Dari jawaban awal mahasiswa (U001), kemampuan yang dipilih adalah **manajemen waktu**, agar waktu dimanfaatkan lebih baik dan produktivitas meningkat. Hambatan yang dinyatakan adalah menunda karena merasa masih memiliki banyak waktu.
+
+Mahasiswa melaporkan pernah berniat mengerjakan tugas Arsitektur Komputer tetapi menghabiskan sekitar 1–2 jam bermain catur online; tugas tetap dikerjakan dan dikumpulkan tepat waktu (U001). Dalam pertanyaan lanjutan, mahasiswa menjelaskan bahwa catur dipakai sebagai *refreshing* setelah pulang kuliah dan tenggat yang masih jauh membuat penundaan terasa memungkinkan (U002).
+
+Strategi yang dinyatakan mencakup memandang penyelesaian awal sebagai cara menikmati waktu senggang tanpa beban, memajukan atau menambah alarm ke H-4, menargetkan penyelesaian 50% berdasarkan pembagian porsi tugas ketika tugas diterima, dan menggunakan H-1 sebagai pengingat persiapan pengumpulan (U003–U004). Strategi cadangan lainnya adalah meminta masukan teman jika cara yang dicoba belum berhasil dan membatasi permainan catur pada masa UAS dengan menjadikannya hadiah setelah ujian. Belum ada bukti bahwa rencana manajemen waktu tersebut telah dilaksanakan di luar sesi.
+
+**Tujuan tindakan yang dilaporkan:** memperbaiki disiplin waktu dan mengurangi penundaan. **Indikator rencana:** pembagian tugas sejak awal, penyelesaian sekurang-kurangnya 50% pada milestone yang ditentukan, menyiapkan pengumpulan sebelum tenggat, dan memeriksa kemajuan. Indikator ini belum terbukti tercapai setelah sesi.
+
+## Profil awal komunikator
+
+Tabel berikut merangkum jawaban awal mahasiswa pada U001. Profil ini adalah laporan diri mahasiswa dan tidak dimaksudkan sebagai diagnosis.
+
+| Unsur | Laporan/dugaan awal | Bukti yang tersedia | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Kekuatan: fokus pada hal yang disukai; kelemahan: menunda; peluang: teman rajin dan Google Calendar; ancaman: agenda tak terduga yang berbenturan dengan rencana. | U001 (jawaban awal). | Laporan diri; sementara |
+| Attitude | Menyadari perlunya peningkatan manajemen waktu dan menyatakan kesungguhan untuk memperbaiki diri. | U001 (jawaban awal). | Laporan diri; sementara |
+| Knowledge | Menyatakan bahwa ia kadang lupa daftar tugas dan menunda; membuat to-do list, tetapi belum mengetahui cara lebih disiplin menaati alarm. | U001 (jawaban awal). | Laporan diri; sementara |
+| Skill | Menyatakan bisa fokus setelah mulai dan memperkirakan kebutuhan waktu pengerjaan. | U001 (jawaban awal). | Laporan diri; sementara |
+| Preferensi/MBTI jika dilaporkan | Tidak ada tipe MBTI yang dilaporkan mahasiswa. | U001. | Tidak diketahui; tidak didiagnosis |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa yang mengelola tugas kuliah dan waktu senggang; tidak ada norma budaya/ko-kultur spesifik yang dilaporkan. | U001–U004. | Informasi terbatas |
+
+## Dugaan awal profil target dan rencana
+
+Diri mahasiswa adalah target utama. Budi seharusnya berfungsi sebagai cermin pembanding untuk mengamati bahwa saran yang cocok bagi diri sendiri belum tentu cocok bagi orang lain. Namun, profil resmi K1-02 dalam paket penugasan berbeda dari karakter Budi yang diperankan asisten dalam simulasi; hal ini dijelaskan lagi pada bagian D.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan atau muncul | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Memperbaiki pengelolaan waktu dan mengurangi penundaan; hasil belum diverifikasi. | A: kemauan berubah sudah dilaporkan. K: perlu mengubah alarm menjadi tindakan. S: perlu kebiasaan mulai lebih awal dan membagi tugas. | Milestone, pembagian tugas, pengurangan distraksi, dan pencatatan kemajuan. | Catatan tugas dan bukti penyelesaian pada milestone; belum tersedia. |
+| Attention | Perhatian pada masalah muncul ketika menyadari waktu terpakai untuk catur dan alarm tidak selalu menghentikan penundaan. | K: mengenali pemicu penundaan dan konsekuensinya. | Meninjau spesifikasi tugas lebih awal dan membandingkan beban tugas dengan waktu tersisa. | Mahasiswa memulai peninjauan sebelum tenggat; baru berupa rencana/saran. |
+| Interest | Ingin lebih produktif tetapi juga menggunakan catur sebagai hiburan setelah kelas. | A: tujuan perlu tetap realistis dan mengakui kebutuhan istirahat. | Mengaitkan waktu minum kopi dengan membaca spesifikasi tugas; menyimpan hiburan sebagai kegiatan setelah target tercapai. | Perubahan dari sekadar persiapan ke langkah pengerjaan nyata; belum diverifikasi. |
+| Desire | Ingin disiplin dan tidak terburu-buru mendekati tenggat. | A/K: memandang perubahan sebagai proses bertahap; memahami tugas lebih awal memberi ruang menghadapi kesulitan. | Membagi tugas, menargetkan milestone, dan menerima kemunduran tanpa menganggap semua usaha gagal. | Kesediaan mencoba muncul dari Budi dalam simulasi, tetapi bukan bukti perubahan mahasiswa sendiri. |
+| Action | Rencana konkret sudah disebutkan, tetapi belum ada bukti pelaksanaan di luar sesi. | S: perlu langkah awal kecil, batas waktu, dan evaluasi kemajuan. | Menutup situs catur, mengerjakan bagian kecil, mencatat hari sesuai rencana, dan meminta dukungan bila strategi gagal. | Catatan implementasi setelah sesi; belum tersedia. |
+
+# C) Skrip Percakapan
+
+**Bagian ini merangkum percakapan utama, respons mahasiswa, dan refleksi yang relevan dengan asesmen.** Instruksi operasional yang disisipkan dalam pesan tahap B tidak dianggap sebagai jawaban substantif mahasiswa.
+
+### Jawaban awal dan strategi diri
+
+**U001 — Jawaban Tahap B: identitas, konteks, SWOT/ASK, dan tujuan**
+
+> KIPP 2026 Sesi 1 Kasus 1 — jawaban Tahap B mahasiswa. Identitas: Rijal Kholis Al-Ausath, NIM 18225047, kelas 1, tanggal 2026-10-14, modalitas teks. Kemampuan: manajemen waktu  
+> Alasan: Agar saya bisa memanfaatkan waktu lebih baik dan lebih produktif  
+> Hambatan: Terkadang saya suka menunda-nunda karena merasa masih memiliki banyak waktu.  
+> Bukti/pengalaman: Saya pernah berniat ingin mengerjakan tugas mata kuliah Arsitektur Komputer, tetapi menunda-nunda dan malah menghabiskan waktu sekitar 1 hingga 2 jam untuk bermain catur online. Meskipun setelah itu saya tetap mengerjakan tugas dan mengumpulkan tepat waktu.  
+> SWOT awal — Strengths: Fokus yang cukup baik dan bersungguh-sungguh pada hal yang saya senangi.; Weaknesses: Suka menunda-nunda; Opportunities: Memiliki teman yang rajin (secara tidak langsung memotivasi saya untuk ikut rajin), memiliki sarana manajemen waktu (Google Calendar); Threats: Kejadian tidak disangka-sangka seperti ada agenda lain yang bertabrakan dengan rencana awal.  
+> ASK awal — Attitude: Saya dengan penuh kesadaran menerima bahwa saya perlu peningkatan diri dalam manajemen waktu sehingga saya bersungguh-sungguh untuk berusaha memperbaiki diri; Knowledge: Yang saya ketahui: saya terkadang lupa dengan list hal yang harus saya kerjakan, saya suka menunda-nunda keduanya saya atasi dengan mencatat daftar aktivitas (to-do) yang harus dilakukan hari ini. Yang belum saya ketahui: cara untuk lebih disiplin menaati alarm yang sudah saya aktifkan, karena meskipun sudah tahu daftar aktivitas, saya pernah tetap menunda aktivitasnya.; Skill: Saya bisa fokus mengerjakan sesuatu ketika sudah mulai mengerjakan, saya mampu memperkirakan kebutuhan waktu yang diperlukan untuk menyelesaikan aktivitas.  
+> Tujuan sesi: Saya ingin mampu lebih disiplin dalam manajemen waktu agar lebih produktif dan tidak menunda-nunda
+
+**AI001 — Pertanyaan awal tentang pemicu penundaan**
+
+> Pertanyaan utama:  
+> Ketika kamu sudah merencanakan untuk mengerjakan tugas, tetapi akhirnya memilih bermain catur online selama 1–2 jam, apa yang biasanya kamu pikirkan atau rasakan pada saat itu sehingga kamu memutuskan untuk menunda tugas dan bermain terlebih dahulu?  
+>  
+> Ceritakan berdasarkan pengalamanmu sendiri. Misalnya, apakah kamu merasa tugasnya masih lama tenggatnya, ingin beristirahat sebentar, merasa bermain catur lebih menarik, atau ada alasan lain? Tidak ada jawaban benar atau salah; kita ingin memahami pola yang benar-benar kamu alami sebelum menentukan strategi perbaikan.
+
+**U002 — Menjelaskan pemicu penundaan**
+
+> Biasanya alasannya karena sebagai "refreshing" sebelum mengerjakan tugas (kondisi pulang kuliah). Iya, ketika saya memutuskan bermain catur, saya tahu deadline tugas masih agak lama, karena sebenarnya saya bukan orang yang begitu suka menjadi deadliner kecuali terpaksa memang tidak memungkinkan.
+
+**AI002 — Umpan balik dan pertanyaan mencari strategi realistis**
+
+> Baik, Rijal. Dari penjelasanmu, ada pola yang mulai terlihat: kamu menggunakan catur sebagai sarana *refreshing* setelah pulang kuliah, dan karena tenggat tugas masih cukup lama, kamu merasa masih memiliki ruang untuk menunda pengerjaan.
+>
+> Apa yang bisa membuatmu bersedia mulai mengerjakan tugas selama 15–20 menit sebelum bermain catur, meskipun belum ada tekanan deadline?
+>
+> Pikirkan sesuatu yang realistis untuk dirimu sendiri. Kita ingin menemukan strategi yang bisa kamu jalankan dalam kondisi sehari-hari, bukan hanya ketika tenggat sudah dekat.
+
+**U003 — Mengusulkan strategi awal dan alarm H-4**
+
+> Aku harus memiliki pikiran bahwa dengan menyelesaikan tugas lebih cepat, aku bisa bermain catur atau beraktivitas lain tanpa beban nantinya. Mungkin sebaiknya aku juga memajukan atau menambahkan alarm menjadi H-4 deadline daripada H-1, lengkap dengan catatan "hal-hal yang ingin aku lakukan JIKA tugas ini sudah selesai"
+
+**AI003 — Skenario target H-4 belum tercapai**
+
+> Kamu mulai merumuskan strategi yang berasal dari pemahamanmu sendiri, bukan sekadar mengikuti saran orang lain.
+>
+> Bayangkan alarm H-4 berbunyi tetapi kamu ternyata baru menyelesaikan 20% tugas karena beberapa hari sebelumnya kamu tetap menunda. Kamu merasa kecewa kepada diri sendiri, sementara keinginan bermain catur masih kuat.
+>
+> Apa yang akan kamu katakan kepada dirimu sendiri, dan tindakan apa yang akan kamu ambil setelah itu?
+>
+> Jawablah secara alami, seolah-olah kamu benar-benar sedang mengalami situasi tersebut. Kita ingin melihat bagaimana kamu menggabungkan disiplin, tanggung jawab, dan sikap terhadap diri sendiri ketika target tidak tercapai.
+
+**U004 — Menetapkan milestone 50% pada H-4**
+
+> alarm H-4 itu bekerja sebagai pengingat, jadi dalam pikiranku jika alarm H-4 sudah berbunyi, aku HARUS menyelesaikan 50% di hari itu juga. Sehingga alarm berbunyi bukan berarti terlambat, tetapi waktunya aku mulai serius mengerjakan tugas. Konsep 50% tergantung tugasnya, aku biasanya akan langsung memeriksa tugas di hari yang sama ketika menerima tugas, sehingga aku bisa memperhitungkan porsi-porsi nya. dengan begitu, alarm H-4 berarti di hari tersebut aku harus selesai 50% berdasarkan porsi yang telah kubagi, dan alarm H-1 adalah pengingat agar aku bersiap mengumpulkan tugas
+
+**AI004 — Evaluasi apakah pesan kepada diri sendiri terasa menekan**
+
+> Setelah membaca kembali pesanmu tadi, apakah kamu merasa pesan tersebut akan benar-benar membantumu memperbaiki manajemen waktu, atau justru berpotensi membuatmu merasa tertekan?
+>
+> Jelaskan alasannya. Jika kamu merasa perlu mengubah pesannya, tuliskan versi baru yang tetap tegas dalam menuntut tanggung jawab, tetapi juga membantumu memahami penyebab penundaan dan kembali ke rencana awal.
+
+**U005 — Menilai pesan kepada diri sendiri**
+
+> Tidak, aku tidak merasa tertekan. Aku yakin, aku akan lebih tertekan jika harus terburu-buru mengerjakan tugas mendekati deadline dan membuat hasil tugasnya kurang memuaskan
+
+### Simulasi awal dengan Budi
+
+**AI006 — Pembukaan simulasi awal, Budi (K1-02)**
+
+> Lanjutan Tahap C — Simulasi awal  
+> Kita sudah mengidentifikasi pola penundaan, strategi yang ingin kamu terapkan, dan rencana cadangan jika strategi tersebut belum berhasil. Berikutnya, kita akan melihat bagaimana kamu menerapkan pemahaman itu ketika menghadapi sudut pandang orang lain.
+>
+> Untuk bagian ini, Budi (K1-02) akan menjadi tokoh pembanding. Budi bukan gambaran dirimu, melainkan tokoh simulasi dengan pertimbangan dan hambatannya sendiri.
+>
+> Bayangkan Budi adalah temanmu yang memiliki kebiasaan menunda pekerjaan. Ia berkata:  
+> “Aku tahu tugas ini harus dikerjakan lebih awal, tetapi tenggatnya masih lama. Menurutku, tidak masalah kalau aku bersantai dulu. Nanti kalau sudah dekat tenggat, aku pasti mengerjakannya.”
+>
+> Pertanyaan utama: Apa yang akan kamu katakan kepada Budi untuk menanggapi pandangannya? Sampaikan dengan gaya bahasamu sendiri, seperti sedang berbicara langsung dengan teman, tanpa harus memaksanya setuju denganmu.
+
+**U006 — Menyarankan Budi memeriksa tugas lebih awal**
+
+> "Apakah kamu biasanya sudah memeriksa tugasnya?, coba deh periksa dahulu, barangkali dosen sengaja memberikan deadline agak lama karena memang membutuhkan waktu lama dalam pengerjaannya"
+
+**AI007 — Respons Budi dan pertanyaan eksplorasi berikutnya**
+
+> Budi menjawab:  
+> “Aku biasanya cuma membaca instruksi sekilas. Kalau kulihat tenggatnya masih lama, aku merasa belum perlu memikirkan detailnya. Lagi pula, kalau aku periksa sekarang, belum tentu aku langsung mengerjakannya. Aku lebih suka mengerjakan ketika sudah merasa siap.”
+>
+> Pertanyaan berikutnya: Bagaimana kamu akan menanggapi Budi? Apakah kamu akan mencoba memahami apa yang membuatnya merasa belum siap, menawarkan strategi seperti yang kamu gunakan, atau mengambil pendekatan lain?
+>
+> Jawab dengan gaya bicaramu sendiri, seperti dalam percakapan nyata.
+
+**U007 — Bertanya tentang arti “siap” dan menyarankan mulai lebih awal**
+
+> "Kamu merasa siap kalau gimana?. Ngomong-ngomong, kalau menurutku sih sebaiknya diperiksa sejak awal dan segera diselesain se-awal mungkin, kenapa? biar kalau udah selesai ngerjain kan bisa lebih leluasa mau beraktivitas lantai atau bersantai"
+
+**AI008 — Respons Budi tentang suasana hati dan kualitas hasil**
+
+> “Aku merasa siap kalau suasana hati sedang bagus dan pikiranku lagi santai. Kalau dipaksakan saat belum siap, aku takut malah tidak fokus dan hasilnya jelek. Tapi memang benar juga, kalau tugas selesai lebih awal, aku bisa lebih santai.”
+>
+> Pertanyaan berikutnya: Bagaimana kamu akan menanggapi Budi sekarang? Cobalah merespons kekhawatirannya tentang fokus dan kualitas hasil tugas, sambil tetap membantunya mempertimbangkan cara untuk mulai bekerja tanpa harus menunggu suasana hati yang sempurna.
+>
+> Jawab secara alami, seperti kamu sedang berbicara langsung dengan temanmu.
+
+**U008 — Menyarankan musik dan jadwal pengerjaan**
+
+> "Udah coba belajar atau ngerjain tugas sambil dengerin musik? kadang-kadang ikut efektif buat aku bisa ngerjain tugas meskipun lagi ngantuk. Nah kalau masalah hasilnya jelek bentar dulu. Kamu kerjakan dan selesaikan sekarang, ngumpulinnya bisa besok. Jadi misalkan tugas diberikan hari rabu dan deadline nya hari senin, nah kamu cobalah kerjakan di hari rabu hingga jumat, sabtu nya kamu periksa lagi tuh, baru kalau udah merasa yakin maka dikumpulkan. jangan lupa pasang alarm biar kamu g lupa mengumpulkan"
+
+**AI009 — Budi menyebut jadwal terganggu dan kelelahan**
+
+> “Saranmu masuk akal. Tapi kadang-kadang aku sudah membuat jadwal, lalu ada kegiatan mendadak atau aku terlalu lelah setelah kuliah. Akhirnya jadwalku berantakan dan aku kembali menunda. Kalau sudah begitu, rasanya percuma membuat jadwal.”
+>
+> Pertanyaan utama: Apa yang akan kamu katakan kepada Budi agar ia tidak langsung menyerah ketika jadwalnya terganggu, tetapi juga tetap realistis terhadap keterbatasan waktu dan energinya?
+>
+> Jawab dengan gaya bicaramu sendiri. Setelah itu, kita akan mengevaluasi pola komunikasi dan strategi pengembangan dirimu berdasarkan bukti dari percakapan ini.
+
+**U009 — Menjelaskan bahwa jadwal dapat diatur ulang**
+
+> "Jadwal yang kembali berantakan itu wajar kok, bahkan orang sudah terbiasa disiplin masih mungkin untuk jadwalnya tiba-tiba berantakan karena ada kejadian tidak disangka-sangka, tinggal bagaimana kita berkomitmen untuk menyelesaikan itu. Jadi jadwal itu ibaratkan penunjuk arah biar kamu tidak tersasar dan malah berakhir tidak mengerjakan. Keterbatasan waktu dan energi itu juga normal, tinggal bagaimana kamu berkomitmen mengaturnya sebagaimana kamu berkomitmen makan 2-3 kali sehari meskipun makan juga menggunakan waktu mu yang terbatas itu"
+
+### Uji ulang dan refleksi
+
+
+
+**U010 — Uji ulang, saran memulai dari langkah kecil**
+
+> Coba selama kamu minum kopi pelan-pelan,kamu jadikan itu adalah waktu khususmu untuk membaca spesifikasi tugas. Mungkin setelah selesai minum, kamu akan beranjak membuka sosial media lagi, setidaknya sekarang kamu sudah paham dan bisa mengukur lebih presisi apakah tindakanmu menunda pengerjaan adalah hal yang tepat jika dibandingkan dengan waktu pengumpulan dan beban tugasnya. Secara perlahan, bangun kebiasaan kecil untuk mengerjakan tugas lebih awal meskipun bukan jadi yang pertama.
+
+**AI010 — Evaluasi dan pertanyaan berikutnya**
+
+Respons kamu sudah cukup baik, terutama karena kamu tidak menuntut Budi langsung mengubah kebiasaannya secara drastis. Kamu mengarahkan waktu minum kopi untuk menjadi kesempatan membaca spesifikasi tugas, sehingga aktivitas kecil itu punya tujuan yang jelas.
+
+Ada dua hal yang menjadi kekuatan responsmu:
+- **Realistis dan bertahap:** kamu menyadari Budi mungkin masih membuka media sosial setelah minum kopi. Kamu tidak menganggap satu langkah kecil akan langsung menyelesaikan masalahnya.
+- **Mendorong kesadaran diri:** dengan membaca spesifikasi tugas lebih awal, Budi bisa memahami beban tugas dan mempertimbangkan apakah menunda pengerjaan memang sepadan dengan waktu yang tersisa.
+
+Satu hal yang bisa diperkuat adalah menambahkan tindakan yang langsung mengarah pada pengerjaan, misalnya setelah membaca spesifikasi, Budi memilih satu bagian tugas dan mengerjakannya selama 10 menit sebelum membuka media sosial. Dengan begitu, waktu minum kopi bukan hanya menjadi persiapan, tetapi juga jembatan menuju tindakan.
+
+**Budi:** “Oke, aku bisa mencoba membaca spesifikasi tugas sambil minum kopi. Tapi kalau setelah membacanya ternyata tugasnya terasa sulit atau banyak sekali, aku mungkin malah jadi makin malas memulai. Apa yang sebaiknya kulakukan saat menghadapi perasaan seperti itu?”
+
+**Apa jawabanmu kepada Budi?**
+
+**U011 — Menanggapi kesulitan tugas**
+
+> Nah, justru efek baiknya adalah sekarang kamu tahu kalau tugasnya sulit. bayangkan jika kamu baru tahu saat 5 jam sebelum deadline, pasti akan lebih panik. Dengan kamu tahu itu, bagi saja pengerjaannya langkah per langkah, mungkin ketika gawai mu sedang diisi daya kamu bisa gunakan laptop khusus untuk mengerjakan tugas
+
+**AI011 — Evaluasi dan pertanyaan berikutnya**
+
+Respons kamu menunjukkan bahwa kamu mulai membantu Budi melihat kesulitan tugas sebagai informasi yang berguna, bukan alasan untuk terus menunda. Kamu juga memberikan dua saran yang cukup konkret: membagi tugas menjadi langkah-langkah kecil dan memanfaatkan laptop ketika gawainya sedang diisi daya.
+
+Ada dua hal yang sudah bagus. Pertama, kamu membantu Budi membandingkan risiko memulai lebih awal dengan risiko baru menyadari kesulitan tugas menjelang tenggat. Kedua, kamu mencoba menyesuaikan strategi dengan situasi sehari-hari Budi.
+
+Satu hal yang bisa diperkuat adalah memastikan langkah pertama cukup kecil dan jelas. Misalnya, setelah membaca spesifikasi tugas, Budi cukup memilih satu bagian yang paling mudah dan mengerjakannya selama 10 menit. Memakai laptop juga bisa membantu, selama laptop tersebut tidak justru menjadi sumber distraksi baru.
+
+**Budi:** “Iya, masuk akal. Tapi aku sering bingung menentukan bagian mana yang harus dikerjakan lebih dulu. Kalau bagian yang mudah ternyata tidak terlalu penting, aku takut malah membuang waktu. Bagaimana caranya menentukan urutan pengerjaan yang tepat?”
+
+**Apa saranmu kepada Budi?**
+
+**U012 — Menjawab kebingungan mengurutkan tugas**
+
+> Pembagiannya diurutkan saja, jadi misalkan ada 4 soal, 3 diantaranya sulit dan 1 nya mudah, kamu tetap bagi 2 menjadi mudah-sulit dan sulit-sulit. Jangan terlalu pusing membaginya, membagi itu hanya agar kamu lebih konsisten dalam mengerjakan saja
+
+**AI012 — Evaluasi dan pertanyaan berikutnya**
+
+Respons kamu sudah menunjukkan prinsip yang penting: **pembagian tugas tidak harus sempurna; yang penting adalah membantu kita mulai dan konsisten mengerjakannya.**
+
+Kamu juga memberi contoh yang cukup konkret dengan membagi empat soal menjadi beberapa kelompok berdasarkan tingkat kesulitannya. Ini bisa membantu Budi agar tidak menghabiskan terlalu banyak waktu hanya untuk menyusun rencana.
+
+Satu hal yang bisa kamu pertimbangkan: urutan pengerjaan sebaiknya tidak hanya berdasarkan tingkat kesulitan, tetapi juga tenggat, bobot nilai, dan ketergantungan antarbagian. Kalau tidak ada prioritas khusus, pembagian sederhana seperti yang kamu sarankan sudah cukup untuk memulai.
+
+**Budi:** “Oke, berarti aku tidak perlu menunggu sampai punya rencana yang sempurna. Tapi kalau aku sudah mulai mengerjakan satu bagian, lalu menemui kesulitan dan akhirnya menghabiskan waktu terlalu lama di sana, bagaimana supaya aku tidak tertinggal mengerjakan bagian yang lain?”
+
+**Apa saranmu kepada Budi?**
+
+**U013 — Menanggapi kelelahan dan pengerjaan larut malam**
+
+> Ya sudah, jika sudah larut malam, maka dilanjutkan besok saja. Kalau kamu ingat, kita di sini membahas mengerjakan tugas di awal waktu, maka kamu pasti masih punya waktu, jadi jangan memaksakan diri dan mungkin kamu bisa menyicil mencari tahu cara mengerjakannya sesaat sebelum tidur dan sebagainya
+
+**AI013 — Evaluasi dan pertanyaan berikutnya**
+
+Jawabanmu sudah menunjukkan bahwa kamu memahami salah satu manfaat utama mengerjakan tugas lebih awal: **kita memiliki ruang untuk menghadapi kesulitan tanpa harus mengorbankan waktu istirahat secara berlebihan.**
+
+Ada dua hal yang bagus dari saranmu. Pertama, kamu tidak mendorong Budi untuk memaksakan diri hingga larut malam. Kedua, kamu memanfaatkan waktu luang sebelum tenggat untuk mencari tahu cara menyelesaikan bagian yang sulit.
+
+Namun, ada satu hal yang bisa kamu tambahkan: **tentukan batas waktu untuk setiap bagian tugas.** Misalnya, jika Budi sudah mencoba mengerjakan satu soal selama 30 menit tetapi belum menemukan solusi, ia bisa mencatat bagian yang membuatnya bingung, mencari referensi sebentar, lalu beralih ke soal lain. Dengan begitu, satu bagian yang sulit tidak menghambat seluruh pengerjaan.
+
+**Budi:** “Sekarang aku paham. Jadi aku bisa membatasi waktu, mencatat kesulitanku, lalu lanjut ke bagian lain. Tapi terkadang aku sudah membuat jadwal dan menetapkan batas waktu, kemudian ada ajakan teman atau kegiatan mendadak yang membuat jadwalku berantakan. Akhirnya aku merasa rencanaku gagal dan jadi malas melanjutkannya. Bagaimana supaya aku tidak mudah menyerah saat jadwalku berubah?”
+
+**Apa saranmu kepada Budi?**
+
+**U014 — Menanggapi jadwal yang berubah**
+
+> Seperti yang kubilang tadi, jadwal tidak harus sempurna. Jika terjadi jadwal berantakan maka atur lagi saja. Jadwal berantakan bukan berarti semua rencana gagal, yakin pasti masih bisa diperbaiki
+
+**AI014 — Evaluasi dan pertanyaan berikutnya**
+
+Jawabanmu sudah konsisten dengan pesan yang kamu sampaikan sejak awal: **jadwal adalah alat bantu, bukan sesuatu yang harus diikuti secara sempurna.** Kamu juga membantu Budi membedakan antara jadwal yang berubah dan rencana yang benar-benar gagal. Ini penting agar satu gangguan tidak membuatnya menyerah sepenuhnya.
+
+Agar saranmu lebih mudah diterapkan, kamu bisa menambahkan contoh tindakan nyata, seperti memindahkan pekerjaan yang tertunda ke waktu kosong berikutnya, menentukan bagian yang paling penting, dan menyisakan waktu cadangan untuk kejadian tak terduga.
+
+**Budi:** “Benar juga, selama ini aku sering menganggap jadwalku gagal begitu ada satu kegiatan yang meleset. Aku mau mencoba memperbaikinya. Tapi bagaimana kalau aku sudah berusaha mengikuti jadwal selama beberapa hari, lalu kembali menunda-nunda seperti kebiasaanku dulu? Aku takut semua usahaku selama ini sia-sia.”
+
+**Apa yang akan kamu katakan kepada Budi agar ia bisa menghadapi kemunduran tanpa kehilangan motivasi?**
+
+**U015 — Menanggapi kemunduran**
+
+> Tidak ada yang sia-sia, berubah tidak perlu instan, pelan-pelan saja
+
+**AI015 — Evaluasi dan pertanyaan berikutnya**
+
+Jawabanmu sederhana, tetapi pesannya kuat: kamu mengingatkan Budi bahwa perubahan kebiasaan membutuhkan waktu dan kemunduran bukan berarti semua usahanya sia-sia.
+
+Hal yang sudah bagus adalah kamu tidak menyalahkan Budi ketika ia kembali menunda-nunda. Kamu memberi ruang baginya untuk belajar secara bertahap. Ini menunjukkan sikap suportif yang penting ketika membantu seseorang mengubah kebiasaannya.
+
+Agar lebih konkret, kamu bisa menambahkan bahwa ketika kembali menunda, Budi tidak perlu menunggu hari berikutnya atau minggu berikutnya untuk memulai lagi. Ia cukup kembali mengerjakan satu langkah kecil saat menyadarinya. Dengan begitu, pesan “pelan-pelan saja” tetap disertai tindakan nyata.
+
+**Budi:** “Terima kasih. Aku jadi merasa tidak harus langsung sempurna. Aku akan mencoba mulai dari membaca spesifikasi tugas sambil minum kopi, lalu mengerjakan satu bagian kecil. Kalau nanti aku berhasil melakukannya, bagaimana caranya supaya aku bisa mempertahankan kebiasaan itu dan tidak kembali menunda-nunda?”
+
+**Apa saran terakhirmu kepada Budi agar ia bisa menjaga kemajuannya secara realistis?**
+
+**U016 — Mengusulkan pencatatan kemajuan**
+
+> Coba catat berapa hari kamu sudah disiplin, misalkan disiplinmu terputus di hari ke 10 tidak masalah, kamu bisa berbangga sudah disiplin 10 hari. Selanjutnya kamu bisa mulai disiplin lagi dari hari 0, agar kamu yakin, kamu ternyata benar-benar sudah berkembang.
+
+**AI016 — Evaluasi dan refleksi**
+
+Saranmu bagus karena kamu mengajak Budi **melihat kemajuan melalui bukti nyata, bukan hanya perasaan bahwa dirinya sudah berubah**. Mencatat jumlah hari ketika ia berhasil disiplin bisa membantunya menyadari bahwa ia mampu membangun kebiasaan baru.
+
+Ada satu hal kecil yang bisa diperbaiki: jika kedisiplinannya terputus pada hari ke-10, ia tidak harus menganggap seluruh hitungannya kembali ke nol. Ia bisa mencatat dua hal sekaligus: jumlah hari berturut-turut ia disiplin dan total hari ia berhasil mengerjakan tugas sesuai rencana. Dengan demikian, ia tetap bisa melihat kemajuan meskipun sesekali mengalami kemunduran.
+
+**Budi:** “Aku suka ide mencatatnya. Jadi, kalau suatu hari aku gagal, aku masih bisa melihat bahwa sebelumnya aku sudah berhasil selama beberapa hari. Aku akan mencoba mencatatnya dan mulai lagi ketika meleset.”
+
+Bagus, percakapanmu dengan Budi sudah selesai. Sepanjang simulasi ini, kamu menunjukkan sikap yang suportif, tidak menghakimi, dan konsisten mengajak Budi mengambil langkah kecil yang realistis.
+
+Sekarang, mari refleksikan prosesmu sendiri sebagai bagian dari latihan *memimpin diri dan terus belajar*.
+
+**Setelah membantu Budi, apa yang kamu sadari tentang caramu memberikan saran kepada orang lain?** Adakah saran yang awalnya langsung kamu berikan, tetapi setelah percakapan berlangsung, kamu menyadari seharusnya kamu bertanya lebih dahulu tentang kondisi atau kebiasaan orang tersebut?
+
+**U017 — Refleksi tentang rasa ragu dan keterbukaan**
+
+> ketika dia merasa ragu dengan dirinya sendiri. itu di luar perkiraanku. Tetapi di sini aku tidak memaksanya untuk menceritakan dirinya seutuhnya dan membiarkan dia mengungkapkan kondisinya perlahan seiring saran kuberikan.
+
+**AI017 — Umpan balik dan pertanyaan refleksi berikutnya**
+
+Refleksimu menunjukkan bahwa kamu menyadari sesuatu yang penting: ketika membantu orang lain, kita tidak selalu tahu sejak awal apa yang sebenarnya mereka khawatirkan.
+
+Kamu juga sudah berusaha menghargai kenyamanan Budi dengan tidak memaksanya menceritakan seluruh kondisinya sekaligus. Kamu membiarkannya mengungkapkan keraguannya secara bertahap selama percakapan berlangsung. Ini menunjukkan sikap empati dan kesediaan untuk mendengarkan.
+
+Ada satu hal yang bisa kamu pelajari lebih lanjut: **kapan sebaiknya langsung memberikan saran dan kapan sebaiknya bertanya terlebih dahulu**. Saranmu memang banyak yang konkret, tetapi dengan menggali situasi Budi sedikit lebih jauh, kamu bisa membuat saran tersebut lebih sesuai dengan kebutuhannya.
+
+Sekarang, mari hubungkan pengalaman ini dengan pengembangan dirimu sendiri.
+
+**Dari percakapanmu dengan Budi, adakah cara memberikan saran atau keterampilan berkomunikasi yang ingin kamu perbaiki untuk ke depannya? Apa tindakan nyata yang akan kamu lakukan untuk melatihnya?**
+
+**U018 — Keterampilan yang ingin dilatih**
+
+> yaitu untuk mengetahui kondisi seseorang secara lebih lengkap sebelum memberikan saran. kedapannya saya akan secara perlahan mengajak lawan bicara untuk menyampaikan informasi kondisi dirinya yang cukup sebelum saya memberikan saran. Yang akan saya latih adalah merenungkan kondisi diri dan saran pada diri sendiri (memeriksa kemungkinan-kemungkinan kesesuaian antara saran dengan kondisi yang berbeda-beda) sehingga saat berkomunikasi saya secara otomatis lebih memikirkan kondisi lawan bicara.
+
+**AI018 — Umpan balik dan pertanyaan indikator**
+
+Refleksimu bagus. Kamu bukan hanya menyadari bahwa kondisi seseorang bisa berbeda dari perkiraanmu, tetapi juga menemukan cara untuk memperbaiki diri: **melatih diri mempertimbangkan berbagai kemungkinan sebelum memberikan saran.**
+
+Aku juga melihat bahwa kamu ingin menyeimbangkan dua hal: memperoleh informasi yang cukup agar saranmu sesuai, sekaligus menghargai privasi dan kenyamanan lawan bicara. Kamu tidak harus mengetahui seluruh cerita seseorang untuk membantunya; yang penting adalah memahami informasi yang relevan dengan masalah yang sedang dibahas.
+
+Supaya rencanamu lebih mudah diterapkan, kamu bisa melatih kebiasaan berikut: sebelum memberikan saran, ajukan satu atau dua pertanyaan terbuka, dengarkan jawabannya, lalu pastikan pemahamanmu sudah tepat. Misalnya, *“Biasanya apa yang paling membuatmu kesulitan memulai?”* atau *“Apa yang sudah pernah kamu coba sejauh ini?”*
+
+Sekarang, pertanyaan refleksi terakhir:
+
+**Bagaimana kamu akan mengetahui bahwa keterampilanmu dalam memahami kondisi orang lain sebelum memberi saran sudah berkembang? Apa tanda nyata yang bisa kamu amati dalam percakapan sehari-hari?**
+
+**U019 — Indikator perkembangan yang dipilih**
+
+> saya bisa melihatnya dari seberapa cepat saya menilai saran yang harus diberikan. Jika saya semakin tidak terburu-buru memberikan tanggapan atau respon, maka saya sudah semakin berkembang
+
+**AI019 — Umpan balik dan rangkuman refleksi**
+
+Pemikiranmu masuk akal. Kamu menjadikan kemampuan menahan diri agar tidak terburu-buru memberikan saran sebagai indikator perkembangan. Ini menunjukkan bahwa kamu mulai menyadari pentingnya memahami masalah sebelum mencoba menyelesaikannya.
+
+Namun, ada satu hal yang perlu dibedakan: **tidak terburu-buru bukan berarti sekadar menunda respons, melainkan menggunakan waktu untuk memahami kondisi lawan bicara.** Jadi, selain memperhatikan kecepatan responsmu, perhatikan juga apakah kamu semakin sering mengajukan pertanyaan yang relevan, mendengarkan jawaban sampai tuntas, dan menyesuaikan saran dengan kebutuhan orang tersebut.
+
+Rangkuman refleksi yang ditampilkan dalam percakapan:
+
+> **Refleksi Pengembangan Diri**
+>
+> Dari percakapan dengan Budi, saya menyadari bahwa memberikan saran kepada orang lain tidak selalu sesederhana yang saya perkirakan. Terkadang, seseorang memiliki keraguan atau kondisi tertentu yang baru terungkap seiring berjalannya percakapan. Karena itu, saya perlu memahami kondisinya terlebih dahulu tanpa memaksanya menceritakan hal-hal yang belum nyaman untuk diungkapkan.
+>
+> Ke depannya, saya ingin melatih kemampuan memahami kondisi orang lain sebelum memberikan saran. Saya akan membiasakan diri untuk bertanya, mendengarkan, dan mempertimbangkan berbagai kemungkinan agar saran yang saya berikan lebih sesuai. Saya juga akan melatih diri dengan merenungkan berbagai kondisi dan mengevaluasi apakah saran tertentu cocok untuk situasi yang berbeda.
+>
+> Saya akan mengetahui bahwa kemampuan ini berkembang ketika saya tidak lagi terburu-buru memberikan tanggapan, melainkan menggunakan waktu untuk memahami lawan bicara. Saya berharap kebiasaan tersebut dapat membantu saya memberikan saran yang lebih tepat, sekaligus menjadi pendengar yang lebih baik.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Hasil sesi perlu dipisahkan menjadi refleksi diri, kualitas saran dalam simulasi, dan perubahan perilaku nyata. Berdasarkan jawaban awal mahasiswa (U001–U004), mahasiswa telah mengidentifikasi masalah manajemen waktu dan beberapa rencana pribadi. Pada segmen verbatim, mahasiswa juga menunjukkan kemampuan memberikan saran bertahap kepada tokoh simulasi dan mengidentifikasi keterampilan komunikasi yang ingin ditingkatkan. **Belum ada bukti pelaksanaan rencana manajemen waktu sesudah sesi**, sehingga pencapaian perilaku jangka panjang belum dapat dinyatakan.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Kekuatan: fokus pada hal yang disukai; kelemahan: menunda; peluang: teman rajin dan Google Calendar; ancaman: agenda tak terduga yang berbenturan dengan rencana. | Mahasiswa menyadari perlunya memperhitungkan kondisi orang lain sebelum memberi saran dan tidak memaksa orang membuka diri sekaligus. SWOT pribadi tentang manajemen waktu belum dinilai ulang secara eksplisit. | U001; U017–U019. | Awal adalah laporan diri mahasiswa; akhir adalah refleksi komunikasi. Tidak cukup bukti untuk menyimpulkan SWOT pribadi telah berubah. |
+| Attitude | Menyadari perlunya peningkatan manajemen waktu dan menyatakan kesungguhan memperbaiki diri. | Menyatakan perubahan kebiasaan berlangsung perlahan dan ingin menghargai kenyamanan lawan bicara. | U001; U015, U017–U018. | Laporan diri dan sikap yang tampak dalam respons tertulis; bukan bukti perubahan jangka panjang. |
+| Knowledge | Mengetahui bahwa daftar tugas membantu, tetapi belum mengetahui cara menaati alarm secara disiplin. | Menyebut pentingnya mengetahui kondisi orang lain sebelum memberi saran dan menyesuaikan saran dengan informasi yang relevan. | U001; U017–U019. | Pemahaman yang diungkapkan; belum diuji pada banyak situasi nyata. |
+| Skill | Mampu fokus setelah mulai dan memperkirakan kebutuhan waktu, menurut laporan diri; strategi memulai lebih awal belum terbukti konsisten. | Mendemonstrasikan saran konkret tentang membaca spesifikasi, membagi tugas, menata ulang jadwal dan mencatat kemajuan. Untuk komunikasi, merumuskan pertanyaan/pendengaran sebagai keterampilan yang ingin dilatih; penerapan eksplorasi sebelum memberi saran belum dominan. | U001; U006–U009; U010–U016; U018–U019. | Demonstrasi saran dalam teks simulasi; bukan bukti tugas pribadi telah dikerjakan atau keterampilan komunikasi telah otomatis terbentuk. |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+**Catatan kesesuaian profil:** `PENUGASAN.md` menyatakan Budi (K1-02) sebagai tokoh pembanding yang ditugaskan. Namun, `profil_komunikan.md` di ZIP mendeskripsikan K1-02 sebagai tokoh yang merasa cara sekarang sudah jelas dan mempertanyakan alasan perubahan; hambatan utamanya adalah takut standar turun, belum memahami alasan metode baru, serta membutuhkan prosedur, bukti dan tolok ukur. Dalam segmen percakapan yang tersedia, Budi justru diperankan sebagai tokoh yang menunda tugas, lelah setelah kelas, tergoda media sosial/permainan, dan khawatir sulit memulai. Karena kedua gambaran ini tidak sama, respons dalam simulasi di bawah tidak boleh dianggap sebagai bukti adaptasi yang valid terhadap profil resmi K1-02. Saya tidak mengganti dialog aktual agar sesuai dengan profil file.
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U010 / AI010 | Tokoh simulasi menyatakan bisa mencoba membaca spesifikasi sambil minum kopi, lalu mengungkap kekhawatiran bahwa tugas sulit akan membuatnya enggan memulai. Ini keterbukaan dalam dialog simulasi, bukan ukuran psikologis. | Menjadikan waktu minum kopi sebagai waktu membaca spesifikasi dan menimbang beban tugas dibanding sisa waktu. | Budi simulasi menerima langkah tersebut tetapi mengungkap hambatan berikutnya. | Kebutuhan memulai dibuat lebih konkret; hambatan memulai tetap ada. Tidak ada bukti tindakan nyata. | Respons mahasiswa relevan dan bertahap; bisa lebih konkret dengan batas waktu atau satu tugas kecil, sebagaimana umpan balik AI. |
+| U011 / AI011 | Tokoh simulasi kemudian menyampaikan kebingungan memilih urutan bagian yang dikerjakan. | Memahami kesulitan lebih awal, membagi pengerjaan menjadi langkah, dan menggunakan laptop ketika gawai sedang diisi daya. | Budi simulasi mengatakan masuk akal, tetapi takut memilih bagian mudah yang kurang penting. | Kesiapan dalam dialog berlanjut, tetapi kebutuhan prioritas belum terjawab sepenuhnya. | Perlu memprioritaskan tenggat, bobot nilai dan ketergantungan antarbagian, bukan hanya mudah/sulit. |
+| U012 / AI012 | Tokoh simulasi memunculkan risiko terjebak terlalu lama pada bagian yang sulit. | Membagi empat soal menjadi kelompok “mudah-sulit” dan “sulit-sulit”; mahasiswa menyatakan tidak perlu terlalu pusing membagi. | Budi simulasi menerima prinsip tidak menunggu rencana sempurna, lalu menanyakan pembatasan waktu. | Pemahaman simulasi tentang memulai menjadi lebih eksplisit; belum ada tindakan. | Saran sederhana membantu memulai, tetapi batas waktu untuk satu soal belum disebut mahasiswa dalam giliran ini. |
+| U013 / AI013 | Tokoh simulasi mengungkap jadwal dapat terganggu kegiatan mendadak. | Menghentikan pengerjaan jika sudah larut, melanjutkan besok, dan menyicil mencari cara penyelesaian sebelum tidur. | Budi simulasi merumuskan ulang batas waktu dan pindah bagian, lalu mengungkap kekhawatiran jadwal berantakan. | Ada refleksi tentang waktu istirahat; gangguan jadwal menjadi hambatan baru. | Sikap tidak memaksakan diri suportif; perlu cara menata ulang pekerjaan dan batas waktu yang lebih eksplisit. |
+| U014 / AI014 | Tokoh simulasi menyatakan bahwa ia menganggap satu kegiatan meleset sebagai kegagalan semua rencana. | Menyampaikan bahwa jadwal tidak harus sempurna dan bisa diatur ulang. | Budi simulasi mengatakan mau mencoba memperbaiki, lalu bertanya tentang kemunduran berulang. | Cara memandang jadwal dalam simulasi menjadi lebih fleksibel; belum membuktikan kebiasaan berubah. | Pesan konsisten, tetapi tindakan penjadwalan ulang yang spesifik belum dipilih bersama. |
+| U015 / AI015 | Tokoh simulasi menyatakan takut usaha sebelumnya sia-sia bila kembali menunda. | “Tidak ada yang sia-sia, berubah tidak perlu instan, pelan-pelan saja.” | Budi simulasi mengatakan tidak harus sempurna dan bersedia mencoba langkah awal. | Sikap simulasi menjadi lebih optimistis; kesediaan mencoba bukan bukti pelaksanaan. | Pesan mengurangi penghakiman; dapat diperkuat dengan langkah kembali mulai segera setelah menyadari penundaan. |
+| U016 / AI016 | Tokoh simulasi tertarik mencatat kemajuan dan menyatakan akan mencoba. | Mencatat hari disiplin, menerima bahwa kemajuan 10 hari tetap berarti meski kemudian terputus, lalu mulai lagi dari nol. | Budi simulasi menerima ide pencatatan. | Rencana evaluasi diri muncul di dalam dialog simulasi; belum ada catatan aktual. | Ide konkret; pencatatan streak sebaiknya tidak menghapus total hari berhasil, agar kemajuan kumulatif tetap terlihat. |
+
+Seluruh episode di atas adalah catatan atas dialog simulasi, bukan validasi bahwa tokoh mengikuti profil K1-02 resmi. Karena profil Budi yang diperankan tidak sesuai dengan profil paket, evaluasi terhadap kemampuan mahasiswa membaca profil/status target dibatasi.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+Tidak terdapat ungkapan afeksi atau pesan pribadi yang secara eksplisit diarahkan kepada hubungan pertemanan dalam segmen verbatim. Bentuk kepedulian yang tampak terutama berupa penerimaan terhadap kemunduran, tidak menyalahkan, dan menghormati batas kesiapan lawan bicara. Dampaknya hanya dapat dinilai pada respons tokoh simulasi.
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U013–U015 | Tidak menyuruh Budi memaksakan diri sampai larut; menyatakan jadwal dapat diperbaiki dan perubahan tidak harus instan. | Dalam dialog simulasi, Budi mengungkap kekhawatiran tentang jadwal yang gagal dan usaha yang sia-sia, lalu menyatakan akan mencoba lagi. | Keterbukaan tampak meningkat dalam teks karena tokoh mengungkap kekhawatiran lebih spesifik. Status rasa aman/kepercayaan tidak diberi skor psikometrik. | Pesan suportif tampak membantu tokoh melanjutkan percakapan. Tidak membuktikan perubahan ASK atau tindakan di luar sesi; ketidakcocokan profil resmi tetap berlaku. |
+| U017 | Mahasiswa menyatakan tidak memaksa Budi menceritakan dirinya sepenuhnya dan membiarkan kondisi terungkap bertahap. | Ini adalah refleksi mahasiswa; tidak ada respons Budi lanjutan yang menguji klaim tersebut. | Niat menghormati privasi dinyatakan secara eksplisit; dampak langsungnya tidak dapat dipastikan dari giliran ini. | Menunjukkan kesadaran relasional dalam refleksi, bukan bukti pasti tentang motif batin atau kualitas hubungan nyata. |
+
+Mahasiswa menyampaikan bahwa ia ingin menjaga ruang bagi lawan bicara untuk menjelaskan kondisi diri perlahan. Ini sejalan dengan penghormatan pilihan, tetapi langkah berikutnya yang dapat diamati adalah mengajukan pertanyaan terbuka, menunggu jawaban, dan memeriksa pemahaman sebelum memberi saran.
+
+## Uji ulang dan pembelajaran
+
+Uji ulang dilakukan melalui percakapan dengan tokoh yang mengalami penundaan tugas. Mahasiswa menyarankan langkah bertahap: membaca spesifikasi saat minum kopi, membagi tugas, memanfaatkan laptop sebagai opsi kerja, tidak memaksakan diri ketika larut malam, menata ulang jadwal, menerima kemunduran, dan mencatat kemajuan. Rangkaian saran ini menunjukkan repertoar yang bervariasi, tetapi sebagian besar berupa pemberian saran langsung; pertanyaan eksploratif untuk memahami kondisi tokoh lebih dahulu belum menjadi pola dominan dalam segmen ini.
+
+Pada refleksi, mahasiswa mengidentifikasi keterampilan baru yang ingin dilatih: memahami kondisi orang lain secukupnya sebelum memberi saran, memikirkan kemungkinan kesesuaian saran untuk kondisi yang berbeda, serta tidak terburu-buru memberi respons. Indikator yang dipilih adalah semakin tidak terburu-buru menilai saran. Agar terukur, indikator itu sebaiknya dilengkapi dengan perilaku yang bisa diamati: mengajukan satu atau dua pertanyaan terbuka, mengulang pemahaman dalam kata-kata sendiri, dan menyesuaikan saran setelah mendapat jawaban.
+
+**Uji ulang diri dalam kehidupan nyata belum teramati.** Belum ada laporan bahwa mahasiswa telah mempraktikkan rencana manajemen waktu pada tugas berikutnya, atau bahwa keterampilan bertanya-dan-mendengarkan telah digunakan dalam percakapan nyata setelah sesi. Selain itu, segmen tokoh pembanding tidak selaras dengan profil K1-02 pada ZIP, sehingga transfer pembelajaran terhadap profil resmi belum dapat dinilai.
+
+## Penilaian enam dimensi
+
+Nilai berikut adalah **usulan AI untuk moderasi dosen**, bukan nilai resmi. Tujuan/konteks dinilai berdasarkan uraian pengalaman, SWOT/ASK, dan strategi yang dinyatakan mahasiswa. Dimensi persepsi/validasi perlu dibaca dengan catatan khusus: asisten memerankan Budi sebagai penunda tugas, padahal profil resmi K1-02 dalam paket memiliki hambatan berbeda. Ketidaksesuaian pemeranan ini berasal dari asisten, bukan mahasiswa. Skor dimensi tersebut menilai perilaku bertanya dan menyesuaikan respons terhadap tokoh yang benar-benar tampil dalam percakapan.
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | **4 (usulan)** | U001: “Tujuan sesi: Saya ingin mampu lebih disiplin dalam manajemen waktu agar lebih produktif dan tidak menunda-nunda”; U003–U004: usulan alarm H-4 dan target 50%; U002 memaparkan pemicu berupa *refreshing* dan tenggat yang masih lama. | Mahasiswa mengidentifikasi kemampuan, alasan, hambatan, contoh pengalaman, SWOT/ASK, dan sasaran tindakan yang cukup konkret. Makna operasional beberapa alarm masih perlu dirapikan dan pelaksanaan di luar sesi belum terbukti; hal itu tidak menghapus kejelasan konteks dan tujuan yang telah dinyatakan. |
+| Persepsi dan validasi profil/status | **3 (usulan terbatas)** | U007: “Kamu merasa siap kalau gimana?”; U017: refleksi bahwa keraguan lawan bicara di luar perkiraannya dan ia tidak memaksa cerita penuh; U018 mengusulkan mengetahui kondisi yang cukup sebelum memberi saran. | Ada pertanyaan untuk menggali makna “siap” dan refleksi yang akurat tentang perlunya memahami kondisi. Namun, mahasiswa juga segera memberi saran berdasar pengalamannya sendiri, dan profil yang dimainkan asisten tidak cocok dengan profil K1-02 resmi. Skor ini menilai teknik validasi yang terlihat, bukan kesesuaian respons dengan profil resmi. |
+| Pemilihan dan urutan repertoar | **3 (usulan)** | U003–U004: milestone H-4 dan 50%; U008: musik, pengerjaan Rabu–Jumat dan pemeriksaan Sabtu; U010–U016: membaca spesifikasi, pembagian tugas, penataan ulang jadwal, dan pencatatan kemajuan. | Mahasiswa menawarkan sejumlah tindakan yang konkret dan bertahap. Sebagian saran belum cukup disesuaikan dengan preferensi lawan bicara atau prioritas tugas; misalnya, musik ditawarkan berdasarkan pengalaman pribadi, dan urutan tugas tidak mempertimbangkan bobot/ketergantungan secara eksplisit. |
+| Eksekusi jelas, peduli dan konsisten | **3 (usulan)** | U009: jadwal diibaratkan penunjuk arah dan keterbatasan waktu/energi dinormalisasi; U014–U016: jadwal dapat diperbaiki, perubahan tidak instan, dan kemajuan dicatat; U017: tidak memaksa lawan bicara bercerita sepenuhnya. | Nada umumnya suportif, tidak menghakimi, serta konsisten mengajak langkah bertahap. Beberapa pesan masih umum dan analogi komitmen bisa terasa menuntut bagi sebagian orang; dampak yang terlihat hanya respons tokoh simulasi, bukan relasi nyata. |
+| Evaluasi dan adaptasi | **3 (usulan)** | U004–U005 mengevaluasi apakah pesan kepada diri sendiri terasa menekan; U006–U009 merespons kekhawatiran Budi tentang kesiapan dan jadwal; U010–U016 menanggapi hambatan bertahap; U018–U019 merumuskan latihan dan indikator. | Ada pemeriksaan eksplisit terhadap pesan kepada diri sendiri, respons terhadap hambatan yang muncul, dan revisi pemahaman setelah simulasi. Pemeriksaan kecocokan saran sebelum memberikannya belum menjadi pola dominan, dan belum ada verifikasi pelaksanaan setelah sesi. |
+| Refleksi dan lesson learned | **3 (usulan)** | U017: “membiarkan dia mengungkapkan kondisinya perlahan”; U018: ingin memahami kondisi sebelum memberi saran; U019: indikatornya semakin tidak terburu-buru merespons. | Refleksi mengidentifikasi batas pendekatan awal, rencana latihan, dan indikator perkembangan. Indikator perlu dipadukan dengan perilaku yang lebih teramati—misalnya bertanya terbuka, mendengarkan sampai tuntas, dan memeriksa pemahaman—agar tidak hanya mengukur kecepatan respons. |
+
+**Jumlah skor usulan: 19/24. Nilai sesi 1 sementara: 19 ÷ 24 × 100 = 79/100.** Ini bukan nilai dosen. Nilai sementara ini menggunakan bukti kemampuan bertanya yang benar-benar tampak walaupun pemeranan profil keliru. Jika dosen menilai ketidaksesuaian profil membuat dimensi persepsi/validasi tidak sah untuk diskor, maka dimensi itu perlu dimoderasi ulang dan nilai sesi tidak boleh dianggap final sampai penetapan skor tersebut selesai.
+
+## Refleksi dan lesson learned mahasiswa
+
+Berikut merupakan perapian berdasarkan jawaban dan refleksi mahasiswa:
+
+Mahasiswa menyadari bahwa keraguan seseorang bisa muncul di luar perkiraannya. Ia ingin memberi ruang agar lawan bicara mengungkapkan kondisinya secara bertahap tanpa dipaksa menceritakan seluruh hal pribadi. Dari percakapan tersebut, keterampilan yang ingin ditingkatkan adalah memahami kondisi orang lain secukupnya sebelum memberikan saran.
+
+Rencana latihan yang dinyatakan mahasiswa ialah merenungkan kondisi diri serta kesesuaian saran untuk situasi yang berbeda-beda, kemudian secara perlahan mengajak lawan bicara menyampaikan informasi yang relevan. Mahasiswa menganggap tanda kemajuan adalah semakin tidak terburu-buru memberi tanggapan. Agar indikator itu lebih kuat, kemajuan dapat diamati melalui kebiasaan bertanya terbuka, mendengarkan jawaban sampai selesai, dan memeriksa kembali pemahaman sebelum menyarankan solusi. Tindakan tambahan ini merupakan pengembangan indikator, bukan klaim bahwa mahasiswa sudah melakukannya.
+
+## Tindak lanjut dan batas bukti
+
+| Langkah tindak lanjut | Waktu | Dukungan | Indikator evaluasi | Status bukti |
+|---|---|---|---|---|
+| Pada percakapan berikutnya, ajukan satu atau dua pertanyaan terbuka sebelum memberi saran. | Percakapan berikutnya; tanggal belum ditentukan. | Kesadaran diri dan waktu untuk mendengarkan. | Ada pertanyaan untuk memahami kondisi, lalu saran merujuk pada jawaban yang didapat. | Rencana; belum dilaksanakan. |
+| Setelah mendengar jawaban, ringkas pemahaman secara singkat sebelum menyarankan solusi. | Saat percakapan berlangsung. | Kesediaan lawan bicara mengoreksi pemahaman. | Lawan bicara diberi kesempatan membenarkan/mengoreksi; saran disesuaikan bila perlu. | Rekomendasi tindak lanjut; belum dilaksanakan. |
+| Untuk tujuan manajemen waktu pribadi, catat satu tugas, pecah menjadi bagian kecil, pasang milestone dan tutup distraksi saat mulai bekerja. | Pada tugas kuliah berikutnya; tanggal dan tugas spesifik belum dilaporkan. | Teman rajin/Google Calendar disebut sebagai peluang; dukungan lain belum dipastikan. | Catatan kemajuan menunjukkan bagian yang diselesaikan sebelum tenggat. | Rencana dari ringkasan konteks awal; implementasi belum dilaporkan. |
+| Evaluasi kemajuan setelah mencoba strategi. | Setelah pengalaman pertama; belum dijadwalkan. | Catatan pribadi dan/atau umpan balik teman. | Bandingkan rencana dengan pelaksanaan serta catat hambatan dan penyesuaian. | Belum dilakukan dalam percakapan yang tersedia. |
+
+Batas interpretasi: penilaian didasarkan pada interaksi teks, sehingga prosodi dan bahasa tubuh tidak dinilai. Budi adalah tokoh simulasi, sehingga responsnya bukan bukti psikologis tentang orang nyata. Profil resmi K1-02 tidak cocok dengan tokoh Budi yang dimainkan asisten; ketidaksesuaian pemeranan ini berasal dari asisten, bukan mahasiswa, dan membatasi penilaian kesesuaian profil. Perubahan kebiasaan jangka panjang belum dapat disimpulkan karena implementasi strategi setelah sesi belum dievaluasi.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100; belum tersedia |
+| Sesi 1 | 18% | 79 (Usulan AI) |
+| Sesi 2a | 18% | Belum tersedia |
+| Sesi 2b | 18% | Belum tersedia |
+| Sesi 3a | 18% | Belum tersedia |
+| Sesi 3b | 18% | Belum tersedia |
+| **Total** | **100%** | **Belum dihitung** |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.
+
+BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Skor sesi 1 sebesar 79,2 di atas adalah usulan AI sementara berdasarkan percakapan asesmen, bukan nilai resmi; dimensi persepsi/validasi perlu moderasi karena pemeranan Budi tidak sesuai profil paket. Nilai akhir tetap **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia.
+
+Rata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.
+
+Rubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen.

@@ -1,0 +1,136 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2a — Kasus 2"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Rijal Kholis Al-Ausath |
+| NIM | 18225047 |
+| Kelas dan tanggal | Kelas 1, 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2a; Kasus 2 |
+| Nama dan ID target | Fajar (K2-06) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif |
+| Kelengkapan transkrip | Lengkap |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Brief Kasus 2: Tenggat tugas kelompok 48 jam lagi. Rekan dekat belum mengirim bagiannya dan merasa pembagian tidak adil. Anda mengajak percakapan untuk menjaga hubungan dan menyepakati tanggung jawab. Tujuan mahasiswa adalah mengajak diskusi rekan untuk menyelesaikan tanggung jawabnya sembari mendengarkan masalahnya. Indikator keberhasilan: tercapainya kesepakatan pembagian tugas yang adil, kejelasan batas waktu, serta terjaganya hubungan baik.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Peluang jika hasil cepat; mampu mencoba, kurang menghitung risiko | U001 | Sementara |
+| Attitude | Pragmatis, tidak sabar pada penjelasan panjang | U001 | Sementara |
+| Knowledge | Pengalaman praktis kuat, alasan mendasar terbatas | U001 | Sementara |
+| Skill | Cepat mencoba, konsistensi dokumentasi lemah | U001 | Sementara |
+| Preferensi/MBTI jika dilaporkan | ESTP (langsung, demonstrasi, hasil cepat) | U001 | Laporan diri/hipotesis |
+| Karakter, peran, kultur/ko-kultur | Pelaksana lapangan, menghargai kegunaan dan kelincahan | U001 | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Menyepakati pembagian tugas | A: Kurangi basa-basi <br> K: Kejelasan tugas <br> S: Langkah konkrit | Langsung ke inti pembicaraan dan menanyakan kendala | Respon kooperatif |
+| Attention | Defensif / sibuk | Attitude | Menghargai waktu | Menurunnya resistensi |
+| Interest | Belum jelas | Knowledge | Menawarkan dialog terbuka | Keterbukaan informasi |
+| Desire | Menolak rapat panjang | Skill | Solusi tugas ringkas | Kesediaan menyepakati target |
+| Action | Komitmen pengerjaan | A/K/S | Checklist & tenggat waktu | Konfirmasi tindakan nyata |
+
+# C) Skrip Percakapan
+
+**Transkrip aktual**
+
+- AI001 (Tahap: Simulasi awal) — Fajar (K2-06): “Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu.”
+- U001 (Tahap: Simulasi awal) — Rijal Kholis Al-Ausath: “sebelumnya kalau boleh tahu, kenapa kamu belum mengirimkan tugas bagianmu? apakah kamu mengalami kendala?. Karena ini tugas kelompok, sehingga kami rekan-rekan membutuhkan pekerjaanmu”
+- AI002 (Tahap: Simulasi awal) — Fajar (K2-06): “Masalahnya pembagian tugas kemarin berasa nggak adil dan ambigu, mana tenggat tinggal dua hari. Saya bingung bagian mana yang benar-benar wajib beres duluan, jadi dari pada buang waktu rapat lama-lama, mending jelaskan singkat langkah apa yang perlu saya kerjakan sekarang?”
+- U002 (Tahap: Simulasi awal) — Rijal Kholis Al-Ausath: “Oke, apakah menurutmu pengerjaan Bab 3 dan Bab 4 terlalu berat?. kalau iya, coba kamu periksa data survei yang kita dapatkan kemarin, nah kamu coba salin dan rapihkan datanya ke dokumen laporan kita. Aku bakal bantu menyusun Bab 3 ini. gimana?”
+- AI003 (Tahap: Simulasi awal) — Fajar (K2-06): “Nah, kalau dibagi begitu jauh lebih jelas. Menyalin dan merapikan data survei ke dokumen laporan sanggup saya kejar sekarang, tapi Bab 3 dan 4 yang penuh analisis memang berat kalau dikerjakan sendirian. Kalau saya rapikan data survei itu sampai besok malam jam 8, apakah sudah cukup membantu untuk bahan kamu menyusun Bab 3?”
+- U003 (Tahap: Simulasi awal) — Rijal Kholis Al-Ausath: “Cukup kok, tapi karena deadline tinggal 2 hari lagi, bisakah kamu menyelesaikan merapihkan data jam 3 sore?”
+- AI004 (Tahap: Simulasi awal) — Fajar (K2-06): “Jam 3 sore besok ya? Bisa disanggupi, asalkan begitu data selesai disalin dan dirapikan, giliran kamu yang langsung ambil alih untuk pengerjaan Bab 3-nya. Biar jelas, saya centang checklist pekerjaan saya kalau datanya sudah masuk ke bab lampiran, lalu saya kabari di grup ya?”
+- U004 (Tahap: Simulasi awal) — Rijal Kholis Al-Ausath: “Nah iya begitu. Ada hal lain gak yang menjadi hambatan?”
+- AI005 (Tahap: Simulasi awal) — Fajar (K2-06): “Untuk saat ini sudah cukup jelas, tidak ada hambatan lain selama langkahnya konkrit begini. Yang penting kita pegang kesepakatan tadi: saya fokus beresin data survei sebelum jam 3 sore besok, lalu saya update di grup. Ada hal lain yang masih perlu dikonfirmasi sekarang, atau saya bisa langsung mulai pengerjaannya?”
+- AI006 (Tahap: Uji ulang) — Fajar (K2-06): “Rijal, saya baru cek ulang file data surveinya. Ternyata format rekapan yang dikirim tim kemarin berantakan banget dan ada beberapa kolom entry yang kosong, jadi pembersihan datanya butuh waktu ekstra. Kalau saya kejar sendirian sampai jam 3 sore besok, risikonya hasilnya grusa-grusu dan bisa ada data salah. Bagusnya gimana ya biar datanya tetap valid tapi tenggat kita nggak meleset?”
+- U005 (Tahap: Uji ulang) — Rijal Kholis Al-Ausath: “Coba kita aja rekan yang lain untuk menyusun bagian-bagian yang tidak memerlukan data hasil rekapan, sehingga sisa waktu nanti adalah untuk menyelaraskan kembali saja antara data dengan yang sudah kita buat”
+- AI007 (Tahap: Uji ulang) — Fajar (K2-06): “Saran yang bagus, Rijal. Berarti untuk data survei ini saya tetap pegang dan targetkan rampung besok jam 5 sore supaya rapi dan valid. Sambil saya beresin itu, kamu bisa koordinasikan ke rekan lain untuk mulai draf Bab 3/4 yang nggak butuh data angka dulu. Besok jam 5 pas data kelar, saya kirim ke grup biar kita tinggal selaraskan. Setuju ya?”
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan tercapai; Fajar menjadi kooperatif dan bersedia menyelesaikan bagian tugasnya setelah kejelasan pembagian dan validasi hambatan dilakukan.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Kurang menghitung risiko, dokumentasi lemah | Lebih terstruktur dengan pembagian checklist | AI005, AI007 | Simulasi |
+| Attitude | Pragmatis, defensif, tidak sabar | Terbuka dan kooperatif terhadap solusi konkrit | AI003, AI007 | Simulasi |
+| Knowledge | Ambigu mengenai pembagian tugas | Memahami porsi tugas dan batasan target waktu | AI003 | Simulasi |
+| Skill | Eksekusi cepat, butuh panduan langkah ringkas | Mampu menyesuaikan saat menghadapi kendala data berantakan | U005, AI007 | Demonstrasi uji ulang |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| AI002 / U002 | Defensif / minta kepastian | Menanyakan kendala dan menawarkan bantuan pembagian tugas | “Nah, kalau dibagi begitu jauh lebih jelas...” | Knowledge dan Attitude membaik | Menyesuaikan gaya komunikasi langsung |
+| AI006 / U005 | Menghadapi kendala data berantakan | Mengajak koordinasi rekan lain untuk pembagian porsi paralel | “Saran yang bagus, Rijal... Setuju ya?” | Skill adaptasi teruji | Memberikan solusi penyesuaian tenggat & kolaborasi tim |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U002 / AI003 | Menanyakan hambatan secara langsung dan tulus | Terbuka mengenai beban kerja Bab 3 dan 4 | Sedang → Tinggi; terbukti dari kesediaan bernegosiasi waktu | Menurunkan defensivitas secara nyata |
+
+## Uji ulang dan pembelajaran
+
+Stimulus sejenis pada uji ulang diatasi dengan penyesuaian strategi pembagian kerja paralel saat menemui kendala data. Perbaikan terlihat dari komitmen penyelesaian target secara realistis.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U001, AI005 | Tujuan tercapai secara efektif menjaga hubungan dan tugas |
+| Persepsi dan validasi profil/status | 4 | U002, AI003 | Akurat mendeteksi kebutuhan komunikan yang pragmatis |
+| Pemilihan dan urutan repertoar | 4 | U002, U005 | Urutan komunikasi langsung ke inti dan solutif |
+| Eksekusi jelas, peduli dan konsisten | 4 | U002, U003 | Penyampaian jelas, penuh perhatian pada batas waktu |
+| Evaluasi dan adaptasi | 4 | U005, AI007 | Adaptif terhadap kendala data yang berantakan |
+| Refleksi dan lesson learned | 4 | Bagian refleksi | Menunjukkan pemahaman mendalam tentang gaya komunikasi |
+
+*Usulan nilai AI Sesi 2a:* 24 / 24 × 100 = **100** (memerlukan moderasi dosen).
+
+## Refleksi dan lesson learned mahasiswa
+
+- Dugaan yang dikoreksi: Fajar ternyata sangat kooperatif ketika diajak langsung ke solusi tanpa basa-basi panjang.
+- Stimulus efektif: Menanyakan langsung kendala dan memberikan opsi porsi tugas yang jelas.
+- Stimulus tidak efektif: Sempat ada sedikit kecenderungan basa-basi di awal yang kurang disukai komunikan bertipe ESTP.
+- Lesson learned: Setiap orang memiliki kepribadian dan gaya bicara berbeda; kunci komunikasi optimal adalah memahami karakteristik lawan bicara dan menyesuaikan gaya diskusi.
+
+## Tindak lanjut dan batas bukti
+
+Secara aktif mengabarkan di grup sejauh mana progress masing-masing dan apa kendala yang perlu dibantu. Batas bukti bersifat simulasi teks interaktif.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | 100 |
+| Sesi 2a | 18% | 100 (Usulan AI) |
+| Sesi 2b | 18% | BT |
+| Sesi 3a | 18% | BT |
+| Sesi 3b | 18% | BT |
+| **Total** | **100%** | **Belum dihitung** |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**. Nilai akhir ditulis **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia.

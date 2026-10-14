@@ -1,0 +1,130 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3b — Kasus 3"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Rijal Kholis Al-Ausath |
+| NIM | 18225047 |
+| Kelas dan tanggal | Kelas 1, 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b; Kasus 3 |
+| Nama dan ID target | Fajar (K3-06) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif (Simulasi Profesional) |
+| Kelengkapan transkrip | Lengkap |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Pak Fajar adalah pengelola usaha yang menghadapi kendala pesan pelanggan berulang dan pesanan tercecer dengan tenaga operasional terbatas serta belum yakin memerlukan teknologi AI. Tujuan tindakan adalah meyakinkan dan mempersuasi Pak Fajar agar yakin dan siap menggunakan sistem baru melalui penjelasan kelebihan, kekurangan, dan persiapan uji coba konkret.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Peluang: adopsi sistem cepat; Ancaman: takut beban baru; Mampu: menjalankan operasional harian; Belum mampu: merinci risiko otomatisasi | U001 | Sementara |
+| Attitude | Pragmatis, skeptis dengan hal baru, butuh penjelasan detail | U001 | Sementara |
+| Knowledge | Pengalaman lapangan kuat, belum memahami risiko teknis otomatis | U001 | Sementara |
+| Skill | Perlu demo singkat, *checklist*, dan *fallback* | U001 | Sementara |
+| Preferensi/MBTI jika dilaporkan | ESTP (berdasarkan perilaku komunikasi langsung, demonstrasi, dan hasil cepat) | U002 | Laporan diri/hipotesis |
+| Karakter, peran, kultur/ko-kultur | Pelaksana lapangan yang menghargai kegunaan dan kelincahan | U002 | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Menyepakati uji coba sistem baru | K & S | Menjelaskan kelebihan, kekurangan, dan persiapan | Persetujuan uji coba |
+| Attention | Ingin hasil cepat tanpa beban | A | Menunjukkan manfaat efisiensi langsung | Penurunan defensivitas |
+| Interest | Mempertanyakan bukti konkrit | K | Memberikan rincian pengelompokan pesan | Ketertarikan pada demo |
+| Desire | Menuntut rincian *fallback* dan *checklist* | S | Menjelaskan prosedur darurat dan cadangan | Penerimaan panduan ringkas |
+| Action | Komitmen uji coba praktis | S | Menjadwalkan demo singkat dan *pilot project* | Kesepakatan jadwal |
+
+# C) Skrip Percakapan
+
+- **U001 / AI001 [Tahap: Simulasi Awal] (Fajar)**: “Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu.”
+- **U002 [Tahap: Simulasi Awal] (Mahasiswa)**: “Baik pak, dengan menggunakan sistem otomatisasi dari layanan kami bapak bisa meningkatkan efisiensi kerja karyawan bapak. waktu tidak lagi terbuang untuk pekerjaan yang monoton dan repetitif.”
+- **U002 / AI002 [Tahap: Simulasi Awal] (Fajar)**: “Efisiensi dan hemat waktu itu kedengarannya bagus, tapi konkritnya seperti apa di lapangan? Di toko saya, masalah utamanya itu pesan pelanggan yang menumpuk di WhatsApp dan catat pesanan yang sering keliru atau tercecer. Kalau pakai sistemmu, dalam hitungan menit atau hari pertama, proses apa yang langsung memangkas waktu kerja kami dan berapa persen estimasi penghematannya?”
+- **U003 [Tahap: Simulasi Awal] (Mahasiswa)**: “dengan sistem otomatisasi kami yang menggunakan bot dan ditenagai AI, pesan-pesan pelanggan akan otomatis terkelompokkan. misalnya pesan berupa komplain akan masuk ke daftar komplain yang transkripnya bisa diakses kapanpun (not urgent). pesan yang berupa Pesanan menu makanan akan otomatis masuk ke daftar antrian yang memunculkan pemberitahuan suara dan menunggu karyawam untuk dikonfirmasi. sehingga dalam sehari pertama, fokus karyawan tidak lagi terbelah dua ke luring dan daring, sekarang lebih fokus ke luring saja. efektivitas bisa meningkat 30-50% dengan asusmi itu adalah waktu yang dihabiskan karyawan memeriksa pesan satu per satu pak”
+- **U003 / AI003 [Tahap: Simulasi Awal] (Fajar)**: “Pengelompokan pesan otomatis dan pemisahan prioritas antara pesanan dan komplain itu masuk akal dan langsung kelihatan fungsi praktisnya. Kalau staf saya bisa langsung lihat demo singkat atau *checklist* cara pakainya dalam waktu 15 menit tanpa harus baca manual tebal, saya tertarik coba. Tapi tolong pastikan, kalau sistemnya tiba-tiba error pas jam makan siang yang lagi padat, ada *fallback* atau prosedur cadangan yang gampang supaya staf tidak kebingungan?”
+- **U004 [Tahap: Simulasi Awal] (Mahasiswa)**: “kalau sistem error, akan ada notifikasi. Karyawan bisa mematikan sistem sementara dan menghubungi pihak kami untuk diperbaiki. Semua data disimpan di cloud sehingga tidak akan hilang. Ada panduan ringkas juga, agar karyawan tidak bingung mengoperasikan sistem jika terjadi sesuatu”
+- **U004 / AI004 [Tahap: Simulasi Awal] (Fajar)**: “Penjelasan soal *fallback* manual, penyimpanan data di *cloud*, dan adanya panduan ringkas itu sudah sangat jelas dan sesuai dengan apa yang saya butuhkan. Kalau begitu, kita atur jadwal demo singkat 15 menit besok lusa untuk staf saya di toko, dan kita mulai uji coba *pilot project* sistem pengelompokan pesan ini untuk minggu depan. Terima kasih atas solusinya yang praktis dan tidak bertele-tele!”
+- **U005 / AI005 [Tahap: Uji Ulang] (Fajar)**: “Demo 15 menit tadi cukup jelas. Tapi staf saya nanya, kalau pas jam makan siang tiba-tiba mati listrik atau koneksi internet toko putus, bagaimana prosedur *fallback* cepatnya supaya pesanan pelanggan yang masuk di WhatsApp tidak hilang dan tetap bisa dicatat manual tanpa bikin antrean menumpuk?”
+- **U006 [Tahap: Uji Ulang] (Mahasiswa)**: “Kalau listrik tidak masalah pak, karena pesan whatsApp pasti akan tetap masuk meski sistem tidak menyortir pesannya. Namun untuk masalah internet, sebaiknya pertimbangkan untuk memiliki 2 penyedia layanan internet berbeda pak agar jika salah satu mati akan otomatis terhubung ke penyedia jaringan lain, kebetulan kami menyediakan paket layanan yang sekaligus dengan instalasi wi-fi khusus sistem dengan kecepatan stabil.”
+- **U006 / AI006 [Tahap: Uji Ulang] (Fajar)**: “Penjelasan bahwa pesan WhatsApp tetap aman masuk saat mati listrik itu menenangkan. Saran dua jalur internet dan penawaran Wi-Fi khusus sistem dari tim Anda juga ide bagus untuk cegah masalah koneksi. Saya setuju, tolong siapkan *checklist* daruratnya dan kita mulai *pilot project*-nya minggu depan sesuai rencana!”
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Takut beban baru tanpa hasil cepat | Memahami mitigasi risiko teknis dan menyetujui uji coba | U004, U006 | Simulasi & Laporan diri |
+| Attitude | Pragmatis dan skeptis | Kooperatif dan menyetujui demo serta uji coba | U004 | Observasi transkrip |
+| Knowledge | Belum paham risiko teknis | Memahami pengelompokan pesan dan penanganan koneksi | U003, U006 | Demonstrasi dialog |
+| Skill | Perlu demo singkat dan *checklist* | Menyetujui demo 15 menit dan penyiapan *checklist* darurat | U004, U006 | Komitmen aksi |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U002–U003 | Pragmatis/Tidak sabar (A) | Menjelaskan pengelompokan pesan dan efisiensi konkrit | Menerima logika fungsi praktis sistem | Sikap A melunak | Menyajikan rincian fungsional tanpa bertele-tele |
+| U004–U006 | Butuh kepastian risiko (K/S) | Menjelaskan *fallback* manual dan solusi jaringan internet | Menyetujui demo dan jadwal *pilot project* | K & S terpenuhi | Memberikan solusi teknis langsung pada inti masalah |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U004 | Penjelasan penanggulangan eror dan panduan ringkas secara lugas | "Penjelasan soal *fallback* manual... sudah sangat jelas dan sesuai dengan apa yang saya butuhkan" | Rendah → Tinggi | Kepercayaan meningkat, bersedia menyepakati jadwal uji coba |
+
+## Uji ulang dan pembelajaran
+
+Pada uji ulang (U005–U006), muncul kendala teknis baru terkait mati listrik dan putusnya koneksi internet. Mahasiswa merespons secara adaptif dengan menjelaskan status pesan WhatsApp saat listrik padam serta memberikan solusi redundansi internet (Wi-Fi khusus sistem). Kepercayaan dan komitmen pelaksanaan *pilot project* tetap terjaga dengan sangat baik.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U004, U006 | Tujuan meyakinkan Fajar dan menyepakati uji coba tercapai |
+| Persepsi dan validasi profil/status | 4 | U003 | Mampu merespons kebutuhan praktis dan langsung pada inti masalah |
+| Pemilihan dan urutan repertoar | 4 | U003, U006 | Repertoar terstruktur dari fungsi inti hingga mitigasi jaringan |
+| Eksekusi jelas, penawaran tulus dan konsisten | 4 | U004, U006 | Komunikasi lugas, solutif, dan menyediakan dukungan teknis nyata |
+| Evaluasi dan adaptasi | 4 | U006 | Beradaptasi cepat terhadap kendala listrik dan internet baru |
+| Refleksi dan lesson learned | 4 | Bagian Refleksi | Refleksi komprehensif mengenai pentingnya penguasaan produk dan kejelasan operasional |
+
+*Usulan skor AI: 24/24 × 100 = 100 (Memerlukan moderasi dosen).*
+
+## Refleksi dan lesson learned mahasiswa
+
+1. **Koreksi Dugaan**: Fajar tidak sekadar skeptis umum, melainkan sangat pragmatis dan membutuhkan penjelasan yang langsung ke inti tanpa bertele-tele.
+2. **Stimulus Efektif**: Menyajikan solusi dan penjelasan konkrit langsung pada manfaat operasional terbukti sangat efektif, sedangkan penjelasan panjang kurang diminati.
+3. **Pesan Personal**: Menjawab kekhawatiran teknis secara lugas saat listrik dan internet terputus berhasil membangun rasa percaya diri dan kepedulian fungsional.
+4. **Pelajaran**: Penguasaan produk secara mendalam sangat krusial agar mampu menjawab kebingungan dan kekhawatiran komunikan secara logis dan langsung pada intinya.
+
+## Tindak lanjut dan batas bukti
+
+Langkah lanjut berupa pelaksanaan demo singkat 15 menit dan dimulainya *pilot project* pengelompokan pesan pada minggu depan dengan penyiapan *checklist* darurat. Batas bukti terbatas pada simulasi teks interaktif.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | [Nilai Sesi 1] |
+| Sesi 2a | 18% | [Nilai Sesi 2a] |
+| Sesi 2b | 18% | [Nilai Sesi 2b] |
+| Sesi 3a | 18% | 100 (Usulan AI) |
+| Sesi 3b | 18% | 100 (Usulan AI) |
+| **Total** | **100%** | **Belum dihitung** |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan seluruh nilai komponen pada skala 0–100. Nilai akhir ditulis **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia.

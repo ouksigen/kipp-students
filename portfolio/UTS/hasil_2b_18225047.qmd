@@ -1,0 +1,136 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2b — Kasus 2"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Rijal Kholis Al-Ausath |
+| NIM | 18225047 |
+| Kelas dan tanggal | Kelas 1, 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2b; Kasus 2 |
+| Nama dan ID target | Dimas (K2-04) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif (Simulasi Profesional) |
+| Kelengkapan transkrip | Lengkap |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Tenggat tugas kelompok tinggal 48 jam lagi. Rekan dekat (Dimas) belum mengirim bagian tugasnya dan merasa pembagian tugas tidak adil. Tujuan tindakan adalah mengajak diskusi Dimas untuk menuntaskan tanggung jawabnya sembari mendengarkan masalahnya serta menyesuaikan kembali peran/pembagian tugas jika diperlukan.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Peluang: menyamakan persepsi; Ancaman: tenggat dekat & konflik; Mampu: diskusi terbuka; Belum mampu: merinci pembagian teknis | U001 | Sementara |
+| Attitude | Skeptis terhadap keadilan pembagian tugas | U001 | Sementara |
+| Knowledge | Mengetahui tugas belum selesai, detail dependensi belum tergali | U001 | Sementara |
+| Skill | Mampu berdiskusi, implementasi teknis perlu diperjelas | U001 | Sementara |
+| Preferensi/MBTI jika dilaporkan | INTJ (berdasarkan pola komunikasi logis dan terstruktur) | U002 | Laporan diri/hipotesis |
+| Karakter, peran, kultur/ko-kultur | Rekan kuliah, penilai teknis yang menghargai alasan kritis | U002 | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Menyepakati penyelesaian tugas | K & S | Diskusi terbuka dan fleksibilitas | Kesediaan berkomitmen |
+| Attention | Defensif / skeptis | A | Mengakui ketidakterbukaan kriteria awal | Penurunan defensivitas |
+| Interest | Mempertanyakan keadilan | K | Menawarkan ruang diskusi pembagian | Keterbukaan dialog |
+| Desire | Menuntut kejelasan | S | Pembagian berbasis modul dan batas interface | Persetujuan modul |
+| Action | Komitmen pengerjaan | S | Tenggat waktu dan pelaporan konkrit | Kesepakatan waktu & output |
+
+# C) Skrip Percakapan
+
+- **U001 / AI001 [Tahap: Simulasi Awal] (Dimas)**: “Apa bukti pendekatan ini lebih baik?”
+- **U002 [Tahap: Simulasi Awal] (Mahasiswa)**: “Menurutku, pembagian tugas berdasarkan kemampuan kita itu bagus agar kita tidak terbebani dengan hal yang kurang kita kuasai”
+- **U002 / AI002 [Tahap: Simulasi Awal] (Dimas)**: “Bagus menurut siapa? Lagipula, dari mana kamu bisa menilai apa yang terbebani dan kurang aku kuasai kalau kriteria penilainnya saja enggak transparan? Jalur dependensi tugas kita juga belum jelas, jadi aku butuh ruang kerja mandiri dan batasan interface tugas yang pasti sebelum lanjut.”
+- **U003 [Tahap: Simulasi Awal] (Mahasiswa)**: “Kamu mungkin benar, kriteria penilaian kita terhadap kompetensi kita kurang terbuka, kalau menurutmu pembagiannya sebaiknya bagaimana”
+- **U003 / AI003 [Tahap: Simulasi Awal] (Dimas)**: “Makasih sudah mau ngakuin kalau kriterianya memang belum transparan. Kalau menurutku, harusnya bagian tugas kita dibagi berdasarkan dependensi modul atau batas interface yang jelas, bukan sekadar asumsi 'siapa lebih mampu apa'. Biar aku bisa kerja mandiri tanpa perlu nunggu bagian yang belum pasti. Sekarang masalahnya, bagian yang diplot ke aku itu batas input-outputnya ke bagianmu belum jernih. Menurutmu batas alur kerja kita mau ditetapin seperti apa?”
+- **U004 [Tahap: Simulasi Awal] (Mahasiswa)**: “Karena waktu pengumpulan sudah semakin dekat, bagaimana kalau pekerjaan kita batasi dengan waktu sekaligus wajib melaporkan progres masing-masing ke grup whatsapp”
+- **U004 / AI004 [Tahap: Simulasi Awal] (Dimas)**: “Kalau sekadar batasan waktu dan lapor ke grup WhatsApp, itu malah terasa seperti mikromanajemen tanpa menyelesaikan inti masalahnya. Tugas kita punya dependensi teknis yang kalau nggak jelas dari awal, nanti bagianku bisa macet di tengah jalan karena nungguin punyamu atau sebaliknya. Kalau mau pakai tenggat, pastikan dulu pembagian interface modulnya jelas. Kamu bisa tentukan bagian spesifik mana yang sepenuhnya jadi tanggung jawabku, dan mana yang jadi bagianmu?”
+- **U005 [Tahap: Simulasi Awal] (Mahasiswa)**: “Kalau begitu, langsung kita bagi saja alur kerjanya. kebetulan di sini ada 4 modul. modul 1 dan 2 tidak perlu saling menunggu dan bisa dikerjakan bersama, sedangkan modul 3 dan 4 sangat perlu menunggu modul 2. bagaimana jika kita bagi berdasarkan siapa yang mampu bertanggung jawab menyelesaikan modul 2 tepat waktu. apakah kamu bersedia?”
+- **U005 / AI005 [Tahap: Simulasi Awal] (Dimas)**: “Itu baru masuk akal dan jelas dependensinya. Jadi Modul 1 dan 2 independen, lalu Modul 3 dan 4 butuh output dari Modul 2. Kalau tawarannya berdasarkan siapa yang sanggup garap Modul 2 tepat waktu supaya modul lanjutannya nggak tertahan, aku bersedia pegang Modul 2. Tapi aku butuh kesepakatan tegas: output/interface dari Modul 2 yang kamu perlukan untuk lanjut ke Modul 3/4 itu spesifikasinya seperti apa, dan kapan tenggat pasti penyerahannya biar kita berdua punya kepastian?”
+- **U006 [Tahap: Simulasi Awal] (Mahasiswa)**: “Yang jelas karena waktu kita sudah mepet, aku mengusulkan besok sore jam 3 modul 2 sudah selesai, dengan output data dan analisis awal sudah tersusun rapih agar bisa dipakai di modul 3 dan 4, bagaimana menurutmu”
+- **U006 / AI006 [Tahap: Simulasi Awal] (Dimas)**: “Oke, besok sore jam 15.00 WIB untuk Modul 2 dengan output data mentah yang sudah dibersihkan beserta draf analisis awal. Dengan begitu kamu bisa langsung pakai untuk lanjut ke Modul 3 dan 4. Aku siap tanggung jawab di bagian ini. Agar semuanya berjalan lancar dan tidak ada hambatan di tengah jalan, kalau ada kendala teknis dalam penyusunan data sebelum jam 12.00 siang besok, kita sepakati saling kabar lewat jalur apa?”
+- **U007 [Tahap: Simulasi Awal] (Mahasiswa)**: “pertama chat di grup whatsapp sembari tag semua anggota kelompok agar muncul notifikasi. kalau masih tidak ada yang respon, kamu boleh telpon aku barangkali aku bisa bantu”
+- **U007 / AI007 [Tahap: Simulasi Awal] (Dimas)**: “Sip, sepakat! Aku akan drop progres dan kabar di grup WhatsApp dulu, dan kalau ada hambatan darurat sebelum jam 12 siang besok aku bakal langsung telepon kamu. Sepakat ya, aku kerjakan Modul 2 dengan tenggat besok jam 15.00 WIB.”
+- **U008 / AI008 [Tahap: Uji Ulang] (Dimas)**: “Halo Rijal, aku lagi olah data untuk Modul 2 nih. Tapi aku nemu kendala: data mentah dari sumber utama ternyata banyak nilai yang hilang (missing values) dan formatnya berantakan, jadi butuh waktu ekstra buat cleaning. Kalau harus selesai jam 15.00 WIB beserta draf analisis awal, aku khawatir analisisnya jadi kurang tajam. Tapi kalau aku fokus rapikan data dulu, draf analisis awal mungkin baru beres jam 18.00 WIB. Menurutmu gimana jalan keluarnya supaya bagianmu tetap tidak terhambat?”
+- **U009 [Tahap: Uji Ulang] (Mahasiswa)**: “Aku coba kerjain sedikit-sedikit bagian modul 3 dan modul 4 yang masih bisa dikerjakan tanpa bersumber dari modul 2 bareng teman kita. Jadi, ketika kamu selesai jam 18.00 WIB aku hanya perlu menyesuaikan kembali bagian yang memerlukan data dari modul 2”
+- **U009 / AI009 [Tahap: Uji Ulang] (Dimas)**: “Solusi yang sangat rasional dan berorientasi pada penyelesaian masalah. Kalau kamu dan teman-teman bisa mulai duluan bagian Modul 3 dan 4 yang independen, aku jadi bisa fokus penuh melakukan data cleaning Modul 2 sampai bersih tanpa terburu-buru. Jam 18.00 WIB pasti aku serahkan data mentah yang sudah rapi beserta draf analisis awalnya. Makasih banyak sudah fleksibel dan mau bantu sesuaikan alur kerja!”
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Merasa beban kerja tidak pasti | Memahami dependensi dan memiliki ruang kerja mandiri | U002 - U009 | Simulasi & Laporan diri |
+| Attitude | Skeptis & defensif | Kooperatif dan percaya pada kejelasan struktur | U003, U007 | Observasi transkrip |
+| Knowledge | Belum tahu alur dependensi modul | Memahami pembagian modul dan batas interface | U005 | Demonstrasi dialog |
+| Skill | Butuh ruang kerja mandiri | Melaksanakan pengerjaan Modul 2 secara mandiri | U006, U009 | Komitmen aksi |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U002–U003 | Skeptis (Awal) | Mengakui kurang transparan | Terbuka pada diskusi berbasis dependensi modul | Sikap A membaik | Mengubah pendekatan dari administratif ke modular |
+| U006–U007 | Butuh kejelasan batas kerja (S) | Menawarkan tenggat waktu & output spesifik | Menyepakati tenggat jam 15.00 WIB & pelaporan | K & S terpenuhi | Mengunci kesepakatan Action |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U003 | Mengakui ketidakterbukaan kriteria awal | "Makasih sudah mau ngakuin..." | Rendah → Sedang | Kepercayaan meningkat, defensivitas turun |
+
+## Uji ulang dan pembelajaran
+
+Pada uji ulang (U008–U009), muncul kendala data *missing values* yang memperlambat pekerjaan Dimas hingga jam 18.00 WIB. Mahasiswa merespons secara adaptif dengan mengerjakan bagian modul independen terlebih dahulu. Transfer keterampilan terbukti melalui konsistensi menjaga hubungan baik tanpa memaksakan tekanan sepihak.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U005, U007 | Tujuan menjaga hubungan dan menyepakati tugas tercapai jelas |
+| Persepsi dan validasi profil/status | 4 | U003 | Mampu memvalidasi kebutuhan kritis komunikan |
+| Pemilihan dan urutan repertoar | 4 | U005 | Repertoar bergeser logis dari administratif ke struktural/modular |
+| Eksekusi jelas, peduli dan konsisten | 4 | U007, U009 | Komunikasi lugas, terbuka, dan solutif saat ada kendala |
+| Evaluasi dan adaptasi | 4 | U009 | Beradaptasi cepat terhadap kendala teknis *missing values* |
+| Refleksi dan lesson learned | 4 | Bagian Refleksi | Refleksi mendalam mengenai pendekatan berbasis solusi konkrit |
+
+*Usulan skor AI: 24/24 × 100 = 100 (Memerlukan moderasi dosen).*
+
+## Refleksi dan lesson learned mahasiswa
+
+1. **Koreksi Dugaan**: Semula dikira Dimas hanya perlu diberi solusi administratif awal, padahal ia membutuhkan kejelasan struktural modul dan batas antarmuka (*interface*).
+2. **Stimulus Efektif**: Menawarkan pembagian modul berdasarkan tingkat dependensi terbukti sangat efektif. Stimulus administratif murni (seperti lapor grup tanpa kejelasan modul) sempat ditolak.
+3. **Pesan Personal**: Mengakui kekurangan kriteria awal membuka jalan kepercayaan komunikan secara signifikan.
+4. **Pelajaran**: Setiap orang memiliki gaya kerja dan kebutuhan otonomi yang berbeda; pendekatan solutif dan terstruktur jauh lebih dihargai oleh tipe pemikir analitis dibandingkan basa-basi.
+
+## Tindak lanjut dan batas bukti
+
+Langkah lanjut berupa pelaksanaan modul sesuai kesepakatan waktu (pukul 18.00 WIB) dengan evaluasi progres via grup WhatsApp dan dukungan paralel. Batas bukti terbatas pada simulasi teks interaktif.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | [Nilai Sesi 1] |
+| Sesi 2a | 18% | [Nilai Sesi 2a] |
+| Sesi 2b | 18% | 100 (Usulan AI) |
+| Sesi 3a | 18% | [Belum dinilai] |
+| Sesi 3b | 18% | [Belum dinilai] |
+| **Total** | **100%** | **Belum dihitung** |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan seluruh nilai komponen pada skala 0–100. Nilai akhir ditulis **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia.

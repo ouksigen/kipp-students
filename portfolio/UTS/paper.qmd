@@ -1,9 +1,9 @@
 ---
-title: "[Judul makalah MBTI, komunikasi efektif, dan PASK]"
-subtitle: "[Subjudul jika diperlukan]"
-author: "[Nama mahasiswa - NIM]"
+title: "MBTI, Pola Komunikasi, dan Pertumbuhan PASK"
+subtitle: "Kajian Konsep untuk Empat Pertanyaan Sebelum UTS Komunikasi Interpersonal dan Publik"
+author: "[Nama Mahasiswa, NIM, mohon diisi]"
 lang: id
-status: "Belum dimulai"
+status: "Draf isi sudah direvisi, menunggu identitas penulis dan pemeriksaan akhir"
 format:
   html:
     toc: true
@@ -11,115 +11,137 @@ format:
     number-sections: true
 ---
 
-::: {.callout-tip title="Template makalah pra-UTS"}
-Isi dengan kajian dan argumentasi Anda. [Lihat makalah contoh](../../examples/UTS/paper.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Pertahankan nama `paper.qmd` sesuai instruksi pra-UTS. Hapus panduan pengisian setelah naskah selesai.
-:::
-
 ## Abstrak {.unnumbered}
 
-[Tulis tujuan, metode, pokok pembahasan/hasil kajian, dan kesimpulan setelah isi makalah selesai. Jangan mengklaim penelitian lapangan jika tidak dilakukan.]
+Makalah ini membahas hubungan antara kategori kepribadian MBTI dan pola komunikasi yang efektif, dengan memakai kerangka SWOT subjektif dan PASK, yaitu Persepsi, Sikap, Keterampilan, dan Pengetahuan, dari mata kuliah Komunikasi Interpersonal dan Publik. Tulisan ini adalah kajian konsep, bukan penelitian lapangan. Pembahasan menjawab empat hal, yaitu pengertian MBTI dan pengaruhnya pada komunikasi, cara berkomunikasi dengan orang berprofil tertentu, cara mengenali kemungkinan preferensi lewat percakapan beserta batasnya, dan cara stimulus ditafsirkan lewat SWOT subjektif untuk membentuk respons refleks, reaktif, responsif, atau apresiatif. MBTI dapat membantu menyesuaikan cara berkomunikasi, tetapi hasilnya sebaiknya diperlakukan sebagai dugaan yang perlu dicek ulang, bukan kesimpulan pasti. Pertumbuhan PASK memerlukan latihan dan penyesuaian pesan yang terus dievaluasi dari respons nyata, bukan sekadar persetujuan sesaat.
 
-**Kata kunci:** [Isi].
+**Kata kunci:** MBTI, komunikasi interpersonal, SWOT subjektif, PASK, TAIDA.
 
 ## Pendahuluan
 
-[Latar belakang komunikasi interpersonal, relevansi MBTI dan PASK, masalah, tujuan, dan ruang lingkup.]
+Mahasiswa sering bisa menjelaskan teori komunikasi, tetapi belum tentu bisa memilih respons yang tepat saat menghadapi situasi nyata, misalnya saat teman kecewa, diri sendiri kehilangan semangat belajar, atau pelanggan menolak tawaran. Salah satu kerangka yang sering dipakai untuk memahami perbedaan antar individu dalam berkomunikasi adalah MBTI, yaitu tes kepribadian populer yang membagi preferensi dasar manusia ke dalam 16 tipe. Mata kuliah ini memandang komunikasi sebagai rangkaian stimulus dan respons yang dapat memperbarui Sikap, Keterampilan, dan Pengetahuan, dengan Persepsi sebagai unsur tambahan yang menentukan apakah suatu kejadian dianggap peluang atau ancaman. Kesimpulan ini disebut SWOT subjektif.
 
-Makalah ini menjawab empat pertanyaan:
+Masalah yang diangkat makalah ini adalah bagaimana menghubungkan MBTI yang populer namun masih diperdebatkan secara ilmiah dengan kerangka edukasi komunikasi PASK dan TAIDA, tanpa membuat anggapan berlebihan atau menganggap MBTI sebagai alat diagnosis yang pasti benar. Dalam latihan mata kuliah ini, MBTI dipakai sebagai parameter simulasi saja, sehingga tugas mahasiswa adalah membaca kebutuhan lawan bicara, bukan menebak tipe MBTI seseorang.
+
+Makalah ini menjawab empat pertanyaan.
 
 1. Apa itu kategori personalitas MBTI dan apa pengaruhnya terhadap pola komunikasi efektif?
 2. Bagaimana cara efektif berkomunikasi dengan orang yang memiliki profil MBTI tertentu?
 3. Bagaimana mengenali kemungkinan preferensi MBTI melalui pola percakapan, beserta batas ketepatannya?
-4. Bagaimana stimulus/peristiwa ditafsirkan melalui SWOT-like dan PASK, serta bagaimana pendidikan membantu pertumbuhan PASK dan pilihan respons refleks, reaktif, responsif, atau apresiatif?
+4. Bagaimana stimulus atau peristiwa ditafsirkan melalui SWOT subjektif dan PASK, serta bagaimana edukasi membantu pertumbuhan PASK dan pilihan respons refleks, reaktif, responsif, atau apresiatif?
+
+Ruang lingkup makalah ini terbatas pada kajian konsep. Tidak ada eksperimen komunikasi yang dijalankan, tidak ada diagnosis kepribadian terhadap orang tertentu.
 
 ## Metode dan Kedudukan Kerangka
 
-[Jelaskan jenis kajian, cara memilih sumber, dan langkah analisis. Pisahkan literatur, bahan percakapan AI, dan usulan sendiri. Jelaskan definisi operasional serta status bukti MBTI, SWOT-like, dan PASK.]
+Makalah ini adalah kajian konsep, bukan laporan penelitian lapangan. Dua jenis bahan dipakai dan dipisahkan dengan jelas, yaitu artikel umum tentang MBTI, dan materi mata kuliah tentang SWOT subjektif, PASK, dan TAIDA yang menjadi dasar simulasi percakapan UTS.
+
+MBTI adalah tes kepribadian yang mengelompokkan preferensi ke dalam 16 tipe berdasarkan empat pasangan, yaitu Extraversion dan Introversion (E/I), Sensing dan Intuition (S/N), Thinking dan Feeling (T/F), serta Judging dan Perceiving (J/P). SWOT subjektif adalah kesimpulan seseorang atas dua hal, yaitu apakah suatu situasi merupakan peluang atau ancaman, dan apakah dirinya merasa mampu menghadapinya. Kesimpulan ini sifatnya pribadi dan belum tentu sesuai keadaan sebenarnya. PASK adalah singkatan Persepsi, Sikap, Keterampilan, dan Pengetahuan, yaitu unsur yang mendasari kesimpulan SWOT subjektif tadi. TAIDA adalah urutan kerja Target, Attention, Interest, Desire, dan Action yang dipakai sebagai strategi komunikasi secara bertahap, seperti dijelaskan pada materi kuliah Bab 6 dan Bab 7 mata kuliah ini.
+
+MBTI dipakai luas di dunia kerja dan pendidikan, tetapi keandalannya masih diperdebatkan di kalangan psikologi, seperti dijelaskan pada bagian berikutnya. SWOT subjektif, PASK, dan TAIDA dalam tulisan ini berkedudukan sebagai kerangka konsep mata kuliah untuk keperluan latihan, bukan alat ukur psikologi yang sudah teruji secara ilmiah.
 
 ## Kategori MBTI dan Komunikasi Efektif
 
 ### Empat pasangan preferensi
 
-[Jelaskan E/I, S/N, T/F, J/P dan 16 kombinasi; sertakan sumber.]
+Menurut artikel Alodokter tentang 16 tipe kepribadian MBTI, MBTI mengukur empat skala, yang gabungannya menghasilkan 16 tipe kepribadian, yaitu ISTJ, ISTP, ISFJ, ISFP, INFJ, INFP, INTJ, INTP, ESTP, ESTJ, ESFP, ESFJ, ENFP, ENFJ, ENTP, dan ENTJ.
 
-| Pasangan | Pengertian preferensi | Implikasi yang mungkin bagi komunikasi | Batas/generalisasi yang dihindari |
+| Pasangan | Pengertian preferensi | Implikasi yang mungkin bagi komunikasi | Batas yang perlu dijaga |
 |---|---|---|---|
-| E/I | [Isi] | [Isi] | [Isi] |
-| S/N | [Isi] | [Isi] | [Isi] |
-| T/F | [Isi] | [Isi] | [Isi] |
-| J/P | [Isi] | [Isi] | [Isi] |
+| E/I | Cara merespons lingkungan. Extraversion senang berinteraksi dan berenergi bersama orang lain, introversion senang menyendiri dan berenergi sendirian | Tipe E mungkin nyaman berbicara sambil berpikir, tipe I mungkin perlu waktu untuk memproses dulu | Introvert bukan berarti tidak bisa bersosialisasi |
+| S/N | Cara mengumpulkan informasi. Sensing fokus pada fakta dan kenyataan, intuition fokus pada hal teoritis dan kemungkinan | Tipe S lebih tanggap pada contoh dan data, tipe N lebih tanggap pada gambaran besar | Preferensi ini tidak menentukan kecerdasan seseorang |
+| T/F | Cara mengambil keputusan. Thinking memakai fakta dan data objektif, feeling mempertimbangkan perasaan orang lain | Tipe T menghargai argumen yang masuk akal, tipe F mempertimbangkan dampak pada hubungan | Thinking tetap bisa peduli, feeling tetap bisa logis |
+| J/P | Cara menjalani hidup. Judging teguh pada rencana dan nilai yang dipegang, perceiving lebih fleksibel dan mudah beradaptasi | Tipe J nyaman dengan jadwal yang jelas, tipe P nyaman dengan pilihan terbuka | Preferensi ini bukan ukuran kedisiplinan atau kreativitas |
 
 ### Implikasi dan batas ilmiah
 
-[Definisikan komunikasi efektif; nilai kekuatan dan keterbatasan bukti. Bedakan preferensi, perilaku, kemampuan, serta kematangan.]
+Komunikasi efektif dalam tulisan ini diartikan sebagai tercapainya pemahaman bersama dan kesepakatan tindakan yang sesuai bagi kedua pihak, bukan sekadar persetujuan sesaat. Dalam arti ini, MBTI dapat membantu menduga tempo dan bentuk penjelasan yang cocok bagi seseorang.
+
+Meski begitu, kekuatan bukti ilmiah di balik MBTI perlu dilihat secara wajar. Artikel dari ITS News menjelaskan bahwa hasil tes MBTI dapat berubah saat seseorang mengulang tes dalam rentang waktu yang cukup singkat, sehingga keandalannya masih dipertanyakan oleh sejumlah peneliti psikologi. Artikel Alodokter sendiri menegaskan bahwa MBTI hanya alat untuk mengenal kepribadian diri, bukan tes diagnostik dan bukan pengganti penilaian psikolog. Karena itu, preferensi MBTI sebaiknya tidak disamakan dengan perilaku yang muncul pada satu momen, kemampuan seseorang, atau kematangan komunikasi yang sudah berkembang lewat pengalaman. Dalam latihan mata kuliah ini, MBTI hanya dipakai sebagai parameter simulasi, dan tujuan mahasiswa adalah membaca kebutuhan lawan bicara, bukan menebak tipe MBTI-nya.
 
 ## Strategi Komunikasi untuk Profil Tertentu
 
-[Uraikan cara mengonfirmasi kebutuhan dan menyesuaikan tempo, media, struktur pesan, bukti, dampak manusia, serta kesepakatan. Berikan contoh kombinasi profil tanpa stereotip.]
+Kebutuhan lawan bicara dapat dipastikan lewat pertanyaan terbuka, misalnya menanyakan apa yang perlu dipastikan sebelum menyepakati sesuatu. Strategi berikut disusun per preferensi, bukan per 16 tipe sekaligus, supaya tidak menimbulkan anggapan tetap pada satu jenis orang.
 
-| Profil/preferensi | Kebutuhan yang perlu dikonfirmasi | Strategi dan contoh ungkapan | Cara memeriksa efektivitas |
+| Preferensi | Kebutuhan yang perlu dipastikan | Contoh cara berkomunikasi | Cara mengecek keberhasilan |
 |---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] |
+| E atau I | Ruang bicara sambil berpikir, atau waktu memproses dulu | Untuk E, ajak diskusi terbuka. Untuk I, beri jeda dan tanyakan apakah perlu waktu berpikir | Jawaban menjadi lebih jelas dan terarah |
+| S atau N | Contoh konkret dan data, atau gambaran besar dan keterkaitan ide | Untuk S, sampaikan data dan contoh nyata. Untuk N, sampaikan konteks dan kemungkinan ke depan | Muncul pertanyaan lanjutan yang relevan |
+| T atau F | Argumen yang masuk akal, atau pengakuan atas perasaan dan dampaknya | Untuk T, jelaskan alasan logisnya. Untuk F, akui dulu perasaan atau dampaknya | Lawan bicara terbuka, tidak membela diri |
+| J atau P | Kepastian jadwal, atau pilihan yang masih terbuka | Untuk J, sepakati batas waktu dengan jelas. Untuk P, tawarkan beberapa pilihan dulu | Kesepakatan tercapai tanpa paksaan |
+
+Strategi di atas hanya dugaan awal yang tetap perlu dicek lewat respons nyata lawan bicara.
 
 ### Umpan balik dan konflik
 
-[Analisis cara memberi kritik, mendengarkan, menetapkan batas, dan memperbaiki hubungan.]
+Saat memberi kritik, perbedaan T dan F perlu diperhatikan. Penyampaian yang terlalu berfokus pada logika bisa terasa dingin bagi tipe F, sementara penyampaian yang penuh perasaan tanpa fakta bisa terasa kurang jelas bagi tipe T. Mendengarkan dulu sebelum membela diri, lalu memastikan pemahaman lewat pertanyaan konfirmasi, membantu memeriksa dugaan awal. Setelah konflik, hubungan dapat diperbaiki dengan menepati kesepakatan dan menunjukkan kepedulian lewat tindakan nyata.
 
 ## Mengenali Preferensi melalui Percakapan
 
-| Pola percakapan | Hipotesis sementara | Penjelasan alternatif | Pertanyaan validasi |
+| Pola percakapan | Dugaan sementara | Penjelasan lain yang mungkin | Pertanyaan untuk memastikan |
 |---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] |
+| Jawaban singkat dan perlu waktu | Introversion | Sedang lelah atau topik yang sensitif | Apakah perlu waktu untuk memikirkannya dulu |
+| Banyak bertanya detail dan data | Sensing | Kehati hatian karena menanggung tanggung jawab tertentu | Detail apa yang paling penting sebelum memutuskan |
+| Sering membahas kemungkinan dan ide besar | Intuition | Berusaha menghindari keputusan yang mengikat | Bagaimana ide ini bisa diubah menjadi langkah nyata |
+| Meminta jadwal dan kepastian yang jelas | Judging | Tekanan tenggat yang sedang dialami | Apakah rencana ini masih bisa berubah nanti |
 
-[Susun prosedur observasi lintas konteks, klarifikasi kepada individu, serta batas inferensi. Jangan menetapkan tipe seseorang hanya dari satu ujaran.]
+Pengamatan sebaiknya dilakukan berulang pada lebih dari satu percakapan sebelum menyusun dugaan, karena satu ujaran saja tidak cukup untuk menentukan preferensi seseorang. Menanyakan langsung kepada orang tersebut tetap lebih bisa dipercaya daripada hanya menebak dari gaya bicaranya. Peran yang sedang dijalankan dan latar belakang budaya juga ikut memengaruhi gaya bicara, sehingga menyamaratakan preferensi berdasarkan kelompok budaya atau label kepribadian sebaiknya dihindari.
 
-## Stimulus, SWOT-like, dan PASK
+## Stimulus, SWOT subjektif, dan PASK
 
 ### Definisi dan hubungan konsep
 
-[Jelaskan persepsi, attitude, skill, knowledge serta kekuatan/keterbatasan internal dan peluang/ancaman eksternal. Bedakan tafsir subjektif dari keadaan nyata; jelaskan faktor konteks.]
+Saat menerima percakapan, seseorang menafsirkannya lewat SWOT subjektif, yaitu apakah situasi ini peluang atau ancaman bagi dirinya, dan apakah ia merasa mampu menghadapinya. Tafsir ini bersifat pribadi dan dipengaruhi peran, hubungan dengan lawan bicara, serta pengalaman sebelumnya. PASK menjelaskan unsur di balik tafsir tersebut. Persepsi menentukan cara stimulus pertama kali dibaca, Sikap menentukan kesediaan merespons, Keterampilan menentukan kesanggupan bertindak, dan Pengetahuan menentukan pemahaman atas situasi dan pilihan yang tersedia.
 
-| Unsur SWOT-like | Tafsir terhadap stimulus | Hubungan dengan PASK | Bukti/pertanyaan pemeriksaan |
+| Unsur SWOT subjektif | Tafsir terhadap stimulus | Hubungan dengan PASK | Pertanyaan untuk memeriksa |
 |---|---|---|---|
-| Strengths | [Isi] | [Isi] | [Isi] |
-| Weaknesses | [Isi] | [Isi] | [Isi] |
-| Opportunities | [Isi] | [Isi] | [Isi] |
-| Threats | [Isi] | [Isi] | [Isi] |
+| Kekuatan | Saya mampu menghadapi ini | Berkaitan dengan Keterampilan yang sudah dimiliki dan Sikap yang percaya diri | Bagian mana yang sudah pernah Anda kuasai |
+| Kelemahan | Saya kurang mampu menghadapi ini | Berkaitan dengan Keterampilan yang belum cukup atau Pengetahuan yang belum lengkap | Bagian mana yang terasa paling sulit |
+| Peluang | Situasi ini menguntungkan bagi saya | Berkaitan dengan Sikap yang positif dan Pengetahuan tentang manfaatnya | Manfaat apa yang paling penting bagi Anda |
+| Ancaman | Situasi ini berisiko bagi saya | Berkaitan dengan Sikap yang waspada dan Pengetahuan yang belum lengkap tentang batasnya | Risiko apa yang paling Anda khawatirkan |
 
 ### Bentuk respons
 
-| Bentuk | Definisi operasional | Contoh | Kapan tepat/tidak tepat |
+| Bentuk | Penjelasan | Contoh | Kapan cocok dipakai |
 |---|---|---|---|
-| Refleks | [Isi] | [Isi] | [Isi] |
-| Reaktif | [Isi] | [Isi] | [Isi] |
-| Responsif | [Isi] | [Isi] | [Isi] |
-| Apresiatif | [Isi] | [Isi] | [Isi] |
+| Refleks | Reaksi otomatis tanpa berpikir atau mengingat dulu | Reaksi mendadak saat terkejut | Cocok untuk keadaan yang butuh respons cepat, kurang cocok untuk keputusan rumit |
+| Reaktif | Respons yang muncul karena teringat pengalaman sebelumnya | Membalas dengan membela diri karena pernah disalahkan | Berguna mengenali pola berulang, bisa keliru bila situasi sebenarnya berbeda |
+| Responsif | Respons setelah memeriksa fakta dan memikirkan tujuan bersama | Mengklarifikasi dulu sebelum memberi jawaban | Cocok untuk keputusan yang butuh pertimbangan matang |
+| Apresiatif | Seperti responsif, ditambah perbaikan sikap dan pengetahuan untuk kejadian berikutnya | Bertanya dulu sebelum menyalahkan pada kejadian serupa berikutnya | Cocok untuk pembelajaran jangka panjang, butuh waktu dan kesediaan merenung |
 
 ## Pendidikan untuk Menumbuhkan PASK
 
-| Dimensi | Kebutuhan awal | Intervensi/kegiatan | Penyesuaian preferensi | Bukti pertumbuhan |
+| Dimensi | Kebutuhan awal | Kegiatan yang membantu | Penyesuaian pada preferensi | Tanda pertumbuhan |
 |---|---|---|---|---|
-| Persepsi | [Isi] | [Isi] | [Isi] | [Isi] |
-| Sikap | [Isi] | [Isi] | [Isi] | [Isi] |
-| Keterampilan | [Isi] | [Isi] | [Isi] | [Isi] |
-| Pengetahuan | [Isi] | [Isi] | [Isi] | [Isi] |
+| Persepsi | Memastikan dugaan tentang situasi, bukan asumsi sepihak | Latihan membedakan tafsir pribadi dari fakta, lalu minta umpan balik langsung | Beri waktu merenung bagi tipe I, ajak bicara langsung bagi tipe E | Mulai bertanya dulu sebelum menyalahkan |
+| Sikap | Kepercayaan dan kemauan mencoba hal baru | Dialog yang mengakui keterbatasan tanpa merendahkan diri | Beri alasan logis bagi tipe T, akui perasaan dulu bagi tipe F | Mulai mau mencoba tanpa harus didorong berulang |
+| Keterampilan | Kemampuan nyata untuk bertindak | Latihan bertahap dan pendampingan langsung | Beri langkah rinci bagi tipe S, beri prinsip umum bagi tipe N | Bisa bertindak dengan lebih sedikit bimbingan |
+| Pengetahuan | Pemahaman fungsi, batas, dan pilihan yang ada | Penjelasan yang menghubungkan masalah, manfaat, dan bukti | Beri batas waktu jelas bagi tipe J, beri beberapa pilihan bagi tipe P | Pertanyaan lanjutan menunjukkan pemahaman yang lebih tepat |
 
-[Rancang stimulus edukatif, pendampingan, simulasi, refleksi, uji ulang, dan evaluasi transfer. Nyatakan apakah program merupakan usulan atau sudah diuji.]
+Susunan kegiatan di atas mengikuti tahap TAIDA pada materi kuliah Bab 6 dan Bab 7, yaitu menetapkan sasaran, menarik perhatian dengan cara yang aman, membangun minat yang sesuai kebutuhan, menumbuhkan keinginan yang beralasan, sampai menyepakati tindakan nyata.
 
 ## Contoh Integratif
 
-[Analisis satu kasus: peristiwa, dugaan awal, validasi, SWOT/PASK, respons, penyesuaian komunikasi, dan rencana belajar. Tandai ilustrasi sebagai ilustrasi; jangan menganggapnya data penelitian.]
+Misalkan seorang anggota kelompok belum mengirim bagian tugasnya sehari sebelum tenggat, dan menjawab singkat saat ditanya alasannya. Dugaan awal yang muncul adalah preferensi introversion yang butuh waktu memproses, tetapi bisa juga karena sedang lelah. Pertanyaan terbuka tentang apa yang paling menghambat membuka jawaban bahwa kendalanya adalah data pendukung yang belum didapat, bukan rasa enggan. Dari sisi SWOT subjektif, anggota tersebut mungkin menganggap percakapan ini sebagai ancaman karena khawatir dianggap tidak mampu. Respons yang dipilih adalah responsif, yaitu mendengarkan dulu, memastikan kendala sebenarnya, lalu menawarkan pembagian tugas yang lebih realistis dan disertai contoh yang konkret sesuai pola sensing yang ditunjukkannya. Untuk kejadian berikutnya, komunikator berencana bertanya lebih awal saat tanda kendala mulai muncul, sesuai bentuk respons apresiatif.
 
 ## Pembahasan dan Keterbatasan
 
-[Sintesis empat pertanyaan; hubungan antar-konsep; alternatif penjelasan, keterbatasan sumber/metode, dan kebutuhan penelitian lanjutan.]
+Keempat pertanyaan di atas saling berkaitan. MBTI menyediakan istilah untuk menduga preferensi komunikasi, tetapi dugaan itu baru berguna bila dicek langsung kepada lawan bicara, bukan dianggap berlaku otomatis untuk semua orang dengan tipe yang sama. Mengenali preferensi lewat percakapan hanya menghasilkan dugaan sementara yang mudah keliru bila diambil dari satu ujaran saja, karena faktor lain seperti tekanan waktu atau kelelahan bisa menghasilkan pola bicara yang serupa. Pada akhirnya, preferensi personal hanyalah salah satu masukan bagi SWOT subjektif yang menentukan jenis respons, dan edukasi yang menyasar keempat dimensi PASK diperlukan agar respons bisa bergeser dari refleks atau reaktif menuju responsif dan apresiatif.
+
+Keterbatasan makalah ini ada beberapa. Tidak ada data lapangan yang dikumpulkan, sehingga seluruh strategi masih berupa dugaan yang perlu diuji dalam praktik. Status ilmiah MBTI sendiri masih diperdebatkan, sehingga generalisasi berdasarkan tipe MBTI perlu dibatasi. Konsep SWOT subjektif, PASK, dan TAIDA yang dipakai berasal dari materi mata kuliah dan belum tentu setara dengan alat ukur psikologi yang sudah teruji secara terpisah. Hanya ada satu contoh ilustrasi yang disajikan, sehingga belum bisa dipastikan berlaku untuk situasi lain.
 
 ## Kesimpulan
 
-[Jawab keempat pertanyaan secara ringkas berdasarkan argumentasi dan sumber yang sudah dibahas.]
+MBTI adalah tes kepribadian yang membagi preferensi ke dalam 16 tipe. Pengaruhnya terhadap komunikasi mungkin ada, tetapi perlu dibaca hati-hati karena keandalannya masih diperdebatkan. Berkomunikasi dengan orang berprofil tertentu sebaiknya menyesuaikan tempo dan bentuk pesan sambil terus memastikan lewat respon nyata, bukan memakai cara yang sama untuk semua orang. Preferensi bisa diduga dari pola percakapan yang berulang, tetapi dugaan ini tetap harus dipastikan langsung, bukan dianggap kesimpulan akhir dari satu ujaran. Stimulus percakapan ditafsirkan lewat SWOT subjektif yang didasarkan pada empat dimensi PASK, dan edukasi yang menyasar keempat dimensi itu secara seimbang, disesuaikan dengan preferensi masing masing orang, dapat membantu respons bergeser dari refleks atau reaktif menjadi responsif dan akhirnya apresiatif.
 
 ## Daftar Pustaka {.unnumbered}
 
-[Cantumkan hanya sumber yang benar-benar dibaca/digunakan. Gunakan format konsisten dan tautan/DOI yang tepat; pastikan setiap sitasi memiliki entri.]
+Alodokter. 16 Tipe Kepribadian Myers Briggs Type Indicator. https://www.alodokter.com/seputar-16-tipe-kepribadian-myers-briggs-type-indicator (diakses 14 Oktober 2026).
+
+ITS News. Menyingkap Tabir Reliabilitas di Balik Popularitas MBTI. https://www.its.ac.id/news/menyingkap-tabir-reliabilitas-di-balik-popularitas-mbti/ (diakses 14 Oktober 2026).
+
+Materi Kuliah Komunikasi Interpersonal dan Publik. Bab 6, Menemukan Sasaran dan Memperoleh Perhatian.
+
+Materi Kuliah Komunikasi Interpersonal dan Publik. Bab 7, Menumbuhkan Minat TAIDA II.
 
 {{< include "../../includes/uts-penilaian.md" >}}

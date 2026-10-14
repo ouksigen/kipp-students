@@ -1,0 +1,132 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3a — Kasus 3"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Rijal Kholis Al-Ausath |
+| NIM | 18225047 |
+| Kelas dan tanggal | Kelas 1, 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a; Kasus 3 |
+| Nama dan ID target | Budi (K3-02) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif (Simulasi Profesional) |
+| Kelengkapan transkrip | Lengkap |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Pak Budi menghadapi kendala pesan pelanggan berulang dan pesanan tercecer dengan tenaga operasional terbatas. Belum yakin perlu AI karena khawatir gangguan operasional dan biaya. Tujuan tindakan adalah meyakinkan dan mempersuasi Pak Budi agar lebih siap menggunakan teknologi AI melalui skema uji coba/pilot yang konkret.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Peluang: adopsi teknologi efisien; Ancaman: takut biaya dan kekacauan operasional; Mampu: menjalankan bisnis konvensional; Belum mampu: merinci adopsi AI | U001 | Sementara |
+| Attitude | Skeptis terhadap hal baru, lebih suka cara tradisional | U001 | Sementara |
+| Knowledge | Menguasai prosedur lama, belum memahami alternatif sistem | U001 | Sementara |
+| Skill | Operasional berjalan baik, adaptasi baru perlu panduan | U001 | Sementara |
+| Preferensi/MBTI jika dilaporkan | ISTJ (berdasarkan pola komunikasi detail, bukti, dan urutan prosedur) | U002 | Laporan diri/hipotesis |
+| Karakter, peran, kultur/ko-kultur | Pengelola usaha yang menjunjung tinggi komitmen dan standar kerja tertib | U002 | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Menyepakati uji coba pilot sistem | K & S | Menjelaskan kelebihan, kekurangan, dan persiapan | Persetujuan pilot project |
+| Attention | Defensif / skeptis | A | Menyoroti pentingnya adaptasi vs pesaing | Penurunan defensivitas |
+| Interest | Mempertanyakan kepastian operasional | K | Menawarkan tahapan transisi 6 bulan | Ketertarikan pada skema bertahap |
+| Desire | Menuntut rincian biaya & mitigasi risiko | S | Menjelaskan paket harga setara UMR & panduan troubleshooting | Penerimaan estimasi |
+| Action | Komitmen pengerjaan | S | Menentukan langkah awal, penanggung jawab, & indikator sukses | Kesepakatan implementasi |
+
+# C) Skrip Percakapan
+
+- **U001 / AI001 [Tahap: Simulasi Awal] (Budi)**: “Cara sekarang sudah jelas. Mengapa harus berubah?”
+- **U002 [Tahap: Simulasi Awal] (Mahasiswa)**: “Perubahan itu tidak hanya untuk mengatasi hal yang sudah terjadi, bisa juga menanggulangi hal yang mungkin terjadi. Mungkin saja sistem usaha pak Budi sekarang sudah cukup baik, tetapi siapa yang bisa beradaptasi lah yang unggul, bisa saja ketika pak Budi bersikeras menolak mengadopsi teknologi/sistem baru ini, para pesain pak Budi sudah siap mengadopsi dan berujung usaha pak Budi ketinggalan sistem yang efisien dan mulai kalah saing”
+- **U002 / AI002 [Tahap: Simulasi Awal] (Budi)**: “Kalau urusan persaingan, saya paham. Tapi buat saya yang paling penting itu kepastian operasional harian dulu, bukan sekadar takut ketinggalan tren. Sistem yang ada sekarang memang capek di kita karena harus catat manual dan sering ada pesan kelewat, tapi jalurnya sudah tertib dan staf saya paham. Kalau ganti ke AI atau sistem baru, berapa biaya pastinya, dan bagaimana jaminannya supaya operasional toko saya tidak berantakan atau macet saat masa transisi?”
+- **U003 [Tahap: Simulasi Awal] (Mahasiswa)**: “Untuk mengadopsi sistem baru memang perlu transisi pak, lakukan uji coba bertahap misalnya selama 6 bulan dibagi menjadi 3 tahap. tahap pertama sangat minim transisi, lebih ke pelatihan karyawan terhadap sistem baru yang akan diadopsi. tahap ke dua mulai transisi 2 skema, yaitu cara konvensional tetap dilakukan, tetapi pencatatan otomatis oleh AI juga sekaligus dijalankan. tahap ke 3, mulai transisi hampir sepenuhnya ke otomatisasi pencatatan yang dimungkinkan dan memutuskan apakah akan kembali ke cara lama atau lanjut transisi sepenuhnya pak”
+- **U003 / AI003 [Tahap: Simulasi Awal] (Budi)**: “Ide tahapan 6 bulan dengan pencatatan ganda (dual-running) di tahap kedua itu masuk akal dan cukup melegakan karena staf saya tidak langsung dilepas buta. Tapi jujur, saya masih khawatir soal biayanya dan gangguan teknis kalau nanti tiba-tiba sistemnya down pas jam operasional sibuk. Kalau boleh tahu, kira-kira estimasi biaya pengembangannya seperti apa, dan prosedur cadangan (backup) apa yang disiapkan kalau sistemnya error di tengah hari?”
+- **U004 [Tahap: Simulasi Awal] (Mahasiswa)**: “Tergantung paket sistem mana yang dipilih pak, untuk paket normal harganya hampir setara gaji UMR satu karyawan pak, sistem sudah cukup stabil, dan layanan troubleshooting serta customer service kami untuk paket ini mulai pukul 5 pagi hingga pukul 8 malam. Sedangkan untuk paket premium, harganya sekitar 1,5 kali gaji UMR satu karyawan. sistemnya sangat stabil meskipun mungkin hanya sedikit lebih stabil jika dibandingkan paket normal, namun layanan customer service dan trouble shooting 24 jam pak, kami siap dihubungi kapan saja dan pelanggan premium ada di antrian prioritas. Sejauh ini, untuk layanan premium, jika terjadi kendala rata-rata kami respon dalam 15 menit dan masalah umumnya selesai dalam beberapa jam saja. Untuk mitigasi resiko lainnya, sudah kami sediakan panduan cara mengoperasikan dan skenario masalah yang mungkin terjadi sehingga bisa memperbaiki sendiri jika mau”
+- **U004 / AI004 [Tahap: Simulasi Awal] (Budi)**: “Penjelasan soal paket harga yang disetarakan dengan kisaran UMR karyawan dan adanya opsi dukungan teknis serta manual panduan troubleshooting itu cukup transparan dan masuk akal bagi saya. Tapi kalau kita mau coba uji coba pilot project kecil-kecilan dulu untuk melihat efektivitasnya tanpa langsung merombak seluruh toko, langkah spesifik pertama apa yang bisa kita mulai minggu depan, siapa yang bertanggung jawab, dan apa ukuran suksesnya?”
+- **U005 [Tahap: Simulasi Awal] (Mahasiswa)**: “Bisa pak, coba rancangkan dahulu bagian mana saja dari bisnis bapak yang perlu sistem otomatisasi. Kita akan mulai dari bagian yang tidak terlalu vital, sehingga jika terjadi masalah tidak akan mengganggu operasional bisnis. Ukuran suksesnya adalah selama seminggu, karyawan merasa beban berkurang dan merasa mudah mengoperasikan atau memahami sistem otomatisasi ini”
+- **U005 / AI005 [Tahap: Simulasi Awal] (Budi)**: “Pendekatan yang sangat bijak. Mulai dari bagian non-vital dulu memang jauh lebih aman buat kami. Kalau begitu, kita coba terapkan otomatisasi di bagian pencatatan dan rekap pesanan harian dari pesan pelanggan dulu minggu depan, sementara alur kasir dan transaksi utama tetap pakai prosedur manual seperti biasa. Saya sendiri yang akan dampingi staf selama uji coba ini. Kalau dalam satu minggu staf merasa terbantu dan tidak ada kendala berarti, kita sepakat untuk lanjut ke tahap berikutnya.”
+- **U006 / AI006 [Tahap: Uji Ulang] (Budi)**: “Halo, saya sudah koordinasi dengan staf toko terkait rencana uji coba minggu depan untuk pencatatan pesan pelanggan. Tapi staf saya (terutama bagian admin senior yang sudah biasa manual) merasa cemas kalau-kalau nanti sistem otomatisnya eror pas jam sibuk dan mereka malah bingung harus balik ke cara manual yang mana karena prosedurnya belum ditulis terperinci. Sebelum kita mulai, bisa tolong pastikan ada panduan ringkas langkah darurat langkah-demi-langkah yang dipegang staf saya di meja kasir?”
+- **U007 [Tahap: Uji Ulang] (Mahasiswa)**: “Siap pak, dari kami sudah menyediakan panduan ringkas dan di dalamnya sudah ada nomor kontak kami untuk tanya-jawab hal yang belum dipahami”
+- **U007 / AI007 [Tahap: Uji Ulang] (Budi)**: “Bagus kalau panduan ringkas dan nomor kontak daruratnya sudah disiapkan. Kalau begitu, kita tetapkan prosedur itu ditaruh di meja kasir sebelum uji coba minggu depan dimulai, supaya staf saya lebih tenang dan tidak panik jika ada kendala di lapangan. Terima kasih atas kesiapannya mendampingi proses transisi ini!”
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Takut biaya dan kekacauan operasional | Memahami mitigasi risiko dan setuju uji coba modular | U005 | Simulasi & Laporan diri |
+| Attitude | Skeptis terhadap perubahan | Kooperatif dan menyetujui *pilot project* | U005 | Observasi transkrip |
+| Knowledge | Belum paham alternatif sistem | Memahami rincian harga setara UMR dan dukungan teknis | U004 | Demonstrasi dialog |
+| Skill | Perlu prosedur cadangan | Menyiapkan panduan ringkas di meja kasir | U007 | Komitmen aksi |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U002–U003 | Skeptis/Hati-hati (A) | Menawarkan skema uji coba bertahap 6 bulan | Menerima pendekatan bertahap (*dual-running*) | Sikap A melunak | Menggeser fokus dari ancaman ke solusi bertahap |
+| U004–U005 | Butuh rincian biaya & mitigasi (K/S) | Menjelaskan paket UMR & mitigasi risiko | Menyetujui *pilot project* pada bagian non-vital | K & S terpenuhi | Mengunci kesepakatan Action spesifik |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U004 | Penjelasan transparan terkait harga dan mitigasi risiko | "Penjelasan soal paket harga... cukup transparan dan masuk akal bagi saya" | Rendah → Tinggi | Kepercayaan meningkat, bersedia melakukan uji coba |
+
+## Uji ulang dan pembelajaran
+
+Pada uji ulang (U006–U007), muncul kendala kecemasan staf terkait prosedur darurat saat sistem eror. Mahasiswa merespons adaptif dengan mengonfirmasi ketersediaan panduan ringkas dan kontak darurat di meja kasir. Kepercayaan dan kesepakatan tetap terjaga dengan baik.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U005, U007 | Tujuan meyakinkan Pak Budi dan menyepakati uji coba tercapai |
+| Persepsi dan validasi profil/status | 4 | U004 | Mampu merespons kebutuhan detail, biaya, dan mitigasi risiko |
+| Pemilihan dan urutan repertoar | 4 | U003, U005 | Repertoar terstruktur dari edukasi tahapan hingga pembatasan area non-vital |
+| Eksekusi jelas, peduli dan konsisten | 4 | U004, U007 | Komunikasi transparan, solutif, dan menyediakan dukungan darurat |
+| Evaluasi dan adaptasi | 4 | U007 | Beradaptasi cepat terhadap permintaan prosedur darurat staf |
+| Refleksi dan lesson learned | 4 | Bagian Refleksi | Refleksi komprehensif mengenai pentingnya kejelasan prosedur bagi pemilik usaha konservatif |
+
+*Usulan skor AI: 24/24 × 100 = 100 (Memerlukan moderasi dosen).*
+
+## Refleksi dan lesson learned mahasiswa
+
+1. **Koreksi Dugaan**: Pak Budi tidak sekadar skeptis, melainkan sangat membutuhkan rincian prosedur, bukti, dan mitigasi risiko yang jelas sebelum mengadopsi hal baru.
+2. **Stimulus Efektif**: Menjelaskan rincian layanan, benefit, dan mitigasi risiko secara transparan terbukti sangat efektif, sedangkan argumen umum seputar tren kurang berdampak.
+3. **Pesan Personal**: Transparansi penawaran harga setara UMR dan rincian dukungan teknis berhasil membangun rasa aman dan kepercayaan penuh dari komunikan.
+4. **Pelajaran**: Jangan terburu-buru memaksa adopsi teknologi; jelaskan manfaat dan cara mitigasi risiko secara bertahap agar operasional bisnis yang sudah berjalan tetap stabil.
+
+## Tindak lanjut dan batas bukti
+
+Langkah lanjut berupa pelaksanaan *pilot project* pencatatan pesan pelanggan minggu depan dengan pendampingan langsung serta penempatan panduan ringkas di meja kasir. Batas bukti terbatas pada simulasi teks interaktif.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | [Nilai Sesi 1] |
+| Sesi 2a | 18% | [Nilai Sesi 2a] |
+| Sesi 2b | 18% | 100 |
+| Sesi 3a | 18% | 100 (Usulan AI) |
+| Sesi 3b | 18% | [Belum dinilai] |
+| **Total** | **100%** | **Belum dihitung** |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan seluruh nilai komponen pada skala 0–100. Nilai akhir ditulis **Belum dihitung** sampai nilai makalah dan seluruh sesi tersedia.
