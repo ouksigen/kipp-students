@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - "assets/**"
+    - "portfolio/UAS/bukti/**"
     - "lk/lk-UTS/peserta/**/*.zip"
     - "assessment/llm-assessment-prompts.md"
     - "slides-pdf/*.pdf"
@@ -11,11 +12,15 @@ project:
     - "course/*.qmd"
     - "portfolio/*.qmd"
     - "portfolio/UTS/*.qmd"
+    - "portfolio/UAS/*.qmd"
     - "examples/*.qmd"
     - "examples/UTS/*.qmd"
+    - "examples/UAS/*.qmd"
     - "assessment/*.qmd"
     - "lk/*.qmd"
     - "lk/lk-UTS/*.qmd"
+    - "lk/lk-UAS/*.qmd"
+    - "lk/UAS/*.qmd"
     - "slides/*.qmd"
     - "slides-pdf/*.qmd"
 
@@ -96,6 +101,7 @@ website:
         - portfolio/week-13.qmd
         - portfolio/week-14.qmd
         - portfolio/week-15.qmd
+        - portfolio/UAS/index.qmd
     - id: assessment
       title: "Assessment"
       style: docked
@@ -108,6 +114,9 @@ website:
       collapse-level: 1
       contents:
         - examples/index.qmd
+        - section: "Contoh UAS"
+          contents:
+            - examples/UAS/index.qmd
         - section: "Minggu 1–5"
           contents:
             - examples/week-01.qmd
@@ -145,3 +154,6 @@ execute:
   freeze: auto
 
 lang: id
+
+
+

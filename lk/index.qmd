@@ -21,3 +21,6 @@ Gunakan daftar berikut untuk membuka lembar kerja setiap bab.
 | 12 | [Deliberasi Komunitas](lk-12.qmd) |
 | 13 | [Satu Gagasan, Empat Bahasa Publik](lk-13.qmd) |
 | 14 | [Spesifikasi Kopilot dan Manajemen Risiko AI](lk-14.qmd) |
+| 15 | [Capstone perkuliahan dan latihan integrasi](../course/week-15.qmd) |
+| UAS | [UAS — Temukan Dayamu, Ciptakan Manfaat Bersama](UAS/index.qmd) · [Usulan proyek sosok, kompetensi, dan Rp10 juta](lk-UAS/rancangan-talenta.qmd) |
+

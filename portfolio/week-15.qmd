@@ -14,6 +14,8 @@ Mengintegrasikan person, character, objective, state, repertoire, language, resp
 
 ## Evidence wajib
 
+Halaman ini mencatat capstone perkuliahan Minggu 15 beserta feedback dan replay. Paket dan nilai [UAS](../lk/lk-UAS/index.qmd) dikumpulkan serta dicatat terpisah pada jadwal ujian. Jika bukti latihan dikembangkan untuk UAS, tunjukkan revisi dan tindak lanjutnya.
+
 - Person/character/state map dan performance plan.
 - Rekaman/transcript, observer feedback, serta decisive adaptation.
 - Agreement/action atau specific disagreement, relationship outcome, AI critique, dan reflection.

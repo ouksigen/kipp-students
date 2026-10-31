@@ -25,3 +25,8 @@ Lihat [contoh portfolio lengkap untuk Minggu 1–15](../examples/index.qmd). Sem
 ## Template UTS
 
 [Buka portfolio Minggu 8](week-08.qmd) untuk mengisi makalah pra-UTS dan lima laporan sesi 1, 2a, 2b, 3a, 3b. Template di `portfolio/UTS` belum berisi jawaban; nama laporan akhir mengikuti PENUGASAN.md dalam ZIP masing-masing.
+
+## Template UAS
+
+[Buka portfolio UAS](UAS/index.qmd) untuk mengisi identitas proyek dan 14 artefak pendukung berdasarkan kasus tim. Bagian sosok, jurnal intraself, refleksi, dan penilaian diisi per mahasiswa. [Lihat contoh UAS](../examples/UAS/index.qmd). UAS memiliki jadwal, portfolio, dan nilai terpisah dari capstone Minggu 15.
+

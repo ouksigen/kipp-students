@@ -1,0 +1,183 @@
+---
+title: "Rancangan UAS — Sosok, Kompetensi, dan Rp10 Juta untuk Bertumbuh Bersama"
+description: "Proyek pemecahan masalah melalui tujuh ranah komunikasi dan solusi berbasis talenta mahasiswa."
+---
+
+::: {.callout-note title="Status rancangan"}
+Usulan pengembangan berdasarkan arahan dosen pada 20 Oktober 2026. Dokumen ini melengkapi [rancangan UAS yang sudah ada](index.qmd); bobot dan perluasan cakupan di bawah merupakan usulan, belum menggantikan ketentuan sebelumnya secara otomatis. Jadwal, bobot terhadap nilai mata kuliah, dan pemberlakuannya ditetapkan dosen.
+:::
+
+## Dasar rancangan dari isi proyek
+
+Repository ini merupakan situs Quarto pembelajaran **Komunikasi Inter Personal dan Publik (KIPP-2)**, dengan materi, slide, lembar kerja, contoh, portfolio, dan assessment untuk 15 minggu. Inti pembelajarannya adalah komunikasi berpusat pada person: membaca sosok dan konteks, menetapkan tujuan dan keadaan awal, memilih bahasa, mendengarkan respons, beradaptasi, serta membangun tindakan dan relasi yang bertanggung jawab.
+
+Rancangan ini mengintegrasikan [intraself Minggu 2](../../course/week-02.qmd), kerja kolega dan TAIDA Minggu 5–10, [negosiasi multipihak Minggu 11](../../course/week-11.qmd), komunitas Minggu 12, publik Minggu 13, pertimbangan AI Minggu 14, dan [capstone Minggu 15](../../course/week-15.qmd). Mengikuti prinsip assessment repository, yang dinilai ialah perilaku yang dapat diamati, kontribusi individual, refleksi, dan perbaikan berbukti. Talenta dan sosok digunakan untuk memilih kontribusi, bukan memberi nilai kepribadian atau menentukan nasib mahasiswa melalui label.
+
+Rancangan UAS sebelumnya telah memuat tim 3–4 orang, jasa AI bagi UMKM, plafon Rp10 juta, lima situasi komunikasi, dan pembelaan individual. Pengembangan ini menambahkan intraself dan stakeholder lain sebagai ranah eksplisit, memperluas pilihan solusi, serta melengkapi indikator pertumbuhan, rubrik, dan format bukti.
+
+## Soal utama untuk mahasiswa
+
+> Dengan sosok, talenta, kompetensi, dan modal awal maksimal Rp10.000.000 per tim, bagaimana Anda bersama pihak-pihak terkait memecahkan satu masalah nyata sehingga mahasiswa, tim, pendukung dana, pelanggan, stakeholder lain, komunitas, dan publik memperoleh kesempatan berkembang yang dapat dijelaskan dan diuji?
+
+Bentuk tim **3–4 mahasiswa**. Temukan satu masalah spesifik bersama pihak yang mengalaminya. Tawarkan solusi yang sesuai kemampuan tim, lakukan uji terbatas, lalu tunjukkan bagaimana komunikasi mengubah pemahaman, pilihan, kesepakatan, tindakan, dan relasi.
+
+Solusi dapat berupa jasa, produk, perbaikan proses, pendampingan, pendidikan, desain, atau teknologi. AI dan aplikasi dapat dipilih ketika mendukung kebutuhan yang telah divalidasi. Tim juga membandingkan alternatif sederhana. Hasil akhir berupa **pilot solusi dan portfolio komunikasi**, disertai pembelaan individual.
+
+Rp10 juta adalah batas modal awal dalam rancangan tim, bukan kewajiban menyetor uang pribadi atau janji pemberian dana. Nyatakan mode pelaksanaan: dana aktual, sumber daya yang tersedia, atau simulasi pendanaan. Uji kecil dapat dilakukan tanpa menghabiskan plafon. Pisahkan transaksi aktual, dukungan natura, asumsi, dan rencana. Perbedaan akses dana tidak menjadi dasar pemberian nilai lebih tinggi.
+
+## Capaian yang harus dibuktikan
+
+1. Mengenali kekuatan, keterbatasan, nilai, dan narasi diri; memilih respons yang bertanggung jawab.
+2. Menghubungkan kompetensi yang telah dibuktikan dengan kebutuhan pihak lain dan kebutuhan belajar baru.
+3. Mendengar dan memvalidasi masalah sebelum menyampaikan solusi; menyesuaikan TAIDA setiap person.
+4. Menegosiasikan manfaat, biaya, peran, kewenangan, keberatan, dan tindak lanjut dalam tujuh ranah.
+5. Menguji manfaat serta dampak yang tidak diinginkan; mengubah solusi berdasarkan respons.
+6. Mempertanggungjawabkan klaim, sumber daya, kontribusi, penggunaan AI, dan rencana keberlanjutan.
+
+## Tujuh ranah komunikasi
+
+| Ranah | Pertanyaan dan tugas performance | Bukti minimum per tim/individu |
+|---|---|---|
+| **Intraself** | Siapa saya dalam masalah ini? Apa yang saya mampu, takutkan, asumsikan, dan perlu pelajari? Bagaimana saya memilih respons ketika ditolak atau dikritik? | Setiap mahasiswa: peta sosok–kompetensi dengan bukti karya/pengalaman; dua episode jurnal sebelum/sesudah tantangan; satu internal agreement dan bukti tindak lanjut |
+| **Tim kerja** | Bagaimana kekuatan anggota saling melengkapi? Bagaimana membagi kerja, mendengar ketidaksetujuan, dan memperbaiki komitmen? | Kontrak tim; pembagian peran; satu rapat keputusan dan satu review/replay; catatan kontribusi setiap anggota |
+| **Pendukung dana** | Mengapa sumber daya layak dipercayakan kepada tim? Apa manfaat, batas janji, tahapan pencairan, dan pertanggungjawabannya? | Proposal maksimal dua halaman; anggaran; pitch dan tanya jawab; keputusan dukungan/penolakan beserta syarat dan tindak lanjut. Panel kelas dapat menjadi calon pendukung dana |
+| **Pelanggan** | Masalah apa yang cukup penting bagi pembayar/pengguna? Apa tanda solusi diterima dan bagaimana layanan dilanjutkan? | Minimal tiga percakapan discovery dengan calon pengguna/pembayar; konfirmasi masalah prioritas; demonstrasi dan respons uji; penawaran serta kesepakatan atau penolakan beralasan |
+| **Stakeholder lain** | Siapa yang mengizinkan, menjalankan, memasok, atau menanggung risiko? Kepentingan siapa berbeda? | Peta kewenangan dan kepentingan; satu negosiasi dengan mitra operasional/pemasok/pengelola lokasi/staf atau pihak relevan; pilihan dan trade-off; keputusan dan review |
+| **Komunitas** | Siapa yang terdampak tetapi tidak membeli? Apakah akses, beban kerja, atau kebiasaan mereka berubah? | Dialog dengan minimal dua wakil/pihak terdampak dengan perspektif berbeda; keberatan; tanggapan tim; perubahan atau alasan mempertahankan desain |
+| **Publik** | Bagaimana menjelaskan manfaat, bukti, keterbatasan, dan ajakan dengan bahasa yang dipahami orang di luar proyek? | Video 60–90 detik atau poster/halaman ringkas; uji pemahaman dengan minimal tiga orang di luar tim; catatan respons dan satu revisi |
+
+Jumlah di atas adalah minimum tim, kecuali intraself yang wajib individual. Orang yang sama boleh memiliki beberapa peran, tetapi tim harus membedakan kepentingan, tujuan percakapan, dan bukti setiap ranah. Komunitas bukan sekadar calon pelanggan; publik mencakup orang yang belum mengenal konteks proyek.
+
+Setiap mahasiswa wajib menunjukkan kontribusi berbicara, mendengar, dan beradaptasi pada enam ranah eksternal; tidak harus menjadi pembicara utama pada setiap sesi. Cantumkan ID bukti individual per ranah. Jika kesempatan kurang, lakukan sesi pelengkap terarah. Peta stakeholder dan testimoni tidak menggantikan bukti perilaku mahasiswa.
+
+## Alur perkuliahan Minggu 9–15 dan UAS terpisah
+
+| Minggu | Kegiatan dan hubungan materi | Hasil/checkpoint |
+|---|---|---|
+| 9 | Kembali ke sosok dan intraself; pilih sektor; discovery; petakan current state dan desired state | Peta kompetensi, masalah terkonfirmasi, kondisi awal, dan alasan memilih masalah |
+| 10 | Kontrak tim; bandingkan pilihan solusi; susun pilot, anggaran, dan ukuran hasil | Brief proyek, rencana uji, kesepakatan peran, dan kriteria berhenti/mengubah arah |
+| 11 | Pitch pendanaan; negosiasi pelanggan dan stakeholder lain | Keputusan dukungan, lingkup pilot, kewenangan, pembagian manfaat/biaya, dan jadwal review |
+| 12 | Deliberasi komunitas dan pelaksanaan uji kecil | Catatan keberatan, hasil uji, perubahan desain, dan evaluasi dampak |
+| 13 | Artefak publik dan uji pemahaman; tindak lanjut pelanggan | Pesan sebelum/sesudah revisi dan respons audiens |
+| 14 | Audit bukti, sumber daya, dan AI; replay; rencana operasi dan serah terima | Bukti individual lengkap, hasil terukur, batas klaim, dan rencana keberlanjutan |
+| 15 | Capstone perkuliahan: latihan integrasi, review sejawat/dosen, dan replay | Portfolio mingguan, umpan balik, dan daftar perbaikan untuk persiapan UAS |
+| UAS (jadwal ujian tersendiri) | Demonstrasi final, forum multipihak, pembelaan individual | Portfolio UAS final, keputusan lanjut/ubah/hentikan, refleksi dan komitmen belajar |
+
+Minggu 15 adalah pertemuan perkuliahan untuk capstone dan umpan balik formatif. UAS berlangsung terpisah setelah rangkaian perkuliahan sesuai kalender ujian; tanggal diumumkan dosen. Portfolio dan nilai Minggu 15 dicatat terpisah dari paket dan nilai UAS. Bukti latihan dapat dikembangkan untuk UAS dengan menunjukkan revisi serta tindak lanjutnya.
+
+Untuk waktu lebih singkat, gabungkan tahap persiapan dan persempit pilot; pertahankan tujuh ranah dan kesempatan individual. Bila mitra lapangan tidak tersedia, gunakan mitra kelas atau role-play dengan brief berbeda dan hambatan setara. Tandai bukti simulasi; hasilnya tidak boleh diklaim sebagai dampak lapangan.
+
+## Membuktikan bahwa semua pihak berkembang
+
+“Berkembang” harus diterjemahkan menjadi perubahan yang bermakna bagi pihak terkait. Mereka boleh menolak solusi atau meminta perubahan. Jangan menganggap persetujuan, laba, atau popularitas sebagai satu-satunya tanda keberhasilan.
+
+| Pihak | Contoh perubahan yang diuji | Cara memeriksa |
+|---|---|---|
+| Mahasiswa | Mampu memisahkan fakta dan cerita, mendengar keberatan, atau belajar kompetensi baru | Perbandingan episode, karya, feedback, dan replay |
+| Tim | Pembagian peran lebih jelas dan komitmen lebih andal | Tindakan yang selesai dibanding komitmen; review anggota |
+| Pendukung dana | Memahami penggunaan sumber daya, risiko, dan hasil | Tanya jawab, laporan realisasi, keputusan tahap berikutnya |
+| Pelanggan | Beban tugas turun, mutu naik, atau keputusan lebih mudah | Ukuran sebelum/sesudah dan wawancara pengguna |
+| Stakeholder lain | Peran, biaya, kewenangan, dan dukungan lebih jelas | Konfirmasi kesepakatan dan bukti tindak lanjut |
+| Komunitas | Akses atau kemampuan meningkat tanpa memindahkan beban secara tersembunyi | Feedback pihak terdampak dan pemeriksaan siapa dirugikan/tertinggal |
+| Publik | Memahami masalah, manfaat, batas solusi, dan pilihan bertindak | Pertanyaan pemahaman dan analisis salah tafsir sebelum/sesudah revisi |
+
+Untuk setiap pihak catat: **keadaan awal → perubahan yang diharapkan → indikator → bukti → hasil aktual → biaya/risiko → tindak lanjut dan penanggung jawab**. Laporkan pihak yang belum mendapat manfaat atau mengalami kerugian dan bagaimana tim merespons. Dampak jangka panjang tetap berupa hipotesis jika belum diamati.
+
+## Rancangan sumber daya Rp10 juta
+
+Contoh alokasi berikut adalah latihan perencanaan yang dapat diubah berdasarkan kebutuhan tervalidasi.
+
+| Pos | Batas rencana contoh |
+|---|---:|
+| Discovery, komunikasi, dan transportasi | Rp1.000.000 |
+| Belajar dan penguatan kompetensi | Rp1.000.000 |
+| Bahan, alat, atau prototipe | Rp2.500.000 |
+| Pelaksanaan pilot dan pengujian | Rp2.000.000 |
+| Pelatihan, dokumentasi, dan akses komunitas | Rp1.000.000 |
+| Komunikasi publik dan menjangkau pelanggan | Rp500.000 |
+| Operasi awal dan dukungan setelah pilot | Rp1.000.000 |
+| Cadangan | Rp1.000.000 |
+| **Total** | **Rp10.000.000** |
+
+Sajikan volume × biaya satuan, dasar estimasi, sumber dana, waktu penggunaan, realisasi, selisih, dan bukti transaksi bila ada. Catat jam kerja serta dukungan natura secara terpisah agar biaya tersembunyi terlihat. Bedakan belanja modal, biaya berulang, pendapatan, dan saldo kas. Modal yang dipakai kembali tetap ditelusuri; jelaskan batas kebutuhan kas awal dan penggunaan pendapatan berikutnya.
+
+Jika menawarkan layanan berbayar, tunjukkan dasar harga, biaya per layanan, kapasitas tim, serta biaya operasi lanjutan. Untuk proyek sosial, jelaskan siapa yang membiayai keberlanjutan. Proposal pendanaan menyebut bentuk dukungan, penggunaan, milestone, pelaporan, dan keputusan ketika uji gagal. Pencairan bertahap dapat disimulasikan; tidak perlu menghimpun dana nyata untuk memenuhi tugas.
+
+## Contoh proyek: usaha laundry kehilangan jejak pesanan
+
+**Contoh fiktif, seluruh angka berikut merupakan target uji, bukan hasil aktual.** Tim memiliki kompetensi wawancara, desain informasi, pengolahan data, dan fasilitasi pelatihan. Mereka menduga catatan pesanan tersebar menyebabkan staf kesulitan memberi kabar kepada pelanggan. Dugaan itu harus diperiksa melalui discovery.
+
+Solusi awal berupa papan status pesanan dan format pesan yang konsisten; pencatatan digital atau AI untuk menyusun pesan baru dipertimbangkan bila berguna. Pilot dibatasi pada satu gerai dan satu alur pesanan selama tujuh hari. Contoh indikator: waktu mencari status pesanan dan proporsi catatan yang lengkap, dibanding kondisi awal dengan tugas yang sebanding. Ukur pula waktu input tambahan dan kesalahan agar manfaat tidak sekadar memindahkan beban ke staf.
+
+Mahasiswa mengolah rasa takut ditolak menjadi pertanyaan discovery; tim menegosiasikan peran; pendukung dana menilai biaya uji; pemilik dan pelanggan menilai manfaat; staf serta pemasok alat menyepakati dukungan; komunitas membahas akses pelanggan yang tidak memakai ponsel; publik menguji apakah pesan layanan mudah dipahami. Setelah uji, tim memilih melanjutkan, mengubah, atau menghentikan solusi berdasarkan bukti. Pelanggan kedua hanya menjadi uji kemungkinan transfer, bukan kewajiban penjualan.
+
+Alternatif proyek: pendampingan katalog UMKM oleh mahasiswa desain dan komunikasi; alat bantu belajar oleh mahasiswa pendidikan dan teknologi; perbaikan pemilahan sampah oleh tim dengan kompetensi lingkungan dan fasilitasi. Setiap pilihan tetap memerlukan masalah terkonfirmasi dan tujuh ranah komunikasi.
+
+## Paket pengumpulan
+
+Kumpulkan satu indeks portfolio tim yang menautkan:
+
+1. **Brief proyek** maksimal tiga halaman: masalah, pihak terkait, talenta/kompetensi beserta bukti, alternatif solusi, pilot, indikator, dan batas klaim.
+2. **Peta person dan stakeholder**: peran, kepentingan, hubungan, kewenangan, current/desired state, dan kebutuhan bahasa masing-masing.
+3. **Dokumen sumber daya**: proposal pendanaan, anggaran/realisasi, kontribusi natura, penawaran, dan rencana operasi/serah terima.
+4. **Tujuh laporan ranah komunikasi**, termasuk jurnal intraself masing-masing anggota. Bukti dapat dibagi antarlaporan melalui ID; tidak perlu menggandakan rekaman.
+5. **Laporan pilot**: protokol uji, hasil awal/akhir, feedback, dampak tak diinginkan, keterbatasan, dan keputusan lanjut/ubah/hentikan.
+6. **Refleksi individual menurut NIM**: kontribusi, satu perubahan narasi diri, satu adaptasi penting, replay, bukti tindakan, dan target belajar berikutnya.
+
+Gunakan lokasi usulan `portfolio/UAS/` atau folder/LMS yang ditetapkan dosen. Jika memakai halaman Quarto baru, tambahkan jalurnya pada konfigurasi render. Bukti sensitif disimpan terbatas; indeks publik cukup memuat ringkasan yang disamarkan dan mekanisme akses assessor.
+
+Format satu laporan komunikasi:
+
+| Isian | Yang dituliskan |
+|---|---|
+| Identitas bukti | ID, tanggal, ranah, person/peran, nyata atau simulasi, nama kontributor |
+| Tujuan dan keadaan awal | Pemahaman/tindakan yang hendak berubah; fakta dan asumsi yang dipisahkan |
+| Persiapan | Kepentingan, kewenangan, TAIDA, pilihan bahasa, dan dugaan respons |
+| Bukti perilaku | Kutipan/transkrip dengan timestamp atau nomor baris; tindakan mahasiswa dan respons pihak lain |
+| Adaptasi | Respons apa yang mengubah pertanyaan, bahasa, penawaran, atau keputusan |
+| Hasil | Kesepakatan atau ketidaksetujuan spesifik; siapa melakukan apa, kapan, dan kapan review |
+| Relasi dan perkembangan | Manfaat, beban/risiko, feedback, keadaan akhir, serta hal yang belum terjawab |
+| Akuntabilitas | Kontribusi individual, sumber, penggunaan AI, batas data, dan tindak lanjut |
+
+Jurnal intraself menggunakan urutan **event/fakta → interpretasi/narasi → emosi → sosok yang muncul → alternatif respons → pilihan → tindakan → hasil dan review**. Mahasiswa dapat memilih episode yang layak dibagikan tanpa membuka pengalaman pribadi sensitif.
+
+## Usulan penilaian individual
+
+| Komponen | Bobot |
+|---|---:|
+| Intraself, sosok, kompetensi, dan perubahan diri | 15% |
+| Komunikasi tim kerja | 10% |
+| Komunikasi pendukung dana | 10% |
+| Komunikasi pelanggan | 15% |
+| Komunikasi stakeholder lain | 10% |
+| Komunikasi komunitas | 10% |
+| Komunikasi publik | 10% |
+| Integrasi pilot, pertanggungjawaban, pembelaan individual, dan replay | 20% |
+| **Total** | **100%** |
+
+Nilai setiap komponen didasarkan pada bukti mahasiswa bersangkutan. Artefak bersama memberi konteks, tetapi anggota tidak otomatis menerima nilai sama. Perolehan dana, omzet, penggunaan uang pribadi, kecanggihan teknologi, dan jumlah pengikut bukan ukuran langsung nilai komunikasi.
+
+Gunakan enam dimensi berikut untuk setiap komponen. Dalam intraself, “mendengarkan” berarti memeriksa narasi dengan fakta/feedback; “kesepakatan” berarti internal agreement dan tindakan. Dalam komponen integrasi, gunakan bukti lintas ranah dan jawaban pembelaan untuk menilai keterhubungan keputusan.
+
+| Dimensi | 1 — Awal | 2 — Berkembang | 3 — Kompeten | 4 — Lanjut |
+|---|---|---|---|---|
+| Person, tujuan, konteks | Mengandalkan label; tujuan kabur | Mengenali peran dan sebagian keadaan | Memetakan person, tujuan, keadaan, dan kewenangan dengan bukti | Memperbarui peta saat relasi, kepentingan, atau keadaan berubah |
+| Mendengar dan memvalidasi | Monolog; asumsi dianggap fakta | Bertanya tetapi konfirmasi belum tuntas | Pertanyaan terbuka, rangkuman, dan konfirmasi mengarahkan keputusan | Mengungkap kebutuhan tersembunyi dan memeriksa suara yang kurang berkuasa |
+| Bahasa, narasi, dan bukti | Jargon atau klaim tanpa dasar | Bahasa sebagian sesuai; bukti belum terhubung | Pesan sesuai audiens; fakta, asumsi, target, dan hasil dibedakan | Menguji pemahaman dan memperbaiki salah tafsir lintas audiens |
+| Respons dan adaptasi | Mengabaikan respons | Menyadari respons tetapi revisi terbatas | Mengubah langkah berdasarkan respons dan menguji kembali | Menangani respons tak terduga serta menjelaskan trade-off revisi |
+| Kesepakatan, tindakan, relasi | Memaksa setuju atau hasil ambigu | Tindak lanjut ada tetapi belum jelas | Kesepakatan/penolakan spesifik, owner, waktu, review, dan relasi terjaga | Mengelola konflik, ketimpangan kuasa, dan perbaikan relasi secara teruji |
+| Akuntabilitas dan pembelajaran | Kontribusi/klaim/sumber daya tidak jelas | Pengungkapan ada tetapi sulit ditelusuri | Bukti, kontribusi, biaya, batas AI, dan pelajaran dapat ditelusuri | Mengaudit keterbatasan, dampak, dan transfer belajar; menguji perbaikan |
+
+Nilai komponen /100 = **jumlah enam skor ÷ 24 × 100**. Nilai UAS = jumlah **bobot desimal × nilai komponen**. Total bobot 1,00. **BT (belum terbukti) bukan nol**: jika satu dimensi belum dapat dinilai, tandai komponen BT dan tunda nilai akhir sampai bukti dilengkapi. Skor 1 diberikan ketika ada perilaku yang teramati pada tingkat awal. Assessor menyertakan ID bukti dan satu prioritas perbaikan. Ambang kelulusan mengikuti keputusan dosen, tidak mengambil otomatis ambang rubrik mingguan /20.
+
+## Forum ujian dan pembelaan
+
+Forum tim 25 menit: paparan masalah dan kompetensi 5 menit; demonstrasi serta hasil 5 menit; tanya jawab multipihak 10 menit; revisi keputusan 5 menit. Setiap anggota memperoleh giliran bermakna.
+
+Pembelaan individual sekitar 8 menit dijadwalkan terpisah: telusuri satu episode intraself, satu kontribusi komunikasi dengan bukti, dan satu perubahan kondisi. Contoh perubahan kondisi: pendukung dana hanya menyediakan Rp3 juta, pelanggan menolak biaya berulang, atau komunitas menolak cara pengumpulan data. Mahasiswa menjelaskan fakta yang perlu diperiksa, kepentingan yang berubah, revisi solusi/anggaran, serta cara merundingkannya. Penolakan yang ditangani secara kompeten tetap dapat menghasilkan nilai baik.
+
+## Penggunaan AI dan inspirasi percakapan
+
+Transkrip yang disampaikan dosen menginspirasi pola **belajar sesuai kebutuhan → mendengar masalah → membuat uji kecil → menawarkan manfaat → merundingkan dukungan dan pemeliharaan → memeriksa kemungkinan perluasan**. Statistik jumlah usaha dan adopsi AI serta contoh tarif dalam transkrip tidak digunakan sebagai fakta atau patokan tugas. Rp10 juta merupakan skenario tugas tersendiri.
+
+Mahasiswa menyatakan alat, tujuan, instruksi penting, hasil yang dipakai/ditolak, verifikasi, dan keputusan manusia. Wawancara, testimoni, transaksi, dan hasil uji tidak boleh direkayasa oleh AI. Minta izin untuk merekam serta menggunakan data mitra; samarkan data pribadi dalam portfolio. Demonstrasi memakai data contoh bila izin data nyata belum tersedia. Penawaran menyebut lingkup, biaya berulang, dukungan, penanggung jawab, dan pengakhiran/serah terima agar pihak lain dapat memilih secara sadar.

@@ -16,6 +16,8 @@ Menunjukkan performance utuh yang menghasilkan agreement/action atau specific di
 
 ## Hasil belajar
 
+Minggu 15 merupakan capstone perkuliahan untuk latihan integrasi, umpan balik, dan replay. [UAS](../lk/lk-UAS/index.qmd) dilaksanakan pada jadwal ujian tersendiri setelah rangkaian perkuliahan. Portfolio dan nilai Minggu 15 dicatat terpisah dari paket dan nilai UAS.
+
 - Mengelola communication sebagai closed loop.
 - Menyeimbangkan action dan relationship.
 - Menunjukkan humility, courage, care, dan accountability.

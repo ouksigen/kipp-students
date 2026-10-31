@@ -1,0 +1,59 @@
+---
+title: "UAS — Temukan Dayamu, Ciptakan Manfaat Bersama"
+description: "Dengan sosok, talenta, kompetensi, dan modal maksimal Rp10 juta, mulai dari satu masalah nyata dan tumbuh bersama."
+---
+
+## Ada sesuatu dalam dirimu yang dibutuhkan seseorang
+
+Mungkin kamu pandai mendengarkan. Mungkin kamu suka merapikan hal yang berantakan, membuat gambar, mengolah data, menjelaskan sesuatu, merakit alat, atau mempertemukan orang. Kemampuan yang terasa biasa bagimu bisa sangat berarti bagi seseorang yang sedang menghadapi kesulitan.
+
+UAS ini mengajakmu menemukan pertemuan itu: **antara siapa dirimu, apa yang bisa kamu lakukan, dan apa yang sungguh dibutuhkan orang lain.**
+
+Bayangkan seorang pemilik usaha yang kewalahan melayani pelanggan. Seorang pekerja yang harus mengulang pekerjaan yang sama. Sebuah komunitas yang punya gagasan baik tetapi belum menemukan cara menjalankannya. Datanglah dengan rasa ingin tahu. Dengarkan ceritanya. Temukan satu hal yang bisa kalian perbaiki bersama.
+
+Lalu tanyakan kepada dirimu: **“Dengan kemampuan yang saya miliki sekarang, kontribusi apa yang bisa saya mulai?”**
+
+## Tantanganmu: sosok, kompetensi, dan Rp10 juta
+
+> **Dengan sosok, talenta, kompetensi, dan modal awal maksimal Rp10 juta per tim, bagaimana kalian memecahkan satu masalah nyata sehingga semua pihak mendapat kesempatan berkembang?**
+
+Bentuk tim 3–4 mahasiswa. Perjumpakan kekuatan kalian. Pilih masalah yang membuat kalian peduli dan penasaran. Buat solusi kecil yang bisa dicoba, lalu perbaiki berdasarkan pengalaman orang yang menggunakannya.
+
+Rp10 juta menjadi batas untuk melatih kecerdikan: apa yang paling penting dibiayai? Apa yang bisa dipinjam, dipelajari, disederhanakan, atau dikerjakan bersama? Mulailah dengan sumber daya yang tersedia. Kamu tidak diwajibkan menyediakan uang pribadi; angka tersebut adalah plafon rancangan, bukan pengumuman hibah. Pisahkan dengan jelas dana, tindakan, dan hasil yang nyata dari yang masih berupa rencana atau simulasi.
+
+Solusimu dapat berupa jasa, panduan, desain, perbaikan proses, kegiatan belajar, alat, atau teknologi. Gunakan AI ketika membantu. Gunakan pengalaman, jejaring, kreativitas, dan keterampilan tanganmu ketika itu yang dibutuhkan. Setiap pilihan perlu bisa dijelaskan kepada pihak yang akan menggunakannya.
+
+## Nikmati saat gagasanmu bertemu kenyataan
+
+Ada kegembiraan ketika seseorang berkata, “Nah, ini membantu saya.” Ada kejutan ketika pertanyaan sederhana membuka masalah yang sebelumnya tidak terlihat. Ada kepuasan ketika teman satu tim melakukan sesuatu yang belum bisa kamu lakukan sendiri.
+
+Berikan ruang untuk pengalaman itu. Coba versi kecil. Tunjukkan lebih awal. Mintalah orang mencoba dan menjelaskan apa yang mereka alami. Bila jawaban mereka berbeda dari dugaanmu, berhentilah sejenak, dengarkan, lalu cari pilihan berikutnya. **Rasa ingin tahu dan kesediaan memperbaiki adalah bekal untuk terus bergerak.**
+
+Kamu akan berlatih berbicara dengan diri sendiri saat ragu, membangun komitmen dengan tim, meminta kepercayaan pendukung dana, memahami pelanggan, merundingkan kepentingan stakeholder lain, mendengar komunitas, dan menjelaskan manfaat kepada publik. Dalam setiap perjumpaan, perhatikan: apa yang berubah pada mereka, pada solusimu, dan pada dirimu?
+
+## Mulai dengan satu percakapan
+
+Ajak timmu melakukan tiga langkah pertama:
+
+1. **Ceritakan satu kemampuanmu.** Tunjukkan karya atau pengalaman kecil yang membuatmu berkata, “Di sini saya bisa berkontribusi.” Dengarkan juga kekuatan temanmu.
+2. **Pilih seseorang untuk didengarkan.** Tanyakan, “Pekerjaan atau situasi apa yang belakangan ini paling menyulitkan Anda?” Minta contoh kejadian dan periksa kembali pemahamanmu.
+3. **Sepakati satu percobaan kecil.** Pilih sesuatu yang bisa ditunjukkan, dicoba, dan dimintakan tanggapan. Tentukan siapa mengerjakan apa dan kapan kalian meninjau hasilnya.
+
+Simpan jejaknya: pertanyaan yang membuka pemahaman, keberatan yang mengubah desain, kesepakatan yang dijalankan, dan hal yang masih belum berhasil. Jejak itulah bahan portfolio UAS-mu. Catat sambil bekerja agar kalian bisa melihat perjalanan dan belajar darinya.
+
+## Datang ke UAS membawa cerita perubahan
+
+Pada Minggu 15, gunakan studio capstone perkuliahan untuk mencoba demonstrasi, memperoleh umpan balik, dan melakukan replay. **UAS berlangsung pada jadwal ujian tersendiri**, dengan portfolio dan penilaian yang terpisah. Bawa hasil yang sudah diperbaiki serta bukti kontribusimu.
+
+Tunjukkan siapa yang terbantu, apa buktinya, siapa yang masih menanggung beban, dan apa yang perlu dilakukan berikutnya. Penolakan yang kamu dengarkan dengan baik, janji yang kamu perbaiki, atau keputusan menghentikan solusi yang kurang layak juga dapat menunjukkan kematangan komunikasimu.
+
+**Selamat menemukan dayamu dan menikmati kerja bersama. Mulailah dari seseorang, satu masalah, dan satu langkah yang bisa kalian lakukan.**
+
+## Bekal untuk perjalananmu
+
+- [Mulai mengisi template portfolio UAS dan 14 artefak pendukung](../../portfolio/UAS/index.qmd) dengan kasus timmu sendiri.
+
+- [Baca rancangan proyek tujuh ranah komunikasi, tahapan, artefak, dan rubrik UAS](../lk-UAS/rancangan-talenta.qmd).
+- [Jelajahi contoh portfolio UAS Jejak Laundry](../../examples/UAS/index.qmd). Semua tokoh dan buktinya fiktif; gunakan untuk memahami bentuk pengisian, kemudian bangun ceritamu sendiri.
+- [Lihat dokumen UAS awal: jasa penerapan AI untuk UMKM](../lk-UAS/index.qmd). Cakupan dan bobotnya berbeda dari usulan tujuh ranah; ikuti paket penilaian yang ditetapkan dosen.
+

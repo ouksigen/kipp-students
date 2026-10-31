@@ -1,1 +1,91 @@
-# Ujian Akhir Semester (TBD)
+---
+title: "UAS — Dari Aspirasi ke Usaha Solusi"
+description: "Membantu UMKM dengan AI dan modal awal maksimal Rp10 juta."
+---
+
+[Mulai dari pengantar UAS: Temukan Dayamu, Ciptakan Manfaat Bersama](../UAS/index.qmd).
+
+Rancangan UAS ini **disetujui dosen pada 19 Oktober 2026**. Mahasiswa merintis jasa penerapan AI untuk menyelesaikan satu persoalan nyata usaha kecil/UMKM sesuai aspirasi dan kemampuan tim.
+
+## Tantangan UAS
+
+> Dengan modal awal maksimal Rp10 juta, bagaimana tim kami menemukan persoalan nyata usaha kecil, membuktikan manfaat solusi AI yang layak, lalu mengomunikasikan dan menegosiasikan implementasi serta pemeliharaannya sambil memberi manfaat bagi masyarakat?
+
+Bentuk tim **3–4 mahasiswa**. Hubungkan aspirasi anggota dengan sektor pilihan, misalnya kuliner, pendidikan, jasa perbaikan, atau layanan lingkungan. Setiap anggota memiliki kontribusi komunikasi yang dapat ditelusuri.
+
+**Rp10 juta adalah plafon modal awal usaha tim**, mencakup belajar, discovery, prototipe, pengujian, dan menjangkau pelanggan. Angka ini bukan harga jual per pelanggan, kewajiban menyediakan uang pribadi, atau pengumuman hibah. Jika dana belum tersedia, uji minimum dilakukan dengan sumber daya tersedia; pisahkan hasil aktual dari rencana.
+
+## Alur proyek
+
+1. Pilih sektor; dengarkan pemilik usaha, staf, dan calon pengguna.
+2. Validasi masalah, kondisi awal, prioritas, dan kewenangan mengambil keputusan.
+3. Buat demonstrasi sempit dengan alat yang sesuai, lalu uji fungsi dan kesalahannya.
+4. Sepakati pilot, ukuran hasil, batas data, penanggung jawab, dan review.
+5. Susun penawaran implementasi: manfaat, lingkup, harga usulan, pelatihan, kriteria penerimaan.
+6. Negosiasikan pemeliharaan: periode biaya, dukungan, batas perubahan, biaya alat, dan pengakhiran layanan.
+7. Evaluasi kemungkinan melayani pelanggan kedua; jelaskan penyesuaian yang diperlukan. Kontrak kedua tidak diwajibkan.
+
+AI digunakan sesuai kebutuhan tervalidasi. Jika solusi sederhana lebih layak, jelaskan perbandingan dan keputusan kepada mitra. Iklan berbayar opsional. Harga mengikuti kebutuhan dan biaya, bukan otomatis tarif dalam video inspirasi.
+
+## Lima situasi komunikasi
+
+| Audiens | Tujuan dan evidence |
+|---|---|
+| Tim kerja | Menyatukan aspirasi; kesepakatan peran, owner, tenggat, dependensi, penyelesaian perbedaan |
+| Pemilik usaha/mitra | Discovery, demonstrasi, negosiasi implementasi/pemeliharaan; kebutuhan dan syarat menerima/menolak |
+| Calon pemberi dana | Pitch modal; anggaran Rp10 juta, asumsi biaya/harga, milestone, risiko, pelaporan |
+| Komunitas | Mendengarkan pihak terdampak; keberatan, perubahan desain, persetujuan terbatas, review |
+| Publik | Pesan manfaat yang bertanggung jawab; video 60–90 detik atau poster/halaman ringkas, respons audiens, revisi |
+
+Gunakan siklus **tujuan → dugaan → validasi → respons → adaptasi → kesepakatan/penolakan beralasan → tindak lanjut**. Bedakan pengguna, pembayar, penerima manfaat, pemilik usaha, dan pemberi dana.
+
+Minimum discovery: tiga percakapan dengan calon pengguna/anggota komunitas dan satu dengan calon mitra operasional. Satu kegiatan boleh mendukung beberapa tujuan bila bukti dan perannya jelas. Setiap mahasiswa menunjukkan kemampuan berbicara, mendengar, dan beradaptasi pada kelima situasi; gunakan sesi pelengkap jika kesempatan kurang.
+
+Pitch pendanaan dapat memakai panel kelas. Artefak publik boleh diuji pada audiens terbatas. Jika akses lapangan tidak tersedia, dosen menyediakan mitra kelas atau pemeran dengan brief setara; tandai simulasi secara jelas.
+
+## Tahapan perkuliahan dan UAS
+
+| Minggu | Fokus |
+|---|---|
+| 9 | Aspirasi, discovery, current/desired state |
+| 10 | Pilot, anggaran, komitmen tim |
+| 11 | Negosiasi mitra, penawaran layanan, pendanaan |
+| 12 | Dialog komunitas dan uji minimum bersama pengguna/staf |
+| 13 | Komunikasi publik dan tindak lanjut calon pelanggan |
+| 14 | Audit AI/bukti/klaim, replay, evaluasi transfer ke pelanggan kedua |
+| 15 | Capstone perkuliahan: latihan integrasi, umpan balik, replay, dan pemeriksaan kesiapan portfolio |
+| UAS (jadwal ujian tersendiri) | Demonstrasi final, panel, pengumpulan portfolio UAS, dan pembelaan individual |
+
+Minggu 15 adalah pertemuan perkuliahan dengan assessment formatif/portfolio mingguan. UAS dilaksanakan terpisah setelah rangkaian perkuliahan sesuai jadwal ujian yang diumumkan dosen. Umpan balik Minggu 15 digunakan untuk menyempurnakan paket UAS; nilai Minggu 15 dan nilai UAS dicatat terpisah. Jika waktu lebih pendek, tahap persiapan dapat digabung dengan mempersempit pilot sambil mempertahankan lima situasi komunikasi.
+
+## Bobot UAS
+
+| Komponen | Bobot |
+|---|---:|
+| Brief aspirasi, validasi masalah, rancangan pilot Rp10 juta | 10% |
+| Komunikasi tim kerja | 15% |
+| Komunikasi pemilik usaha/mitra | 15% |
+| Komunikasi pendanaan | 15% |
+| Komunikasi komunitas | 15% |
+| Komunikasi publik dan respons audiens | 15% |
+| Pembelaan individual, refleksi, replay | 15% |
+| **Total** | **100%** |
+
+Nilai bersifat individual meskipun artefak bersama. Nilai akhir UAS /100 = **0,10 × brief + 0,15 × (tim + mitra + pendanaan + komunitas + publik + pembelaan individual)**; setiap nilai komponen berskala 0–100.
+
+Enam dimensi performance: tujuan/person/konteks; mendengarkan/validasi; bahasa/narasi/evidence; respons/adaptasi; negosiasi/tindakan/relasi; akuntabilitas klaim/sumber daya/AI. Descriptor lengkap diumumkan sebelum penilaian resmi. Jika descriptor dan keenam skor sah tersedia, nilai performance = jumlah skor /24 × 100. Evidence belum cukup diberi **BT**, bukan nol; nilai akhir belum dihitung bila ada komponen BT.
+
+Nilai menekankan komunikasi berbukti, bukan semata perolehan dana, penjualan, persetujuan pihak lain, kecanggihan aplikasi, atau jumlah pengikut. Ambang kelulusan dan bobot UAS terhadap nilai akhir mata kuliah diumumkan tersendiri.
+
+## Pengumpulan dan forum akhir
+
+Simpan dalam `portfolio/UAS/`: indeks proyek; brief aspirasi/discovery; anggaran rencana/realisasi; penawaran implementasi/pemeliharaan; lima laporan komunikasi; hasil pilot; refleksi individual menurut NIM.
+
+Laporan memuat tujuan, person/state map, bukti percakapan dengan ID/timestamp, respons, revisi, kesepakatan/penolakan, dan tindak lanjut. Catat kontribusi anggota serta penggunaan AI. Bedakan percakapan nyata, role-play, rencana, janji, dan tindakan aktual.
+
+Forum akhir per tim: paparan 5 menit, demonstrasi/hasil 5 menit, panel 10 menit, rangkuman revisi 5 menit. Pembelaan individual sekitar 8 menit dijadwalkan terpisah, termasuk pertanyaan perubahan kondisi dan bukti kontribusi.
+
+## Inspirasi
+
+Gagasan jasa penerapan AI bagi usaha kecil merujuk [reel yang diberikan dosen](https://www.facebook.com/reel/1657337778952282) melalui transkrip yang disampaikan dosen. Angka statistik dan contoh tarif di dalamnya belum diverifikasi dan bukan ketentuan tugas. Skenario USD500 dalam video tidak dianggap setara dengan plafon Rp10 juta UAS.
+

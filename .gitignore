@@ -5,3 +5,5 @@
 .DS_Store
 Thumbs.db
 
+/.paper-preview/
+/docs/.tmp/

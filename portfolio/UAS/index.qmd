@@ -1,0 +1,99 @@
+---
+title: "Portfolio UAS — [Judul Proyek Tim]"
+status: "Belum dimulai"
+self_score: "—"
+assessor_score: "—"
+description: "Proyek komunikasi tujuh ranah berbasis sosok, kompetensi, dan modal maksimal Rp10 juta."
+categories: [Assessment, UAS]
+---
+
+::: {.callout-tip title="Mulai dari kasusmu sendiri"}
+Baca [pengantar UAS](../../lk/UAS/index.qmd) dan [rancangan tujuh ranah](../../lk/lk-UAS/rancangan-talenta.qmd). Lihat [contoh portfolio UAS](../../examples/UAS/index.qmd) untuk tingkat kekonkretan bukti. Isi semua penanda `[Isi ...]` dengan kasus dan kontribusi sendiri; contoh fiktif bukan evidence pribadi.
+:::
+
+## Identitas proyek
+
+| Isian | Jawaban tim |
+|---|---|
+| Judul dan nama tim | [Isi] |
+| Kelas/semester | [Isi] |
+| Anggota: nama, NIM, peran | [Isi 3–4 mahasiswa] |
+| Mitra/konteks | [Isi; samarkan identitas bila perlu] |
+| Masalah prioritas | [Isi satu masalah nyata dan siapa yang mengalaminya] |
+| Solusi dan alasan sesuai kompetensi | [Isi] |
+| Mode pelaksanaan | [Isi: nyata, simulasi, atau gabungan; jelaskan bagian masing-masing] |
+| Sumber daya | [Isi modal rencana, dana tersedia, natura; plafon rencana Rp10 juta per tim] |
+| Periode proyek/jadwal UAS | [Isi tanggal aktual; jangan menyamakan UAS dengan Minggu 15] |
+| Repositori/akses bukti | [Isi tautan dan mekanisme akses assessor] |
+| Versi/tanggal pembaruan | [Isi] |
+
+## Ringkasan hasil
+
+**Kondisi awal dan bukti:** [Isi].
+
+**Yang diuji dan hasil aktual:** [Isi; jika belum diuji, tulis belum tersedia, bukan target sebagai hasil].
+
+**Perubahan penting akibat respons pihak lain:** [Isi respons, adaptasi, ID bukti].
+
+**Manfaat, beban, dan hal belum terbukti:** [Isi].
+
+**Keputusan:** [Isi lanjut/ubah/hentikan, alasan, owner, tenggat dan review].
+
+## Artefak yang harus diedit
+
+File 01, 02, dan 13 memuat bagian individual: ulangi blok untuk setiap anggota dan beri nama/NIM. Artefak tim tetap menyebut kontribusi masing-masing. Status di bawah diperbarui manual bersama metadata halaman, bukan penilaian otomatis.
+
+| No. | File portfolio | Pemilik | Status |
+|---:|---|---|---|
+| 1 | [Sosok, talenta, kompetensi](01-sosok-kompetensi.qmd) | Setiap mahasiswa | Belum dimulai |
+| 2 | [Jurnal intraself](02-intraself.qmd) | Setiap mahasiswa, dua episode | Belum dimulai |
+| 3 | [Brief masalah dan solusi](03-brief-proyek.qmd) | Tim | Belum dimulai |
+| 4 | [Peta stakeholder](04-stakeholder.qmd) | Tim | Belum dimulai |
+| 5 | [Kesepakatan dan komunikasi tim](05-tim.qmd) | Tim + bukti individual | Belum dimulai |
+| 6 | [Pendanaan dan anggaran](06-pendanaan.qmd) | Tim + bukti individual | Belum dimulai |
+| 7 | [Prototipe dan pilot](07-prototipe-pilot.qmd) | Tim | Belum dimulai |
+| 8 | [Penawaran dan pelanggan](08-pelanggan.qmd) | Tim + bukti individual | Belum dimulai |
+| 9 | [Stakeholder lain](09-stakeholder-lain.qmd) | Tim + bukti individual | Belum dimulai |
+| 10 | [Komunitas](10-komunitas.qmd) | Tim + bukti individual | Belum dimulai |
+| 11 | [Komunikasi publik](11-publik.qmd) | Tim + bukti individual | Belum dimulai |
+| 12 | [Pertumbuhan dan keberlanjutan](12-pertumbuhan.qmd) | Tim | Belum dimulai |
+| 13 | [Refleksi, pembelaan, self-assessment](13-refleksi-individual.qmd) | Setiap mahasiswa | Belum dimulai |
+| 14 | [Register bukti dan deklarasi AI](14-bukti-ai.qmd) | Tim + setiap mahasiswa | Belum dimulai |
+
+## Cara bekerja dengan template
+
+1. Isi identitas, pilih kasus, dan sepakati peran. Edit file QMD, bukan HTML hasil render.
+2. Catat bukti sambil bekerja: ID unik, tanggal, kontributor, nyata/simulasi, tautan, dan penunjuk baris/timestamp. Satu bukti boleh dirujuk lintas halaman tanpa digandakan.
+3. Untuk tiap sesi komunikasi, gunakan tabel laporan di halaman terkait. Tambahkan sesi bila satu sesi belum mencakup kontribusi semua anggota.
+4. Simpan berkas pendukung yang layak dipublikasikan di `bukti/`, lalu tautkan secara relatif dari halaman yang relevan. Baca [panduan bukti](bukti/README.md). Dokumen sensitif tetap di penyimpanan terbatas yang disepakati dengan assessor.
+5. Ubah status menjadi Draft, Siap dinilai, Perlu revisi, atau Tercapai sesuai proses. Hapus petunjuk yang tidak diperlukan setelah isi lengkap.
+
+## Minggu 15 dan UAS
+
+| Tahap | Versi/tanggal | Feedback/perubahan | ID bukti |
+|---|---|---|---|
+| Latihan capstone Minggu 15 | [Isi] | [Isi feedback formatif] | [Isi] |
+| Revisi persiapan UAS | [Isi] | [Isi tindakan/replay dan hasilnya] | [Isi] |
+| UAS pada jadwal ujian tersendiri | [Isi] | [Isi paket final dan keputusan] | [Isi] |
+
+Portfolio/nilai Minggu 15 dan UAS dicatat terpisah. Bukti latihan boleh dikembangkan dengan jejak revisi yang jelas. Bobot pada template mengikuti usulan tujuh ranah; ketentuan resmi mengikuti keputusan dosen.
+
+## Pemeriksaan sebelum meminta assessment
+
+- [ ] Setiap anggota memiliki peta diri, dua jurnal, refleksi, dan bukti kontribusi pada enam ranah eksternal.
+- [ ] Tiga discovery, negosiasi stakeholder, dialog minimal dua perspektif komunitas, dan uji minimal tiga pembaca publik terdokumentasi sesuai rancangan.
+- [ ] Prototipe bisa diperiksa; hasil dan keterbatasan pilot dijelaskan.
+- [ ] Anggaran/realisasi/kas cocok; rencana, janji, transaksi, dan hasil tidak tercampur.
+- [ ] Izin, kontribusi, penggunaan AI dan sumber tercatat; tidak ada data sensitif yang terbuka tanpa izin.
+- [ ] Tautan bukti bekerja; seluruh penanda pengisian relevan sudah diganti.
+- [ ] Nilai individual tidak disamakan otomatis. BT bukan nol; nilai akhir ditunda bila bukti/skor belum lengkap.
+
+::: {.assessor-only}
+## Catatan assessor
+
+**Tanggal/paket penilaian:** [Diisi assessor].
+
+**Status dan bukti yang masih diperlukan:** [Diisi assessor].
+
+**Prioritas perbaikan dan tindak lanjut:** [Diisi assessor; nilai individual pada file 13].
+:::

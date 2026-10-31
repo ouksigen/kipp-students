@@ -1,0 +1,6 @@
+sidebar: examples
+execute:
+  eval: false
+include-before-body:
+  - text: |
+      <aside class="callout callout-style-default callout-note"><div class="callout-body"><strong>Contoh fiktif untuk pembelajaran.</strong> Semua nama, dialog, data, transaksi, dan hasil paket ini ilustratif, bukan bukti lapangan atau nilai resmi. Gunakan pengalaman dan bukti sendiri dalam portfolio.</div></aside>

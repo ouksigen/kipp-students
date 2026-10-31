@@ -1,0 +1,48 @@
+---
+title: "Contoh Portfolio UAS — Jejak Laundry"
+description: "Artefak terisi untuk tujuh ranah komunikasi, pilot solusi, dan pembelaan individual."
+---
+
+## Identitas dan batas contoh
+
+**Tim Jejak:** Alya (CONTOH-01), Bima (CONTOH-02), Citra (CONTOH-03). Identitas semuanya fiktif. Mitra skenario: Laundry Pelangi milik Ratna. Masalah: staf kesulitan menemukan status pesanan dan pelanggan tidak mendapat kepastian kapan perlu datang kembali.
+
+Solusi: papan status internal berkode, kartu pelanggan, SOP, dan format pesan yang diperiksa manusia. AI membantu menyunting pesan; pencarian status tidak bergantung pada AI. Prototipe operasional dapat diperagakan dengan kartu meja, bukan aplikasi produksi.
+
+Paket mengikuti [usulan UAS tujuh ranah](../../lk/lk-UAS/rancangan-talenta.qmd). [Rancangan sebelumnya](../../lk/lk-UAS/index.qmd) memakai lima situasi dan bobot berbeda; jangan mencampur formula. **Seluruh hasil ilustratif**, bukan pengukuran nyata. Tidak ada audio, kuitansi, tanda tangan, mitra, atau data lapangan asli di balik contoh.
+
+## Daftar artefak terisi
+
+| No. | Artefak | Isi contoh |
+|---:|---|---|
+| 1 | [Sosok, talenta, kompetensi](01-sosok-kompetensi.qmd) | Tiga anggota, karya mini, batas dan belajar |
+| 2 | [Jurnal intraself](02-intraself.qmd) | Dua episode per anggota dan tindak lanjut |
+| 3 | [Brief masalah dan solusi](03-brief-proyek.qmd) | Tiga discovery, alternatif, indikator |
+| 4 | [Peta stakeholder](04-stakeholder.qmd) | Kepentingan, kewenangan, TAIDA, bahasa |
+| 5 | [Kesepakatan dan komunikasi tim](05-tim.qmd) | Kontrak, keputusan, review, replay |
+| 6 | [Proposal dana dan anggaran](06-pendanaan.qmd) | Pitch, plafon Rp10 juta, realisasi ilustratif |
+| 7 | [Prototipe dan laporan pilot](07-prototipe-pilot.qmd) | Papan, kartu, SOP, data lengkap dan batas |
+| 8 | [Penawaran dan komunikasi pelanggan](08-pelanggan.qmd) | Demo, penolakan biaya, revisi kesepakatan |
+| 9 | [Negosiasi stakeholder lain](09-stakeholder-lain.qmd) | Staf dan pengelola tempat, trade-off |
+| 10 | [Dialog komunitas](10-komunitas.qmd) | Dua perspektif, akses, perubahan desain |
+| 11 | [Artefak komunikasi publik](11-publik.qmd) | Poster, uji tiga pembaca, revisi |
+| 12 | [Pertumbuhan dan keberlanjutan](12-pertumbuhan.qmd) | Manfaat/beban tujuh pihak, serah terima |
+| 13 | [Refleksi dan pembelaan individual](13-refleksi-individual.qmd) | Tiga refleksi, kontribusi, perubahan kondisi |
+| 14 | [Register bukti dan deklarasi AI](14-bukti-ai.qmd) | ID/baris, status, AI dan revisi |
+
+## Urutan cerita: Minggu 15 dan UAS terpisah
+
+**H1–H21 adalah hari relatif dalam cerita**, bukan jadwal resmi.
+
+| Tahap | Isi |
+|---|---|
+| H1–H3 | Peta diri, discovery, kondisi awal, kontrak |
+| H4–H6 | Negosiasi dana, pelanggan, stakeholder, komunitas |
+| H7–H13 | Pilot tujuh hari, uji publik H12 |
+| H14 / latihan Minggu 15 | Review formatif v0.8: klaim berlebihan, data belum ditampilkan, owner cadangan kabur |
+| H15–H20 / persiapan UAS | Koreksi klaim, lampirkan data, perjelas serah terima |
+| H21 / UAS tersendiri | Portfolio v1.0 dan pembelaan; tidak ada nilai resmi di contoh |
+
+Ringkasan ilustratif: pada sepuluh tugas berpasangan, pencarian rata-rata turun **180 ke 72 detik**, lengkap **8/10 ke 10/10**, input naik **45 ke 60 detik**. Belum membuktikan keuntungan usaha. Dana cerita Rp3 juta; biaya Rp2,25 juta; sisa Rp750 ribu dikembalikan. Rp10 juta plafon, bukan belanja wajib.
+
+Struktur dapat diadaptasi ke `portfolio/UAS/` dengan bukti autentik dan konfigurasi render yang sesuai. Bukti Minggu 15 dikembangkan melalui revisi; portfolio dan penilaian UAS dicatat terpisah.
