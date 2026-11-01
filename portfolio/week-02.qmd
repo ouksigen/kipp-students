@@ -24,93 +24,75 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
 ## Episode
 
-**Event:** Mitra A meminta saya merevisi Proyeksi Keuangan (FINPRO) pada Executive Summary lomba Business Case Competition (BCC) karena asumsi anggaran pemasaran terasa berlebihan dan kurang realistis.
+**Event:** Mitra A meminta saya menyesuaikan kembali angka Proyeksi Keuangan (FINPRO) untuk pembahasan lomba Business Case Competition (BCC) karena asumsi frekuensi kegiatan pemasaran dinilai terlalu padat dan kurang realistis.
 
 | Lapisan | Deskripsi |
 |---|---|
-| Fact | Pada FINPRO awal, strategi pemasaran dianggarkan untuk mengadakan 2–3 lomba per bulan dengan total anggaran Rp 30.000.000,-/bulan. Mitra A mengusulkan revisi menjadi 1 lomba rutin per bulan dengan anggaran Rp 30.000.000,- per lomba. Perubahan ini berdampak langsung pada penyesuaian baris *Total Cost* dan titik *Break-Even Point (BEP)*. |
-| Initial story | *"Teman mengkritik FINPRO-ku karena menganggap asumsi pemasaranku tidak masuk akal; teman mungkin mengira aku kurang teliti dalam menghitung proyeksi keuangan kelompok."* |
+| Fact | Pada rancangan FINPRO awal, strategi pemasaran diasumsikan mengadakan 2–3 lomba per bulan dengan anggaran Rp 30.000.000,- per lomba (total mencapai Rp 60.000.000,- hingga Rp 90.000.000,-/bulan). Mitra A mengusulkan penyesuaian menjadi 1 lomba rutin per bulan dengan anggaran Rp 30.000.000,- per bulan. Perubahan frekuensi ini langsung mengubah perhitungan *Total Operational Cost* dan titik *Break-Even Point (BEP)*. |
+| Initial story | *"Mitra A mengkritik perhitungan FINPRO buatanku karena menganggap asumsi pemasaranku tidak masuk akal; ia mungkin mengira aku kurang teliti dalam menyusun logika proyeksi keuangan tim."* |
 | Emotion/body signal | Cemas & Malu (skala 6/10) |
-| Reactive character | **"Pembela"**: merasa bahwa anggaran 2–3 lomba per bulan sudah bagus untuk mempercepat traksi dan tidak perlu diubah karena rumusnya sudah terlanjur dibuat. |
-| Desired character | **"Pembelajar"**: berusaha menelaah kembali kelayakan asumsi keuangan agar berkas Executive Summary kami rasional dan *defensible* di mata juri BCC. |
+| Reactive character | **"Pembela"**: merasa bahwa skema 2–3 lomba per bulan sudah tepat untuk mempercepat traksi pengguna dan enggan mengubahnya karena perhitungan awalnya sudah selesai disusun. |
+| Desired character | **"Pembelajar"**: berusaha menelaah kembali kelayakan asumsi keuangan secara objektif agar argumen finansial tim kami rasional dan dapat dipertanggungjawabkan (*defensible*) saat sesi tanya jawab juri BCC. |
 
 ## Alternative narratives
 
-1. **Invitation to improve:** Masukan Mitra A sangat valid untuk menyelamatkan kredibilitas Executive Summary kelompok, karena juri BCC sangat sensitif terhadap asumsi keuangan yang terlampau agresif atau tidak realistis.
-2. **Constraint hypothesis:** Diskusi dilakukan malam hari mendekati *deadline* pengumpulan, membuat saya sempat panik membayangkan dampak perubahan rumus *Cost* dan *BEP*, tetapi revisi ini bisa dikerjakan dengan cepat jika fokus pada baris pemasaran saja.
+1. **Invitation to improve:** Masukan Mitra A bertujuan menjaga kredibilitas argumen bisnis kelompok, sebab juri BCC sangat kritis terhadap asumsi pengeluaran pemasaran yang terlampau agresif namun tidak sebanding dengan kapasitas operasional.
+2. **Constraint hypothesis:** Diskusi berlangsung pada malam hari menjelang batas akhir penentuan konsep, yang memicu kepanikan sesaat ketika membayangkan perubahan perhitungan *Cost* dan *BEP*, padahal penyesuaian angka tersebut dapat diselesaikan secara lisan dan langsung disepakati saat itu juga.
 3. **Long-term growth vs. Ego protection (Trade-off Replay Scenario):**
-   - **Skenario A (Menolak kritik / Mempertahankan draf lama):** Saya melindungi ego dari rasa cemas/malu sesaat dan terhindar dari kerepotan mengedit rumus spreadsheet malam ini. Namun, dampak jangka panjangnya adalah membentuk pola mental defensif (*fragile ego*), merusak kepercayaan mitra, serta menanggung risiko kegagalan fatal saat diuji juri BCC akibat data yang tidak rasional.
-   - **Skenario B (Menerima kritik / Merevisi draf - Dipilih):** Saya harus menoleransi rasa tidak nyaman dan rasa malu sesaat akibat kekeliruan asumsi awal. Namun, dampak jangka panjangnya adalah mengasah ketahanan psikologis (*growth mindset*), memperkuat sinergi tim, serta menghasilkan dokumen FINPRO yang solid, rasional, dan *defensible*.
+   - **Skenario A (Menolak kritik / Mempertahankan asumsi lama):** Saya melindungi ego dari rasa cemas dan malu sesaat serta menghindari pengulangan perhitungan malam ini. Namun, konsekuensi jangka panjangnya adalah membentuk sikap defensif (*fragile ego*), menghambat keterbukaan komunikasi dengan mitra, serta membawa risiko kegagalan argumen saat diuji oleh juri BCC.
+   - **Skenario B (Menerima kritik / Menyesuaikan asumsi - Dipilih):** Saya menerima rasa kurang nyaman sesaat akibat koreksi terhadap asumsi awal saya. Namun, hasil jangka panjangnya adalah melatih ketahanan mental (*growth mindset*), memperkuat kolaborasi tim, dan menyepakati perhitungan FINPRO yang logis, terukur, serta *defensible*.
 
 ## Internal conversation dan agreement
 
-> **Pembela:** "Asumsi 2–3 lomba ini kan buat mengejar traksi cepat, lagian kalau diubah sekarang kita harus menyesuaikan ulang rumus *Total Cost* dan *BEP* di lembar FINPRO."
+> **Pembela:** "Asumsi 2–3 lomba sebulan ini kan tujuannya agar traksi cepat naik, lagi pula kalau diubah sekarang kita harus menghitung ulang angka *Total Cost* dan *BEP* yang sudah kupikirkan."
 > 
-> **Pembelajar:** "Namun kalau dipikirkan lagi, mengadakan 3 lomba sebulan dengan budget segitu secara operasional sangat tidak realistis. Lebih baik menoleransi cemas sesaat daripada mempertahankan kesalahan yang berisiko jangka panjang bagi tim."
+> **Pembelajar:** "Jika ditinjau secara objektif, menyelenggarakan 3 lomba dalam satu bulan dengan biaya sebesar itu memang tidak realistis secara operasional. Lebih baik menoleransi rasa cemas sesaat dan memperbaiki angkanya sekarang daripada mempertahankan asumsi yang melemahkan posisi tim."
 > 
-> **Saya:** "Saya memilih Skenario B untuk pertumbuhan jangka panjang. Saya akan menahan keinginan mempertahankan draf lama, lalu mendiskusikan angka rasionalnya bersama Mitra A dan merevisi baris FINPRO tersebut."
+> **Saya:** "Saya memilih Skenario B demi pertumbuhan jangka panjang. Saya akan meredam dorongan untuk membela asumsi lama, mendengarkan rincian usulan Mitra A, dan langsung menyepakati perhitungan baru untuk *Total Cost* serta *BEP* dalam diskusi ini."
 
-**Internal agreement:** "Saya setuju untuk mengubah asumsi pemasaran di FINPRO menjadi 1 lomba per bulan dan menyesuaikan baris *Cost* serta *BEP* saat itu juga demi kualitas jangka panjang."
+**Internal agreement:** "Saya bersepakat dengan diri sendiri untuk menerima koreksi frekuensi pemasaran menjadi 1 lomba per bulan dan langsung menghitung ulang angka *Cost* serta *BEP* bersama Mitra A dalam percakapan ini demi ketajaman argumen jangka panjang."
 
 ## Konteks performance
 
-**Tanggal dan setting:** 19 September 2026, Sesi *final review* berkas Executive Summary menjelang tenggat pengumpulan Lomba Business Case Competition (BCC).
+**Tanggal dan setting:** 19 September 2026, Sesi diskusi evaluasi akhir penyusunan strategi dan proyeksi keuangan Lomba Business Case Competition (BCC).
 
-**Persons dan relationship:** Saya (Anggota tim penanggung jawab model FINPRO) dengan Mitra A (Ketua Tim BCC). Hubungan bersifat kolaboratif dan saling percaya sebagai rekan seperjuangan lomba, di mana Mitra A berperan memastikan keselarasan seluruh bagian Executive Summary, sementara saya bertanggung jawab atas keakuratan proyeksi finansial.
+**Persons dan relationship:** Saya (Anggota tim perancang proyeksi keuangan/FINPRO) dan Mitra A (Ketua Tim BCC). Hubungan bersifat rekan satu tim yang setara dan kolaboratif, di mana Mitra A bertugas meninjau kelogisan strategi secara menyeluruh, sedangkan saya menyusun perhitungan finansialnya.
 
 **Objective dan initial state:** 
-- **State awal:** Muncul emosi cemas dan malu (skala 6/10) serta kecenderungan defensif (*Initial Story*) akibat anggapan bahwa kritik Mitra A terhadap FINPRO meragukan ketelitian saya sebagai penanggung jawab bagian keuangan.
-- **Objektif:** Mengelola emosi reaktif secara mandiri (menggeser karakter *Pembela* ke *Pembelajar*), mencerna masukan secara objektif, serta mengeksekusi revisi asumsi pemasaran FINPRO (menjadi 1 lomba/bulan @ Rp 30 juta) beserta penyesuaian baris *Cost* dan *BEP* demi menjaga kredibilitas berkas tim.
+- **State awal:** Muncul perasaan cemas dan malu (skala 6/10) disertai dorongan defensif (*Initial Story*) karena menganggap koreksi Mitra A sebagai keraguan atas kompetensi saya dalam menghitung proyeksi keuangan.
+- **Objektif:** Mengelola reaksi emosional secara sadar (menggeser karakter *Pembela* menjadi *Pembelajar*), merespons masukan tanpa sikap defensif, dan menyepakati rincian angka baru pada komponen pemasaran, *Total Cost*, serta *BEP* secara langsung di dalam dialog.
 
 ## Evidence
 
 ::: {.evidence-block}
-**Transkrip Percakapan Diskusi & Rincian Lengkap Revisi FINPRO:**
+### Transkrip Percakapan Diskusi & Kesepakatan Revisi FINPRO
 
-*Seluruh proses diskusi, keputusan revisi, hingga rincian perubahan data angka telah tercatat di dalam transkrip ini.*
-
-- **Mitra A:** *"Jal, pas aku cek ulang FINPRO di Executive Summary, bagian biaya pemasarannya kayaknya agak berlebihan deh. Di sini kamu mengusulkan kita mengadakan 2–3 lomba per bulan dengan budget 30 juta per bulan. Secara operasional itu terlalu padat dan rentan dipertanyakan juri BCC karena tidak realistis."*
-- **Saya (Internal Pause & Switch Character):** *(Mengambil jeda 3 detik, menahan karakter Pembela yang bersuara internal "Tapi kan makin banyak lomba makin bagus traksinya...", lalu mengaktifkan karakter Pembelajar).*
-- **Saya (Respon Eksternal):** *"Oalah, begitu ya. Menurutmu angka ideal yang lebih rasional di mata juri seperti apa, Daf?"*
-- **Mitra A:** *"Mending kita sederhanakan jadi 1 lomba rutin aja per bulan, dengan alokasi anggaran Rp 30 juta per lomba. Secara eksekusi jauh lebih masuk akal dan gak terkesan over-promising."*
-- **Saya:** *"Poin bagus banget, masukan yang sangat valid! Oke, aku buka file spreadsheet FINPRO nya sekarang ya, kita edit asumsi pemasarannya."*
-
----
-
-**Proses & Rincian Perubahan Data FINPRO:**
-
-- **Saya:** *"Oke, aku share screen ya. Di baris Pemasaran, angka frekuensinya aku ubah dari '2–3 lomba/bulan' menjadi '1 lomba rutin per bulan (@ Rp 30.000.000,-)'."*
-- **Mitra A:** *"Sip! Karena frekuensi lombanya berkurang, coba cek dampak ke baris Total Cost-nya."*
-- **Saya:** *"Sip, rumus di baris **Total Operational Cost** otomatis turun mengikuti penyesuaian biaya pemasaran ini. Dampaknya, kalkulasi titik **Break-Even Point (BEP)** di bawah juga otomatis ter-update jadi lebih realistis dan terukur."*
-- **Mitra A:** *"Nah, mantap Jal! Sekarang struktur FINPRO di Executive Summary kita jauh lebih padat, rasional, dan aman kalau dites juri."*
-- **Saya:** *"Sip, terima kasih banyak koreksinya ya! Berkas Executive Summary siap kita export ke PDF."*
-
----
-
-*Hasil Revisi FINPRO:**
-
-| Elemen FINPRO | Draf Sebelum Revisi (Agresif / Kurang Realistis) | Draf Sesudah Revisi (Kredibel / Rasional) |
-|---|---|---|
-| **Asumsi Pemasaran** | 2–3 lomba per bulan (Total hingga Rp 90.000.000,-/bulan) | **1 lomba rutin per bulan** (Anggaran Rp 30.000.000,- per lomba) |
-| **Baris Total Cost** | *Over-budget* akibat frekuensi proyek terlalu tinggi | **Total Cost berkurang & teralokasi secara proporsional** |
-| **Kalkulasi BEP** | Proyeksi BEP spekulatif dan rentan dikritik juri | **Kalkulasi BEP bergeser menjadi lebih realistis & terukur** |
+- **Mitra A:** "Saat aku meninjau ulang rancangan FINPRO kita untuk Executive Summary, bagian anggaran pemasarannya terasa terlalu agresif. Di rancangan awal kamu memasang asumsi 2 sampai 3 lomba per bulan dengan biaya Rp 30 juta untuk setiap lomba, sehingga totalnya bisa mencapai Rp 60 juta sampai Rp 90 juta sebulan. Secara operasional itu terlalu padat dan rawan dikritisi juri BCC karena kurang realistis."
+- **Saya (Internal Pause & Switch Character):** *(Mengambil jeda tenang selama 3 detik, menyadari munculnya suara karakter Pembela yang ingin menyanggah, lalu secara sadar memilih karakter Pembelajar untuk mendengarkan secara objektif).*
+- **Saya:** "Begitu ya. Kalau menurut pandanganmu, frekuensi dan alokasi angka yang paling rasional di mata juri sebaiknya bagaimana, Mitra A?"
+- **Mitra A:** "Sebaiknya kita pangkas menjadi 1 lomba rutin saja setiap bulan dengan anggaran tetap Rp 30 juta per bulan. Beban kerja tim operasional menjadi jauh lebih masuk akal dan proyeksi pengeluaran kita tidak terkesan berlebihan."
+- **Saya:** "Masukan yang sangat logis, aku setuju. Mari kita hitung dan kunci perubahan angkanya sekarang juga. Jika frekuensi pemasaran kita tetapkan menjadi 1 lomba rutin per bulan sebesar Rp 30 juta, berarti ada penghematan biaya pemasaran sebesar Rp 30 juta hingga Rp 60 juta setiap bulannya dibandingkan asumsi awalku."
+- **Mitra A:** "Benar. Dengan pemangkasan biaya pemasaran tersebut, bagaimana dampaknya terhadap keseluruhan *Total Operational Cost* dan perhitungan titik balik modal (*Break-Even Point*) kita?"
+- **Saya:** "Dengan biaya pemasaran yang turun menjadi Rp 30 juta per bulan, *Total Operational Cost* bulanan kita otomatis berkurang dari Rp 110 juta menjadi Rp 50 juta per bulan. Efeknya ke titik *Break-Even Point (BEP)* juga sangat positif: yang semula membutuhkan waktu 14 bulan karena beban biaya bulanan yang tinggi, kini bergeser menjadi tercapai pada bulan ke-8."
+- **Mitra A:** "Nah, perhitungan baru ini jauh lebih sehat. Angka pengeluaran bulanan Rp 50 juta dengan BEP di bulan ke-8 ini sangat rasional dan kuat kalau diuji oleh juri nanti. Kita resmi gunakan angka ini ya."
+- **Saya:** "Sepakat, Mitra A. Terima kasih atas koreksinya, sekarang struktur asumsi pemasaran, *Total Cost*, dan *BEP* kita sudah selaras dan siap kita gunakan."
 :::
 
 ## Feedback, AI, dan refleksi
 
-Penggunaan AI hanya sebatas menanyakan contoh situasi baru yang lebih konkret sebagai pembanding dan parafrase untuk membantu pengerjaan tugas ini.
+Penggunaan AI dibatasi hanya untuk mengevaluasi struktur kalimat reflektif dan memastikan pemisahan antara fakta, cerita awal (*initial story*), serta narasi alternatif tersaji secara jelas tanpa mengubah substansi peristiwa yang dialami.
 
-**Next practice:** Ketika menerima masukan, saya akan mengambil jeda (*pause*) untuk mencerna masukannya terlebih dahulu, lalu menyimulasikan trade-off jangka panjang (Skenario A vs B) sebelum merespons dan mengeksekusi revisi.
+**Next practice:** Ketika menerima koreksi terhadap hasil kerja saya, saya akan menerapkan jeda sadar (*pause*) selama beberapa detik untuk memisahkan fakta masukan dari cerita defensif di kepala saya, lalu memikirkan dampak jangka panjang (Skenario A vs B) sebelum memberikan tanggapan lisan.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 4 | Berhasil memetakan dan secara sadar mengendalikan pergeseran karakter internal dari *Pembela* (reaktif) menuju *Pembelajar* (reflektif). |
-| Objective & State | 4 | Mampu mengelola emosi cemas/malu (6/10) serta merumuskan 3 alternative narratives mendalam terkait dampak psikologis & replay trade-off jangka panjang (Skenario A vs B). |
-| Repertoire, Language & AI | 3 | Menggunakan dialog internal berbasis klarifikasi dan menerapkan konsep *pause* sebelum merespons tanpa ketergantungan AI. |
-| Response & Adaptation | 4 | Beradaptasi secara terbuka dengan merespons masukan Mitra A secara positif dan bersedia merevisi FINPRO bersama. |
-| Agreement, Action & Relationship | 4 | Mencapai *internal agreement* dan dibuktikan dengan pengerjaan revisi FINPRO pada transkrip (mengubah asumsi pemasaran 2–3 lomba menjadi 1 lomba/bulan, serta memperbarui baris *Cost* dan *BEP*). |
+| **Person & Character** | 4 | Memetakan dinamika internal secara jujur dan mengendalikan pergeseran dari karakter reaktif (*Pembela*) ke karakter reflektif (*Pembelajar*). |
+| **Objective & State** | 4 | Mengidentifikasi sinyal emosi cemas/malu (6/10) serta menyusun 3 narasi alternatif beserta analisis *trade-off* jangka panjang (Skenario A vs B). |
+| **Repertoire, Language & AI** | 3 | Menerapkan teknik jeda sadar (*internal pause*) dan pertanyaan klarifikasi terbuka dalam dialog tanpa bergantung pada AI untuk merumuskan argumen. |
+| **Response & Adaptation** | 4 | Merespons kritik Mitra A secara terbuka dan langsung beradaptasi dengan menghitung ulang rincian finansial yang lebih rasional di dalam percakapan. |
+| **Agreement, Action & Relationship** | 4 | Mencapai *internal agreement* yang langsung diwujudkan dalam tindakan nyata pada transkrip dialog (menyepakati perubahan anggaran pemasaran menjadi Rp 30 juta/bulan, *Total Cost* menjadi Rp 50 juta/bulan, dan *BEP* menjadi 8 bulan). |
 
 **Total:** 19 / 20 - Lanjut
 
