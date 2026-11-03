@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="id" xml:lang="id"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.20">
+<meta name="generator" content="quarto-1.11.9">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -42,14 +42,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="../assets/logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/scrollable-regions/scrollable-regions.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-17888a1159294d3eb470f19f6f52f5a5.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-2e0feaecd26cacc4b809f61e2e9b035a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-3267b06d3e331ecc483c746c0c4f4d40.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,14 +80,43 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
-<body class="nav-sidebar docked nav-fixed quarto-light">
+<body class="nav-sidebar docked nav-fixed quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark" aria-label="Situs web">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
@@ -97,8 +127,7 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Portfolio KIPP-2</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Mencari"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Alihkan navigasi" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Alihkan navigasi" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -145,15 +174,16 @@ ul.task-list li input[type="checkbox"] {
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
 </div>
+            <div id="quarto-search" class="" title="Mencari"></div>
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
+  <nav class="quarto-secondary-nav" aria-label="Bilah alat">
     <div class="container-fluid d-flex">
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alihkan bilah sisi" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../portfolio/week-09.html">Desire-State Communication</a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alihkan bilah sisi" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <nav class="quarto-page-breadcrumbs" aria-label="Jalur"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../portfolio/week-09.html">Desire-State Communication</a></li></ol></nav>
+        <a class="flex-grow-1" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
   </nav>
@@ -161,7 +191,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto" aria-label="Seksi">
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
@@ -272,14 +302,19 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
+        <nav id="TOC" role="doc-toc" aria-labelledby="toc-title" class="toc-active">
     <h2 id="toc-title">Di halaman ini</h2>
    
   <ul>
   <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi target</a></li>
   <li><a href="#evidence-wajib" id="toc-evidence-wajib" class="nav-link" data-scroll-target="#evidence-wajib">Evidence wajib</a></li>
+  <li><a href="#current-dan-desired-state" id="toc-current-dan-desired-state" class="nav-link" data-scroll-target="#current-dan-desired-state">Current dan desired state</a></li>
+  <li><a href="#featurebenefitvalueoutcome-chain" id="toc-featurebenefitvalueoutcome-chain" class="nav-link" data-scroll-target="#featurebenefitvalueoutcome-chain">Feature–benefit–value–outcome chain</a></li>
   <li><a href="#konteks-performance" id="toc-konteks-performance" class="nav-link" data-scroll-target="#konteks-performance">Konteks performance</a></li>
-  <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a></li>
+  <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a>
+  <ul class="collapse">
+  <li><a href="#transkrip-percakapan-diskusi-sistem-bundle-bunga-pengembangan-website" id="toc-transkrip-percakapan-diskusi-sistem-bundle-bunga-pengembangan-website" class="nav-link" data-scroll-target="#transkrip-percakapan-diskusi-sistem-bundle-bunga-pengembangan-website">Transkrip Percakapan Diskusi Sistem Bundle Bunga &amp; Pengembangan Website</a></li>
+  </ul></li>
   <li><a href="#analisis-komunikasi" id="toc-analisis-komunikasi" class="nav-link" data-scroll-target="#analisis-komunikasi">Analisis komunikasi</a></li>
   <li><a href="#penggunaan-ai" id="toc-penggunaan-ai" class="nav-link" data-scroll-target="#penggunaan-ai">Penggunaan AI</a></li>
   <li><a href="#feedback-dan-tindak-lanjut" id="toc-feedback-dan-tindak-lanjut" class="nav-link" data-scroll-target="#feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</a></li>
@@ -291,7 +326,7 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content" tabindex="-1">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -332,7 +367,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Feature–benefit–value–outcome chain.</li>
 <li>Risk, evidence threshold, response, dan adaptation.</li>
 </ul>
-<div class="callout callout-style-default callout-tip callout-titled" title="Lihat contoh pengisian">
+<div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -346,21 +381,83 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
+<section id="current-dan-desired-state" class="level2">
+<h2 class="anchored" data-anchor-id="current-dan-desired-state">Current dan desired state</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Elemen</th>
+<th>Rumusan target (Mitra G), bukan asumsi pribadi</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Current state</td>
+<td>Harga paket <em>bundle</em> bunga berbeda (lebih hemat) dibandingkan harga bunga satuan; jika web hanya mengandalkan hitungan otomatis dari kelipatan bunga satuan, pembeli tidak sadar ada paket hemat dan tim perangkai bingung membedakan pesanan satuan dengan pesanan satu buket <em>bundle</em></td>
+</tr>
+<tr class="even">
+<td>Desired state</td>
+<td>Pembeli dapat memilih opsi paket <em>bundle</em> 5 bunga atau 10 bunga secara langsung sejak awal di website, sekaligus bebas mengustomisasi kombinasi warna bunga di dalam paket tersebut dengan harga <em>bundle</em> yang sudah pasti</td>
+</tr>
+<tr class="odd">
+<td>Value</td>
+<td>Kejelasan pilihan paket bagi pembeli untuk mendorong pembelian jumlah banyak, serta ketepatan instruksi kombinasi warna bagi tim perangkai bunga tanpa perlu konfirmasi ulang lewat pesan singkat</td>
+</tr>
+<tr class="even">
+<td>Acceptable risk</td>
+<td>Penambahan waktu pengembangan kode form kustomisasi warna selama satu malam dan uji coba internal pada 3 skenario kombinasi warna sebelum rilis</td>
+</tr>
+<tr class="odd">
+<td>Evidence threshold</td>
+<td>Total jumlah tangkai warna yang dipilih pembeli terkunci otomatis tepat di angka 5 atau 10 tangkai, harga tertera sesuai tarif <em>bundle</em>, dan rincian warna tercatat jelas di satu baris data pesanan</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="featurebenefitvalueoutcome-chain" class="level2">
+<h2 class="anchored" data-anchor-id="featurebenefitvalueoutcome-chain">Feature–benefit–value–outcome chain</h2>
+<p><code>Opsi kartu produk Bundle 5 Bunga &amp; 10 Bunga dengan sub-pilihan kustomisasi warna</code> <span class="math inline">\(\rightarrow\)</span> pembeli langsung melihat selisih harga hemat dan memilih komposisi warna sesuai kuota paket <span class="math inline">\(\rightarrow\)</span> data pesanan mencatat jenis <em>bundle</em> beserta rincian warna tangkai secara spesifik <span class="math inline">\(\rightarrow\)</span> tim produksi merangkai buket tanpa salah hitung harga maupun warna <span class="math inline">\(\rightarrow\)</span> proses pemesanan wisuda berjalan lancar dan pengembangan website dapat langsung dilanjutkan ke tahap penyelesaian.</p>
+<p>Setiap tahap pada rantai di atas disajikan sebagai hipotesis kerja yang diuji bersama Mitra G, bukan janji mutlak tanpa batasan.</p>
+<hr>
+</section>
 <section id="konteks-performance" class="level2">
 <h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
-<p><strong>Tanggal dan setting:</strong> Ganti dengan tanggal, tempat, dan bentuk kegiatan.</p>
-<p><strong>Persons dan relationship:</strong> Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.</p>
-<p><strong>Objective dan initial state:</strong> Nyatakan perubahan yang ingin dicapai serta evidence state awal.</p>
+<p><strong>Tanggal dan setting:</strong> 1 Oktober 2026 (Malam hari), sesi diskusi perancangan alur pemesanan produk bunga pada website di ruang sekretariat divisi.</p>
+<p><strong>Persons dan relationship:</strong> Saya (Staf Desain &amp; Web Developer GCORP) dan Mitra G (Rekan Tim Produk &amp; Pengembang GCORP). Hubungan bersifat rekan kerja satu divisi yang setara dan kolaboratif.</p>
+<p><strong>Objective dan initial state:</strong> - <strong>Objective:</strong> Membangun <em>Desire</em> (keinginan berkomitmen dengan menimbang manfaat, beban kerja, dan risiko secara rasional) bersama Mitra G terkait mekanisme pemilihan <em>bundle</em> bunga di website, serta menyepakati langkah kelanjutan pengembangan websitenya. - <strong>Initial State:</strong> Mitra G berada pada tahap <em>Interest</em> untuk memasukkan produk bunga ke dalam sistem pemesanan web, namun masih menimbang skema terbaik untuk membedakan harga <em>bundle</em> dengan harga bunga satuan.</p>
+<hr>
 </section>
 <section id="evidence" class="level2">
 <h2 class="anchored" data-anchor-id="evidence">Evidence</h2>
-<div class="evidence-block">
-<p>Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.</p>
-</div>
+<section id="transkrip-percakapan-diskusi-sistem-bundle-bunga-pengembangan-website" class="level3 evidence-block">
+<h3 class="anchored" data-anchor-id="transkrip-percakapan-diskusi-sistem-bundle-bunga-pengembangan-website">Transkrip Percakapan Diskusi Sistem Bundle Bunga &amp; Pengembangan Website</h3>
+<ul>
+<li><strong>Saya:</strong> “Halo Mitra G, untuk melanjutkan pengembangan website pemesanan wisuda kita malam ini, saya ingin mendiskusikan alur pemilihan produk bunga. Karena harga <em>bundle</em> bunga ini lebih murah dibandingkan beli bunga satuan, awalnya saya berencana membuat sistem web yang menghitung potongan harga otomatis setiap kali pembeli memasukkan jumlah bunga kelipatan 5 atau 10 pada menu satuan. Sebelum saya terapkan, hasil akhir seperti apa yang sebenarnya paling kamu harapkan dari sistem pemilihan bunga ini?”</li>
+<li><strong>Mitra G:</strong> “Kalau sistemnya cuma menghitung otomatis dari kelipatan bunga satuan, pembeli yang baru buka web tidak akan langsung sadar kalau kita punya promo paket <em>bundle</em> 5 bunga dan 10 bunga. Selain itu, kalau mereka beli 5 tangkai lewat menu satuan, tim perangkai kita bakal bingung apakah itu minta dijadikan satu buket <em>bundle</em> atau 5 tangkai terpisah. Saya ingin sejak awal ada opsi pilihan <em>Bundle 5 Bunga</em> dan <em>Bundle 10 Bunga</em> secara langsung, dan di dalamnya pembeli bisa bebas kustomisasi warna bunganya.”</li>
+<li><strong>Saya:</strong> “Berarti meskipun hitungan otomatis dari kelipatan satuan itu lebih ringkas secara kode program, solusi itu tetap kurang tepat buat kita karena menyembunyikan daya tarik paket <em>bundle</em> dan menyulitkan pembacaan pesanan untuk tim perangkai?”</li>
+<li><strong>Mitra G:</strong> “Betul sekali. Kalau opsinya langsung dipisah jadi paket <em>Bundle 5 Bunga</em> dan <em>Bundle 10 Bunga</em>, harganya langsung jelas sejak awal dan pembeli tertarik beli banyak karena bisa pilih kombinasi warna sendiri.”</li>
+<li><strong>Saya:</strong> “Usulan yang sangat tepat, saya tangkap kebutuhannya. Kalau begitu, saya ubah rancangan alur produknya mengikuti usulanmu: di halaman katalog kita tampilkan langsung kartu produk <em>Bundle 5 Bunga</em> dan <em>Bundle 10 Bunga</em> terpisah dari bunga satuan. Saat pembeli memilih salah satu <em>bundle</em>, akan muncul fitur pemilih jumlah untuk tiap warna bunga—misalnya merah, putih, atau merah muda—hingga totalnya pas 5 atau 10 tangkai. Sebagai pijakan bukti, logika pembatas kuota angka seperti ini sudah pernah saya terapkan pada form pemesanan paket tahun lalu dan berhasil mencegah perhitungan harga yang meleset.”</li>
+<li><strong>Mitra G:</strong> “Nah, alur seperti itu jauh lebih jelas buat pembeli maupun tim produksi. Tapi kalau pembeli bebas menentukan jumlah warna di dalam <em>bundle</em>, apa risiko atau kendala teknis yang mungkin muncul saat mereka mengisi form?”</li>
+<li><strong>Saya:</strong> “Risiko utamanya adalah pembeli menekan tombol pesan saat jumlah warna yang dipilih baru 3 tangkai atau justru kelebihan jadi 6 tangkai pada <em>Bundle 5 Bunga</em>, atau mereka memilih warna yang stoknya sedang habis. Sebagai batas pengaman, tombol simpan pesanan akan saya kunci otomatis dan baru bisa ditekan jika total tangkai warna yang dipilih sudah tepat berjumlah 5 atau 10 sesuai paketnya. Namun keterbatasannya, pengaturan stok per warna tetap harus diperbarui secara manual oleh admin jika ada warna bunga yang habis di tengah jalan.”</li>
+<li><strong>Mitra G:</strong> “Penguncian tombol sampai jumlah tangkainya pas 5 atau 10 itu sudah sangat aman. Untuk stok warna manual tidak masalah, nanti admin produk yang memantau. Kira-kira butuh berapa lama untuk menerapkan alur <em>bundle</em> dan kustomisasi warna ini di web?”</li>
+<li><strong>Saya:</strong> “Saya membutuhkan waktu sekitar dua jam malam ini untuk menyusun kode komponen pilihan <em>bundle</em> beserta validasi kuota warnanya. Saya tidak ingin langsung menganggap fitur ini sempurna sebelum kita coba sendiri. Apakah kamu setuju jika saya lanjut mengembangkan bagian ini sekarang, lalu kita lakukan pengujian 3 skenario kombinasi warna bersama sebelum disahkan ke halaman utama?”</li>
+<li><strong>Mitra G:</strong> “Setuju banget. Silakan lanjut kembangkan websitenya dengan opsi <em>bundle</em> langsung dan kustomisasi warna itu, nanti begitu komponennya selesai langsung kita uji coba 3 skenarionya malam ini juga.”</li>
+<li><strong>Saya:</strong> “Siap, saya langsung lanjutkan pengerjaan kode websitenya sekarang.”</li>
+</ul>
+</section>
+<hr>
 </section>
 <section id="analisis-komunikasi" class="level2">
 <h2 class="anchored" data-anchor-id="analisis-komunikasi">Analisis komunikasi</h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Elemen</th>
@@ -369,52 +466,59 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
-<td>Person &amp; character</td>
-<td>Ganti dengan analisis Anda.</td>
+<td><strong>Person &amp; character</strong></td>
+<td>Menggali <em>desired state</em> berdasarkan sudut pandang Mitra G yang memikirkan daya tarik visual paket bagi pembeli dan kejelasan instruksi merangkai bagi tim produksi, bukan memaksakan kemudahan penulisan kode semata.</td>
 </tr>
 <tr class="even">
-<td>Objective &amp; state</td>
-<td>Ganti dengan analisis Anda.</td>
+<td><strong>Objective &amp; state</strong></td>
+<td>Menggerakkan Mitra G menuju tahap <em>Desire</em> dan komitmen aksi dengan memetakan secara jernih kondisi saat ini, hasil masa depan, pengorbanan waktu pengerjaan (2 jam), serta ambang bukti pengujian.</td>
 </tr>
 <tr class="odd">
-<td>Repertoire &amp; language</td>
-<td>Ganti dengan analisis Anda.</td>
+<td><strong>Repertoire &amp; language</strong></td>
+<td>Menyampaikan <em>Feature–Benefit–Value–Outcome Chain</em> secara logis, menggunakan <em>Tangga Bukti</em> (penjelasan mekanisme sebab-akibat dan referensi keberhasilan logika serupa), serta mengakui <em>honest limits</em> (pembaruan stok warna masih manual).</td>
 </tr>
 <tr class="even">
-<td>Response &amp; adaptation</td>
-<td>Ganti dengan analisis Anda.</td>
+<td><strong>Response &amp; adaptation</strong></td>
+<td>Menerima koreksi Mitra G yang menolak skema hitung otomatis kelipatan satuan, lalu mengadaptasi rancangan menjadi opsi paket <em>Bundle 5 Bunga</em> dan <em>10 Bunga</em> sejak awal yang dilengkapi pengunci kuota kustomisasi warna.</td>
 </tr>
 <tr class="odd">
-<td>Agreement/action</td>
-<td>Ganti dengan analisis Anda.</td>
+<td><strong>Agreement/action</strong></td>
+<td>Menyepakati kelanjutan pengembangan website malam itu juga selama dua jam, diikuti pengujian 3 skenario kombinasi warna sebagai syarat pengesahan fitur.</td>
 </tr>
 <tr class="even">
-<td>Relationship outcome</td>
-<td>Ganti dengan analisis Anda.</td>
+<td><strong>Relationship outcome</strong></td>
+<td>Menjaga kolaborasi yang suportif dan setara dengan menghargai usulan desain produk dari Mitra G serta transparansi batasan teknis.</td>
 </tr>
 </tbody>
 </table>
+<hr>
 </section>
 <section id="penggunaan-ai" class="level2">
 <h2 class="anchored" data-anchor-id="penggunaan-ai">Penggunaan AI</h2>
-<p>Nyatakan <code>Tidak menggunakan AI</code> atau jelaskan:</p>
 <ul>
-<li>alat dan peran AI;</li>
-<li>prompt atau instruksi penting;</li>
-<li>bagian output yang digunakan, diubah, atau ditolak;</li>
-<li>pemeriksaan accuracy, privacy, dan authority;</li>
-<li>apa yang tetap Anda pelajari sebagai manusia.</li>
+<li><strong>Alat dan peran AI:</strong> Gemini digunakan untuk meninjau kerangka logika pada fitur pemilihan <em>bundle</em> bunga dan membantu penyusunan portofolio ini agar lebih rapih.</li>
+<li><strong>Prompt penting:</strong> &gt; “Bantu aku menyusun portofolio ini berdasarkan konteks kejadian”</li>
+<li><strong>Bagian output yang diubah/ditolak:</strong> AI sempat menyarankan penambahan fitur visual tambahan saat pembeli memilih warna. Saran tersebut ditolak karena terlalu rumit, tidak sesuai dengan ketersediaan waktu pengembangan, dan berisiko memperlambat pemuatan halaman web bagi pembeli.</li>
+<li><strong>Pemeriksaan accuracy, privacy, dan authority:</strong> Seluruh detail mengenai perbedaan harga <em>bundle</em> dan bunga satuan, opsi 5 dan 10 bunga, serta kustomisasi warna ditulis sesuai diskusi nyata, dengan nama rekan disamarkan sebagai Mitra G.</li>
+<li><strong>Apa yang tetap dipelajari sebagai manusia:</strong> Kesadaran untuk melepaskan rancangan teknis awal (hitungan kelipatan otomatis) ketika rekan kerja menunjukkan bahwa opsi paket langsung jauh lebih bernilai bagi pengalaman pembeli dan kelancaran tim operasional.</li>
 </ul>
+<hr>
 </section>
 <section id="feedback-dan-tindak-lanjut" class="level2">
 <h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
-<p><strong>Feedback yang diterima:</strong> Ganti dengan kutipan atau ringkasan berbasis evidence.</p>
-<p><strong>Adaptation/replay:</strong> Jelaskan apa yang Anda ubah dan response setelah perubahan.</p>
-<p><strong>Next practice:</strong> Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.</p>
+<p><strong>Feedback yang diterima:</strong> &gt; <em>“Enaknya diskusi sama kamu itu kamu gak ngotot mempertahankan cara hitungan otomatis yang kamu pikirkan di awal. Begitu aku usul pakai opsi bundle 5 dan 10 bunga langsung plus kustomisasi warna, kamu langsung tangkap maksudnya dan bahkan kepikiran bikin pengunci jumlah tangkai biar pembeli gak salah isi.”</em></p>
+<p><strong>Adaptation/replay:</strong> Beralih dari pendekatan berbasis kalkulasi diskon otomatis di belakang layar menjadi penyediaan kartu opsi <em>bundle</em> eksplisit di awal halaman dengan validasi kuota warna bunga.</p>
+<p><strong>Next practice:</strong> Menyelesaikan kode komponen kustomisasi warna untuk <em>Bundle 5 Bunga</em> dan <em>Bundle 10 Bunga</em>, lalu memandu pengujian 3 skenario input bersama Mitra G.</p>
+<hr>
 </section>
 <section id="self-assessment" class="level2">
 <h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Dimensi</th>
@@ -424,33 +528,33 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
-<td>Person &amp; Character</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td><strong>Person &amp; Character</strong></td>
+<td style="text-align: right;">4</td>
+<td>Merumuskan <em>desired state</em> menggunakan perspektif dan kebutuhan Mitra G (kejelasan opsi <em>bundle</em> bagi pembeli dan rincian warna bagi perangkai).</td>
 </tr>
 <tr class="even">
-<td>Objective &amp; State</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td><strong>Objective &amp; State</strong></td>
+<td style="text-align: right;">4</td>
+<td>Menetapkan <em>current state</em>, <em>desired state</em>, <em>acceptable risk</em>, dan <em>evidence threshold</em> secara spesifik di dalam dialog.</td>
 </tr>
 <tr class="odd">
-<td>Repertoire, Language &amp; AI</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td><strong>Repertoire, Language &amp; AI</strong></td>
+<td style="text-align: right;">4</td>
+<td>Menyajikan rantai nilai sebagai hipotesis yang diuji, menyatakan <em>honest limits</em> terkait stok warna manual, dan menolak usulan fitur berlebihan dari AI.</td>
 </tr>
 <tr class="even">
-<td>Response &amp; Adaptation</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td><strong>Response &amp; Adaptation</strong></td>
+<td style="text-align: right;">4</td>
+<td>Mengubah arsitektur pemilihan produk dari hitungan kelipatan otomatis menjadi opsi <em>bundle</em> 5 dan 10 bunga sejak awal dengan kustomisasi warna sesuai usulan Mitra G.</td>
 </tr>
 <tr class="odd">
-<td>Agreement, Action &amp; Relationship</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td><strong>Agreement, Action &amp; Relationship</strong></td>
+<td style="text-align: right;">3</td>
+<td>Menyepakati kelanjutan pengembangan website selama dua jam dan pengujian 3 skenario kombinasi warna tanpa paksaan.</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Total:</strong> — / 20</p>
+<p><strong>Total:</strong> 19 / 20 - Lanjut</p>
 <section id="assessment-dosen" class="level3 assessor-only">
 <h3 class="anchored" data-anchor-id="assessment-dosen">Assessment dosen</h3>
 <p><strong>Skor:</strong> — / 20<br>
@@ -541,7 +645,8 @@ ul.task-list li input[type="checkbox"] {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
       // Inspect non-navigation links and adorn them if external
-     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      window.quartoDecorateExternalLinks = function (root) {
+     var links = (root || window.document).querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
       for (var i=0; i<links.length; i++) {
         const link = links[i];
         if (!isInternal(link.href)) {
@@ -550,8 +655,69 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+          if (!link.classList.contains('no-external-icon')) {
+          }
         }
       }
+      };
+      window.quartoDecorateExternalLinks(window.document);
+    // Esc closes the popup (WCAG 1.4.13) and focus leaving both trigger and
+    // popup closes it (WCAG 2.4.11); tippy handles neither for interactive popups.
+    const hideOnEscAndFocusOut = {
+      name: 'hideOnEscAndFocusOut',
+      defaultValue: true,
+      fn(instance) {
+        const dismiss = () => {
+          // A show scheduled by the trigger delay would otherwise reopen it
+          instance.clearDelayTimeouts();
+          instance.hide();
+        };
+        const onKeyDown = (event) => {
+          if (event.key !== 'Escape') {
+            return;
+          }
+          // Keep Esc from also reaching page handlers (e.g. reveal.js overview),
+          // except an open reveal.js slide menu, which Esc should close too.
+          // The menu handles keys only when its keyboard option is on.
+          const menuHandlesEsc = window.Reveal?.getPlugin?.('menu')?.isOpen() &&
+            window.Reveal.getConfig().menu?.keyboard !== false;
+          if (!menuHandlesEsc) {
+            event.stopPropagation();
+          }
+          if (instance.popper.contains(window.document.activeElement)) {
+            // Disabled while refocusing so the focus trigger does not reopen it
+            instance.disable();
+            instance.reference.focus();
+            instance.enable();
+          }
+          dismiss();
+        };
+        const onFocusOut = (event) => {
+          const target = event.relatedTarget;
+          if (target && !instance.reference.contains(target) &&
+              !instance.popper.contains(target)) {
+            dismiss();
+          }
+        };
+        // On the trigger too: a click trigger (code-annotations: select) has no
+        // blur handling. Attached for the instance's lifetime so leaving the
+        // trigger also cancels a show still pending on the trigger delay.
+        instance.reference.addEventListener('focusout', onFocusOut);
+        return {
+          onShow() {
+            window.document.addEventListener('keydown', onKeyDown, true);
+            instance.popper.addEventListener('focusout', onFocusOut);
+          },
+          onHide() {
+            window.document.removeEventListener('keydown', onKeyDown, true);
+            instance.popper.removeEventListener('focusout', onFocusOut);
+          },
+          onDestroy() {
+            instance.reference.removeEventListener('focusout', onFocusOut);
+          },
+        };
+      },
+    };
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
       const config = {
         allowHTML: true,
@@ -565,6 +731,7 @@ ul.task-list li input[type="checkbox"] {
         interactiveBorder: 10,
         theme: 'quarto',
         placement: 'bottom-start',
+        plugins: [hideOnEscAndFocusOut],
       };
       if (contentFn) {
         config.content = contentFn;
@@ -727,44 +894,54 @@ ul.task-list li input[type="checkbox"] {
           const lineIds = lines.map((line) => {
             return targetCell + "-" + line;
           })
-          let top = null;
-          let height = null;
-          let parent = null;
+          // Each band is positioned against its own containing block, which is
+          // not the offsetParent of the lines, so place it from client rects.
+          const placeBand = (band, firstEl, lastEl, codeBlock) => {
+            const container = band.offsetParent;
+            if (container === null) {
+              return;
+            }
+            const containerRect = container.getBoundingClientRect();
+            // Reveal.js scales slides with a transform, so convert client
+            // pixels back to the CSS pixels of the container.
+            const scale = containerRect.height / container.offsetHeight || 1;
+            const firstRect = firstEl.getBoundingClientRect();
+            const lastRect = lastEl.getBoundingClientRect();
+            const top = (firstRect.top - containerRect.top) / scale - container.clientTop + container.scrollTop;
+            const height = (lastRect.bottom - firstRect.top) / scale;
+            band.style.top = top - 2 + "px";
+            band.style.height = height + 4 + "px";
+            if (codeBlock) {
+              // Without the copy button wrapper, the containing block is wider
+              // than the code block, so span the code block explicitly.
+              const blockRect = codeBlock.getBoundingClientRect();
+              band.style.left = (blockRect.left - containerRect.left) / scale - container.clientLeft + container.scrollLeft + "px";
+              band.style.width = blockRect.width / scale + "px";
+            }
+          };
           if (lineIds.length > 0) {
-              //compute the position of the single el (top and bottom and make a div)
-              const el = window.document.getElementById(lineIds[0]);
-              top = el.offsetTop;
-              height = el.offsetHeight;
-              parent = el.parentElement.parentElement;
-            if (lineIds.length > 1) {
-              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-              height = bottom - top;
+            const el = window.document.getElementById(lineIds[0]);
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const parent = el.parentElement.parentElement;
+            // cook up a div (if necessary) and position it
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
             }
-            if (top !== null && height !== null && parent !== null) {
-              // cook up a div (if necessary) and position it 
-              let div = window.document.getElementById("code-annotation-line-highlight");
-              if (div === null) {
-                div = window.document.createElement("div");
-                div.setAttribute("id", "code-annotation-line-highlight");
-                div.style.position = 'absolute';
-                parent.appendChild(div);
-              }
-              div.style.top = top - 2 + "px";
-              div.style.height = height + 4 + "px";
-              div.style.left = 0;
-              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-              if (gutterDiv === null) {
-                gutterDiv = window.document.createElement("div");
-                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-                gutterDiv.style.position = 'absolute';
-                const codeCell = window.document.getElementById(targetCell);
-                const gutter = codeCell.querySelector('.code-annotation-gutter');
-                gutter.appendChild(gutterDiv);
-              }
-              gutterDiv.style.top = top - 2 + "px";
-              gutterDiv.style.height = height + 4 + "px";
+            placeBand(div, el, lastEl, parent.closest("div.sourceCode") || parent);
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
             }
+            placeBand(gutterDiv, el, lastEl);
             selectedAnnoteEl = annoteEl;
           }
         };
@@ -863,7 +1040,10 @@ ul.task-list li input[type="checkbox"] {
     }
   });
   </script>
-<nav class="page-navigation">
+  <script type="application/javascript">
+  window.quartoScrollableRegionsLabels = {"code":"Kode yang dapat digulir","output":"Keluaran yang dapat digulir"};
+  </script>
+<nav class="page-navigation" aria-label="Halaman">
   <div class="nav-page nav-page-previous">
       <a href="../portfolio/week-08.html" class="pagination-link" aria-label="Portfolio Minggu 8 — UTS KIPP">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Portfolio Minggu 8 — UTS KIPP</span>
